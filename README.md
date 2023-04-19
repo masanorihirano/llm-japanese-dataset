@@ -42,16 +42,18 @@ datasetsフォルダー内に，データの生成形式ごとにフォルダー
 ただし，コピーレフトについては，許容しません．(作成したモデル自体もライセンス制約がついてしまうので)
 また，商用不可も原則として不可
 
-#### 組み込み可能なライセンス
+#### `datasets` に組み込み可能なライセンス
  - MIT License
  - BSD License (2-Cluse, 3-Cluse)
  - Apache License Version 2.0
  - CC-BY
  - Unlicense
  - スクレイピングにより取得したデータを加工したもの
+
+#### `satasets-cc-by-sa` に組み込み可能なライセンス
+ - CC-BY-SA
 #### 組み込むか要検討なライセンス
  - 4-Clause BSD License (一般的でないため)
- - CC-BY-SA (このレポジトリもCC-BY-SA-3.0 にしないといけなくなる)
  
 #### 組み込み不可能なライセンス
  - GNU GPL v2

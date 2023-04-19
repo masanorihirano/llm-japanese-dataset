@@ -28,7 +28,7 @@ write_files() {
   local FILE_COUNTER=0
   while read -r line; do
     FILE_NUMBERING="000000$FILE_COUNTER"
-    FILE_NAME="${FILE_NUMBERING:-6}.json"
+    FILE_NAME="${FILE_NUMBERING: -6}.json"
     echo "writing $FILE_NAME"
     jq '.' > $FILE_NAME <<< "$line"  # array of formatted json inputs
     # jq -c '.'   > $FILE_NAME <<< "$line"   # compact array of json inputs

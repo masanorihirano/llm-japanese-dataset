@@ -32,7 +32,7 @@ def process_file(file_name):
                             continue
                         else:
                             current_description = line.replace("\n", "")
-                            if current_description != "</doc>":
+                            if current_description != "</doc>" and "(曖昧さ回避)" not in current_word:
                                 if current_id is None or current_word is None or current_description is None:
                                     raise AssertionError
                                 data.append({"curid": current_id, "instruction": "入力されたワードを説明してください。", "input": current_word, "output": current_description})

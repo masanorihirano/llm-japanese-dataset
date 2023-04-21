@@ -1,0 +1,6002 @@
+[
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は１羽の鳥が木の上を飛んでいるのを見た。",
+    "output": "I saw a bird flying over a tree.",
+    "index": "FAc_101"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "無関係の人を殺るな！",
+    "output": "Don't kill off bystanders!",
+    "index": "FAc_102"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ネズミがパンをかじった。",
+    "output": "The mice ate some of the bread.",
+    "index": "FAc_103"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は彼女の頼みをけんもほろろに断った。",
+    "output": "He flatly refused her requests for help.",
+    "index": "FAc_104"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "足のせいで、彼はテニストーナメントに参加する事は出来ないでしょう。",
+    "output": "His leg will prevent him from participating in a tennis tournament.",
+    "index": "FAc_105"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼のふるまいは世間の称賛を浴びた。",
+    "output": "His behavior won general applause.",
+    "index": "FAc_106"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "食料品商をやっている。",
+    "output": "I am in the grocery line.",
+    "index": "FAc_107"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "必ず本人が登録用紙に記入して下さい。",
+    "output": "Be sure to fill out the registration form in person.",
+    "index": "FAc_108"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼には2人の娘がいる。",
+    "output": "He has two daughters.",
+    "index": "FAc_109"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "会社の慰安旅行で箱根に行きます。",
+    "output": "My company is sending us all to Hakone this year.",
+    "index": "FAc_110"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "それらの星は肉眼で見える、まして望遠鏡ならなおさらである。",
+    "output": "You can see the stars with your naked eye, and even better through a telescope.",
+    "index": "FAc_111"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "零細小売店などは新年度には利益を上げるでしょう。",
+    "output": "Mom-and-pop stores will turn a profit in the new fiscal year.",
+    "index": "FAc_112"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は自分は無実だと断言した。",
+    "output": "She declared that she was not guilty.",
+    "index": "FAc_113"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "伊藤太郎は有罪と判決された。",
+    "output": "Taro Ito was found guilty.",
+    "index": "FAc_114"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "雑誌か新聞、いかがですか。",
+    "output": "Would you like a newspaper or magazine?",
+    "index": "FAc_115"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "式に余分の変数を加えたことによって、この実験結果は不明瞭なものになっている。",
+    "output": "The result of this experiment is obscured by the extra variables added in the formula.",
+    "index": "FAc_116"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ゴルファーはキャディーに薬を与えた。",
+    "output": "The golfer gave his caddy some medicine.",
+    "index": "FAc_117"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "田中さん一家が私を食事に招いてくれた。",
+    "output": "The Tanakas invited me to dine with them.",
+    "index": "FAc_118"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その水は５分かそのぐらいで沸騰します。",
+    "output": "The water will come to a boil in 5 minutes or so.",
+    "index": "FAc_119"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私はこの三倍の大きさの箱が欲しい。",
+    "output": "I want a box three times as large as this.",
+    "index": "FAc_120"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼が来たらあなたの伝言を伝えておきます。",
+    "output": "I'll give him your message when he comes.",
+    "index": "FAc_121"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼はガラスをふくらませて人形を作ってくれた。",
+    "output": "He blew me a glass doll.",
+    "index": "FAc_122"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私にはボランティア活動をしている友人がいる。",
+    "output": "I have a friend who works as a volunteer.",
+    "index": "FAc_123"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "最善はしばしば善の敵である。",
+    "output": "The best is often the enemy of the good.",
+    "index": "FAc_124"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は身の回りのあらゆる物に強烈な興味を持っている。",
+    "output": "She has a lively interest in everything around us.",
+    "index": "FAc_125"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ステージで踊っている人は私の叔父です。",
+    "output": "The man dancing on the stage is my uncle.",
+    "index": "FAc_126"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼はよく何もせずに日向ぼっこをしていた。",
+    "output": "He would sit in the sun doing nothing.",
+    "index": "FAc_127"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "あいつは我の強いやつだ。",
+    "output": "He is a self-willed fellow.",
+    "index": "FAc_128"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼の言うことには疑いは全くない。",
+    "output": "There is no doubt whatever about what he says.",
+    "index": "FAc_129"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼が成功したのは幸運のおかげである。",
+    "output": "He owes his success to good luck.",
+    "index": "FAc_130"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は来月退職しなければならないかもしれません。",
+    "output": "She may have to quit her job next month.",
+    "index": "FAc_131"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "二つの中から一つを選びなさい。",
+    "output": "Choose between the two.",
+    "index": "FAc_132"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "１０時きっかりに来なさい。",
+    "output": "Come at ten o'clock sharp.",
+    "index": "FAc_133"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "あいつは、まったく頭にくるやつだ。",
+    "output": "That guy really burns me up.",
+    "index": "FAc_134"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "赤いカーネーションをもう２本ください。",
+    "output": "Please give me two more of the red carnations.",
+    "index": "FAc_135"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "一日中出掛けていた。",
+    "output": "I was out all day.",
+    "index": "FAc_136"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ジムは肩幅が広い。",
+    "output": "Jim has broad shoulders.",
+    "index": "FAc_137"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "攻撃は最大の防御である。",
+    "output": "Attack is the best form of defense.",
+    "index": "FAc_138"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "秘書はウイリアム氏が電話にでられるまで、そのまま待ってくれと私に頼んだ。",
+    "output": "The secretary asked that I hold the line until Mr Williams was free to take my call.",
+    "index": "FAc_139"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は体力が衰えた。",
+    "output": "My physical power has decayed.",
+    "index": "FAc_140"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "暴漢のピストルが発射された。",
+    "output": "A ruffian's pistol went off.",
+    "index": "FAc_141"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は多くの種類のバラを栽培している。",
+    "output": "I grow many kinds of roses.",
+    "index": "FAc_142"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女の両頬が真っ赤になった。",
+    "output": "Her cheeks flamed up.",
+    "index": "FAc_143"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "君が外国語を学ぶ事は重要です。",
+    "output": "It is important for you to learn a foreign language.",
+    "index": "FAc_144"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私はいつその機械のスイッチを切ったらよいかわからなかった。",
+    "output": "I didn't know when to switch the machine off.",
+    "index": "FAc_145"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼はこの仕事を始めてから暮らし向きがよい。",
+    "output": "He has been well off since he started this job.",
+    "index": "FAc_146"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "長い間あなたには会っていません。たまには会いに来て下さい。",
+    "output": "I haven't seen you for a long time. Come and see me once in a while.",
+    "index": "FAc_147"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ちょっとした言いそこないが思いがけない結果をもたらすことが多い。",
+    "output": "A slip of tongue will often lead us to unexpected results.",
+    "index": "FAc_148"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼らは私を博士という肩書きで呼んだ。",
+    "output": "They addressed me as doctor.",
+    "index": "FAc_149"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は彼を憎んではいない、いや実際は愛している。",
+    "output": "She doesn't hate him. In fact, she loves him.",
+    "index": "FAc_150"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "軍隊では無断退出する事は許されない。",
+    "output": "In an army no man is permitted to leave without permission.",
+    "index": "FAc_151"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は石につまずいた。",
+    "output": "She tripped on the stone.",
+    "index": "FAc_152"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "今日ますます多くの人が、都市の生活よりも田舎の生活を好むようになっています。",
+    "output": "Nowadays more and more people prefer country life to city life.",
+    "index": "FAc_153"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "あの人達は新しいビルの建築に従事してきたのです。",
+    "output": "They have been working on the new building.",
+    "index": "FAc_154"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は確固たる態度をとった。",
+    "output": "He had an assured manner.",
+    "index": "FAc_155"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "医師は難しい手術についてじっくり考えた。",
+    "output": "The doctor contemplated the difficult operation.",
+    "index": "FAc_156"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "緊急の場合はこの限りではありません。",
+    "output": "This rule doesn't apply to emergencies.",
+    "index": "FAc_157"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "あなたはこの店のランチがえらくお気に入りですね。",
+    "output": "You are very fond of the lunch menu of this restaurant.",
+    "index": "FAc_158"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "みんなが犠牲者達に深く同情した。",
+    "output": "All the people felt for the victims deeply.",
+    "index": "FAc_159"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "若いときに本当の友人を見つけることは大切だ。",
+    "output": "It is important to find true friends when you are young.",
+    "index": "FAc_160"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は大阪までの帰りの航空券を持っています。",
+    "output": "I have a return ticket to Osaka.",
+    "index": "FAc_161"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私はやむなく行った。",
+    "output": "I was forced to go.",
+    "index": "FAc_162"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は舞台に返り咲いた。",
+    "output": "He has made a fine comeback on the stage.",
+    "index": "FAc_163"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "旅行者たちは海岸のホテルにとまった。",
+    "output": "The travelers stayed at a seaside hotel.",
+    "index": "FAc_164"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "今朝は向こうの山が真っ白になっている。",
+    "output": "Those mountains over there have turned white this morning.",
+    "index": "FAc_165"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼はまたとない優れた思想家である。",
+    "output": "He is as great a thinker as ever lived.",
+    "index": "FAc_166"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ボートは急流に巻き込まれた。",
+    "output": "The boat was sucked in.",
+    "index": "FAc_167"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "会議は天候に関係なく開かれるでしょう。",
+    "output": "The meeting will be held regardless of the weather.",
+    "index": "FAc_168"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "我々はその問題を立体的に調査した。",
+    "output": "We investigated the matter from all angles.",
+    "index": "FAc_169"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "決してうそをつかないと約束しませんでしたか。",
+    "output": "Didn't you promise never to tell a lie?",
+    "index": "FAc_170"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "村人は訪問客に親切でした。",
+    "output": "The villagers were kind to their visitors.",
+    "index": "FAc_171"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は君に何一つ隠しだてするつもりはない。",
+    "output": "I will keep nothing back from you.",
+    "index": "FAc_172"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は深呼吸した。",
+    "output": "He took a deep breath.",
+    "index": "FAc_173"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "コブ、今の秘書だけど、コブだけがこの事務所で彼に耐えられる人間なの。",
+    "output": "Jane Cobb, his present secretary, is the only person in the office who can stand him.",
+    "index": "FAc_174"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は新しい背広を買った。",
+    "output": "I bought a new suit of clothes.",
+    "index": "FAc_175"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私の家は駅から歩いてわずか５分の所です。",
+    "output": "My house is only five minutes' walk from the station.",
+    "index": "FAc_176"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "銀行に家を取り上げられてしまいそうなんだよ。",
+    "output": "I'm afraid the bank is going to repossess my house.",
+    "index": "FAc_177"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼の言葉には偽りが無い。",
+    "output": "He is sincere about what he says.",
+    "index": "FAc_178"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私はまだ朝食を済ませていません。",
+    "output": "I have not finished breakfast yet.",
+    "index": "FAc_179"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ちゃんと消化されるように、食べ物はしっかりとかみなさい。",
+    "output": "Chew your food well so it can be digested properly.",
+    "index": "FAc_180"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は感情を抑えた。",
+    "output": "He subdued his passions.",
+    "index": "FAc_181"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "国家はこれを構成する個人からできている。",
+    "output": "A state is made up of individuals who compose it.",
+    "index": "FAc_182"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "息子達に大学に行って、実業家になる勉強をしてもらいたいと思っていました。",
+    "output": "He wanted them to go to college and learn to be businessmen.",
+    "index": "FAc_183"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "「なんて言ってるの？」「祝詞も知らないのか？」「祝詞？」「神道の呪文のようなもん。」",
+    "output": "What is she saying? \"You don't even know 'norito'?\" \"Norito?\" \"It's something like a Shinto spell.\"",
+    "index": "FAc_184"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は妻の死後、何年も生きながらえていた。",
+    "output": "After his wife died, he lived for quite a few more years.",
+    "index": "FAc_185"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "あなたと取り引きします。",
+    "output": "I make you a deal.",
+    "index": "FAc_186"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "遅れて申し訳ありません。",
+    "output": "Please pardon me for coming late.",
+    "index": "FAc_187"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "昨日新しい上着を手に入れた。",
+    "output": "I got a new jacket yesterday.",
+    "index": "FAc_188"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は社会から疎外されていると感じた。",
+    "output": "He felt alienated from society.",
+    "index": "FAc_189"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私たちはその浜で遊んだ。",
+    "output": "We played on the beach.",
+    "index": "FAc_190"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "おじは毎朝ジョギングしていると言った。",
+    "output": "My uncle said that he jogs every morning.",
+    "index": "FAc_191"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は他人の悪口を言うのを聞かれたことはなかった。",
+    "output": "She was never heard to speak ill of others.",
+    "index": "FAc_192"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "車には一人分の空きがあった。",
+    "output": "There was room for one person in the car.",
+    "index": "FAc_193"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は是非とも目的を達成せねばならない。",
+    "output": "I have to attain my purpose at all costs.",
+    "index": "FAc_194"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "あらゆる角度から物事を見る。",
+    "output": "See things from every angle.",
+    "index": "FAc_195"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その場面はスローモーションで再生された。",
+    "output": "The scene was shown in slow motion.",
+    "index": "FAc_196"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その少女はリサイタルでのすばらしい踊りで、入賞した。",
+    "output": "The girl took the cake for her wonderful dancing at the recital.",
+    "index": "FAc_197"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "あなたが一番好きなテレビタレントは誰？",
+    "output": "Who is your favourite TV star?",
+    "index": "FAc_198"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "流産はとても辛い経験です。",
+    "output": "Miscarriage is a heart-breaking experience.",
+    "index": "FAc_199"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "もし明日雨が降れば、私はピクニックに行かない。",
+    "output": "If it rains tomorrow, I won't go on a picnic.",
+    "index": "FAc_200"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "外国にいる息子から便りがない。",
+    "output": "I haven't heard from my son who is overseas.",
+    "index": "FAc_201"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私たちは勿論サポートしますが最後に決めるのは貴方の熱意だということを覚えていてください。",
+    "output": "Obviously we will help but please remember that what decides it in the end is your zeal.",
+    "index": "FAc_202"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その晩は星ひとつもみられなかった。",
+    "output": "Not a star was to be seen that night.",
+    "index": "FAc_203"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は七時に夕食を食べる。",
+    "output": "I will eat supper at seven.",
+    "index": "FAc_204"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "だれがあなたにダンスの仕方を教えたのですか。",
+    "output": "Who taught you how to dance?",
+    "index": "FAc_205"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は空腹だったので、皿の物を遠慮なく平らげた。",
+    "output": "He was so hungry that he didn't hesitate to eat everything on the plate.",
+    "index": "FAc_206"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼らはそのお金をどう処理すべきかについて話し合った。",
+    "output": "They talked about what they should do with the money.",
+    "index": "FAc_207"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私達は２０歳になると投票権が与えられる。",
+    "output": "We are entitled to vote at the age of 20.",
+    "index": "FAc_208"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "祖父は３年前に亡くなりました。",
+    "output": "My grandfather passed away three years ago.",
+    "index": "FAc_209"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私をあなたの意志に従わせようしてもだめですよ。",
+    "output": "You can't bend me to your will.",
+    "index": "FAc_210"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "いわゆる「標準英語」とは世界中で話されている数多い方言のうちの１つにすぎない。",
+    "output": "What we call 'Standard English' is only one of the many dialects spoken all over the world.",
+    "index": "FAc_211"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は重傷だった。それで医者が呼びにやられた。",
+    "output": "He was seriously ill, and the doctor was sent for.",
+    "index": "FAc_212"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ペットのネコが昨日しんじゃったの。",
+    "output": "My pet cat died yesterday.",
+    "index": "FAc_213"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "それ以来彼は全力をあげて自分の仕事に没頭した。",
+    "output": "Since then he had put his whole soul into his work.",
+    "index": "FAc_214"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "メアリーは私が先生と対立したときに私の味方をしてくれた。",
+    "output": "Mary took sides with me against my teacher.",
+    "index": "FAc_215"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は莫大な遺産を受け継いだ。",
+    "output": "He inherited of a great fortune.",
+    "index": "FAc_216"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "遠くから見ると、この山は富士山に似ている。",
+    "output": "Seen from a distance, this mountain looks like Mt. Fuji.",
+    "index": "FAc_217"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は泳ぎがうまいのを自慢している。",
+    "output": "He boasts that he can swim well.",
+    "index": "FAc_218"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "あなたがそれを後悔する時がきますよ。",
+    "output": "The time will come when you will regret it.",
+    "index": "FAc_219"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "そんな小さなことに目くじら立てなくてもいいじゃないの。",
+    "output": "You don't have to go getting so hairy about such a small thing.",
+    "index": "FAc_220"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は一介の詩人のすぎない。",
+    "output": "He is nothing but a poet.",
+    "index": "FAc_221"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は緑色のドレスを着ている。",
+    "output": "She is in a green dress.",
+    "index": "FAc_222"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "罪人は考えを変えるよう彼に懇願した。",
+    "output": "The criminal pleaded with him to change his mind.",
+    "index": "FAc_223"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ライオンは百獣の王です。",
+    "output": "The lion is the king of beasts.",
+    "index": "FAc_224"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "只今、僕は旅立ちの日に向けて修業中です。",
+    "output": "Right now I'm training in preparation for the day we set off.",
+    "index": "FAc_225"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は親切な男だったが、その話のくどさは人をいらいらさせた。",
+    "output": "He was a very kind man, but his verbosity was exasperating.",
+    "index": "FAc_226"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼らの報告は食い違っている。",
+    "output": "Their reports don't accord.",
+    "index": "FAc_227"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私達は３時にヒルトン・ホテルにチェックインした。",
+    "output": "We checked in at the Hilton at three o'clock.",
+    "index": "FAc_228"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼らは年齢順に座った。",
+    "output": "They sat according to age.",
+    "index": "FAc_229"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私たちはたまたま同じ誕生日だ。",
+    "output": "It happens that we have the same birthday.",
+    "index": "FAc_230"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "学者の中には、アメリカ入植を西ヨーロッパの社会不安のせいにする者もいる。",
+    "output": "Some scholars ascribe the settlement of America to social unrest in Western Europe.",
+    "index": "FAc_231"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "この湖はこの地点が一番深い。",
+    "output": "This lake is deepest at this point.",
+    "index": "FAc_232"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼の決心は確固たるものだった。",
+    "output": "He was quite decided in his determination.",
+    "index": "FAc_233"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女はときどき妹にレポートを書かせる。",
+    "output": "She sometimes has her sister write her term papers.",
+    "index": "FAc_234"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼はびっくりして彼女を見つめた。",
+    "output": "He stared at her in astonishment.",
+    "index": "FAc_235"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "良い考えが彼の頭にふと浮かんだ。",
+    "output": "A good idea crossed his mind.",
+    "index": "FAc_236"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "競馬で稼ぐ！ありえないほど儲かる競馬ノウハウ集！",
+    "output": "Earn money on the races! Know-how collection on horse racing will have you raking it in!",
+    "index": "FAc_237"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "読書から楽しみを引き出すのは読者次第です。",
+    "output": "It's the reader that determines whether they extract pleasure from reading.",
+    "index": "FAc_238"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "それはどんな芝居ですか。",
+    "output": "What sort of play is it?",
+    "index": "FAc_239"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私はスポーツが得意でない。",
+    "output": "I am not good at sports.",
+    "index": "FAc_240"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女の急死で私は一時何も考えられなかった。",
+    "output": "I was numbed by her sudden death.",
+    "index": "FAc_241"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "きみはマーガリンとバターを間違えたのか。",
+    "output": "Did you mistake the margarine for butter?",
+    "index": "FAc_242"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私といっしょに来ませんか。",
+    "output": "Won't you come with me?",
+    "index": "FAc_243"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その酔っ払いは、飲み過ぎて頭がおかしくなってしまったのだ。",
+    "output": "The drunkard had too much to drink; he has gone haywire.",
+    "index": "FAc_244"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "この席からはステージが良く見えない。",
+    "output": "I can't see the stage well from this seat.",
+    "index": "FAc_245"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼が正直だなどとどうして確信できましょうか。",
+    "output": "How can we be sure of his honesty?",
+    "index": "FAc_246"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は彼らを騒がしいとたしなめた。",
+    "output": "He admonished them for being noisy.",
+    "index": "FAc_247"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女はこっそり笑って感謝の気持ちを表した。",
+    "output": "She smiled her acknowledgment.",
+    "index": "FAc_248"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "意味のある変革がなされるならば、私は政治改革に総じて賛成だ。",
+    "output": "In the main, I am in favor of political reform if meaningful changes are made.",
+    "index": "FAc_249"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "けさはあなたはとても早いですね。",
+    "output": "You are very early this morning.",
+    "index": "FAc_250"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私たちはその子どもがバスに乗るのを見た。",
+    "output": "We saw the child get on the bus.",
+    "index": "FAc_251"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は自分の生命の危険を及ぼすほどの馬鹿ではない。",
+    "output": "He isn't such a fool as to risk his life.",
+    "index": "FAc_252"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "真子がこの手紙をかいたはずはない。",
+    "output": "Mako cannot have written this letter.",
+    "index": "FAc_253"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は裁判官に慈悲を求めた。",
+    "output": "He appealed to the judge for mercy.",
+    "index": "FAc_254"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その会社にてこ入れするために数百万ドルが使われた。",
+    "output": "Millions of dollars have been spent trying to shore up the company.",
+    "index": "FAc_255"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "君は昼食にパンを食べますか。",
+    "output": "Do you have bread for lunch?",
+    "index": "FAc_256"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼の遺族は妻と娘１人である。",
+    "output": "He leaves a widow and a daughter.",
+    "index": "FAc_257"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私たちは太陽や風のようなエネルギー資源を使っています。",
+    "output": "We'll use energy sources such as the sun and wind.",
+    "index": "FAc_258"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は教育畑で育った。",
+    "output": "He has had a long teaching career.",
+    "index": "FAc_259"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ドイツ語は苦手だ。",
+    "output": "I am weak in German.",
+    "index": "FAc_260"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私達はテレビで野球の試合を見た。",
+    "output": "We watched a baseball game on television.",
+    "index": "FAc_261"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼の履歴についてはほとんど知られていない。",
+    "output": "We know little of his personal history.",
+    "index": "FAc_262"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "転勤を楽しみにしています。",
+    "output": "I'm excited about the move.",
+    "index": "FAc_263"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼らは土地を侵入者に明け渡した。",
+    "output": "They yielded their land to the invaders.",
+    "index": "FAc_264"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "指は鍵盤のあちらこちらに動きました。",
+    "output": "They moved up and down the keys.",
+    "index": "FAc_265"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "道理にかなったことなら何でもする。",
+    "output": "I will do anything within reason.",
+    "index": "FAc_266"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼の忠告のおかげで、私は試験に合格した。",
+    "output": "Thanks to his advice, I succeeded in the examination.",
+    "index": "FAc_267"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その女子のクラスはみんな弁当を持ってきた。",
+    "output": "Everyone in the girls' class brought their own lunch.",
+    "index": "FAc_268"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "そんな噂が正確かどうか疑う人もあるだろう。",
+    "output": "Some people would question the truth of such rumors.",
+    "index": "FAc_269"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "この仕事は君に任せるよ。",
+    "output": "I'll leave this work to you.",
+    "index": "FAc_270"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は街を出ていく前に彼女に会うつもりだった。",
+    "output": "He expected to have seen her before he went out of town.",
+    "index": "FAc_271"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ギターをひくのはおもしろい。",
+    "output": "Playing the guitar is fun.",
+    "index": "FAc_272"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は私たちを車で送り返してくれた。",
+    "output": "He took us back in his car.",
+    "index": "FAc_273"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は関西国際空港でトニー君を見送った。",
+    "output": "I saw Tony off at Kansai International Airport.",
+    "index": "FAc_274"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "今は松茸が旬でお安いですよ。",
+    "output": "Matsutake mushrooms are in season now so they are cheap.",
+    "index": "FAc_275"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "来たい人は誰でも歓迎する。",
+    "output": "Whoever wants to come will be welcomed.",
+    "index": "FAc_276"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "そんな途方もない話は聞いたことがない。",
+    "output": "That's the damnedest story I ever heard.",
+    "index": "FAc_277"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は以前京都を訪れたことがあります。",
+    "output": "I have visited Kyoto before.",
+    "index": "FAc_278"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "なるほどその少年は腕白だが、心はやさしい。",
+    "output": "It is true the boy is mischievous, but he is kind at heart.",
+    "index": "FAc_279"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "四十歳になって彼は昔ほど怒らない。",
+    "output": "At forty, he does not get as angry as he used to.",
+    "index": "FAc_280"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼らのうち何人が戻ってきたか、わかっていない。",
+    "output": "How many of them survived is not known.",
+    "index": "FAc_281"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "あなたの援助がなかったら、私は失敗していたでしょう。",
+    "output": "Without your help, I would have failed.",
+    "index": "FAc_282"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼はなんとなく僕に恨みをもっているようだ。",
+    "output": "I don't know why, but he seems to have it in for me.",
+    "index": "FAc_283"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼らは次から次へと水の中に飛びこんだ。",
+    "output": "They jumped into the water one after another.",
+    "index": "FAc_284"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "生徒は今週職員室に入ってはいけません。",
+    "output": "The students must not enter the teachers' room this week.",
+    "index": "FAc_285"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "これらの本をどうやって手にいれたのですか。",
+    "output": "How did you come by these books?",
+    "index": "FAc_286"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼の家の前には松の木が立っている。",
+    "output": "A pine stands in front of his house.",
+    "index": "FAc_287"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼の言葉にひとかけらの真実もない。",
+    "output": "There is not a scrap of truth in his words.",
+    "index": "FAc_288"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は白雪姫のように美しい。",
+    "output": "She is as beautiful as Snow White.",
+    "index": "FAc_289"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "チケットが手に入ったらすぐに君のところに送ります。",
+    "output": "As soon as we get the tickets, we'll send them to you.",
+    "index": "FAc_290"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "だれにでも得意な時代がある。",
+    "output": "Every dog has his day.",
+    "index": "FAc_291"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その祝賀会で、彼は自分の親戚に私を紹介した。",
+    "output": "He introduced me to his relatives at the reception.",
+    "index": "FAc_292"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ウイスキーは紅茶とよく合う。",
+    "output": "Whiskey goes very well with tea.",
+    "index": "FAc_293"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼らには２人の娘があり、２人とも有名なピアニストになった。",
+    "output": "They had two daughters, who became famous pianists.",
+    "index": "FAc_294"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼のスピーチの主旨を教えてください。",
+    "output": "Tell me the substance of his speech.",
+    "index": "FAc_295"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "長い時間歩いたので疲れきった。",
+    "output": "We were tired out after our long walk.",
+    "index": "FAc_296"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "いろいろトラブルもあったけど、雨降って地固まるってことになってほしいね。",
+    "output": "We've been through a rough patch, but I hope it will have made us stronger.",
+    "index": "FAc_297"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼はその若い婦人に結婚を申し込んだ。",
+    "output": "He proposed to the young woman.",
+    "index": "FAc_298"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "そこでの私たちの滞在期間は一週間です。",
+    "output": "The length of our stay there will be one week.",
+    "index": "FAc_299"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "どうかひらにご容赦ください。",
+    "output": "Please accept my humble apologies.",
+    "index": "FAc_300"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼はクマがどうやって冬を越すのかをくわしく語ってくれた。",
+    "output": "He gave me chapter and verse on how bears pass the winter.",
+    "index": "FAc_301"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "現代科学は多くの不可能を可能に変えた。",
+    "output": "Modern science has turned many impossibilities into possibilities.",
+    "index": "FAc_302"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "我々はその当時よく放課後に野球をしたものだった。",
+    "output": "We would play baseball after school in those days.",
+    "index": "FAc_303"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "麻薬の密売は根こそぎ絶やさなければならない。",
+    "output": "We must eradicate the drug traffic, root and branch.",
+    "index": "FAc_304"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "射殺された時、その警官は非番だった。",
+    "output": "The policeman was off duty when he was shot to death.",
+    "index": "FAc_305"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その店でかうものは私のつけにしておきなさい。",
+    "output": "Put what you get at the store to my account.",
+    "index": "FAc_306"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "もっと単刀直入に言ってくれないかな。隔靴掻痒の感なきにしもあらずだよ。",
+    "output": "You don't have to leave me hanging like this. Why don't you just come out and tell it to me straight?",
+    "index": "FAc_307"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "戸を開けて犬を入れてやりなさい。",
+    "output": "Open the door and let in the dog.",
+    "index": "FAc_308"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "人は善悪の友による。",
+    "output": "A man is known by the company he keeps.",
+    "index": "FAc_309"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "すべての武器を捨てよう。",
+    "output": "Lay down all arms.",
+    "index": "FAc_310"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "成功するように一生懸命働け。",
+    "output": "Work hard so that you can succeed.",
+    "index": "FAc_311"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は過労で病気になった。",
+    "output": "His overwork brought on an illness.",
+    "index": "FAc_312"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "敵側の人数は味方の３倍になった。",
+    "output": "The enemy had triple our numbers.",
+    "index": "FAc_313"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "始発は何時に出ますか。",
+    "output": "What time does the first train leave?",
+    "index": "FAc_314"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "今日の授業を欠席した学生は多かった。",
+    "output": "There were quite a few students absent from class today.",
+    "index": "FAc_315"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "陶器は火で焼かれた。",
+    "output": "The pottery was baked by fire.",
+    "index": "FAc_316"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その社会学者は背中を掻く癖がある。",
+    "output": "The sociologist has a habit of scratching his back.",
+    "index": "FAc_317"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ケイトはクラスの生徒の心を捕らえた。",
+    "output": "Kate captured the hearts of her classmates.",
+    "index": "FAc_318"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "不作で食料がひどく不足した。",
+    "output": "The bad harvest caused massive food shortages.",
+    "index": "FAc_319"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "価格は需要を反映する。",
+    "output": "The price reflects the demand.",
+    "index": "FAc_320"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は読めません。",
+    "output": "He can't read it.",
+    "index": "FAc_321"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ご無沙汰をして、ごめんなさい。",
+    "output": "I am sorry I did not write to you for such a long time.",
+    "index": "FAc_322"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は大学で医学を専攻しようと決心した。",
+    "output": "He decided to major in medicine in college.",
+    "index": "FAc_323"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "オーストリアとオーストラリアを混同してはいけない。",
+    "output": "Don't confuse Austria with Australia.",
+    "index": "FAc_324"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "君たちは来年何歳になりますか。",
+    "output": "How old will you be next year?",
+    "index": "FAc_325"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ＵＦＯの存在を信じるものもいるし、信じないものもいる。",
+    "output": "Some believe in UFOs and others do not.",
+    "index": "FAc_326"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その批評家の言うことはいつも簡潔で要領を得ている。",
+    "output": "What the critic says is always concise and to the point.",
+    "index": "FAc_327"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "我々は日に少なくとも８時間は寝なくてはならない。",
+    "output": "We must sleep at least eight hours a day.",
+    "index": "FAc_328"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "通りを渡っていて、彼は車にはねられた。",
+    "output": "Crossing the street, he was knocked down by a car.",
+    "index": "FAc_329"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その実現もユーザーニーズを考えたアプリケーションの開発と行政による規制緩和が大きなポイントとなると考えられる。",
+    "output": "The success of newly-developed applications and government-forced deregulation may hold the key to achieving this economic implementation.",
+    "index": "FAc_330"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "何事も起こらなかったかのように、彼は煙草を吸った。",
+    "output": "He smoked as if nothing had happened.",
+    "index": "FAc_331"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私はいろいろ苦労してきた。",
+    "output": "I have seen various difficulties.",
+    "index": "FAc_332"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "少女はあたりを見回した。",
+    "output": "The girl looked around.",
+    "index": "FAc_333"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その報道はまだ確認されてない。",
+    "output": "The report has not been confirmed yet.",
+    "index": "FAc_334"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "秋は私達が勉強するのにいちばんよい季節です。",
+    "output": "Fall is the best season for us to study.",
+    "index": "FAc_335"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その影響力は日毎にますます大きくなっているが、しかし創造性があるわけではなく、また、価値の判断もできない。",
+    "output": "Their influence becomes greater every day, but they are uncreative and can't make value judgements.",
+    "index": "FAc_336"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "これらのグラスを片付けてください。",
+    "output": "Please put these glasses away.",
+    "index": "FAc_337"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "スケルトン博士は幽霊の研究で知られている。",
+    "output": "Dr. Skeleton is known for his study on ghosts.",
+    "index": "FAc_338"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "僕は全然食べる気がしない。",
+    "output": "I don't feel like eating at all.",
+    "index": "FAc_339"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼にはなかなか会えない。",
+    "output": "It is difficult to gain access to him.",
+    "index": "FAc_340"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼の勇敢な戦いの物語は我々を深く感動させた。",
+    "output": "The story of his brave struggle affected us deeply.",
+    "index": "FAc_341"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "大きな声で話して下さい。",
+    "output": "Please speak in a loud voice.",
+    "index": "FAc_342"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "交換のために返却したいと思います。",
+    "output": "I would like to return it to you for replacement.",
+    "index": "FAc_343"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "工藤甲人氏は生まれながらの詩人である。",
+    "output": "Kojin Kudo is a born poet.",
+    "index": "FAc_344"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は転んでひざを痛めた。",
+    "output": "She fell down and hurt her knee.",
+    "index": "FAc_345"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その賞金のおかげで彼はギターが買えた。",
+    "output": "The prize money allowed him to buy a guitar.",
+    "index": "FAc_346"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "明朝８時までには彼らは学校に行ってしまっているでしょう。",
+    "output": "They will have gone to school by eight tomorrow morning.",
+    "index": "FAc_347"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "空が明るくなったのであらしが通り過ぎたことが分かった。",
+    "output": "The brightness of the sky showed that the storm had passed.",
+    "index": "FAc_348"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "実験結果は測定可能なものでなければならないし、実験過程は、繰り返すことができるものでなければならないのだった。",
+    "output": "The results should be measurable and the process repeatable.",
+    "index": "FAc_349"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "雨季がいつ終わるかは誰にもわからない。",
+    "output": "There is no telling when the rainy season will be over.",
+    "index": "FAc_350"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ドライビングスクールに行っています。",
+    "output": "I go to a driving school.",
+    "index": "FAc_351"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "赤信号で通りを渡るのは危険だ。",
+    "output": "It's dangerous for you to cross the street when the light is red.",
+    "index": "FAc_352"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は叔父を見送りに駅まで行って来たところだ。",
+    "output": "I have just been to the station to see my uncle off.",
+    "index": "FAc_353"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私の趣味は切手の収集です。",
+    "output": "My hobby is stamp collecting.",
+    "index": "FAc_354"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "君はもっと分別を持つべきだったのに。",
+    "output": "You should have known better.",
+    "index": "FAc_355"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "駅である紳士に会った。",
+    "output": "I met a certain gentleman at the station.",
+    "index": "FAc_356"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ほんの子供に過ぎない。",
+    "output": "He is but a child.",
+    "index": "FAc_357"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は、タオルを水で湿らした。",
+    "output": "He wet the towel with water.",
+    "index": "FAc_358"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "クック船長はその原住民達の手厚いもてなしに感謝した。",
+    "output": "Captain Cook thanked the natives for their hospitality.",
+    "index": "FAc_359"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その選手は勝利に貢献した。",
+    "output": "The player contributed to the victory.",
+    "index": "FAc_360"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "新聞配達の少年はどんな天気でも新聞を配達する。",
+    "output": "The newspaper boy delivers papers in any kind of weather.",
+    "index": "FAc_361"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼がこの件で間違っているという事実をはっきり悟らせねばならない。",
+    "output": "I must bring home to him the fact that he is wrong in this case.",
+    "index": "FAc_362"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "歌手だと思った少女は別人だった。",
+    "output": "The girl who I thought was a singer proved to be a different person.",
+    "index": "FAc_363"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "それはすてきだとかれは叫んだ。",
+    "output": "He cried, \"That's good!\"",
+    "index": "FAc_364"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "君は犬が庭を通り抜けて行くのを見なかったかい。",
+    "output": "Didn't you see a dog pass through the yard?",
+    "index": "FAc_365"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "試合は雨天決行です。",
+    "output": "The game will be held even if it rains.",
+    "index": "FAc_366"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "君のこの寒さにすぐ慣れるだろう。",
+    "output": "You'll soon get accustomed to this cold weather.",
+    "index": "FAc_367"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "このビルは有名な建築家によって設計された。",
+    "output": "This building was laid out by a famous architect.",
+    "index": "FAc_368"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "この伝統は代々受け継がれている。",
+    "output": "This tradition has been passed down from generation to generation.",
+    "index": "FAc_369"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "もっとゆっくり食べるほうがいい。",
+    "output": "You ought to eat more slowly.",
+    "index": "FAc_370"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は君を車でお宅までお送りしたほうがよい。",
+    "output": "I'd better drive you home.",
+    "index": "FAc_371"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その国は第二次世界大戦中は中立を保っていた。",
+    "output": "That country remained neutral throughout World War II.",
+    "index": "FAc_372"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ジョーンズさんは部屋を昼までに掃除しておくように指示した。",
+    "output": "Mrs. Jones ordered the room to be swept by noon.",
+    "index": "FAc_373"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼はいつも快楽を追っている。",
+    "output": "He is always seeking pleasure.",
+    "index": "FAc_374"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "アメリカ人は民主的な国民である。",
+    "output": "The Americans are a democratic people.",
+    "index": "FAc_375"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その絵の価値は評価しきれない。",
+    "output": "We cannot rate the picture highly enough.",
+    "index": "FAc_376"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "湿疹も伝染性だって。",
+    "output": "The rash is, um, also incredibly contagious.",
+    "index": "FAc_377"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "前もってお金を払っておかなければなりません。",
+    "output": "You must pay in advance.",
+    "index": "FAc_378"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "向こうにいるあのコアラを見てごらん。",
+    "output": "Look at that koala over there.",
+    "index": "FAc_379"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "昨日学校へ行けなかったには病気だったからです。",
+    "output": "It was because I was ill that I couldn't go to school yesterday.",
+    "index": "FAc_380"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "このデータは今や何の価値もない。",
+    "output": "This data is of no value now.",
+    "index": "FAc_381"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "批評にそんなに神経質になるな。",
+    "output": "Don't be so sensitive to criticism.",
+    "index": "FAc_382"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私の伯母は、無料ハワイ旅行に当たった。",
+    "output": "My aunt won an all-expenses-paid tour of Hawaii.",
+    "index": "FAc_383"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "今日はあいにくお金を持っていない。",
+    "output": "As it happens, I don't have any money with me today.",
+    "index": "FAc_384"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "締め切りに間に合わなかったために、彼は上司にひどくしかられた。",
+    "output": "He was called down by his boss for missing his deadline.",
+    "index": "FAc_385"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は先月、休暇でロサンジェルスへ行きました。",
+    "output": "I went to Los Angeles on vacation last month.",
+    "index": "FAc_386"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ネズミが鳥でないように蝙蝠も鳥ではない。",
+    "output": "A bat is no more a bird than a rat is.",
+    "index": "FAc_387"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "山田先生は私たちに毎日たくさんの宿題を出す。",
+    "output": "Mr Yamada gives us a lot of homework every day.",
+    "index": "FAc_388"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私達は彼に少しケーキを残してあげた。",
+    "output": "We left him some cake.",
+    "index": "FAc_389"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼はきっと試験にパスすると思う。",
+    "output": "I am sure of his passing the examination.",
+    "index": "FAc_390"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼の無礼な返事に彼女はかっとなって彼の顔をぴしゃりとたたいた。",
+    "output": "His rude reply provoked her to slap him on the face.",
+    "index": "FAc_391"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "やがて万物は死に絶えます。",
+    "output": "All things die in time.",
+    "index": "FAc_392"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私達は、春の夜、月光を浴びた桜の優美さに心を打たれる。",
+    "output": "We respond to the delicate beauty of the cherry blossoms in the spring moonlight.",
+    "index": "FAc_393"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "それらは西洋の風呂よりずっといいです。",
+    "output": "They are much better than Western baths.",
+    "index": "FAc_394"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ブドウ酒はブドウから作られる。",
+    "output": "Wine is made from grapes.",
+    "index": "FAc_395"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女はこらえきれず笑ってしまった。",
+    "output": "She smiled, not being able to help it.",
+    "index": "FAc_396"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "入国カードの記入の仕方を教えてください。",
+    "output": "Please tell me how to fill out the disembarkation card.",
+    "index": "FAc_397"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "それは１５ドルぐらいの値段でしょう。",
+    "output": "It will cost around fifteen dollars.",
+    "index": "FAc_398"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "おまえはオレを殺そうとしている。",
+    "output": "You are trying to kill me.",
+    "index": "FAc_399"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "あなたにとっていつがご都合がよいでしょうか。",
+    "output": "When will it be convenient for you?",
+    "index": "FAc_400"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は昼食にホットドッグをとった。",
+    "output": "I ate a hot dog for lunch.",
+    "index": "FAc_401"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "付き合いがいやなわけではないが疲れているのだ。",
+    "output": "I don't mean to be antisocial, but I'm tired.",
+    "index": "FAc_402"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "憂いの反面には喜びがあるものだ。",
+    "output": "Every cloud has a silver lining.",
+    "index": "FAc_403"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は彼の率直な言葉に屈辱をおぼえた。",
+    "output": "She was mortified by his frank remark.",
+    "index": "FAc_404"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "両親同様に少女も大変思いやりがあった。",
+    "output": "The girl, like her parents, was very sympathetic.",
+    "index": "FAc_405"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "スピードメーターは時速９５マイルを指していた。",
+    "output": "The speedometer was indicating 95 mph.",
+    "index": "FAc_406"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は一人で音楽を聴いていた。",
+    "output": "He listened to music by himself.",
+    "index": "FAc_407"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ジョーンはその光景を見て息を飲んだ。",
+    "output": "Joan caught her breath when she saw the sight.",
+    "index": "FAc_408"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "誰か男の子が走って逃げている。",
+    "output": "Some boy is running away.",
+    "index": "FAc_409"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は明かりを消したのを忘れてはいない。",
+    "output": "I don't forget turning out the light.",
+    "index": "FAc_410"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "困ったときは躊躇せず助言を求めなさい。",
+    "output": "If you get into difficulties, don't hesitate to ask for advice.",
+    "index": "FAc_411"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "まさかリアルに借金の催促だったの？",
+    "output": "Don't tell me it was really a demand for money from debt collectors?",
+    "index": "FAc_412"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私はその知らせを聞いて泣きたい気がした。",
+    "output": "I felt like crying at the news.",
+    "index": "FAc_413"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "しかしながら、彼の言葉は全然信用されなかった。",
+    "output": "His words, however, were not believed at all.",
+    "index": "FAc_414"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "週間契約の特別料金はありますか。",
+    "output": "Is there a weekly rate?",
+    "index": "FAc_415"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "日本での売り上げはヨーロッパに比べて少ない。",
+    "output": "The sales in Japan are small in comparison with those in Europe.",
+    "index": "FAc_416"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "いますぐそちらに参ります。",
+    "output": "I'll be with you right now.",
+    "index": "FAc_417"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼はその仕事に打ち込んだ。",
+    "output": "He applied himself to the task.",
+    "index": "FAc_418"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "君は彼女を信頼してよい。",
+    "output": "You can rely on her.",
+    "index": "FAc_419"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女の心臓は恐怖で早鐘を打った。",
+    "output": "Her heart beat fast from fear.",
+    "index": "FAc_420"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は私にトムと言って話しかける。",
+    "output": "She used to address me as Tom.",
+    "index": "FAc_421"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は父親のなきがらを見て泣いた。",
+    "output": "She cried at the sight of her father's dead body.",
+    "index": "FAc_422"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "死傷者は合計１、０００名となったということだ。",
+    "output": "Casualties are said to total up to 1,000.",
+    "index": "FAc_423"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "なんて変な天気でしょう。",
+    "output": "How strange the weather is!",
+    "index": "FAc_424"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "前の歯医者さんに、たばこをやめるなら、ヤニ取りしてあげる・・・といわれたそうです。",
+    "output": "He said that his previous dentist told him that he'd remove nicotine stains if he stopped smoking.",
+    "index": "FAc_425"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は子供たちが学校へ行くのを見送った。",
+    "output": "She sent her children off to school.",
+    "index": "FAc_426"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私達はすぐに出発した方がいい。",
+    "output": "We may as well start at once.",
+    "index": "FAc_427"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ご迷惑をおかけしまして申し訳ありません。",
+    "output": "I am sorry to have troubled you.",
+    "index": "FAc_428"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼はわずか１００ドル持っているだけだ。",
+    "output": "He has no more than 100 dollars.",
+    "index": "FAc_429"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は今では以前の彼ではない。",
+    "output": "He is not what he was.",
+    "index": "FAc_430"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼らはとうとう目的を達成した。",
+    "output": "They attained their purpose at last.",
+    "index": "FAc_431"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "決してうそをつかないことは美徳である。",
+    "output": "It is a virtue never to tell a lie.",
+    "index": "FAc_432"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "人間は家、ダム、橋、船、などを作る。",
+    "output": "People build houses, dams, bridges, ships and so on.",
+    "index": "FAc_433"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ドールが通信プロトコルの構成を変えることは意図していなかったということに注意すべきである。",
+    "output": "It should be noted that Dole did not intend to change the configuration of the communication protocol.",
+    "index": "FAc_434"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は風邪をひいた。",
+    "output": "She came down with a cold.",
+    "index": "FAc_435"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "署名する前に契約書をしっかり調べたほうがいいよ。",
+    "output": "You'd better examine the contract carefully before signing.",
+    "index": "FAc_436"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は若いときに美しかったのを自慢している。",
+    "output": "She is proud of having been beautiful in her youth.",
+    "index": "FAc_437"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "追試を受けなくてはいけません。",
+    "output": "I have to take the test again.",
+    "index": "FAc_438"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "僕らは９の平方根は３だと学校で習った。",
+    "output": "We learned at school that the square root of nine is three.",
+    "index": "FAc_439"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "東京の人口は横浜の４倍である。",
+    "output": "The population of Tokyo is four times as large as that of Yokohama.",
+    "index": "FAc_440"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は最近よく酔っぱらっていたからね。",
+    "output": "She was tying one on far too often lately.",
+    "index": "FAc_441"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は一人でそのテーブルを運んだ。",
+    "output": "She carried that table by herself.",
+    "index": "FAc_442"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は、彼女がくれというものは何でもやる。",
+    "output": "He gives her everything she asks for.",
+    "index": "FAc_443"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "これ以上私を追いかけないで下さい。",
+    "output": "Don't run after me any more.",
+    "index": "FAc_444"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "取り寄せていただけますか。",
+    "output": "Can you order it for me?",
+    "index": "FAc_445"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "１０チャンネルは何をやっていますか。",
+    "output": "What is on Channel 10?",
+    "index": "FAc_446"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "そんなことリクエストしていません。",
+    "output": "I didn't request you to do that.",
+    "index": "FAc_447"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "自分の誤りを人のせいにしてはいけない。",
+    "output": "Don't blame others for your own fault.",
+    "index": "FAc_448"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "髪の毛にさわった。ぬれていた。",
+    "output": "She touched her hair. It was wet.",
+    "index": "FAc_449"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私たちはすでに家族ぐるみのお付き合いがあります。",
+    "output": "We've already had a family commitment.",
+    "index": "FAc_450"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "酒で彼は身を崩した。",
+    "output": "Drink brought about his downfall.",
+    "index": "FAc_451"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私たちは彼らの子供一人一人に立派な土産を選びました。",
+    "output": "We chose a good present for each of their children.",
+    "index": "FAc_452"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私が出かけたとき、父はまだ家にいました。",
+    "output": "My father was still at home when I left.",
+    "index": "FAc_453"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "大衆の意見が大統領の決定を左右する。",
+    "output": "Public opinion governs the president's decisions.",
+    "index": "FAc_454"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は望む物を手に入れるためには人をもだましかねない。",
+    "output": "He is capable of deceiving others to get what he wants.",
+    "index": "FAc_455"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は父そっくりだ。",
+    "output": "He is the picture of his father.",
+    "index": "FAc_456"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女の胸は喜びにあふれていた。",
+    "output": "Her heart was full of joy.",
+    "index": "FAc_457"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼はタバコを辞めようと努力している。",
+    "output": "He is trying hard to give up smoking.",
+    "index": "FAc_458"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "小売商人は卸しで仕入れて小売りで売る。",
+    "output": "A retail merchant buys wholesale and sells retail.",
+    "index": "FAc_459"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "スケートが上手になりたいのなら、真剣に習い始めるべきだ。",
+    "output": "If you want to skate well, you should take it up seriously.",
+    "index": "FAc_460"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "予期せぬ出来事が次々と起こったので、展示会は中止になった。",
+    "output": "Since unexpected incidents occurred one after another, the exhibition was called off.",
+    "index": "FAc_461"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "時計を日本標準時に合わせよう。",
+    "output": "We will set our watch by Japan Time.",
+    "index": "FAc_462"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は英文学の大家だ。",
+    "output": "He is a master of English literature.",
+    "index": "FAc_463"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私たちは車にたくさんの荷物を載せた。",
+    "output": "We loaded a lot of luggage into the car.",
+    "index": "FAc_464"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "あなたがいらっしゃるので私たちはうれしい。",
+    "output": "We are glad you are coming.",
+    "index": "FAc_465"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "すべての本が良い本というわけではない。",
+    "output": "Not all books are good books.",
+    "index": "FAc_466"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は高校2年生だ。",
+    "output": "I am in the second year of high school.",
+    "index": "FAc_467"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "人は誰でも平等である。",
+    "output": "All are equal.",
+    "index": "FAc_468"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "リンゴは１個５ドルで売っている。",
+    "output": "They sell apples at five dollars each.",
+    "index": "FAc_469"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "年上の男の子達が彼にいつも悪戯ばかりしている。",
+    "output": "The older boys are always playing tricks on him.",
+    "index": "FAc_470"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は六時に起きることにしている。",
+    "output": "I make it a rule to get up at six.",
+    "index": "FAc_471"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "値段が手ごろなら、その車を買いたい。",
+    "output": "If the price is reasonable, I want to buy the car.",
+    "index": "FAc_472"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "若人も老人も、ほっそりとした姿を望む。",
+    "output": "Both young and old people desire slim figures.",
+    "index": "FAc_473"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は人を楽しませようと一生懸命だ。",
+    "output": "He is eager to please.",
+    "index": "FAc_474"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "我々は事の真相を知らなければならない。",
+    "output": "We have to get at the truth of the matter.",
+    "index": "FAc_475"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その泥棒はおばあさんに変装していた。",
+    "output": "The thief disguised himself as an old lady.",
+    "index": "FAc_476"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その事故で死傷者が１５名出た。",
+    "output": "Fifteen people were killed or injured in the accident.",
+    "index": "FAc_477"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "寝室に入るや否や、彼女は泣きじゃくり出した。",
+    "output": "On entering the bedroom, she started sobbing.",
+    "index": "FAc_478"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私の家族はいつも早寝早起きをしている。",
+    "output": "My family always keep early hours.",
+    "index": "FAc_479"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私の姉は毎朝シャワーを浴びます。",
+    "output": "My sister takes a shower every morning.",
+    "index": "FAc_480"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "英国女王エリザベス。",
+    "output": "Elizabeth II is the Queen of England.",
+    "index": "FAc_481"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "船には甲板が３つあった。",
+    "output": "The ship had three decks.",
+    "index": "FAc_482"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "トムは彼女にフラれてへこんでいる。",
+    "output": "Tom is depressed because his girlfriend left him.",
+    "index": "FAc_483"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "少年たちはひそひそ話していた。何かをたくらんでいるのがわかった。",
+    "output": "The boys were whispering; I knew they were up to something.",
+    "index": "FAc_484"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "努力は成功の基本要素である。",
+    "output": "Hard work is an essential element of success.",
+    "index": "FAc_485"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ご招待して下さってどうもありがとうございました。",
+    "output": "It was very kind of you to invite me.",
+    "index": "FAc_486"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼の小論はばかげた物だ。",
+    "output": "His essay is rubbish.",
+    "index": "FAc_487"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は私が探していた家までわざわざ連れて行ってくれた。",
+    "output": "She troubled herself to take me to the house I was looking for.",
+    "index": "FAc_488"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "演説中に人を笑わせることはとても楽しいことです。",
+    "output": "It's a lot of fun making people laugh while giving a speech.",
+    "index": "FAc_489"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "雲に隠れて月が見えない。",
+    "output": "The moon is invisible behind the clouds.",
+    "index": "FAc_490"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "君の計画はきっと失敗するよ。",
+    "output": "Your plan is bound to fail.",
+    "index": "FAc_491"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "そのうわさは町中に広まっている。",
+    "output": "The rumor is abroad throughout the town.",
+    "index": "FAc_492"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "課題が多大な認識力を必要とするので、スコアは低い。",
+    "output": "The scores are low because the task is cognitively demanding.",
+    "index": "FAc_493"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は子供のことに専念した。",
+    "output": "She devoted herself to her children.",
+    "index": "FAc_494"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は人をみて直ぐ判断するのはあまりうまくない。",
+    "output": "I am not very good at sizing people up quickly.",
+    "index": "FAc_495"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は今かぜをひいている。",
+    "output": "He has a cold now.",
+    "index": "FAc_496"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼はついに大学の学長を辞任した。",
+    "output": "He finally resigned the presidency of the college.",
+    "index": "FAc_497"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は歯医者行きを延ばさねばならない。",
+    "output": "I must postpone going to the dentist.",
+    "index": "FAc_498"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "日本の資金力は今や世界のすみずみに及ぶ。",
+    "output": "Japan's money power has a global reach now.",
+    "index": "FAc_499"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は私をだましてそれを受け取らせた。",
+    "output": "He beguiled me into accepting it.",
+    "index": "FAc_500"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "少なからず君には失望したよ。",
+    "output": "We were not a little disappointed with you.",
+    "index": "FAc_501"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "誰もその会合に出席していなかった。",
+    "output": "No one was present at the meeting.",
+    "index": "FAc_502"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "そのことは彼らが前と同じ数の本を持って出かけることを防げない。",
+    "output": "That does not prevent them from taking just as many books.",
+    "index": "FAc_503"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "早く帰宅すべきだ。",
+    "output": "You had best go home early.",
+    "index": "FAc_504"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "自分の家庭を愛さない人はいない。",
+    "output": "There is no man but loves his home.",
+    "index": "FAc_505"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は僕たちに真相を隠している。",
+    "output": "He's holding the real story back from us.",
+    "index": "FAc_506"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "裁判官はその囚人が有罪であると決断を下した。",
+    "output": "The judge concluded that the prisoner was guilty.",
+    "index": "FAc_507"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "友達が今晩来ます。",
+    "output": "A friend of mine is coming this evening.",
+    "index": "FAc_508"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は非常に学がある。",
+    "output": "He is very learned.",
+    "index": "FAc_509"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "このことで彼女の名声は、大いに損なわれた。",
+    "output": "Her good fame was greatly damaged by this.",
+    "index": "FAc_510"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "爆弾が爆発したのは、まさにその瞬間であった。",
+    "output": "It was at that very moment that the bomb went off.",
+    "index": "FAc_511"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "だから、この荒々しい試合では選手がひどいけがを負っていたし、ときには死ぬこともあったのです。",
+    "output": "So, players were often seriously injured and sometimes even killed in these rough games.",
+    "index": "FAc_512"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私達はその飛行機に乗った。",
+    "output": "We went aboard the plane.",
+    "index": "FAc_513"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "そういう理由で彼らは私と一緒に来られなかったのです。",
+    "output": "That was the reason which prevented them from coming with me.",
+    "index": "FAc_514"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "これはたいへん重要な事柄である。",
+    "output": "This is a matter of great importance.",
+    "index": "FAc_515"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼はやり手だと思う。",
+    "output": "I believe him to be a man of ability.",
+    "index": "FAc_516"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "そのピアノの先生は彼女に対してつらくあたった。",
+    "output": "The piano instructor was hard on her.",
+    "index": "FAc_517"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "横浜は美しい港町です。",
+    "output": "Yokohama is a beautiful port town.",
+    "index": "FAc_518"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "「たばこを吸ってもかまいませんか」「ええ、少しも」",
+    "output": "Do you mind if I smoke? \"No, I don't mind at all.\"",
+    "index": "FAc_519"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "「今出かけてはいけない」「どうしてだめなの」",
+    "output": "You mustn't go out now. \"Why not?\"",
+    "index": "FAc_520"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "来週は毎日残業しなければならないでしょう。",
+    "output": "I'll have to work overtime every day next week.",
+    "index": "FAc_521"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "それらの作品には優劣をつけがたい。",
+    "output": "I can't tell which work is better than the other.",
+    "index": "FAc_522"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "冷蔵庫の中には何も残っていなかった。",
+    "output": "Nothing remained in the refrigerator.",
+    "index": "FAc_523"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼らはサンドイッチとコーヒーで昼食を済ませた。",
+    "output": "They lunched on sandwiches and coffee.",
+    "index": "FAc_524"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "この本を書いた緒方氏は元新聞記者である。",
+    "output": "Mr Ogata, the author of this book, used to be a newspaperman.",
+    "index": "FAc_525"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "少女はうれしさのあまり小躍りした。",
+    "output": "The girl danced for joy.",
+    "index": "FAc_526"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "トムは非難されてしかるべきだ。",
+    "output": "Tom deserves to be blamed.",
+    "index": "FAc_527"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "この洋服は決して値段は安くない。",
+    "output": "This suit is anything but cheap.",
+    "index": "FAc_528"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼らは投資から８パーセントの利益を得た。",
+    "output": "They obtained a yield of 8 percent on their investment.",
+    "index": "FAc_529"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "君はもう子供ではない。",
+    "output": "You are not a child any more.",
+    "index": "FAc_530"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼らは錠を下ろすのを忘れた。",
+    "output": "They forgot to lock the door.",
+    "index": "FAc_531"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "全般的にみてまあまあの出来だった。",
+    "output": "He hasn't done badly, all in all.",
+    "index": "FAc_532"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "あなたのお父さんが何処に行ったか知っていますか。",
+    "output": "Do you know where your father went?",
+    "index": "FAc_533"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は私の父ではなく、叔父だ。",
+    "output": "He is not my father but my uncle.",
+    "index": "FAc_534"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼のふしだらな行為は気付かれずにはすまなかった。",
+    "output": "His immoral actions did not go unnoticed.",
+    "index": "FAc_535"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は教育の重要性を痛感した。",
+    "output": "It was brought home to me how important education is.",
+    "index": "FAc_536"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は何でも意のままにしたがる。",
+    "output": "He wants everything his own way.",
+    "index": "FAc_537"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私はそんなばかげた計画には反対したい。",
+    "output": "I want to oppose such a foolish plan.",
+    "index": "FAc_538"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "夜更かししていると健康を損なうよ。",
+    "output": "You must not stay up late, or you will hurt your health.",
+    "index": "FAc_539"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ついに彼らの友情が壊れ、二人の親密な関係は消え失せた。",
+    "output": "Finally, their friendship ended and their close relationship disappeared.",
+    "index": "FAc_540"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "食事をしているときは仕事の話をするな。",
+    "output": "Don't talk about business while we're dining.",
+    "index": "FAc_541"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は１００ｍ競争で１等賞を取った。",
+    "output": "He got the first prize in a 100m race.",
+    "index": "FAc_542"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "「ウィーンまでは歩いてどのくらいかかりますか」、と彼はたずねた。",
+    "output": "How long does it take to get to Vienna on foot? he inquired.",
+    "index": "FAc_543"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "何日間も誰にも会わずに荒野を歩きまわることができますか。",
+    "output": "Can you hike for days in the wilderness without seeing anyone?",
+    "index": "FAc_544"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "君は顔色が悪いからすぐ寝たほうがいい。",
+    "output": "You look pale. You had better lie down in bed at once.",
+    "index": "FAc_545"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "円高は我が社にとって好都合であった。",
+    "output": "The strong yen was advantageous to our company.",
+    "index": "FAc_546"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は君の仕事を妨害する意図など持っていない。",
+    "output": "He has no intention to interfere with your business.",
+    "index": "FAc_547"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "もう一度メモをざっと読み直そうと思ったが、時間が無かった。",
+    "output": "I was going to run over the notes one last time, but there wasn't time.",
+    "index": "FAc_548"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "あの絵を見てごらん。",
+    "output": "Look at that picture.",
+    "index": "FAc_549"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は悪い仲間と付き合っている。",
+    "output": "She is mixing with the wrong crowd.",
+    "index": "FAc_550"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は私達の間で人気がある。",
+    "output": "He is popular among us.",
+    "index": "FAc_551"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "市議会は具体的な問題にもっと焦点をあてるべきだ。",
+    "output": "The municipal council should concentrate more on specific issues.",
+    "index": "FAc_552"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "壁を塗り終えたら、すぐに帰宅してもいいよ。",
+    "output": "As soon as you get the wall painted, you can go home.",
+    "index": "FAc_553"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ミニスカートがすたれてもうしばらくになる。",
+    "output": "Miniskirts have been out of date for some time.",
+    "index": "FAc_554"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私はもっと敵の抵抗があると踏んでたんだけど、むしろ中枢に進むほど敵が減ってきてる・・・。おかしいと思わないかしら？",
+    "output": "I had expected stronger resistance from the enemy but if anything there are less of them as we advance to the centre... Don't you think that's strange?",
+    "index": "FAc_555"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は香水の香りがきつすぎだ。",
+    "output": "She was too heavy on the perfume.",
+    "index": "FAc_556"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ヘレンはいつもクラスでは首席だ。",
+    "output": "Helen is always at the top of her class.",
+    "index": "FAc_557"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は報告書の材料を集めるのに忙しかった。",
+    "output": "He was busy collecting stuff for his report.",
+    "index": "FAc_558"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は雑用をするのをいとわない。",
+    "output": "She is willing to do odd jobs.",
+    "index": "FAc_559"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "お名前の綴りを教えてください。",
+    "output": "How do you spell your name?",
+    "index": "FAc_560"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "９８人の乗客のうち３人だけが生き残った。",
+    "output": "Only 3 out of the 98 passengers survived.",
+    "index": "FAc_561"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は即座に口答えした。",
+    "output": "He retorted immediately.",
+    "index": "FAc_562"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私たちは初めて彼の生まれ故郷を訪ねた。",
+    "output": "We visited his home country for the first time.",
+    "index": "FAc_563"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "サムはすでに宿題を済ませている。",
+    "output": "Sam has already done his homework.",
+    "index": "FAc_564"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私達は途中でガソリンが切れてしまった。",
+    "output": "We ran out of gas on our way there.",
+    "index": "FAc_565"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "小鳥たちがいっせいにさえずりだした。",
+    "output": "The little birds broke forth in song.",
+    "index": "FAc_566"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は偶然に彼女とバス停で会いました。",
+    "output": "I met her by accident at the bus stop.",
+    "index": "FAc_567"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は帰り道に交通事故に遭った。",
+    "output": "I met with a traffic accident on my way back.",
+    "index": "FAc_568"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "今日、国際情勢に遅れないで付いて行くのは困難である。",
+    "output": "It is difficult to keep abreast of the international situation these days.",
+    "index": "FAc_569"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "飛行機事故はつい先週起こった。",
+    "output": "The plane crash was only last week.",
+    "index": "FAc_570"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼はわれわれの私有地に不法侵入している、無断で通っている。",
+    "output": "He is trespassing on our private property.",
+    "index": "FAc_571"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は能力の限りその仕事をがんばります。",
+    "output": "I will do the work to the best of my ability.",
+    "index": "FAc_572"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "この世に私がいなくなる日が来るだろう。",
+    "output": "The day will come when I cease to be on this earth.",
+    "index": "FAc_573"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼はまだ幼すぎて、厳しい訓練は彼のためにならない。",
+    "output": "He is too young to benefit from firm discipline.",
+    "index": "FAc_574"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "これできっと食欲が増します。",
+    "output": "This will surely add to you appetite.",
+    "index": "FAc_575"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼はライフルを拾い上げ、それで標的をねらった。",
+    "output": "He picked up the rifle and aimed it at the target.",
+    "index": "FAc_576"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "親が子供を教育することは非常に困難な場合がある。",
+    "output": "The education by the parents of their children is sometimes very difficult.",
+    "index": "FAc_577"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "お金をもっていても彼は幸せではない。",
+    "output": "With all his money, he is not happy.",
+    "index": "FAc_578"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ちょっとした幸運が予期せぬ成功につながるときもある。",
+    "output": "A little bit of luck sometimes leads to an unexpected success.",
+    "index": "FAc_579"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "１９０６年のある日、タッド・ドーガンという名の新聞漫画家が野球の試合を見に行った。",
+    "output": "One day in 1906, a newspaper cartoonist named Tad Dorgan went to a baseball game.",
+    "index": "FAc_580"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "グレートブリテンは紳士と乗馬の国です。",
+    "output": "Great Britain is a land of gentlemen and horse riding.",
+    "index": "FAc_581"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "たとえ君が大いに努力しても、それをなしとげることはできないでしょう。",
+    "output": "Even if you make great efforts, you won't be able to achieve it.",
+    "index": "FAc_582"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼はまるで父親に会ったことがないかのようだ。",
+    "output": "It seems like he had never met his father before.",
+    "index": "FAc_583"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その直線は直角に交わっている。",
+    "output": "The two lines cross each other at right angles.",
+    "index": "FAc_584"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女が緑の帽子をかぶっていたのを覚えています。",
+    "output": "I remember that she wore a green hat.",
+    "index": "FAc_585"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "わからないところは赤でしるしを付けて、授業で聞いてください。",
+    "output": "Mark in red anything you don't understand and ask about it in class.",
+    "index": "FAc_586"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私が働いている会社は、いくつかの文化事業を後援しています。",
+    "output": "Our company supports several cultural events.",
+    "index": "FAc_587"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "君の限られた時間をできるだけうまく利用すべきだ。",
+    "output": "You should make the best of your limited time.",
+    "index": "FAc_588"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "太陽が月のかげに隠れた。",
+    "output": "The sun was hidden in the moon's shadow.",
+    "index": "FAc_589"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "眼窩とは、目をいれている骨のいれもののことです。",
+    "output": "The eye socket is the bone receptacle in which the eye fits.",
+    "index": "FAc_590"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "いたずらっ子にすっかり花壇を踏み荒らした。",
+    "output": "My flower garden was trampled by urchins.",
+    "index": "FAc_591"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は一塁へ投げた。",
+    "output": "He threw the ball to first base.",
+    "index": "FAc_592"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は通りを横切るのを見られた。",
+    "output": "I was seen to cross the street.",
+    "index": "FAc_593"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "問題の人物は目下アメリカに滞在中である。",
+    "output": "The person in question is now staying in America.",
+    "index": "FAc_594"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "どんな仕事でも苦痛になる事がある。",
+    "output": "Any task may become painful.",
+    "index": "FAc_595"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ミスタイプです。すみません。",
+    "output": "It's a typo. Sorry.",
+    "index": "FAc_596"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "あいつの多芸は無芸のたぐいだ。",
+    "output": "He is a jack-of-all-trades.",
+    "index": "FAc_597"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は色仕掛けで男を誘惑する。",
+    "output": "She knows how to use her good looks to get what she wants out of men.",
+    "index": "FAc_598"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "おまえは何という怠け者だろう。",
+    "output": "How lazy you are!",
+    "index": "FAc_599"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "もし上手に使えば、お金はずいぶん役に立つ。",
+    "output": "If wisely used, money can do much.",
+    "index": "FAc_600"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "月の表面はでこぼこだ。",
+    "output": "The surface of the moon is irregular.",
+    "index": "FAc_601"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "革命によって多くの変化が起こった。",
+    "output": "The revolution has brought about many changes.",
+    "index": "FAc_602"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は存命中キリスト教徒であった。",
+    "output": "She was a Christian in life.",
+    "index": "FAc_603"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "日本では給料は大体年功序列による。",
+    "output": "In Japan wages are usually in proportion to seniority.",
+    "index": "FAc_604"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "地下鉄から出るのに私はもがいた。",
+    "output": "I struggled to get out of the subway.",
+    "index": "FAc_605"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "休暇中、姉と私は富士山の麓にある小さな村に滞在した。",
+    "output": "During the vacation my sister and I stayed at a small village at the foot of Mt. Fuji.",
+    "index": "FAc_606"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私はいつも寛大であれと自分に言い聞かせている。",
+    "output": "I always say to myself to be generous.",
+    "index": "FAc_607"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "このコンピューターの操作は難しい。",
+    "output": "Operation of this computer is tricky.",
+    "index": "FAc_608"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は夢から覚めた。",
+    "output": "I awoke from a dream.",
+    "index": "FAc_609"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は彼を嫌っていた。",
+    "output": "She felt an aversion to him.",
+    "index": "FAc_610"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼の技術は独特で、本当に驚くべきものだった。",
+    "output": "His technique was unique and absolutely amazing.",
+    "index": "FAc_611"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "われにもなく、彼はちょっと身震いした。",
+    "output": "He shivered a little in spite of himself.",
+    "index": "FAc_612"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "積み荷は無事届きました。",
+    "output": "The shipment has reached us safely.",
+    "index": "FAc_613"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "料理が冷えてます。",
+    "output": "The food is cold.",
+    "index": "FAc_614"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女はその本をただ同然で買った。",
+    "output": "She bought the book for next to nothing.",
+    "index": "FAc_615"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "そのことで彼と話し合いたい。",
+    "output": "I want to talk to him about it.",
+    "index": "FAc_616"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "我々は分析を将来に当てはめようとした。",
+    "output": "We tried to project our analysis into the future.",
+    "index": "FAc_617"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は彼を説得してその申し出を受けさせた。",
+    "output": "I persuaded him into accepting the offer.",
+    "index": "FAc_618"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は銀行で円を少しドルに両替した。",
+    "output": "I exchanged some yen for dollars at the bank.",
+    "index": "FAc_619"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "夏休みが延びたので子供達は喜んだ。",
+    "output": "The extension of the summer vacation delighted the children.",
+    "index": "FAc_620"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その犬は私に噛み付こうとした。",
+    "output": "The dog nipped at me.",
+    "index": "FAc_621"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "警官はそれをノートに書き留めた。",
+    "output": "The policeman wrote it down in his notebook.",
+    "index": "FAc_622"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "それを簡潔にしましょう。",
+    "output": "Let's make it brief.",
+    "index": "FAc_623"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "風邪で彼の味覚は鈍くなっていた。",
+    "output": "A cold dulled his taste.",
+    "index": "FAc_624"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼らのほとんどは帰宅したと思う。",
+    "output": "I guess most of them went home.",
+    "index": "FAc_625"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私の叔父がアメリカへ立つ時、空港に多くの人が見送りに来た。",
+    "output": "When my uncle left for America, many people came to see him off at the airport.",
+    "index": "FAc_626"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "君はあのとき一か八かやってみるべきだったのに。",
+    "output": "You should have taken a chance then.",
+    "index": "FAc_627"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ニューヨークにいたとき、私は偶然古い友達に出会った。",
+    "output": "When I was in New York, I happened to meet my old friend.",
+    "index": "FAc_628"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼らがなぜ私達にそんなにそんなに腹を立てているのかわからない。",
+    "output": "I don't know why they are so steamed off at us.",
+    "index": "FAc_629"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "アメリカ人は恥ずかしがり屋の人々を恥ずかしがりやではない人々よりも能力が低いと見なすかもしれない。",
+    "output": "Americans may regard shy people as less capable than those who are not shy.",
+    "index": "FAc_630"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は編み物を脇に置いて立ち上がった。",
+    "output": "She put her knitting aside and stood up.",
+    "index": "FAc_631"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その計画は取りやめになった。",
+    "output": "The project was aborted.",
+    "index": "FAc_632"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "学園祭は来週行われることになっている。",
+    "output": "Our campus festival is to be held next week.",
+    "index": "FAc_633"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "話をそらすなよ。",
+    "output": "Don't change the subject.",
+    "index": "FAc_634"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼らの大多数は若者です。",
+    "output": "They were for the most part young people.",
+    "index": "FAc_635"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ボールははずんで塀を飛び越えた。",
+    "output": "The ball bounced over the wall.",
+    "index": "FAc_636"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "幅広い選択の余地があったであろうに。",
+    "output": "We would have a wide range of alternatives.",
+    "index": "FAc_637"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "生命は他の惑星に存在しているのだろうか。",
+    "output": "I wonder if life exists on other planets.",
+    "index": "FAc_638"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "教授は新刊本を何冊かニューヨークに注文した。",
+    "output": "The professor ordered some new books from New York.",
+    "index": "FAc_639"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は今休暇を取っています。",
+    "output": "I'm on vacation.",
+    "index": "FAc_640"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "教授は私の研究を励ましてくれた。",
+    "output": "The professor encouraged me in my studies.",
+    "index": "FAc_641"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その医者は子供の病気に関して著名な権威だ。",
+    "output": "The doctor is a great authority on children's diseases.",
+    "index": "FAc_642"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "窓側の席をお願いします。",
+    "output": "I'd like a window seat, please.",
+    "index": "FAc_643"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼はかぜのためにマラソン参加をあきらめました。",
+    "output": "He gave up taking part in the marathon on account of his cold.",
+    "index": "FAc_644"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "歯が抜けて隙間が空いていた。",
+    "output": "His teeth had gaps.",
+    "index": "FAc_645"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "君は月に何回家に手紙をかきますか。",
+    "output": "How many times a month do you write home?",
+    "index": "FAc_646"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は危険に直面して勇気を見せた。",
+    "output": "She showed her courage in the face of danger.",
+    "index": "FAc_647"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "血圧は上が１５５で下が１０５です。",
+    "output": "My blood pressure is 155 over 105.",
+    "index": "FAc_648"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は彼と知り合った。",
+    "output": "I struck up an acquaintance with him.",
+    "index": "FAc_649"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "政府は農民に新税を課した。",
+    "output": "The government imposed a new tax on farmers.",
+    "index": "FAc_650"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "どこにピクニックに行くかを私達が話し合った時、森に行きたがる人もいれば、海に行きたがる人もいた。",
+    "output": "When we discussed where to go on a picnic, some wanted to go to the forest, others wanted to go to the sea.",
+    "index": "FAc_651"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "もう一度チャンスをくれ。",
+    "output": "Give me a second chance.",
+    "index": "FAc_652"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は彼にそんなにスピードを出さないでくれと頼みました。",
+    "output": "I asked him not to drive so fast.",
+    "index": "FAc_653"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "わたしのテクに抜かりはないわ。",
+    "output": "My technique is without flaw.",
+    "index": "FAc_654"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "シンシアが退職した後、誰が継ぐのかね。",
+    "output": "Who'll be taking over from Cynthia when she retires?",
+    "index": "FAc_655"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "歯をきちんと手入れしていれば虫歯にはならない。",
+    "output": "If we care for our teeth we won't have cavities.",
+    "index": "FAc_656"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "あなたは先生のおっしゃることをもっとよく注意して聞くべきだ。",
+    "output": "You should attend more to what your teacher says.",
+    "index": "FAc_657"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "われわれはその困難に打ち勝つことができた。",
+    "output": "We could get over the difficulty.",
+    "index": "FAc_658"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼はまさしく時代の子であった。",
+    "output": "He was really a child of his times.",
+    "index": "FAc_659"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は自分が偉大な詩人だと思っている。",
+    "output": "He thinks himself a great poet.",
+    "index": "FAc_660"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私たちはレストランに入り、夕食をとりながらエネルギー危機について論じた。",
+    "output": "We entered a restaurant and discussed the energy crisis over our dinner.",
+    "index": "FAc_661"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "井の中の蛙、大海を知らず。",
+    "output": "He that stays in the valley shall never get over the hill.",
+    "index": "FAc_662"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "過去の過ちが迫ってくる。",
+    "output": "My past indiscretions are coming back to haunt me.",
+    "index": "FAc_663"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その家は火災保険に入っている。",
+    "output": "The house is insured against fire.",
+    "index": "FAc_664"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "時刻表をお持ちですか。",
+    "output": "Do you have a timetable?",
+    "index": "FAc_665"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼を愛しているふりはしない。",
+    "output": "I don't pretend to love him.",
+    "index": "FAc_666"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "地震はリヒター・スケールで３．０を記録しましたが、大きな被害、負傷者が出た報告はありません。",
+    "output": "No major damage or injuries are known to have resulted from the quake measuring 3.0 on the Richter scale.",
+    "index": "FAc_667"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "あなたのは初めて耳にする妙なお話です。",
+    "output": "Yours is a very strange story.",
+    "index": "FAc_668"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その植物は霜で被害を受けた。",
+    "output": "The plants were damaged by the frost.",
+    "index": "FAc_669"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "できるだけの援助をいたしましょう。",
+    "output": "I will give you what help I can.",
+    "index": "FAc_670"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "詩は人生を解釈するのに助けとなる。",
+    "output": "Poetry helps to interpret life.",
+    "index": "FAc_671"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は主義を曲げない。",
+    "output": "He sticks to his principles.",
+    "index": "FAc_672"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ホームズさんはパイプの大の愛用者で、名探偵です。",
+    "output": "Holmes is a great pipe man as well as a great detective.",
+    "index": "FAc_673"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "労働者が給料をもらうのは当然だ。",
+    "output": "It stands to reason that workers are paid.",
+    "index": "FAc_674"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "世間体を繕う心配をするより他にやることがある。",
+    "output": "We have other things to do than worry about keeping up appearances.",
+    "index": "FAc_675"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女はりんごのいっぱい入った籠を持っていた。",
+    "output": "She had a basket full of apples.",
+    "index": "FAc_676"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "この会の主な目的はなんですか。",
+    "output": "What is the chief aim of this society?",
+    "index": "FAc_677"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "トーマスは列車に間に合うように急いで去った。",
+    "output": "Thomas hurried away so as to be in time for the train.",
+    "index": "FAc_678"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼がわれわれに言うことを注意して聞かねばならない。",
+    "output": "We have to attend to what he tells us.",
+    "index": "FAc_679"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私はいま彼の独奏をきいている。",
+    "output": "I am listening to his recital.",
+    "index": "FAc_680"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "いいクリスマスを過ごしましたか。",
+    "output": "Did you have a nice Christmas?",
+    "index": "FAc_681"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼はしばしば自動車で図書館へいく。",
+    "output": "He often goes to the library by car.",
+    "index": "FAc_682"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "君は宮沢りえを知っているか。",
+    "output": "Do you know who Rie Miyazawa is?",
+    "index": "FAc_683"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "メアリーは今はあまり踊らないが、昔はよく踊っていたのを私は知っている。",
+    "output": "Mary doesn't dance much now, but I know she used to a lot.",
+    "index": "FAc_684"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女といっしょに芝居をすることは素晴らしいことだ。",
+    "output": "It's a marvelous thing to do a play with her.",
+    "index": "FAc_685"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "歳月は人を待たず。",
+    "output": "Time and tide wait for no man.",
+    "index": "FAc_686"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私には姉妹が三人いる。一人は看護婦で、残る二人は学生である。",
+    "output": "I have three sisters; one is a nurse and the others are students.",
+    "index": "FAc_687"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼が在宅しているかどうか確かめなくてはならない。",
+    "output": "I must make sure whether he is at home or not.",
+    "index": "FAc_688"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "誰がそう言っても、私はその人の言うことを信じない。",
+    "output": "Whoever says so, I don't believe him.",
+    "index": "FAc_689"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "心配しないで、お前の面倒は見るから。",
+    "output": "Don't worry. I'll take care of you.",
+    "index": "FAc_690"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "お尋ねの権利は、当方にはぞくしておりません。",
+    "output": "The rights you requested do not belong to us.",
+    "index": "FAc_691"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は髪型で実際の年齢よりも若く見える。",
+    "output": "Her hair style makes her look younger than her age.",
+    "index": "FAc_692"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は君にそのようなことを言ったかもしれないが、全然覚えていない。",
+    "output": "I may have told you such a thing, but I don't remember it at all.",
+    "index": "FAc_693"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は私の兄よりも年が上に見えます。",
+    "output": "He looks older than my brother.",
+    "index": "FAc_694"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "何が君を苦しめているのだ？",
+    "output": "What's worrying you?",
+    "index": "FAc_695"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "そのテレビ番組は新しい問題をよく取り上げる。",
+    "output": "New problems are often brought up on that TV programme.",
+    "index": "FAc_696"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その車は古びて見えましたか。",
+    "output": "Did the car look old?",
+    "index": "FAc_697"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "たくさんの星が空にきらめいている。",
+    "output": "Many stars are twinkling in the sky.",
+    "index": "FAc_698"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は数学では私達より進んでいる。",
+    "output": "He is ahead of us in mathematics.",
+    "index": "FAc_699"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私はときどき仕事をやめたい気がする。",
+    "output": "At times I feel like quitting my job.",
+    "index": "FAc_700"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "なべを焦げ付かせてはだめだよ。",
+    "output": "Don't let the pan boil dry.",
+    "index": "FAc_701"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は部屋が小さすぎるとこぼしていた。",
+    "output": "He complained of the room being too small.",
+    "index": "FAc_702"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "君が次に話し、君は静かにしていなさい。",
+    "output": "You talk next and you be quiet.",
+    "index": "FAc_703"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "父は私を医者にしたがっている。",
+    "output": "Father wants to make me a doctor.",
+    "index": "FAc_704"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女の両親の悲しみは大きかった。",
+    "output": "Great was the sorrow of her parents.",
+    "index": "FAc_705"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "あの教会施設は避難民を収容している。",
+    "output": "That church organization takes in refugees.",
+    "index": "FAc_706"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は無理に白状させられた。",
+    "output": "I was compelled to confess.",
+    "index": "FAc_707"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "あなたは後で後悔しないように出来るだけのことをしなければならない。",
+    "output": "You must do all you can lest you should regret later.",
+    "index": "FAc_708"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "目がゴロゴロします。",
+    "output": "My eyes feel gritty.",
+    "index": "FAc_709"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "学生は自分の主体性を見失ってはならない。",
+    "output": "A student should not lose sight of his own identity.",
+    "index": "FAc_710"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "階段を踏みはずして足首を捻挫したようです。",
+    "output": "I missed a step on the stairs and I'm afraid I sprained my ankle.",
+    "index": "FAc_711"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "酔いとは脳がある刺激物に冒されることである。",
+    "output": "Intoxication is what happens when the brain is affected by certain stimulants.",
+    "index": "FAc_712"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ヘビがとぐろを巻く。",
+    "output": "The snake coils itself up.",
+    "index": "FAc_713"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は昨日、英語の手紙を受け取った。",
+    "output": "I received a letter in English yesterday.",
+    "index": "FAc_714"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ステレオをかけても構わないかい。",
+    "output": "Can I play the stereo?",
+    "index": "FAc_715"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "重荷で机がきしるほどだった。",
+    "output": "The loaded desk groaned again.",
+    "index": "FAc_716"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "スープがなべでぐつぐつ煮えている。",
+    "output": "The soup is bubbling in the pot.",
+    "index": "FAc_717"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "これがかれの生家だ。",
+    "output": "This is the house in which he was born.",
+    "index": "FAc_718"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "スミス夫人は美人で有名だった。",
+    "output": "Mrs. Smith was a famous beauty.",
+    "index": "FAc_719"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "今後の税制改革では銀行業界に何の影響も与えないだろう。",
+    "output": "The tax reform will not touch the banking industry.",
+    "index": "FAc_720"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "人生の最も重要な要素は驚きだ。",
+    "output": "The most precious element in life is wonder.",
+    "index": "FAc_721"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その労働者は爆発事故が原因で死亡した。",
+    "output": "The workman died from the explosion.",
+    "index": "FAc_722"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "余生は自分の理想の追求に費やしたい。",
+    "output": "I want to spend rest of the life pursuing my ideals.",
+    "index": "FAc_723"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は耳が遠いなので不利な立場である。",
+    "output": "She is handicapped by poor hearing.",
+    "index": "FAc_724"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私たちはパーティーを開いて彼の誕生日を祝った。",
+    "output": "We celebrated his birthday with a party.",
+    "index": "FAc_725"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は美術の勉強をするためにフランスにいった。",
+    "output": "She went to France in order to study art.",
+    "index": "FAc_726"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "あなたはそんな大金をどうやって手に入れたのですか。",
+    "output": "How did you come by such a big sum of money?",
+    "index": "FAc_727"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "君は僕を馬鹿だと思っていたね。",
+    "output": "Do you take me for a fool?",
+    "index": "FAc_728"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は彼の損なわれた名声を取り戻そうとした。",
+    "output": "I tried to repair his damaged prestige.",
+    "index": "FAc_729"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼らは目的地へ向かってまっすぐすすんだ。",
+    "output": "They made straight for their destination.",
+    "index": "FAc_730"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼らは円陣を作った。",
+    "output": "They formed themselves into a circle.",
+    "index": "FAc_731"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "現在の彼女は結婚前の彼女ではない。",
+    "output": "She's not the woman she was before she got married.",
+    "index": "FAc_732"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は暮し向きが良い。",
+    "output": "He is well off.",
+    "index": "FAc_733"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "雨が上がったので、子供達はまた野球をやり始めた。",
+    "output": "When the weather had cleared, the children began to play baseball again.",
+    "index": "FAc_734"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "反逆者たちは道路にバリケードを築いた。",
+    "output": "The rebels made a barricade across the road.",
+    "index": "FAc_735"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "花壇の花は良い香りがしている。",
+    "output": "The flowers in the garden smell sweet.",
+    "index": "FAc_736"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "先生は私が学校を早退することを許してくれた。",
+    "output": "The teacher allowed me to leave school early.",
+    "index": "FAc_737"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女はあがるとどもる。",
+    "output": "She stammers when she feels nervous.",
+    "index": "FAc_738"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "これはオーケストラの５回目の演奏会です。",
+    "output": "This is the fifth concert by this orchestra.",
+    "index": "FAc_739"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "さしあたって、ここで待つべきです。",
+    "output": "We should wait here for the moment.",
+    "index": "FAc_740"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ジョーは自分の身のあかしを立てた。",
+    "output": "Joe purged himself of the suspicion.",
+    "index": "FAc_741"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は本の代金５ドルを払った。",
+    "output": "I paid five dollars for the book.",
+    "index": "FAc_742"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "鹿は昔猟の獲物の主たるものだった。",
+    "output": "Deer were once the main game.",
+    "index": "FAc_743"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "捨てられたアイスのまわりにアリがウヨウヨたかっていた。",
+    "output": "The area around the melting ice cream was crawling with ants.",
+    "index": "FAc_744"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "まもなくご案内いたします。",
+    "output": "We can seat you soon.",
+    "index": "FAc_745"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "スケーターはこまのようにくるくる回った。",
+    "output": "The skater spun around like a top.",
+    "index": "FAc_746"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "昨日私はその手紙を投函した事を覚えている。",
+    "output": "I remember posting the letter yesterday.",
+    "index": "FAc_747"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "僕はしばしば彼女と文通している。",
+    "output": "I frequently correspond with her.",
+    "index": "FAc_748"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "僕は１日さえもこの辞書無しで済ます事は出来ない。",
+    "output": "I can not do without this dictionary even for a single day.",
+    "index": "FAc_749"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "アンタは私が三〇才のときの子だよ。",
+    "output": "You came when I was thirty.",
+    "index": "FAc_750"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "着いたと思ったとたんに、ルーシーが家へ帰りたいと泣き出した。",
+    "output": "We had hardly arrived when Lucy started crying to go home.",
+    "index": "FAc_751"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "まだ彼は病床にある。",
+    "output": "He is still on his back.",
+    "index": "FAc_752"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "君のケーキはおいしいね。",
+    "output": "Your cake is delicious.",
+    "index": "FAc_753"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私たちの先生は授業の時間を厳守する。",
+    "output": "Our teacher is punctual for the classes.",
+    "index": "FAc_754"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は時計を買って、その翌日になくしてしまった。",
+    "output": "I bought a watch and I lost it the next day.",
+    "index": "FAc_755"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "旅行代理店に問い合わせてみよう。",
+    "output": "Let's ask a travel agent.",
+    "index": "FAc_756"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私たちのクラスの者は皆それを聞いて喜んだ。",
+    "output": "Our class were all glad to hear it.",
+    "index": "FAc_757"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "我々の市は東京の３分の１の人口です。",
+    "output": "Our city has one third as many people as Tokyo.",
+    "index": "FAc_758"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼はでたらめに発砲した。",
+    "output": "He fired a shot at random.",
+    "index": "FAc_759"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "酔っていたとしても、彼の行為は許せない。",
+    "output": "Granting that he was drunk, his conduct cannot be excused.",
+    "index": "FAc_760"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "各自運転するときは気をつけなければいけない。",
+    "output": "Each of us has to be careful when driving.",
+    "index": "FAc_761"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "『北の国から』は、北海道富良野市を舞台にしたフジテレビジョン制作のテレビドラマ。",
+    "output": "From the North Country is a TV drama produced by Fuji TV and set in Furano in Hokkaido.",
+    "index": "FAc_762"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "遠くに東京タワーが見えた。",
+    "output": "I could see Tokyo Tower far away.",
+    "index": "FAc_763"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "この政策は、景気を刺激するのにきっと大いに役立つであろう。",
+    "output": "This policy is sure to go a long way towards stimulating business.",
+    "index": "FAc_764"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "日本の多くの河川は工場の廃液で汚染されている。",
+    "output": "Many rivers in Japan are polluted by waste water from factories.",
+    "index": "FAc_765"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "雨が土砂降りになった。",
+    "output": "The rain came down in buckets.",
+    "index": "FAc_766"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女はしばしば月曜日に学校に遅刻する。",
+    "output": "She is often late for school on Mondays.",
+    "index": "FAc_767"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ブーツを買いたいんですけど。",
+    "output": "I would like to purchase some boots.",
+    "index": "FAc_768"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は運転免許をとるのに、夢中になっている。",
+    "output": "He is bent on getting the driving license.",
+    "index": "FAc_769"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "暖炉のおかげでこの部屋は居心地が良い。",
+    "output": "The fireplace lends coziness to this room.",
+    "index": "FAc_770"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "会社は赤字経営で倒産した。",
+    "output": "The company was in the red and went under.",
+    "index": "FAc_771"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ある古城に１人の王様が住んでいました。",
+    "output": "There lived a king in an old castle.",
+    "index": "FAc_772"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は成功したのにうれしい感じがしなかった。",
+    "output": "He did not feel happy for all his success.",
+    "index": "FAc_773"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は食べながら読書を続けた。",
+    "output": "He went on reading while he ate.",
+    "index": "FAc_774"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は４カ国語を自由に使える。",
+    "output": "He can make himself understood in four languages.",
+    "index": "FAc_775"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "いつ帰宅しますか。",
+    "output": "When will you come home?",
+    "index": "FAc_776"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "食料も水も底をつきかけてきた。",
+    "output": "Both our food and water were running out.",
+    "index": "FAc_777"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "北極熊は極地の氷原に住んでいるのだが、生息地を失い、絶滅するであろう。",
+    "output": "The polar bear, which lives on the polar ice-cap, will lose its home and die out.",
+    "index": "FAc_778"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その釣り人は釣り糸に強い引きを感じた。",
+    "output": "The angler felt a strong tug on the line.",
+    "index": "FAc_779"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私はメアリーの助けに感謝した。",
+    "output": "I thanked Mary for her help.",
+    "index": "FAc_780"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "髪の毛がべとべとしている。",
+    "output": "My hair is greasy.",
+    "index": "FAc_781"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "数冊の案内書を買ったが、どれも私の助けにはならなかった。",
+    "output": "I bought several guidebooks, none of which helped me.",
+    "index": "FAc_782"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女はカフェテリアでコーヒーを飲んでいるかもしれない。",
+    "output": "She might be having coffee in the cafeteria.",
+    "index": "FAc_783"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "別の手だてを講じるだろう。",
+    "output": "They will lay another scheme.",
+    "index": "FAc_784"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は昨夜遅く帰宅した。",
+    "output": "He came home late last night.",
+    "index": "FAc_785"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "このケーキを作るには小麦粉、砂糖、卵が必要だ。",
+    "output": "We need flour, sugar and eggs to make this cake.",
+    "index": "FAc_786"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "この組織はまとまりに欠ける。",
+    "output": "This organization lacks unity.",
+    "index": "FAc_787"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私の心臓が止まるような気がした。",
+    "output": "My heart stopped beating.",
+    "index": "FAc_788"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その子は危うく溺れるところであった。",
+    "output": "The child was almost drowned.",
+    "index": "FAc_789"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ピクニックは案外つまらなかった。",
+    "output": "The picnic was a disappointment.",
+    "index": "FAc_790"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "たくさんの人がそこを歩いている。",
+    "output": "There are a lot of people walking there.",
+    "index": "FAc_791"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "警察はそのグループの動静を常に監視する。",
+    "output": "The police is always watching the movements of the group.",
+    "index": "FAc_792"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ちょうど君が欲しがっていた本だ。",
+    "output": "This is the very book you wanted.",
+    "index": "FAc_793"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "たこを上げることが危険なこともある。",
+    "output": "Flying a kite can be dangerous.",
+    "index": "FAc_794"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "あさってもし雨が降れば、私は家にいます。",
+    "output": "If it rains the day after tomorrow, I will stay at home.",
+    "index": "FAc_795"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "床屋さんがあなたの髪をとても短く切りましたね。",
+    "output": "The barber has cut your hair very short.",
+    "index": "FAc_796"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "兄は私にジーパンをくれた。",
+    "output": "My brother gave me a pair of jeans.",
+    "index": "FAc_797"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "娘の父親は金離れがいい。",
+    "output": "Her father is liberal with money.",
+    "index": "FAc_798"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "火事があったので、私はびっくりして目を覚ました。娘の父はお金をよく払ってくれる。",
+    "output": "I awoke with a start because of the fire.",
+    "index": "FAc_799"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "小屋は次々に風で吹き倒された。",
+    "output": "The cottages were blown down one after another.",
+    "index": "FAc_800"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼はナイフで左手を傷つけた。",
+    "output": "He hurt his left hand with a knife.",
+    "index": "FAc_801"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は商売をたたんで引退した。",
+    "output": "He sold his business and retired.",
+    "index": "FAc_802"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "この問題はそれよりやさしい。",
+    "output": "This problem is easier than that.",
+    "index": "FAc_803"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ケンはどうしても私のいうことを聞こうとしなかった。",
+    "output": "No matter what I did, Ken wouldn't do what I told him.",
+    "index": "FAc_804"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼はその老婆を助けることに同意した。",
+    "output": "He consented to help the old lady.",
+    "index": "FAc_805"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は勇敢な男だったが、その光景にはたじろいだ。",
+    "output": "Brave man as he was, he recoiled at the sight.",
+    "index": "FAc_806"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "商売は下り坂である。",
+    "output": "Business is declining.",
+    "index": "FAc_807"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "失礼ですがホワイト博士ではございませんか。",
+    "output": "Excuse me, but aren't you Dr. White?",
+    "index": "FAc_808"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "この時計会社の優れた技巧は群を抜いている。",
+    "output": "The quality of craftsmanship in this clock company is unsurpassed.",
+    "index": "FAc_809"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女が急に現れて彼は当惑した。",
+    "output": "She was embarrassed by his sudden appearance.",
+    "index": "FAc_810"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "内部分裂した家は倒れる。",
+    "output": "A house divided against itself can't stand.",
+    "index": "FAc_811"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は卑怯者には我慢ならない。",
+    "output": "I have no tolerance of cowards.",
+    "index": "FAc_812"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "経済白書を読んでから、我が国の財政状態が私に正しく、わかってきた。",
+    "output": "After having read the economic white paper, I am beginning to see the light on our financial standing.",
+    "index": "FAc_813"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は外出しないように言われたので、その忠告にしたがった。",
+    "output": "I was told not go out, which advice I followed.",
+    "index": "FAc_814"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は昼も夜も一生懸命働かなけばならなかった。",
+    "output": "He had to work hard day and night.",
+    "index": "FAc_815"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "僕は数学をあきらめるよ。",
+    "output": "I'm going to give up math.",
+    "index": "FAc_816"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "タバコを吸ってもかまいませんか。",
+    "output": "Do you mind if I smoke?",
+    "index": "FAc_817"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は来た人みんなに愛嬌をふりまいた。",
+    "output": "She turned on her charm for everyone who was there.",
+    "index": "FAc_818"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "目が覚めてみると私はとこに寝ていた。",
+    "output": "I awoke to find myself lying on the floor.",
+    "index": "FAc_819"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私たちはその２人の少年をくまなく捜したが、２人とも見つからなかった。",
+    "output": "We searched for the two boys everywhere, but neither could be found.",
+    "index": "FAc_820"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私達は同社に５０％出資している。",
+    "output": "We have a 50% interest in the company.",
+    "index": "FAc_821"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "目を覚ますと、家族が来ていた。",
+    "output": "When she awoke, the family was there.",
+    "index": "FAc_822"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "神の御加護がありますように。",
+    "output": "May God keep you!",
+    "index": "FAc_823"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ケンは彼女にパーティーに招待されるだろう。",
+    "output": "Ken will be invited to the party by her.",
+    "index": "FAc_824"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は不動産屋にもう少し値引きするよう交渉した。",
+    "output": "He bargained with the house agent for a lower price.",
+    "index": "FAc_825"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私はスキーでけがをした。",
+    "output": "I was injured while I was skiing.",
+    "index": "FAc_826"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その整髪料は強いにおいを発した。",
+    "output": "The hair-dressing liquid gave off a strong smell.",
+    "index": "FAc_827"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私たちは旅を続けないのが賢明だと思った。",
+    "output": "We thought it wise not to continue our trip.",
+    "index": "FAc_828"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "狼と犬の区別がつきますか。",
+    "output": "Can you tell wolves from dogs?",
+    "index": "FAc_829"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "紙飛行機はゆっくり地上に落ちた。",
+    "output": "The paper plane fell slowly to earth.",
+    "index": "FAc_830"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ディケンズは「オリバーツイスト」の著者だ。",
+    "output": "Dickens was the author of 'Oliver Twist'.",
+    "index": "FAc_831"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は書籍売り場を担当している。",
+    "output": "I'm in charge of the book department.",
+    "index": "FAc_832"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "吊革におつかまり下さい。",
+    "output": "Please hang onto the strap.",
+    "index": "FAc_833"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "波が岩に激しくぶつかった。",
+    "output": "The waves dashed against the rocks.",
+    "index": "FAc_834"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "国会は３ヶ月間休会になる。",
+    "output": "The Diet will adjourn for three months.",
+    "index": "FAc_835"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "目的は手段を選ばない。",
+    "output": "The end justifies the means.",
+    "index": "FAc_836"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "たとえどちらを選んでも、損はしないよ。",
+    "output": "Whichever you choose, you cannot lose.",
+    "index": "FAc_837"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "いくら一生懸命働いても、彼の暮らしは少しも良くならなかった。",
+    "output": "However hard he worked, he did not become any better off.",
+    "index": "FAc_838"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼の成功は努力の賜物だと彼女は言った。",
+    "output": "She said that his success was the result of effort.",
+    "index": "FAc_839"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "文体が作家に持つ関係は、色彩が画家に対するのと同じである。",
+    "output": "Style is to the writer what color is to the painter.",
+    "index": "FAc_840"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "そんなものに飛びつくのはばかだ。",
+    "output": "If you bite at it, you're a fool.",
+    "index": "FAc_841"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "農夫たちは干天のため冬作の穀物は不作だろうとなげいた。",
+    "output": "The farmers complained that because of the dry weather there would be a poor harvest of winter grain.",
+    "index": "FAc_842"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "どうして君はそれを信じる気になったのか。",
+    "output": "What led you to believe it?",
+    "index": "FAc_843"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "この道はとてもせまいので車は通れません。",
+    "output": "This road is too narrow for cars to pass.",
+    "index": "FAc_844"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "セールスマンはその使い方を実演した。",
+    "output": "The salesman demonstrated how to use it.",
+    "index": "FAc_845"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼らは我々に服従を求めた。",
+    "output": "They enforced obedience upon us.",
+    "index": "FAc_846"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼らもいつか幸福になる日もあろう。",
+    "output": "They may yet be happy.",
+    "index": "FAc_847"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女の歓迎会を行った。",
+    "output": "We had a welcome party for her.",
+    "index": "FAc_848"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私たちが駅に着くやいなや雨が降り始めた。",
+    "output": "No sooner had we reached the station than it began to rain.",
+    "index": "FAc_849"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は子供１人にりんごを２個ずつ分けている。",
+    "output": "She is dealing out two apples to each child.",
+    "index": "FAc_850"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "昨夜家に泥棒がはいった。",
+    "output": "My house was broken into last night.",
+    "index": "FAc_851"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私たちは、赤ちゃんが目覚めないように低い声で話しました。",
+    "output": "We talked in a low voice so as not to wake the baby.",
+    "index": "FAc_852"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ジェーンは背を木にもたれかけて待っていた。",
+    "output": "Jane was waiting with her back against the tree.",
+    "index": "FAc_853"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は顔をそむけて泣き始めた。",
+    "output": "She turned away and began to cry.",
+    "index": "FAc_854"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "あのように努力したから君は成功するに違いない。",
+    "output": "You must succeed after such efforts.",
+    "index": "FAc_855"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "冗談をおもしろいと思うかどうかは、主として育った場所による。",
+    "output": "Whether we find a joke funny or not largely depends on where we have been brought up.",
+    "index": "FAc_856"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "あなたは両親を尊敬していますか。",
+    "output": "Do you look up to your parents?",
+    "index": "FAc_857"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "君の成功は全くうらやましい。",
+    "output": "Your success excites my envy.",
+    "index": "FAc_858"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は弟たちに強い愛情を抱いている。",
+    "output": "She has a great affection for her little brothers.",
+    "index": "FAc_859"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は現在アパート暮らしをしている。",
+    "output": "He is living in an apartment at present.",
+    "index": "FAc_860"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は写真を撮るのが上手だ。",
+    "output": "He is good at taking photos.",
+    "index": "FAc_861"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "政府はその問題を調査するために委員会を設立した。",
+    "output": "The government has set up a committee to look into the problem.",
+    "index": "FAc_862"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "もし彼のタイムリーヒットがなかったら、私たちのチームは試合に負けていただろう。",
+    "output": "If it had not been for his timely hit, our team would have lost the game.",
+    "index": "FAc_863"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "あの女はいつも人のあら探しばかりしている。",
+    "output": "She is always finding fault with other people.",
+    "index": "FAc_864"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "週末に泳ぎにいきませんか。",
+    "output": "How about going for a swim this weekend?",
+    "index": "FAc_865"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私たちは、彼がそれを一人でやったのかどうか疑問をもっている。",
+    "output": "We have the question whether he did it by himself or not.",
+    "index": "FAc_866"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ここであなたに会えてうれしい。",
+    "output": "I am happy to see you here.",
+    "index": "FAc_867"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女にはよくあることだが、きょうの午後の会合に遅れた。",
+    "output": "As is often the case with her, she was late for the meeting this afternoon.",
+    "index": "FAc_868"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "休日を私達は楽しみに待っています。",
+    "output": "We are looking forward to the holidays.",
+    "index": "FAc_869"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は手を差し出した。",
+    "output": "She held out her hand.",
+    "index": "FAc_870"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私にとってそれは困難だ。",
+    "output": "It is difficult for me.",
+    "index": "FAc_871"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は家に火災保険をかけた。",
+    "output": "He insured his house against fire.",
+    "index": "FAc_872"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "野菜の値段は日々変わる。",
+    "output": "The price of vegetables varies from day to day.",
+    "index": "FAc_873"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私はどうしても君の言う事が理解できない。",
+    "output": "For the life of me I can't understand what you say.",
+    "index": "FAc_874"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "あいにく朝の通勤ラッシュにぶつかった。",
+    "output": "Unfortunately I hit the morning rush hour.",
+    "index": "FAc_875"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "真実を知ることは本当に難しいが真実を語ることはなおさら難しい。",
+    "output": "It is truly difficult to know the truth, and still more difficult to speak it.",
+    "index": "FAc_876"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "政治的に不穏な空気が流れていた。",
+    "output": "Political unrest was in the air.",
+    "index": "FAc_877"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女に話し掛けるのはよそう。",
+    "output": "Let's not talk to her.",
+    "index": "FAc_878"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "細かい所は省いて構わない。",
+    "output": "You may leave out the details.",
+    "index": "FAc_879"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "日本の米の消費は減少している。",
+    "output": "Japan's consumption of rice is decreasing.",
+    "index": "FAc_880"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "子供たちは、勉強の挫折に対してあまりがまん強さを示さない。",
+    "output": "Children exhibit a low tolerance for the frustrations of learning.",
+    "index": "FAc_881"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "君は明日学校を休まなければならないだろう。",
+    "output": "You'd better not go to school tomorrow.",
+    "index": "FAc_882"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "「泣きっ面に蜂」だな。",
+    "output": "It's a double whammy.",
+    "index": "FAc_883"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "君たちの決定に賛成しない。",
+    "output": "I don't approve your decision.",
+    "index": "FAc_884"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼はその光景を見て泣きたくなった。",
+    "output": "He felt like crying at the sight.",
+    "index": "FAc_885"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "熱は水を蒸気に変える。",
+    "output": "Heat turns water into steam.",
+    "index": "FAc_886"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "この小包を郵便局へもっていってください。",
+    "output": "Please take this parcel to the post office.",
+    "index": "FAc_887"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "馬術競技は男女混合で行われる唯一のオリンピック競技です。",
+    "output": "Equestrian is the only mixed-gender Olympic event.",
+    "index": "FAc_888"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "あいつの損を埋めてやらなくちゃならないんだ。",
+    "output": "I have to cover his loss.",
+    "index": "FAc_889"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "湖は緑の丘に囲まれている。",
+    "output": "The lake is surrounded by green hills.",
+    "index": "FAc_890"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は、損をしている。",
+    "output": "He is out of pocket.",
+    "index": "FAc_891"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "首相は彼らを内閣の主要ポストに任命した。",
+    "output": "The prime minister appointed them to key Cabinet posts.",
+    "index": "FAc_892"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "突然鋭い叫び声が聞こえた。",
+    "output": "All at once, I heard a shrill cry.",
+    "index": "FAc_893"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼の借金は合計１０００ドル以上になる。",
+    "output": "His debts amount to over $1000.",
+    "index": "FAc_894"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "歯磨きをしなさい。",
+    "output": "Brush your teeth.",
+    "index": "FAc_895"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私はクラスのある少年に惹き付けられた。",
+    "output": "I am attracted to a certain boy in my class.",
+    "index": "FAc_896"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼はその謎を難なく解いた。",
+    "output": "He had no difficulty in explaining the mystery.",
+    "index": "FAc_897"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼らの上着は同じ色だった。",
+    "output": "Their coats were uniform in color.",
+    "index": "FAc_898"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その試合に彼は興奮した。",
+    "output": "The game made him excited.",
+    "index": "FAc_899"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "日本の論者にはこういう謙遜な態度が少ないのが残念だと思います。",
+    "output": "I feel it unfortunate that there is little of this kind of humble attitude amongst Japanese debaters.",
+    "index": "FAc_900"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "地図をかきましょうか。",
+    "output": "Shall I draw a map for you?",
+    "index": "FAc_901"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "子供がなかなか寝つかないので大変だった。",
+    "output": "I had a hard time putting the kid to bed.",
+    "index": "FAc_902"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼らは険しい北面を登った。",
+    "output": "They climbed the rugged north face.",
+    "index": "FAc_903"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "もし父親の援助がなかったら、彼は事業に失敗していただろう。",
+    "output": "If it had not been for his father's help, he would have failed in business.",
+    "index": "FAc_904"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "会合には１２人が出席している。",
+    "output": "Twelve are present at the meeting.",
+    "index": "FAc_905"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "どうぞおくつろぎ下さい。",
+    "output": "Please make yourself at home.",
+    "index": "FAc_906"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "初志を貫徹したらどうですか。",
+    "output": "Why don't you carry out what you've set out to do?",
+    "index": "FAc_907"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼の体温は正常だ。",
+    "output": "His temperature is normal.",
+    "index": "FAc_908"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "そもそも君が来たとは驚いた。",
+    "output": "I'm surprised you came at all.",
+    "index": "FAc_909"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "大気と水質の汚染の問題は住民の増加によってひどくなるだろう。",
+    "output": "The problems of air and water pollution will be intensified by the growth of inhabitants.",
+    "index": "FAc_910"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "パーティーに来たい人はだれでも来てよい。",
+    "output": "Whoever wants to come to my party may come.",
+    "index": "FAc_911"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は何でも屋だ。",
+    "output": "He is an all-round man.",
+    "index": "FAc_912"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "昔彼らはのろしで通信していた。",
+    "output": "In the early days people communicated by smoke signals.",
+    "index": "FAc_913"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私はいつも朝食前に新聞に目を通す。",
+    "output": "I always have a look at the newspaper before breakfast.",
+    "index": "FAc_914"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "忙しくてそれどころじゃないよ。",
+    "output": "I've got no time for that now.",
+    "index": "FAc_915"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は素行不良で１週間の停学を受けた。",
+    "output": "He was suspended from school for a week for bad conduct.",
+    "index": "FAc_916"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼の勇気は賞賛に値する。",
+    "output": "His bravery is worthy of praise.",
+    "index": "FAc_917"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は野生の花が好きです。",
+    "output": "I like wild flowers.",
+    "index": "FAc_918"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "赤字は徐々に減少している。",
+    "output": "The deficit has been diminishing little by little.",
+    "index": "FAc_919"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その子供たちは歌いながら去って行った。",
+    "output": "Those children went away, singing a song.",
+    "index": "FAc_920"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "それからバスは町を出て、田舎道を走っていきました。",
+    "output": "Then the bus left the town and drove along a country road.",
+    "index": "FAc_921"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "このわらのマット（日本語で畳）は、もはや手で作られない。",
+    "output": "These straw mats, called \"tatami\" in Japanese, are no longer made by hand.",
+    "index": "FAc_922"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "妹と私はときどき映画に行きます。",
+    "output": "My sister and I go to the movies from time to time.",
+    "index": "FAc_923"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "スティーブは先週したスピード違反に５０ドルも払わなければならなかった。",
+    "output": "Steve had to shell out $50.00 for the speeding ticket he got last week.",
+    "index": "FAc_924"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は学校に遅刻したことがないのを誇りにしている。",
+    "output": "He is proud of never having been late for school.",
+    "index": "FAc_925"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ほらごらんなさい。長くなかったでしょ。",
+    "output": "There! That wasn't long, was it?",
+    "index": "FAc_926"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "あの先生は生徒の扱い方がうまい。",
+    "output": "The teacher handles his pupils well.",
+    "index": "FAc_927"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は大きな箱を両腕に抱えていた。",
+    "output": "He was holding a large box in his arms.",
+    "index": "FAc_928"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "悪い習慣を取り除くのは容易ではない。",
+    "output": "It is not easy to get rid of a bad habit.",
+    "index": "FAc_929"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その老人は私に奇妙な話をしてくれた。",
+    "output": "The old man told me a strange story.",
+    "index": "FAc_930"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼が家にいることは明白だ。",
+    "output": "It is clear that he is at home.",
+    "index": "FAc_931"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "航空機の発達のおかげで、世界はずっと狭くなった。",
+    "output": "Thanks to the development of aircraft, the world has become much smaller.",
+    "index": "FAc_932"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "偽りの友達なんて要らない。",
+    "output": "I don't need fake friends.",
+    "index": "FAc_933"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼に彼はまだ重要な人物なのだということを感じさせて下さい。",
+    "output": "Make him feel that he is still someone important.",
+    "index": "FAc_934"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼らの決定は重大な結果を招くだろう。",
+    "output": "Their decision will bring about serious consequences.",
+    "index": "FAc_935"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "良識のある人ならそんな風に君に話しかけないだろう。",
+    "output": "A man of sense wouldn't speak to you like that.",
+    "index": "FAc_936"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "貧者を見下してはいけない。",
+    "output": "Don't look down on the poor.",
+    "index": "FAc_937"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女の微笑みで私は彼女の私への信頼を確信した。",
+    "output": "Her smile convinced me of her trust in me.",
+    "index": "FAc_938"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "町中の人がその事実を知っている。",
+    "output": "The fact is known to everyone in the town.",
+    "index": "FAc_939"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は川で泳いでいるうちに溺死しました。",
+    "output": "He drowned while swimming in the river.",
+    "index": "FAc_940"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私達は下等動物の生き延び方についていろいろと知っている。",
+    "output": "We have learned much about survival from lower forms of animal life.",
+    "index": "FAc_941"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "この英語の小説は、君が一週間で読めるほどやさしくない。",
+    "output": "This English novel is not easy enough for you to read in a week.",
+    "index": "FAc_942"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "栄養価の高い食事をするようにしてください。",
+    "output": "You have to eat nutritious foods.",
+    "index": "FAc_943"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "物価は上がり目だった。",
+    "output": "Prices showed a tendency of going up.",
+    "index": "FAc_944"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は幸福の絶頂から不幸のどん底へ突き落とされた。",
+    "output": "She was dropped from the height of happiness into the depth of misery.",
+    "index": "FAc_945"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "劇はとても面白かった。君も行けばよかったのに。",
+    "output": "The play was very amusing; you ought to have gone there.",
+    "index": "FAc_946"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "これを三つください。",
+    "output": "I'd like three of these.",
+    "index": "FAc_947"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は恐ろしい夢を見た。",
+    "output": "I had a terrible dream.",
+    "index": "FAc_948"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "君はお兄さんにそっくりだよ。",
+    "output": "You look just like your big brother.",
+    "index": "FAc_949"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その記事は昨日記事解禁となった。",
+    "output": "The press ban on the case was removed yesterday.",
+    "index": "FAc_950"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "エレンはたいそう疲れていたので早く寝た。",
+    "output": "Ellen was so tired that she went to bed early.",
+    "index": "FAc_951"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "バスの車掌は彼女に、料金を払えないので降りるようにと言った。",
+    "output": "The bus conductor told her to get off because she could not pay the fare.",
+    "index": "FAc_952"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "葡萄酒を一杯いかがですか。",
+    "output": "Would you like another glass of wine?",
+    "index": "FAc_953"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "それぞれの品物に値札をつけなさい。",
+    "output": "Put price labels on each individual item.",
+    "index": "FAc_954"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は仕事にたいへん熱中している。",
+    "output": "He shows great enthusiasm for his work.",
+    "index": "FAc_955"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "息子はあなたにおまかせする。",
+    "output": "I commit my son to your care.",
+    "index": "FAc_956"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "来年のことを言うと鬼が笑う。",
+    "output": "Speak of the next year, and the devil will laugh.",
+    "index": "FAc_957"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "おまえ、変わってるな。",
+    "output": "You're weird.",
+    "index": "FAc_958"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "我々のコンピューター・システムには最初若干のトラブルがあったが、今は全部解決されている。",
+    "output": "Initially we had some problems with our computer system, but they've been sorted out now.",
+    "index": "FAc_959"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ダブルのバスつきの部屋がいいです。",
+    "output": "I'd like a double with a bath.",
+    "index": "FAc_960"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ケイコちゃんは、相変わらず、魅力的な微笑みを見せてくれました。",
+    "output": "As always, Keiko showed us a pleasant smile.",
+    "index": "FAc_961"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "新薬が彼の命を救った。",
+    "output": "The new medicine saved his life.",
+    "index": "FAc_962"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "我々はエネルギー資源を浪費してはいけない。",
+    "output": "We mustn't waste our energy resources.",
+    "index": "FAc_963"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その男の子は茶色の靴を履いていました。",
+    "output": "I saw the boy in brown shoes.",
+    "index": "FAc_964"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "看護婦たちは毎日へとへとになるまで働かされた。",
+    "output": "The nurses were run off their feet every day.",
+    "index": "FAc_965"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼らは天気についておしゃべりした。",
+    "output": "They chatted about the weather.",
+    "index": "FAc_966"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "静粛にしていなさい。",
+    "output": "Keep quiet!",
+    "index": "FAc_967"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "アジアからの留学生は日本語同様に英語も話す。",
+    "output": "Students from Asia studying abroad speak English too, just as Japanese students do.",
+    "index": "FAc_968"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女はボーイフレンドと別れるつもりだ。",
+    "output": "She is going to part from her boyfriend.",
+    "index": "FAc_969"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "子供のころ彼女は上手に歌えた。",
+    "output": "She could sing well when she was a child.",
+    "index": "FAc_970"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "日本チームはその試合で金メダルを獲得した。",
+    "output": "The Japan team won the gold medal in the game.",
+    "index": "FAc_971"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "先日、そのにぎやかな広場で恐ろしい事が起こった。",
+    "output": "The other day, something horrible happened in the busy square.",
+    "index": "FAc_972"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は大変正直な男の子なのでうそはつかない。",
+    "output": "He is such an honest boy that he never tells a lie.",
+    "index": "FAc_973"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私達のすべてが彼の考えに反対しているわけではない。",
+    "output": "Not all of us are against his idea.",
+    "index": "FAc_974"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は二日間ここに滞在するつもりです。",
+    "output": "I am going to stay here for a couple of days.",
+    "index": "FAc_975"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "徳川幕府は１８６８年に終わりを告げた。",
+    "output": "The Tokugawa Shogunate came to an end in 1868.",
+    "index": "FAc_976"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は交通事故で重傷を負った。",
+    "output": "He was seriously injured in a traffic accident.",
+    "index": "FAc_977"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "洋子はバレーボールの主将です。",
+    "output": "Yoko is the captain of the volleyball team.",
+    "index": "FAc_978"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "それは千円以下では買えません。",
+    "output": "You can't buy it under 1,000 yen.",
+    "index": "FAc_979"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼に電話をかけるつもりだったが、考え直してやめた。",
+    "output": "I was going to call him, but thought better of it.",
+    "index": "FAc_980"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その車には屋根に荷台がついています。",
+    "output": "That car has a roof rack.",
+    "index": "FAc_981"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "我々は彼を見失った。",
+    "output": "We have lost sight of him.",
+    "index": "FAc_982"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "家主は彼がドアを赤く塗ることを許してくれない。",
+    "output": "The landlord won't permit him to paint the door red.",
+    "index": "FAc_983"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼らは地面に座るか、ラマかアルパカの毛糸でできた毛布の上に座る。",
+    "output": "They sit on the ground or on blankets made of the wool of the llama or alpaca.",
+    "index": "FAc_984"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼のバイオリンの保険料は年額２００ドルだ。",
+    "output": "The insurance on his violin costs $200 a year.",
+    "index": "FAc_985"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "若い人たちの体格が非常に良くなったのは喜ばしいことである。",
+    "output": "It is a matter for joy that young men's physique has very much improved.",
+    "index": "FAc_986"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "このミルクは少々酸っぱい味がする。",
+    "output": "This milk tastes rather sour.",
+    "index": "FAc_987"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "みなさまがお揃いになったので、送別会を始められます。",
+    "output": "Now that we are all here, we can start the farewell party.",
+    "index": "FAc_988"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼の勇気ある行為が彼に栄光をもたらした。",
+    "output": "His acts of courage brought him glory.",
+    "index": "FAc_989"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "読書は精神を育てる。",
+    "output": "Reading develops the mind.",
+    "index": "FAc_990"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ここへは、商用で来ています。",
+    "output": "I am here on business.",
+    "index": "FAc_991"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は父親を説得しようとした。",
+    "output": "She attempted to persuade her father.",
+    "index": "FAc_992"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "君はあくまでも約束を守らなければならない。",
+    "output": "You must stick to your promise.",
+    "index": "FAc_993"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "会合は先月あった。",
+    "output": "The meeting was last month.",
+    "index": "FAc_994"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "こちらへやってくる少年とその犬をごらんなさい。",
+    "output": "Look at the boy and his dog that are coming this way.",
+    "index": "FAc_995"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "すべては君の意志ひとつだ。",
+    "output": "Everything depends upon your decision.",
+    "index": "FAc_996"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼らは大したお金もなしにどうにか暮らしている。",
+    "output": "They manage to get along without much money.",
+    "index": "FAc_997"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "こんな簡単なことわざを知らない者はいない。",
+    "output": "Who doesn't know such a simple proverb?",
+    "index": "FAc_998"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼らは祖国を守った。",
+    "output": "They defended their country.",
+    "index": "FAc_999"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "妹がうまれた日のことはよくおぼえています。",
+    "output": "Well do I remember the day when my sister was born.",
+    "index": "FAc_1000"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼はうそつきにすぎないことがわかった。",
+    "output": "He turned out to be nothing but a liar.",
+    "index": "FAc_1001"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "結婚した翌年に女の子が生まれた。",
+    "output": "I had a baby girl the year after I got married.",
+    "index": "FAc_1002"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "人は音楽によってたくさんの喜びを与えられます。",
+    "output": "People are given a lot of pleasure by music.",
+    "index": "FAc_1003"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "何て図々しい奴だ！",
+    "output": "You have a lot of nerve!",
+    "index": "FAc_1004"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "この手紙を書き終えたら、あの山の２マイルほど先の湖水にご案内しましょう。",
+    "output": "When I have finished writing the letter, I will take you to the lake about two miles beyond the hill.",
+    "index": "FAc_1005"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は自分が天才であると思っていた。",
+    "output": "He thought that he was a genius.",
+    "index": "FAc_1006"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "フラフラ迷っていたんだ。",
+    "output": "I've been wandering around.",
+    "index": "FAc_1007"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼が木をのこぎりでひいているのを見た。",
+    "output": "I saw him sawing a tree.",
+    "index": "FAc_1008"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "たいてい外で飲み会をします。",
+    "output": "We usually go out for drinking parties.",
+    "index": "FAc_1009"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "叔父は退職したので、何もすることがありません。",
+    "output": "My uncle has retired so he is at loose ends.",
+    "index": "FAc_1010"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "昨日になって初めてわれわれはその動物がいなくなっているのに気づいた。",
+    "output": "It was not until yesterday that we noticed the animal missing.",
+    "index": "FAc_1011"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "アレックスはだいたいは普通の鳥なのだ。",
+    "output": "Alex is for the most part just an ordinary bird.",
+    "index": "FAc_1012"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "これは私が工夫した計画です。",
+    "output": "This is a plan of my own devising.",
+    "index": "FAc_1013"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は私に対し敵対的だ。",
+    "output": "She is hostile to me.",
+    "index": "FAc_1014"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は、新聞配達をしてお金をかせいだ。",
+    "output": "He earned money by delivering newspapers.",
+    "index": "FAc_1015"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女の手はじっとしていない。",
+    "output": "Her hands are never still.",
+    "index": "FAc_1016"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "もしも全額お支払いいただけないのでしたら、１９９８年１０月２８日までにご連絡ください。",
+    "output": "If you cannot make full remittance, please get in touch with me by October 28, 1998.",
+    "index": "FAc_1017"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "きっと友達になれると思います。",
+    "output": "I think we can be friends.",
+    "index": "FAc_1018"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "君の作文はたいへんよくできていて、ほとんど間違いがない。",
+    "output": "Your composition is very good, and it has few mistakes.",
+    "index": "FAc_1019"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "生徒たちは大いに先生を尊敬して入る。",
+    "output": "The students hold their teacher in high regard.",
+    "index": "FAc_1020"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "我々の新しい先生は大学を出たてだ。",
+    "output": "Our new teacher is fresh out of college.",
+    "index": "FAc_1021"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "農民が穀物の種を蒔いた。",
+    "output": "The peasant scattered the seeds of grain.",
+    "index": "FAc_1022"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "少年たちはいかだで川をくだった。",
+    "output": "The boy went down the river on a raft.",
+    "index": "FAc_1023"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "女性はレスリングは好まないが男性はふつうに好きだ。",
+    "output": "Men usually like wrestling as women do not.",
+    "index": "FAc_1024"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "僕は君のことばかり考えている。",
+    "output": "I am thinking of nothing but you.",
+    "index": "FAc_1025"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "君は今日は彼女に会わないほうがいい。",
+    "output": "You had better not see her today.",
+    "index": "FAc_1026"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "数羽の鳥が空を飛んでいた。",
+    "output": "Several birds were flying in the air.",
+    "index": "FAc_1027"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その家は我々から光を奪った。",
+    "output": "The house deprived us of light.",
+    "index": "FAc_1028"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は書物や音楽にはほとんど興味を示さなかった。",
+    "output": "He showed little interest in books or music.",
+    "index": "FAc_1029"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は連中に有り金を全部くれてやった。",
+    "output": "He gave away all his money.",
+    "index": "FAc_1030"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "米の値段が下がった。",
+    "output": "The price of rice has come down.",
+    "index": "FAc_1031"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "お返事頂けるのを楽しみにしております。",
+    "output": "I'm looking forward to hearing from you.",
+    "index": "FAc_1032"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "これもリンゴです。",
+    "output": "This is an apple, too.",
+    "index": "FAc_1033"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女はパーティーに行きたがっている。",
+    "output": "She wants to attend the party.",
+    "index": "FAc_1034"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は、それはあまりに急な知らせだと彼にぐちをこぼした。",
+    "output": "She complained to him that it was too short a notice.",
+    "index": "FAc_1035"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼の脈は規則正しいですか。",
+    "output": "Is his pulse regular?",
+    "index": "FAc_1036"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "包みを開けて下さい。",
+    "output": "Please undo the package.",
+    "index": "FAc_1037"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は大の犬嫌いだ。",
+    "output": "She has great hate for dogs.",
+    "index": "FAc_1038"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "休暇で留守をしている間、子供のめんどうをみてくれますか。",
+    "output": "Would you look after my children while I am away on vacation?",
+    "index": "FAc_1039"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼はいつも他人のあら捜しをしたがる。",
+    "output": "He is always ready to find fault with other people.",
+    "index": "FAc_1040"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "何か珍しいことがありますか。",
+    "output": "What is the news?",
+    "index": "FAc_1041"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "財産は相続人たちの間で平等に分けられた。",
+    "output": "The property was divided equally among the heirs.",
+    "index": "FAc_1042"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "今晩は多くの星が見える。",
+    "output": "We can see many stars tonight.",
+    "index": "FAc_1043"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "この銃には弾が入っていません。",
+    "output": "This gun is out of bullets.",
+    "index": "FAc_1044"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "ジョンとメアリーはいつも手をつないで歩く。",
+    "output": "John and Mary always walk hand in hand.",
+    "index": "FAc_1045"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は警官に対して急に開き直った。",
+    "output": "He suddenly took a defiant attitude toward the police officer.",
+    "index": "FAc_1046"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼が不平を言うのももっともだ。",
+    "output": "He complains with good reason.",
+    "index": "FAc_1047"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "水は充分に加熱すると沸騰する。",
+    "output": "Water will boil if heated enough.",
+    "index": "FAc_1048"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は相変わらず若々しい。",
+    "output": "She looks as young as ever.",
+    "index": "FAc_1049"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その部屋は針仕事ができるほど明るくない。",
+    "output": "There's not enough light in this room for sewing.",
+    "index": "FAc_1050"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "７月にしては今日はすずしい。",
+    "output": "It's cool today for July.",
+    "index": "FAc_1051"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "給料は年齢と経験に応じて決まっている。",
+    "output": "The salary is fixed according to age and experience.",
+    "index": "FAc_1052"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "メッセージをもう一度読みなさい。",
+    "output": "Read the message once more.",
+    "index": "FAc_1053"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "宗教には恐怖と愛情という二つの大きな動機がある。",
+    "output": "In religion there are the two great motives of fear and love.",
+    "index": "FAc_1054"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女はショックで口もきけなかった。",
+    "output": "She was too shocked to speak.",
+    "index": "FAc_1055"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "以前とは人生観も変わった。",
+    "output": "I now view life differently than I used to.",
+    "index": "FAc_1056"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼は車を売る仕事に従事している。",
+    "output": "He is engaged in selling cars.",
+    "index": "FAc_1057"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼らはその問題に最終的な決着をつけた。",
+    "output": "They have solved the problem once and for all.",
+    "index": "FAc_1058"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "お店に入ったら店員が「いらっしゃいませ」と言った。",
+    "output": "I entered the shop, and a clerk said, \"May I help you?\"",
+    "index": "FAc_1059"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "トムは体力がついてきた。",
+    "output": "Tom has grown in strength.",
+    "index": "FAc_1060"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼の年収は１０万ドルを越える。",
+    "output": "His annual income is more than $100000.",
+    "index": "FAc_1061"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "アメリカ合衆国は共和国である。",
+    "output": "The United States is a republic.",
+    "index": "FAc_1062"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "遠くにぼんやりした明かりが見えた。",
+    "output": "We saw a dim light in the distance.",
+    "index": "FAc_1063"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "どの規則にも例外がある。",
+    "output": "There is an exception to every rule.",
+    "index": "FAc_1064"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "これ以上姉さんのすねかじりはやめたまえ！",
+    "output": "Don't live off your sister any more.",
+    "index": "FAc_1065"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "全ての商品及びレストランで割引が効くわけではありません。",
+    "output": "The discount can't be used for all goods or at all restaurants.",
+    "index": "FAc_1066"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "我がチームは大勝利を収めて帰国した。",
+    "output": "Our team came home in triumph.",
+    "index": "FAc_1067"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その机は引き出しが三つ付いている。",
+    "output": "The desk has three drawers.",
+    "index": "FAc_1068"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私たちが一冊の本を通読したとすれば、こんな安いものはないと言える。",
+    "output": "A book, if read through, may be said to be cheaper than anything else.",
+    "index": "FAc_1069"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私は彼といっしょに仕事をしたくなかったが、なんとか我慢してやった。",
+    "output": "I didn't want to work with him, but I made the best of it.",
+    "index": "FAc_1070"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その男は突然、銃を撃ち始めた。",
+    "output": "The man suddenly started shooting his gun.",
+    "index": "FAc_1071"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その男は彼女の顔に煙をぷっと吹きかけた。",
+    "output": "The man puffed smoke into her face.",
+    "index": "FAc_1072"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女は決してばか者ではない。",
+    "output": "She is by no means stupid.",
+    "index": "FAc_1073"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "何、彼に援助を求めるだけでいいさ。",
+    "output": "Well, you have only to ask for his help.",
+    "index": "FAc_1074"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "そっちの本は私のです。",
+    "output": "Those books are mine.",
+    "index": "FAc_1075"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その箱をひっくりかえさないように注意してくれ。",
+    "output": "Take care not to turn the box upside down.",
+    "index": "FAc_1076"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "これはバーゲン商品なので定価よりやすくなっているんじゃないですか。",
+    "output": "Aren't you selling this at a discount price?",
+    "index": "FAc_1077"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼の息子たちはしつけが、ちゃんとできていない。",
+    "output": "His sons are not properly brought up.",
+    "index": "FAc_1078"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "これに関して詳細は後で。",
+    "output": "See more hereof hereafter.",
+    "index": "FAc_1079"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "７カ国の首脳がその会議に出席した。",
+    "output": "The top leaders of seven countries attended the meeting.",
+    "index": "FAc_1080"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女はしばらくは私を見つめてばかりいた。",
+    "output": "For a while she did nothing but stare at me.",
+    "index": "FAc_1081"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "交通事故で彼は左手が使えなくなった。",
+    "output": "A traffic accident deprived him of the use of his left hand.",
+    "index": "FAc_1082"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "作物の出来不出来は試合中の選手達のボールの投げ方やけり方によって決まるものと信じられていたのです。",
+    "output": "It was believed that the success of their crops depended on the way the players threw or kicked the ball during the game.",
+    "index": "FAc_1083"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "冬にその山に登るなんて彼は無茶だ。",
+    "output": "He'd be crazy to climb the mountain in winter.",
+    "index": "FAc_1084"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "君は細心の注意を払って講義ノートを作成したほうがいい。",
+    "output": "I advise you to be careful in making notes for the lecture.",
+    "index": "FAc_1085"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "給料をもらったらすぐに返します。",
+    "output": "As soon as I get paid I will pay you back.",
+    "index": "FAc_1086"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "その棒のてっぺんには旗がついていた。",
+    "output": "There was a flag at the top of the pole.",
+    "index": "FAc_1087"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼はいぜんよりもずいぶん体重が増えている。",
+    "output": "He weighs a lot more than before.",
+    "index": "FAc_1088"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "翻訳は決して容易ではない。",
+    "output": "Translation is by no means easy.",
+    "index": "FAc_1089"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼女の怒りは彼の愚かな行動によって引き起こされた。",
+    "output": "Her anger was aroused by his silly actions.",
+    "index": "FAc_1090"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "遅刻したからといって、彼女を叱る気になれなかった。",
+    "output": "I didn't feel like scolding her for being late.",
+    "index": "FAc_1091"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "第５課を復習しましょう。",
+    "output": "Let's review Lesson 5.",
+    "index": "FAc_1092"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "一両日中に上京すると書き添えてあった。",
+    "output": "He added that he was coming up to town in a day or two.",
+    "index": "FAc_1093"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "父は入院中のおじを見舞いにいった。",
+    "output": "Father visited my uncle in hospital.",
+    "index": "FAc_1094"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "この切符では２人無料で入場できる。",
+    "output": "This ticket will admit two persons free.",
+    "index": "FAc_1095"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "喜びの涙が彼らのほおを流れた。",
+    "output": "Tears of joy rained down their cheeks.",
+    "index": "FAc_1096"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私には２人の兄弟と１人の姉がいる。",
+    "output": "I have two brothers and a sister.",
+    "index": "FAc_1097"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "私にとって、その話題は話し合う価値がある。",
+    "output": "As far as I'm concerned the topic is worth discussing.",
+    "index": "FAc_1098"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "それは科学における偉大な発見の一つだった。",
+    "output": "It was one of the great discoveries in science.",
+    "index": "FAc_1099"
+  },
+  {
+    "instruction": "以下の日本語を英語に翻訳してください。",
+    "input": "彼らのあざ笑いをふと耳にした。",
+    "output": "I overheard their mockery.",
+    "index": "FAc_1100"
+  }
+]

@@ -1,0 +1,5002 @@
+[
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムにバカって言われた。",
+    "output": "Tom called me stupid."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは頼りになるよ。",
+    "output": "Tom can be relied on."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは１０まで数えれます。",
+    "output": "Tom can count to ten."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは１０まで数えることができます。",
+    "output": "Tom can count to ten."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはフルートが吹けます。",
+    "output": "Tom can play a flute."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはフランス語が出来る。",
+    "output": "Tom can speak French."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはフランス語が話せます。",
+    "output": "Tom can speak French."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはチェスができないんだよ。",
+    "output": "Tom can't play chess."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムがカボチャを彫ったんだ。",
+    "output": "Tom carved a pumpkin."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムね、ネズミを捕まえたんだ。",
+    "output": "Tom caught the mouse."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは時間を確認した。",
+    "output": "Tom checked the time."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムがビールを一気飲みしたんだ。",
+    "output": "Tom chugged his beer."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムったらビールを一気に飲み干したのよ。",
+    "output": "Tom chugged his beer."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムが朝ご飯を作ったのよ。",
+    "output": "Tom cooked breakfast."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはスパゲッティを作った。",
+    "output": "Tom cooked spaghetti."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは、私たちに料理を振る舞ってくれた。",
+    "output": "Tom cooked us dinner."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは道路を渡った。",
+    "output": "Tom crossed the road."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムね、自分で髪切ったのよ。",
+    "output": "Tom cut his own hair."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはぎこちなく踊った。",
+    "output": "Tom danced awkwardly."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはメアリーと踊った。",
+    "output": "Tom danced with Mary."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは噂を否定した。",
+    "output": "Tom denied the rumor."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはパンを買わなかったよ。",
+    "output": "Tom didn't buy bread."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはパンを買ってなかったよ。",
+    "output": "Tom didn't buy bread."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはメアリーを傷つけなかった。",
+    "output": "Tom didn't hurt Mary."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはメアリーを殺さなかった。",
+    "output": "Tom didn't kill Mary."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはメアリーが好きじゃなかったのよ。",
+    "output": "Tom didn't like Mary."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは牛肉を食べないんだ。",
+    "output": "Tom doesn't eat beef."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはあまり食べないよ。",
+    "output": "Tom doesn't eat much."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはあなたのことを憎んではいない。",
+    "output": "Tom doesn't hate you."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはあなたが好きじゃないんだ。",
+    "output": "Tom doesn't like you."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは赤い車に乗っている。",
+    "output": "Tom drives a red car."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは旅行が好きです。",
+    "output": "Tom enjoys traveling."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは洞窟に入ったよ。",
+    "output": "Tom entered the cave."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは部屋の中に入った。",
+    "output": "Tom entered the room."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはリスに餌をやりました。",
+    "output": "Tom fed the squirrel."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはプールにおちた。",
+    "output": "Tom fell in the pool."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはプールに落ちた。",
+    "output": "Tom fell in the pool."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは少しばかり疲れを覚えた。",
+    "output": "Tom felt a bit tired."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは酷く寂しくなった。",
+    "output": "Tom felt very lonely."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはおやつを用意してくれた。",
+    "output": "Tom fixed us a snack."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはいい仕事を見つけたんだよ。",
+    "output": "Tom found a good job."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはメアリーに一輪のバラを贈った。",
+    "output": "Tom gave Mary a rose."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは一輪のバラをメアリーに渡した。",
+    "output": "Tom gave Mary a rose."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはパイを少しもらった。",
+    "output": "Tom got a little pie."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは車に乗った。",
+    "output": "Tom got into his car."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは車に乗った。",
+    "output": "Tom got into the car."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは自転車を降りた。",
+    "output": "Tom got off his bike."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはバイクを降りた。",
+    "output": "Tom got off his bike."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは自分のコートをつかんだ。",
+    "output": "Tom grabbed his coat."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは口ひげを生やした。",
+    "output": "Tom grew a moustache."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは声が大きい。",
+    "output": "Tom has a loud voice."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは美声の持ち主だ。",
+    "output": "Tom has a nice voice."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは首が太いんだ。",
+    "output": "Tom has a thick neck."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは心臓が悪い。",
+    "output": "Tom has a weak heart."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはもう行っちゃったよ。",
+    "output": "Tom has already gone."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは目が悪い。",
+    "output": "Tom has bad eyesight."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは大きな問題を抱えてるんだ。",
+    "output": "Tom has big problems."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムが手伝いに来た。",
+    "output": "Tom has come to help."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは滑舌がいい。",
+    "output": "Tom has good diction."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムには多くの才能がある。",
+    "output": "Tom has many talents."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはたばこをやめた。",
+    "output": "Tom has quit smoking."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは煙草をやめた。",
+    "output": "Tom has quit smoking."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは車をレンタルした。",
+    "output": "Tom has rented a car."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはレンタカーを借りました。",
+    "output": "Tom has rented a car."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムもそれを見た。",
+    "output": "Tom has seen it, too."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは自分の車を売ったんだよ。",
+    "output": "Tom has sold his car."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはがっしりした手をしている。",
+    "output": "Tom has strong hands."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはメアリーの叫び声を聞いた。",
+    "output": "Tom heard Mary shout."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは銃声を数発聞いた。",
+    "output": "Tom heard some shots."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは叫び声を聞いた。",
+    "output": "Tom heard the scream."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはズボンにアイロンをかけた。",
+    "output": "Tom ironed his pants."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはメアリーの友達よ。",
+    "output": "Tom is Mary's friend."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは億万長者だ。",
+    "output": "Tom is a billionaire."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムってちょっと変わってるよね。",
+    "output": "Tom is a bit strange."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはドッグトレーナーです。",
+    "output": "Tom is a dog trainer."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは犬の訓練士なんだ。",
+    "output": "Tom is a dog trainer."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは好き嫌いが激しい。",
+    "output": "Tom is a fussy eater."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは味にうるさい。",
+    "output": "Tom is a fussy eater."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは運転が上手い。",
+    "output": "Tom is a good driver."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはいい友達です。",
+    "output": "Tom is a good friend."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは良いゴルファーです。",
+    "output": "Tom is a good golfer."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはいい人だ。",
+    "output": "Tom is a good person."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは良いリーダーだ。",
+    "output": "Tom is a good reader."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはよく働く。",
+    "output": "Tom is a good worker."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは体育の先生だ。",
+    "output": "Tom is a gym teacher."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは働き者だ。",
+    "output": "Tom is a hard worker."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは怠け者だ。",
+    "output": "Tom is a lazy fellow."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは怠け者。",
+    "output": "Tom is a lazy person."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはお酒に弱いのよ。",
+    "output": "Tom is a lightweight."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムってね、下戸なのよ。",
+    "output": "Tom is a lightweight."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムって、いたずらっ子なんだ。",
+    "output": "Tom is a naughty boy."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはわんぱく小僧なんだ。",
+    "output": "Tom is a naughty boy."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは神経科医です。",
+    "output": "Tom is a neurologist."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはいい人だ。",
+    "output": "Tom is a nice person."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは自然保護官なんだ。",
+    "output": "Tom is a park ranger."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはパークレンジャーなんだ。",
+    "output": "Tom is a park ranger."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは好き嫌いが激しい。",
+    "output": "Tom is a picky eater."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは本物のカウボーイだ。",
+    "output": "Tom is a real cowboy."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは本当の友達だ。",
+    "output": "Tom is a real friend."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムって、失礼な人ね。",
+    "output": "Tom is a rude person."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは真面目な奴なんだよ。",
+    "output": "Tom is a serious guy."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは歩くのが遅い。",
+    "output": "Tom is a slow walker."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは足が遅い。",
+    "output": "Tom is a slow walker."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは本当の友達だ。",
+    "output": "Tom is a true friend."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはもう酔っ払ってるんだよ。",
+    "output": "Tom is already drunk."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはもう出来上がっちゃってるよ。",
+    "output": "Tom is already drunk."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはもうそこにいます。",
+    "output": "Tom is already there."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはとっくにそこにいるよ。",
+    "output": "Tom is already there."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは冗談ばかり言っている。",
+    "output": "Tom is always joking."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはいつも礼儀正しい。",
+    "output": "Tom is always polite."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムって、早起きなんだ。",
+    "output": "Tom is an early bird."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは古くからの友人です。",
+    "output": "Tom is an old friend."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはね、俺に腹を立ててるんだ。",
+    "output": "Tom is angry with me."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは私と同じぐらいの歳よ。",
+    "output": "Tom is around my age."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはフランス語が苦手なんだ。",
+    "output": "Tom is bad at French."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは運動が苦手だ。",
+    "output": "Tom is bad at sports."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはスポーツが苦手だ。",
+    "output": "Tom is bad at sports."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは監視されている。",
+    "output": "Tom is being watched."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは麻薬を売買している。",
+    "output": "Tom is dealing drugs."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは何もしていない。",
+    "output": "Tom is doing nothing."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは盗み聞きしています。",
+    "output": "Tom is eavesdropping."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは人見知りが激しい。",
+    "output": "Tom is extremely shy."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは俺の車を直してくれてるんだ。",
+    "output": "Tom is fixing my car."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは機嫌が悪い。",
+    "output": "Tom is in a bad mood."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは、ご機嫌斜めなのよ。",
+    "output": "Tom is in a bad mood."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは教会にいます。",
+    "output": "Tom is in the church."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはシャワーを浴びています。",
+    "output": "Tom is in the shower."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはめっちゃくっちゃ金持ちなんだ。",
+    "output": "Tom is insanely rich."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは痩せていて背が高いです。",
+    "output": "Tom is lean and tall."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムが私を見ている。",
+    "output": "Tom is looking at me."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは夕食の支度をしている。",
+    "output": "Tom is making dinner."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは夕食の準備をしている。",
+    "output": "Tom is making dinner."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは決して時間を守らない。",
+    "output": "Tom is never on time."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは自信過剰だ。",
+    "output": "Tom is overconfident."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは本当にがめつい。",
+    "output": "Tom is really greedy."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはファックスを送ってるよ。",
+    "output": "Tom is sending a fax."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはFAXしてるよ。",
+    "output": "Tom is sending a fax."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは縄跳びをしている。",
+    "output": "Tom is skipping rope."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トム、また笑ってるよ。",
+    "output": "Tom is smiling again."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムって垢抜けてるね。",
+    "output": "Tom is sophisticated."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはまだ未成年だ。",
+    "output": "Tom is still a minor."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムって背が高いしスリムなのよ。",
+    "output": "Tom is tall and slim."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムが一番強い。",
+    "output": "Tom is the strongest."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムが最強。",
+    "output": "Tom is the strongest."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはとてもイライラしている。",
+    "output": "Tom is too impatient."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはとても社交的だ。",
+    "output": "Tom is very sociable."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはとても社交的な人だ。",
+    "output": "Tom is very sociable."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは帽子をかぶっている。",
+    "output": "Tom is wearing a hat."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはデザイナーじゃないですよ。",
+    "output": "Tom isn't a designer."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはいい子じゃない。",
+    "output": "Tom isn't a good boy."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはいい奴なんかじゃない。",
+    "output": "Tom isn't a good guy."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは怠け者じゃないよ。",
+    "output": "Tom isn't a lazy man."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは横着な人じゃない。",
+    "output": "Tom isn't a lazy man."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは弱虫なんかじゃない。",
+    "output": "Tom isn't a weakling."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは今日忙しくない。",
+    "output": "Tom isn't busy today."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは横になっていない。",
+    "output": "Tom isn't lying down."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは君に怒ってないよ。",
+    "output": "Tom isn't mad at you."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは写真うつりが悪い。",
+    "output": "Tom isn't photogenic."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはまだ３０歳になっていない。",
+    "output": "Tom isn't thirty yet."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはあまり男らしくない。",
+    "output": "Tom isn't very manly."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは約束を守った。",
+    "output": "Tom kept his promise."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはメアリーを強く蹴った。",
+    "output": "Tom kicked Mary hard."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは私がどこにいたか知ってたんだよ。",
+    "output": "Tom knew where I was."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは私の居場所を知っていたんだ。",
+    "output": "Tom knew where I was."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは彼を殴り倒した。",
+    "output": "Tom knocked him down."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは自分が正しいことを知っている。",
+    "output": "Tom knows he's right."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは答えを知ってるんだよ。",
+    "output": "Tom knows the answer."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは答えが分かってるんだ。",
+    "output": "Tom knows the answer."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはやる気がない。",
+    "output": "Tom lacks motivation."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは後で謝りました。",
+    "output": "Tom later apologized."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは月曜日に出発した。",
+    "output": "Tom left last Monday."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは僕らにまた嘘をついた。",
+    "output": "Tom lied to us again."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはメアリーがすごく好きなんだ。",
+    "output": "Tom likes Mary a lot."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはメアリーが大好きなんだ。",
+    "output": "Tom likes Mary a lot."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはメアリーがとても気に入ってるんだ。",
+    "output": "Tom likes Mary a lot."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは玄米が好きなのよ。",
+    "output": "Tom likes brown rice."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはフォークソングが好きだ。",
+    "output": "Tom likes folk music."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはスパイ映画が好きなんだ。",
+    "output": "Tom likes spy movies."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは白米が好きなんだよ。",
+    "output": "Tom likes white rice."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはここに独りで住んでいる。",
+    "output": "Tom lives here alone."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはとても幸せそうだ。",
+    "output": "Tom looks very happy."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トム、とっても嬉しそう。",
+    "output": "Tom looks very happy."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはとても緊張しているように見える。",
+    "output": "Tom looks very tense."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは聴力を失った。",
+    "output": "Tom lost his hearing."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは信用を失った。",
+    "output": "Tom lost their trust."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはメアリーのことをとても愛してたのよ。",
+    "output": "Tom loved Mary a lot."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはこれやるの大好きなんだ。",
+    "output": "Tom loves doing this."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは鳥小屋を作った。",
+    "output": "Tom made a birdhouse."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは心を決めた。",
+    "output": "Tom made up his mind."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはしゅんとしてるかもね。",
+    "output": "Tom may be depressed."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは離婚するかもしれないな。",
+    "output": "Tom may get divorced."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは待つ必要があるかもね。",
+    "output": "Tom may need to wait."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは満足しないんじゃないかな。",
+    "output": "Tom may not be happy."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはたぶん喜ばないと思うよ。",
+    "output": "Tom may not be happy."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは食べ物が欲しかった。",
+    "output": "Tom needed some food."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは決して謝らなかった。",
+    "output": "Tom never apologized."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムが謝ることはなかった。",
+    "output": "Tom never apologized."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは隻腕です。",
+    "output": "Tom only has one arm."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはリンゴの皮を剥いた。",
+    "output": "Tom peeled the apple."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはコインを拾った。",
+    "output": "Tom picked up a coin."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはピアノを弾いた。",
+    "output": "Tom played the piano."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは靴下を履いた。",
+    "output": "Tom put his socks on."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは靴下を履いた。",
+    "output": "Tom put on his socks."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは会社を辞めた。",
+    "output": "Tom quit the company."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは必死に逃げた。",
+    "output": "Tom ran for his life."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはめったに文句は言わないよ。",
+    "output": "Tom rarely complains."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはそれを声に出して読みました。",
+    "output": "Tom read it out loud."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはそれを音読した。",
+    "output": "Tom read it out loud."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは僕らの助けを断った。",
+    "output": "Tom refused our help."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムがマスクを外したよ。",
+    "output": "Tom removed his mask."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムがお腹空いたって言ってたよ。",
+    "output": "Tom said he's hungry."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは待つために座った。",
+    "output": "Tom sat down to wait."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはメアリーの隣に座っていた。",
+    "output": "Tom sat next to Mary."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはベンチに座った。",
+    "output": "Tom sat on the bench."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはベンチに腰掛けました。",
+    "output": "Tom sat on the bench."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはソファーに座った。",
+    "output": "Tom sat on the couch."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはテーブルに座った。",
+    "output": "Tom sat on the table."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムが腹減ったって言ってるよ。",
+    "output": "Tom says he's hungry."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは膝を擦りむいた。",
+    "output": "Tom scraped his knee."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは痛みのあまり悲鳴を上げた。",
+    "output": "Tom screamed in pain."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは天狗になったようだった。",
+    "output": "Tom seemed conceited."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはうぬぼれているようだった。",
+    "output": "Tom seemed conceited."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは打ちひしがれているようだった。",
+    "output": "Tom seemed depressed."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはとても幸せそうだ。",
+    "output": "Tom seems very happy."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トム、とっても嬉しそう。",
+    "output": "Tom seems very happy."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは謝るべきだ。",
+    "output": "Tom should apologize."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはリンゴを薄切りにした。",
+    "output": "Tom sliced the apple."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはリンゴを薄く切りました。",
+    "output": "Tom sliced the apple."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは玉ねぎを薄切りにした。",
+    "output": "Tom sliced the onion."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは玉ねぎをスライスしました。",
+    "output": "Tom sliced the onion."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは薔薇の匂いを嗅いだ。",
+    "output": "Tom smelled the rose."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムってめっちゃ早口だね。",
+    "output": "Tom speaks very fast."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは牛乳をこぼした。",
+    "output": "Tom spilled the milk."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはお酒を飲み始めた。",
+    "output": "Tom started drinking."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムがぶつぶつ言い始めたよ。",
+    "output": "Tom started mumbling."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはいびきをかき始めた。",
+    "output": "Tom started to snore."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはまだ字が読めない。",
+    "output": "Tom still can't read."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはメアリーの車を盗んだ。",
+    "output": "Tom stole Mary's car."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはプールで泳いだ。",
+    "output": "Tom swam in the pool."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは帽子を脱いだ。",
+    "output": "Tom took his cap off."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは帽子を脱いだ。",
+    "output": "Tom took off his cap."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは帽子を脱いだ。",
+    "output": "Tom took off his hat."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは止めようとしたんだ。",
+    "output": "Tom tried to stop it."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは阻止しようとしたんだけどね。",
+    "output": "Tom tried to stop it."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはテレビをつけた。",
+    "output": "Tom turned on the TV."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはテレビをつけた。",
+    "output": "Tom turned the TV on."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはバルブを回しました。",
+    "output": "Tom turned the valve."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはテレビの音量を上げた。",
+    "output": "Tom turned up the TV."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは辛抱強く待った。",
+    "output": "Tom waited patiently."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはメアリーを家まで送った。",
+    "output": "Tom walked Mary home."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは泣かんばかりだった。",
+    "output": "Tom was about to cry."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはすっかり疲れきっていた。",
+    "output": "Tom was all worn out."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは有罪判決を受けた。",
+    "output": "Tom was found guilty."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはホームスクーリングで育った。",
+    "output": "Tom was homeschooled."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはただ見てるだけだった。",
+    "output": "Tom was just looking."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは私の彼氏だったの。",
+    "output": "Tom was my boyfriend."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは電話中でした。",
+    "output": "Tom was on the phone."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは本当に運がよかった。",
+    "output": "Tom was really lucky."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはぐっすり眠っていた。",
+    "output": "Tom was sound asleep."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはノートをとっていた。",
+    "output": "Tom was taking notes."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは天にも昇る思いだった。",
+    "output": "Tom was tickled pink."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは大喜びでした。",
+    "output": "Tom was tickled pink."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはとても緊張した。",
+    "output": "Tom was very nervous."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは行儀が良かった。",
+    "output": "Tom was well-behaved."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはドライブしに行ったよ。",
+    "output": "Tom went for a drive."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムなら、ドライブに行ったよ。",
+    "output": "Tom went for a drive."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはピクニックに行ってたんだ。",
+    "output": "Tom went on a picnic."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは一人でそこに行ったのよ。",
+    "output": "Tom went there alone."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは感激するだろう。",
+    "output": "Tom will be thrilled."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トム、マラソンで優勝したよ。",
+    "output": "Tom won the marathon."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは一晩中ずっと働いた。",
+    "output": "Tom worked all night."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはボストンで働いてたんだ。",
+    "output": "Tom worked in Boston."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは長い時間働く。",
+    "output": "Tom works long hours."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは心配しすぎよ。",
+    "output": "Tom worries too much."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムの携帯が鳴った。",
+    "output": "Tom's cellphone rang."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは目が青い。",
+    "output": "Tom's eyes are green."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムのお父さんはお金持ちです。",
+    "output": "Tom's father is rich."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムのお父ちゃん、リッチだよな。",
+    "output": "Tom's father is rich."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは仕事が雑だ。",
+    "output": "Tom's work is sloppy."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トム、邪魔しないで。",
+    "output": "Tom, don't interrupt."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムもメアリーが好きなんだ。",
+    "output": "Tom, too, likes Mary."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トム、あなたのお母さんはここよ。",
+    "output": "Tom, your mom's here."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トム、お母さんはここにいるわよ。",
+    "output": "Tom, your mom's here."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "明日じゃ、遅すぎる。",
+    "output": "Tomorrow is too late."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "思い立ったが吉日！",
+    "output": "Tomorrow never comes."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "明日はお休みです。",
+    "output": "Tomorrow's a holiday."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "明日は休日です。",
+    "output": "Tomorrow's a holiday."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "明日は勉強するよ。",
+    "output": "Tomorrow, I'll study."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "自分の直感を信じなさいよ。",
+    "output": "Trust your instincts."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ちょっと休みなよ。",
+    "output": "Try to get some rest."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ステレオの音、小さくしてよ。",
+    "output": "Turn down the stereo."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "2たす2は4です。",
+    "output": "Two plus two is four."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "もう二、三日待ってください。",
+    "output": "Wait a few more days."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あともう少し待って。",
+    "output": "Wait a little longer."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "もうちょっと待って。",
+    "output": "Wait a little longer."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "並んでお待ちください。",
+    "output": "Wait in line, please."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "外でお待ちください。",
+    "output": "Wait outside, please."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはそのパーティーにいたの？",
+    "output": "Was Tom at the party?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムって結婚したことあるの？",
+    "output": "Was Tom ever married?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは入院してたの？",
+    "output": "Was Tom hospitalized?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはオーストラリアにいたの？",
+    "output": "Was Tom in Australia?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはメアリーに親切だった？",
+    "output": "Was Tom kind to Mary?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムの部屋きれいだった？",
+    "output": "Was Tom's room clean?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムの部屋、片付いてた？",
+    "output": "Was Tom's room clean?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あれ全部本当だったの？",
+    "output": "Was all of that true?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "そこに誰かいたの？",
+    "output": "Was anybody in there?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "誰かと一緒だったの？",
+    "output": "Was anybody with you?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "誰かが聞いてくれてたの？",
+    "output": "Was anyone listening?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "誰か驚いてた？",
+    "output": "Was anyone surprised?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "地震だった？",
+    "output": "Was it an earthquake?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "昨日は暑かった？",
+    "output": "Was it hot yesterday?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "僕の携帯が鳴ってた？",
+    "output": "Was my phone ringing?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あれは、わざとなの？",
+    "output": "Was that intentional?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ＦＢＩが関与してたんですか？",
+    "output": "Was the FBI involved?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "天気は良かった？",
+    "output": "Was the weather nice?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "手をよく洗いなさいよ。",
+    "output": "Wash your hands well."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "水は光を反射する。",
+    "output": "Water reflects light."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私たちの誰もが誤りを犯すのです。",
+    "output": "We all make mistakes."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "誰でも間違えることはある。",
+    "output": "We all make mistakes."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私たちはアメリカ人ではありません。",
+    "output": "We are not Americans."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "俺たちは同類だよ。",
+    "output": "We are two of a kind."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "僕ら、外国人じゃないよ。",
+    "output": "We aren't foreigners."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私たちは遅くに帰宅した。",
+    "output": "We arrived home late."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "スモークサーモンを頂きました。",
+    "output": "We ate smoked salmon."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "スモークサーモンを食べたよ。",
+    "output": "We ate smoked salmon."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "まもなくご案内いたします。",
+    "output": "We can seat you soon."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私たちフランス語でおしゃべりしたの。",
+    "output": "We chatted in French."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "飛行機の音も聞こえたわ。",
+    "output": "We even heard planes."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私たちは列車から降りた。",
+    "output": "We got off the train."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私たちはすばらしい食事をした。",
+    "output": "We had a lovely meal."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "素敵な時を過ごしました。",
+    "output": "We had a lovely time."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "水は十分ある。",
+    "output": "We have enough water."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私たちは子どもがふたりいます。",
+    "output": "We have two children."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私たちは互いに助け合った。",
+    "output": "We helped each other."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "最初から分かってたよ。",
+    "output": "We knew it all along."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムがどこにいるか知ってますよ。",
+    "output": "We know where Tom is."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私たちは彼を見失った。",
+    "output": "We lost sight of him."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私たちは学校へ行かなければなりません。",
+    "output": "We must go to school."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "我々は今人手不足だ。",
+    "output": "We need more workers."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "もっと人手が必要だ。",
+    "output": "We need more workers."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私達は猫を追いかけた。",
+    "output": "We ran after the cat."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私達は歩きながら歌を歌った。",
+    "output": "We sang as we walked."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私たちは目でものを見る。",
+    "output": "We see with our eyes."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私たちは罠を仕掛けるべきだ。",
+    "output": "We should set a trap."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "新しいじゅうたんが欲しい。",
+    "output": "We want a new carpet."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私たちは散歩に行きました。",
+    "output": "We went for a stroll."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私たちは散策に出かけた。",
+    "output": "We went for a stroll."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "海岸に行ったよ。",
+    "output": "We went to the beach."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私たちは川へ行った。",
+    "output": "We went to the river."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あの頃の我々はもっと若かった。",
+    "output": "We were younger then."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "我々は工場で働いています。",
+    "output": "We work in a factory."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "幸せにするよ。",
+    "output": "We'll make you happy."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "なんとかなるさ。",
+    "output": "We'll manage somehow."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "日曜日に会いましょう。",
+    "output": "We'll meet on Sunday."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "攻撃されている。",
+    "output": "We're being attacked."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私たちは二人ともカナダ人である。",
+    "output": "We're both Canadians."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "いつでも出かけられます。",
+    "output": "We're ready to leave."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私たちはサッカー選手なんです。",
+    "output": "We're soccer players."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ガソリンが尽きてしまったよ。",
+    "output": "We've run out of gas."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "お茶が切れています。",
+    "output": "We've run out of tea."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "オーストラリアへようこそ。",
+    "output": "Welcome to Australia."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "目隠しをされてたの？",
+    "output": "Were you blindfolded?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたは１０時に家にいましたか。",
+    "output": "Were you home at ten?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたは誰かと一緒でしたか。",
+    "output": "Were you with anyone?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "誰かと一緒だったの？",
+    "output": "Were you with anyone?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "なんて素晴らしい天気でしょう！",
+    "output": "What a beautiful day!"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "次は何をしたらよいでしょうか。",
+    "output": "What am I to do next?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "次に何をしたらよいのですか。",
+    "output": "What am I to do next?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "何を料理しているの。",
+    "output": "What are you cooking?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "何を作るんですか。",
+    "output": "What are you cooking?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "何を作ってるの？",
+    "output": "What are you cooking?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "何描いてるの？",
+    "output": "What are you drawing?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "何が得意なのですか。",
+    "output": "What are you good at?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたは何が得意ですか？",
+    "output": "What are you good at?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "何が得意？",
+    "output": "What are you good at?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "得意なことはなぁに？",
+    "output": "What are you good at?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "何を読んでいるんですか。",
+    "output": "What are you reading?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "何読んでるの？",
+    "output": "What are you reading?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "何読んでんの？",
+    "output": "What are you reading?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "何を売っているのですか？",
+    "output": "What are you selling?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "何を売ってるの？",
+    "output": "What are you selling?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "何書いてるの？",
+    "output": "What are you writing?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "何書いてんの？",
+    "output": "What are you writing?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "なんでお前ここにいんの？",
+    "output": "What brings you here?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムって、何組なの？",
+    "output": "What class is Tom in?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはどこのクラス？",
+    "output": "What class is Tom in?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "今日、何曜日？",
+    "output": "What day is it today?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "彼は今日、何をしましたか？",
+    "output": "What did he do today?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "そのあと君はどしたの？",
+    "output": "What did you do then?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ちょうど何やってたの？",
+    "output": "What did you just do?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "カモメは何を食べるの？",
+    "output": "What do seagulls eat?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "オオカミは何を食べるの？",
+    "output": "What does a wolf eat?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "中に何が入ってますか。",
+    "output": "What does it contain?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "それ何が入ってるの？",
+    "output": "What does it contain?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムに何があったんですか？",
+    "output": "What happened to Tom?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "彼に何が起こったのですか。",
+    "output": "What happened to him?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "残念な知らせって何？",
+    "output": "What is the bad news?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "住所を教えてください。",
+    "output": "What is your address?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "住所はどこなの？",
+    "output": "What is your address?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "どうして笑うの？",
+    "output": "What makes you laugh?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私は今何をすべきですか。",
+    "output": "What should I do now?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "いま何をしたらいいんだろう？",
+    "output": "What should I do now?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "結果はどうなったの？",
+    "output": "What was the outcome?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムに何を話すつもり？",
+    "output": "What'll you tell Tom?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "何飲んでるの？",
+    "output": "What're you drinking?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "何考えてるの？",
+    "output": "What're you thinking?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは何を悩んでるの？",
+    "output": "What's bothering Tom?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "何が心配なの？",
+    "output": "What's bothering you?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ここで何が起こっているのですか。",
+    "output": "What's going on here?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "バスケットの中には何が入ってるの？",
+    "output": "What's in the basket?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "籠の中には何が入ってるの？",
+    "output": "What's in the basket?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トランクには何が入ってるの？",
+    "output": "What's in your trunk?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トランクには何が積んであるんですか？",
+    "output": "What's in your trunk?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あの建物は何ですか。",
+    "output": "What's that building?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あの建物は何ですか？",
+    "output": "What's that building?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "何だこの大騒ぎは？",
+    "output": "What's the commotion?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "何かいいことありませんか。",
+    "output": "What's the good news?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "次の停車駅はどこですか。",
+    "output": "What's the next stop?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "本当の目標は何？",
+    "output": "What's the real goal?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "いつなら、ここで泳げますか？",
+    "output": "When can I swim here?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "いつならお伺いできますか？",
+    "output": "When can I visit you?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "これはいつやったの？",
+    "output": "When did you do this?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "いつ家に帰ったの？",
+    "output": "When did you go home?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "彼にいつ会いましたか。",
+    "output": "When did you see him?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "彼をいつ見かけましたか？",
+    "output": "When did you see him?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "いつ目が覚めたの？",
+    "output": "When did you wake up?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "何時に始まるの？",
+    "output": "When does that start?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "締め切りはいつですか？",
+    "output": "When is the deadline?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "いつ完成したのですか。",
+    "output": "When was it finished?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "彼はいつ戻りますか。",
+    "output": "When will he be back?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "いつ頃お戻りになりますか。",
+    "output": "When will he be back?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "いつお出かけになりますか。",
+    "output": "When will you go out?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "いつ払ってくれるの？",
+    "output": "When will you pay me?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "いつ帰ってくるの？",
+    "output": "When will you return?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "誕生日はいつですか。",
+    "output": "When's your birthday?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたの誕生日はいつですか。",
+    "output": "When's your birthday?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "誕生日いつ？",
+    "output": "When's your birthday?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私は今どこにいるの？",
+    "output": "Where am I right now?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私の眼鏡はどこ？",
+    "output": "Where are my glasses?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私のメガネはどこにありますか。",
+    "output": "Where are my glasses?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "わしのメガネはどこにいったんだ？",
+    "output": "Where are my glasses?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私の両親はどこにいますか。",
+    "output": "Where are my parents?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "馬はどこですか？",
+    "output": "Where are the horses?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "お馬さんはどこ？",
+    "output": "Where are the horses?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "どこに住んでいますか？",
+    "output": "Where are you living?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "どこに住んでいるんですか。",
+    "output": "Where are you living?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "どちらに行くのですか。",
+    "output": "Where are you off to?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "どこに行くの？",
+    "output": "Where are you off to?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "CD売り場はどこですか？",
+    "output": "Where can I buy a CD?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "どこで買ったの？",
+    "output": "Where did you buy it?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "どこでそれを手に入れたんですか？",
+    "output": "Where did you get it?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムんちは、どこだ？",
+    "output": "Where is Tom's house?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムの家はどこだろう？",
+    "output": "Where is Tom's house?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "コンサートはどこであるの？",
+    "output": "Where is the concert?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "洗濯物はどこですか？",
+    "output": "Where is the laundry?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "洗濯場はどこですか？",
+    "output": "Where is the laundry?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "クリーニング屋はどこですか？",
+    "output": "Where is the laundry?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "図書館はどこですか。",
+    "output": "Where is the library?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ポストはどこにありますか。",
+    "output": "Where is the mailbox?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "何が問題なの？",
+    "output": "Where is the problem?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "駅はどこですか。",
+    "output": "Where is the station?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたのお父さんはどこにいますか。",
+    "output": "Where is your father?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたのお父様はどこにいらっしゃいますか？",
+    "output": "Where is your father?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "お父さんはどこ？",
+    "output": "Where is your father?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたの上着はどこ？",
+    "output": "Where is your jacket?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "君の学校はどこにありますか。",
+    "output": "Where is your school?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたがたの学校はどこにありますか。",
+    "output": "Where is your school?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたの学校はどこにありますか？",
+    "output": "Where is your school?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "どこで待ち合わせしようか。",
+    "output": "Where should we meet?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "どこで待ち合わせしましょうか。",
+    "output": "Where should we meet?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたはどこに行くところでしたか。",
+    "output": "Where were you going?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "どこを訪れる予定ですか。",
+    "output": "Where will you visit?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "僕の麦わら帽子はどこ？",
+    "output": "Where's my straw hat?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トイレはどこですか。",
+    "output": "Where's the bathroom?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "お手洗いはどこですか。",
+    "output": "Where's the bathroom?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "お手洗いはどこですか?",
+    "output": "Where's the bathroom?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トイレはどこにありますか。",
+    "output": "Where's the bathroom?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トイレってどこにありますか。",
+    "output": "Where's the bathroom?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "バス停はどこにありますか。",
+    "output": "Where's the bus stop?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "バスの停留所はどこですか。",
+    "output": "Where's the bus stop?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "カレンダーはどこ？",
+    "output": "Where's the calendar?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トイレはどこですか。",
+    "output": "Where's the lavatory?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トイレはどちらでしょうか。",
+    "output": "Where's the restroom?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トイレはどこにあるのでしょうか。",
+    "output": "Where's the restroom?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トイレはどこですか。",
+    "output": "Where's the restroom?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "お手洗いはどこですか。",
+    "output": "Where's the restroom?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "お手洗いはどこですか?",
+    "output": "Where's the restroom?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トイレはどこにありますか。",
+    "output": "Where's the restroom?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トイレってどこにありますか。",
+    "output": "Where's the restroom?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "何考えてんだ？",
+    "output": "Where's your head at?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "どっちが安いの？",
+    "output": "Which one is cheaper?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "どっちがトムの？",
+    "output": "Which ones are Tom's?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "どっちに行く？",
+    "output": "Which way will we go?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "この人たちは誰ですか。",
+    "output": "Who are these people?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "誰に腹を立ててるの？",
+    "output": "Who are you angry at?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "誰がガラスを割ったの？",
+    "output": "Who broke the window?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "窓を割ったのは誰だ。",
+    "output": "Who broke the window?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "誰がビールを持ってきたの？",
+    "output": "Who brought the beer?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "君の家は誰が建てたの？",
+    "output": "Who built your house?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "そのチームは誰がコーチをしているのですか。",
+    "output": "Who coaches the team?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは誰と一緒に食べたの？",
+    "output": "Who did Tom eat with?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "これ、誰がしてくれたの？",
+    "output": "Who did this for you?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "一緒に住んでいるのは誰なの？",
+    "output": "Who do you live with?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたは誰と一緒に住んでいますか。",
+    "output": "Who do you live with?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "誰と一緒に住んでるの？",
+    "output": "Who do you live with?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "それ誰がくれたの？",
+    "output": "Who gave that to you?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "これ誰にもらったの？",
+    "output": "Who gave this to you?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "これ誰にもらったんですか？",
+    "output": "Who gave this to you?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "それ誰がくれたの？",
+    "output": "Who gave this to you?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "誰がホームランを打ったのですか。",
+    "output": "Who hit the home run?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "誰がカラオケを発明したのですか。",
+    "output": "Who invented karaoke?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "誰がトムをそうさせましたか？",
+    "output": "Who made Tom do that?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "一体、あなたは何者なの？",
+    "output": "Who on earth are you?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "お前はどこのどいつだ？",
+    "output": "Who on earth are you?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あれは、一体どこのどいつだ？",
+    "output": "Who on earth is that?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "誰がその木を植えたのですか。",
+    "output": "Who planted the tree?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "誰がそんなことをさせたの。",
+    "output": "Who put you up to it?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "それ誰に言われたの？",
+    "output": "Who said that to you?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "誰がこれをあなたに言ったの？",
+    "output": "Who said this to you?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "誰がソーダをこぼしたの？",
+    "output": "Who spilled the soda?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "誰、ソーダこぼしたのは？",
+    "output": "Who spilled the soda?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "誰がリンゴを盗んだのですか？",
+    "output": "Who stole the apples?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "誰？テレビのコンセント抜いたの。",
+    "output": "Who unplugged the TV?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "誰が次に行きたいですか。",
+    "output": "Who wants to go next?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "誰がここに座ってたの？",
+    "output": "Who was sitting here?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ここに座ってたのはだぁれ？",
+    "output": "Who was sitting here?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "その手紙は誰が書いたのですか？",
+    "output": "Who wrote the letter?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "そこに立っているのは誰ですか。",
+    "output": "Who's standing there?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あの紳士は誰ですか。",
+    "output": "Who's that gentleman?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "誰の誕生日？",
+    "output": "Whose birthday is it?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "これは誰のカメラ？",
+    "output": "Whose camera is this?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "これはだれのギターですか。",
+    "output": "Whose guitar is this?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "このギターは誰のですか？",
+    "output": "Whose guitar is this?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "この鉛筆は誰のですか？",
+    "output": "Whose pencil is this?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "この鉛筆、誰の？",
+    "output": "Whose pencil is this?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "どうしてまだ生きている？",
+    "output": "Why am I still alive?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "どうして葉っぱは、緑色なの？",
+    "output": "Why are leaves green?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "どうして裸足なの？",
+    "output": "Why are you barefoot?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "なんで今、家にいるの？",
+    "output": "Why are you home now?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "何笑ってんの？",
+    "output": "Why are you laughing?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "なんで笑ってるの？",
+    "output": "Why are you laughing?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "なんでみんな笑ってんの？",
+    "output": "Why are you laughing?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "どうしてそんなに怒ってるの？",
+    "output": "Why are you so angry?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "なんでそんな怒ってるの？",
+    "output": "Why are you so angry?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "なんでそんなに頭の回転速いの？",
+    "output": "Why are you so smart?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "なんでそんなに頭いいの？",
+    "output": "Why are you so smart?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "なんでそんな疲れてんの？",
+    "output": "Why are you so tired?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "なんでそんなに疲れてるの？",
+    "output": "Why are you so tired?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "どうしてそんなに疲れてるんですか？",
+    "output": "Why are you so tired?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "どうして勉強しているの？",
+    "output": "Why are you studying?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "なんでトムと僕のせいにするの？",
+    "output": "Why blame Tom and me?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "なんでトムはためらったの？",
+    "output": "Why did Tom hesitate?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはなんで君に話したの？",
+    "output": "Why did Tom tell you?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "なぜそこへ行ったの？",
+    "output": "Why did you go there?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "どうして逃げたの。",
+    "output": "Why did you run away?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "どうしてトムに言ったの？",
+    "output": "Why did you tell Tom?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "何でトムにしゃべったの？",
+    "output": "Why did you tell Tom?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "どうしてトムは笑わなかったんだ？",
+    "output": "Why didn't Tom laugh?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "なんでお金が要るの？",
+    "output": "Why do we need money?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "どうして無視するの？",
+    "output": "Why do you ignore me?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "なんで知ってるの？",
+    "output": "Why do you know that?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "どうしてそれが要るの？",
+    "output": "Why do you need that?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "なぜここで働いているのですか。",
+    "output": "Why do you work here?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムに聞いてみようよ。",
+    "output": "Why don't we ask Tom?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "家に帰りましょうか。",
+    "output": "Why don't we go home?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "どうして返事をしないの？",
+    "output": "Why don't you answer?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "言ってみたらどうだ。",
+    "output": "Why don't you say it?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "どうして言わないの？",
+    "output": "Why don't you say it?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "なんでトムはそんなに眠そうなの？",
+    "output": "Why is Tom so sleepy?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "どうして誰も食べてないの？",
+    "output": "Why is no one eating?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "どうして誰も食べてないの？",
+    "output": "Why is nobody eating?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "どうして笑ってたの？",
+    "output": "Why were you smiling?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "なんでそんなに遅かったの？",
+    "output": "Why were you so slow?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムって、どうしてあんなことしてるの？",
+    "output": "Why's Tom doing that?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "すぐに治りますか？",
+    "output": "Will I get well soon?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トム、待ってくれるかな？",
+    "output": "Will Tom wait for us?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "今夜は雪が降るかな？",
+    "output": "Will it snow tonight?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "警察は来るんですか？",
+    "output": "Will the police come?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ここなら安全なのですか。",
+    "output": "Will we be safe here?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "君は列車で行きますか。",
+    "output": "Will you go by train?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムといっしょに行きませんか。",
+    "output": "Will you go with Tom?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "顔を奇麗にふきなさい。",
+    "output": "Wipe your face clean."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "行きたいですか。",
+    "output": "Would you like to go?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ここにあなたの名前を書きなさい。",
+    "output": "Write your name here."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "はい。間違えました。",
+    "output": "Yes, I made mistakes."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "昨日は体の具合が悪かったんだ。",
+    "output": "Yesterday I was sick."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "昨日は具合が悪かったんだ。",
+    "output": "Yesterday I was sick."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "昨日は月曜日だった。",
+    "output": "Yesterday was Monday."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "昨日は日曜日でした。",
+    "output": "Yesterday was Sunday."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたは日本人ではありません。",
+    "output": "You are not Japanese."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "お前は腰抜けなんかじゃないよ。",
+    "output": "You are not a coward."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "君はもう大人だ。",
+    "output": "You are now an adult."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたを逮捕します。",
+    "output": "You are under arrest."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "二人とも正しいよ。",
+    "output": "You both are correct."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "当てにしていていいよ。",
+    "output": "You can bank on that."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "一緒に来てもいいよ。",
+    "output": "You can come with me."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "僕と一緒に来てもいいよ。",
+    "output": "You can come with me."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは頼りになるよ。",
+    "output": "You can count on Tom."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "彼女は頼りにできるよ。",
+    "output": "You can count on her."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "彼は信頼できる。",
+    "output": "You can count on him."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あいつのことを頼ればいいよ。",
+    "output": "You can count on him."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "もう座っていいよ。",
+    "output": "You can sit down now."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "休憩していいよ。",
+    "output": "You can take a break."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "このペンを使っていいですよ。",
+    "output": "You can use this pen."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "いつも勝てるとは限らないよ。",
+    "output": "You can't always win."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "いつもいつも勝てやしないよ。",
+    "output": "You can't always win."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "本気のはずがないわ。",
+    "output": "You can't be serious."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "よう言うわ。",
+    "output": "You can't be serious."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "そんなはずないよ。",
+    "output": "You can't be serious."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "本気じゃないんだよな。",
+    "output": "You can't be serious."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたには、それを証明することはできない。",
+    "output": "You can't prove that."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ここでタバコを吸ってはいけません。",
+    "output": "You can't smoke here."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "行かなくてもいいよ。",
+    "output": "You don't have to go."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "行く必要はないよ。",
+    "output": "You don't have to go."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたは行く必要ないよ。",
+    "output": "You don't need to go."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "行かなくてもいいよ。",
+    "output": "You don't need to go."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "行く必要はないよ。",
+    "output": "You don't need to go."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "君、わかってないね。",
+    "output": "You don't understand."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "鍵を落とされましたよ。",
+    "output": "You dropped your key."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "鍵、落としましたよ。",
+    "output": "You dropped your key."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "きれいな目をしてるね。",
+    "output": "You have pretty eyes."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "一人で行かなくっちゃだめだよ。",
+    "output": "You have to go alone."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "一人で行かなきゃダメよ。",
+    "output": "You have to go alone."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "口を出すな。",
+    "output": "You keep out of this."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "干渉しないで。",
+    "output": "You keep out of this."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私が結婚してるのは知ってるでしょ。",
+    "output": "You know I'm married."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私が何を言いたいかおわかりでしょう。",
+    "output": "You know what I mean."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "アイロンつけっぱなしだったよ。",
+    "output": "You left the iron on."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "今日は楽しそうですね。",
+    "output": "You look happy today."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "今日はなんだか嬉しそうだね。",
+    "output": "You look happy today."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "前よりもずっと良さそうですね。",
+    "output": "You look much better."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "君の負けだね。",
+    "output": "You lost, didn't you?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "彼に話しても良いよ。",
+    "output": "You may speak to him."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "おまえは私が言うことをしなくてはならない。",
+    "output": "You must do as I say."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "諦めちゃ駄目だ。",
+    "output": "You must not give up."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "諦めてはいけません。",
+    "output": "You must not give up."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "落ち着かなくてはいけない。",
+    "output": "You must remain calm."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "それには触れるなよ。",
+    "output": "You mustn't touch it."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "おかしすぎる！あなたって、面白い人ね。",
+    "output": "You really are funny."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "君は謝罪すべきだ。",
+    "output": "You should apologize."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたも是非来てね。",
+    "output": "You should come, too."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "寝た方がいいよ。",
+    "output": "You should go to bed."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "今すぐ出かけた方がいいですよ。",
+    "output": "You should leave now."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "これ読んだ方がいいよ。",
+    "output": "You should read this."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "これ読んでみるといいよ。",
+    "output": "You should read this."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムに感謝すべきだよ。",
+    "output": "You should thank Tom."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ここで待ってる方がいいよ。",
+    "output": "You should wait here."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "君は熱心に勉強すべきだ。",
+    "output": "You should work hard."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "君は一生懸命働くべきだよ。",
+    "output": "You should work hard."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "電話すればよかったのに。",
+    "output": "You should've called."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "電話したらよかったのに。",
+    "output": "You should've called."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "電話すればよかったのに。",
+    "output": "You should've phoned."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "電話したらよかったのに。",
+    "output": "You should've phoned."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "タバコ臭いわよ。",
+    "output": "You smell like smoke."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "おまえ、めっちゃ早口なのな。",
+    "output": "You talk really fast."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "お前は俺を殺そうとした。",
+    "output": "You tried to kill me."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "君はいい友達だよ。",
+    "output": "You're a good friend."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "少し青ざめてるよ。",
+    "output": "You're a little pale."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "君は本当の友達だよ。",
+    "output": "You're a real friend."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "君は本当の友達だよ。",
+    "output": "You're a true friend."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "行ってもよい。",
+    "output": "You're allowed to go."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "行ってもよろしい。",
+    "output": "You're allowed to go."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "君は少しやり過ぎです。",
+    "output": "You're going too far."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "やり過ぎだぞ。",
+    "output": "You're going too far."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "やりすぎだよ。",
+    "output": "You're going too far."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "臆病なだけだろ。",
+    "output": "You're just a coward."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "単なる推測だろ。",
+    "output": "You're just guessing."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたが私の全てなの。",
+    "output": "You're my everything."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたは私の全てよ。",
+    "output": "You're my everything."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたがボスだよ。",
+    "output": "You're the boss here."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "全くあなたのおっしゃる通りです。",
+    "output": "You're totally right."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "全くおっしゃる通りです。",
+    "output": "You're totally right."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "君はだまされたんだ。",
+    "output": "You've been deceived."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたはすっかり変わりましたね。",
+    "output": "You've changed a lot."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ずいぶん背が高くなったね。",
+    "output": "You've grown so tall."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "正解です。",
+    "output": "Your answer is right."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "君の答えは間違っている。",
+    "output": "Your answer is wrong."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "お宅の犬は大きいですね。",
+    "output": "Your dog is very big."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "君の犬はとても大きい。",
+    "output": "Your dog is very big."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "鼻水が出てるよ。",
+    "output": "Your nose is running."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "鼻水がたれているよ。",
+    "output": "Your nose is running."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたの意見が大事なのだ。",
+    "output": "Your opinion matters."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "君の電話、鳴ってるよ。",
+    "output": "Your phone's ringing."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "電話が鳴ってるよ。",
+    "output": "Your phone's ringing."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたの枕、汚いわね。",
+    "output": "Your pillow is dirty."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたの脈は正常です。",
+    "output": "Your pulse is normal."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "息子さんは天才ですね。",
+    "output": "Your son is a genius."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "「大丈夫？」「うん」",
+    "output": "Are you okay? \"Yes.\""
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "牛の尻尾は長い。",
+    "output": "A cow has a long tail."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "イルカは哺乳類である。",
+    "output": "A dolphin is a mammal."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "風の便りに聞いた。",
+    "output": "A little bird told me."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "風の便りで聞きました。",
+    "output": "A little bird told me."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "人づてに聞いたよ。",
+    "output": "A little bird told me."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "小耳に挟んだよ。",
+    "output": "A little bird told me."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "素敵な部屋ですね。",
+    "output": "A nice room, isn't it?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "一週間は七日です。",
+    "output": "A week has seven days."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "一週間は７日です。",
+    "output": "A week has seven days."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "人生に事故はつきもの。",
+    "output": "Accidents will happen."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "事故は避けられないものだ。",
+    "output": "Accidents will happen."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "事故は起こるものだ。",
+    "output": "Accidents will happen."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "事故というのは起こるものだ。",
+    "output": "Accidents will happen."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "不測の事態は起こるもの。",
+    "output": "Accidents will happen."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "弁護士はみんなウソつきだ。",
+    "output": "All lawyers are liars."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "全部なくなってしまっていた。",
+    "output": "All of them were gone."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "僕らはみんな行くべきだ。",
+    "output": "All of us ought to go."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私たちはみんな黙っていた。",
+    "output": "All of us were silent."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "卵が皆腐ってしまった。",
+    "output": "All the eggs went bad."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "食べ物はすべてなくなってしまった。",
+    "output": "All the food was gone."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私たちにできるのは希望を持つことだけだ。",
+    "output": "All we can do is hope."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "君のドアはいつも鍵がかかっている。",
+    "output": "Always lock your door."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私、しゃべりすぎてる？",
+    "output": "Am I talking too much?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "アメリカはとても大きい。",
+    "output": "America is very large."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "一人の老人がやってきた。",
+    "output": "An old man came along."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "どんな子でもできるさ。",
+    "output": "Any child can do that."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "いつでも構いませんよ。",
+    "output": "Any time will suit me."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "とにかく全力は尽くしたんだ。",
+    "output": "Anyway, I did my best."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "とは言え、頑張ったよ。",
+    "output": "Anyway, I did my best."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "みんな用意はできた？",
+    "output": "Are all of them ready?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "みんな準備完了？",
+    "output": "Are all of them ready?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "マフィンはできた？",
+    "output": "Are the muffins ready?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "バナナはありますか？",
+    "output": "Are there any bananas?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "これトムの靴？",
+    "output": "Are these Tom's shoes?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "これらはあなたの物ですか。",
+    "output": "Are these your things?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "それらはみんな同じかい？",
+    "output": "Are they all the same?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あの人たちは友達なの？",
+    "output": "Are they your friends?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "それらは熟したりんごですか？",
+    "output": "Are those apples ripe?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あれって、私のイヤリングかな？",
+    "output": "Are those my earrings?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "新入生の方ですか？",
+    "output": "Are you a new student?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "本当の医者ですか？",
+    "output": "Are you a real doctor?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "本物の医師ですか？",
+    "output": "Are you a real doctor?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムのこと怖いの？",
+    "output": "Are you afraid of Tom?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "もうお体はいいんですか。",
+    "output": "Are you all right now?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "もう酔っ払ってるの？",
+    "output": "Are you already drunk?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "もう出来上がってるの？",
+    "output": "Are you already drunk?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたは一人っ子ですか？",
+    "output": "Are you an only child?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "本気ですか。",
+    "output": "Are you being serious?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トム、今って忙しい？",
+    "output": "Are you busy now, Tom?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "牛乳を飲んでるの？",
+    "output": "Are you drinking milk?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ワインを飲んでるの？",
+    "output": "Are you drinking wine?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ここで働いているの？",
+    "output": "Are you employed here?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ここで雇ってもらってるの？",
+    "output": "Are you employed here?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムが来るのを待ってるの？",
+    "output": "Are you expecting Tom?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "疲れてきた？",
+    "output": "Are you feeling tired?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "音楽は好き？",
+    "output": "Are you fond of music?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "音楽が好きなの？",
+    "output": "Are you fond of music?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "音楽はお好きですか？",
+    "output": "Are you fond of music?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたは明日お暇ですか。",
+    "output": "Are you free tomorrow?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "明日暇？",
+    "output": "Are you free tomorrow?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "銀行からいらしたんですか？",
+    "output": "Are you from the bank?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "つまんなくなってきた？",
+    "output": "Are you getting bored?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "疲れてきた？",
+    "output": "Are you getting tired?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "外に行くの？",
+    "output": "Are you going outside?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "歌うつもりですか。",
+    "output": "Are you going to sing?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "投票に行く？",
+    "output": "Are you going to vote?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "待つつもりなの？",
+    "output": "Are you going to wait?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私のこと、口説いてるの？",
+    "output": "Are you hitting on me?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "全然お腹すいてないの？",
+    "output": "Are you hungry at all?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "今はボストンにいるの？",
+    "output": "Are you in Boston now?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "今、ボストンなの？",
+    "output": "Are you in Boston now?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "機嫌悪いの？",
+    "output": "Are you in a bad mood?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "今日出発するの？",
+    "output": "Are you leaving today?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私を見てるの？",
+    "output": "Are you looking at me?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "減量してるの？",
+    "output": "Are you losing weight?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "減量中なの？",
+    "output": "Are you losing weight?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "寝る準備はできてるの？",
+    "output": "Are you ready for bed?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "これで満足ですか？",
+    "output": "Are you satisfied now?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムのこと怖いの？",
+    "output": "Are you scared of Tom?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "眠っているの、トム。",
+    "output": "Are you sleeping, Tom?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "まだ家にいるの？",
+    "output": "Are you still at home?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "まだ仕事中？",
+    "output": "Are you still at work?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "まだ緊張してる？",
+    "output": "Are you still nervous?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "俺に話してるのか？",
+    "output": "Are you talking to me?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私に言っているのですか？",
+    "output": "Are you talking to me?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私に言ってるの？",
+    "output": "Are you talking to me?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ハイヒール履いてるの？",
+    "output": "Are you wearing heels?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "今日は仕事？",
+    "output": "Are you working today?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "今日は働いてるの？",
+    "output": "Are you working today?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "目に痛みがあるんですか？",
+    "output": "Are your eyes hurting?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ご両親がここにいらっしゃるんですか？",
+    "output": "Are your parents here?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "まだ眠れないの？",
+    "output": "Aren't you asleep yet?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "怖くないの？",
+    "output": "Aren't you frightened?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムに怒ってないの？",
+    "output": "Aren't you mad at Tom?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムに腹が立たないの？",
+    "output": "Aren't you mad at Tom?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "やっと順番がきた。",
+    "output": "At last, my turn came."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "動物の赤ちゃんって、かわいいです。",
+    "output": "Baby animals are cute."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "悪事千里を走る",
+    "output": "Bad news travels fast."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "バナナおいしい。",
+    "output": "Bananas are delicious."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "老人をいたわりなさい。",
+    "output": "Be kind to old people."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "老人に親切にしなさい。",
+    "output": "Be kind to old people."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "お年寄りには親切にしなさい。",
+    "output": "Be kind to old people."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "お年寄りにはやさしくしなさい。",
+    "output": "Be kind to old people."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ちょっとの間静かにしてなさい。",
+    "output": "Be quiet for a moment."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ちょっと静かにしてください。",
+    "output": "Be quiet for a moment."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ちょっと大人しくしといて。",
+    "output": "Be quiet for a second."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "次はきっとうまくいきますよ。",
+    "output": "Better luck next time."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "スリに用心しなさい。",
+    "output": "Beware of pickpockets."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "スリに用心してください。",
+    "output": "Beware of pickpockets."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "スリにご用心。",
+    "output": "Beware of pickpockets."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "スリに注意。",
+    "output": "Beware of pickpockets."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "スリに気をつけて。",
+    "output": "Beware of pickpockets."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "スリには気を付けろ。",
+    "output": "Beware of pickpockets."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "哺乳瓶は煮沸消毒すること。",
+    "output": "Boil the milk bottles."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私たち二人とも酔ってたのよ。",
+    "output": "Both of us were drunk."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "二人とも正しいよ。",
+    "output": "Both of you are right."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "おしぼり持ってきて。",
+    "output": "Bring me a damp towel."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "歯はきれいに磨きなさい。",
+    "output": "Brush your teeth well."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "景気がよくなってきています。",
+    "output": "Business is improving."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "それ買ってよ、お願いだよ。",
+    "output": "Buy it for me, please."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "２つ買うと１つ無料。",
+    "output": "Buy two, get one free."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "２個買うと１個もらえます。",
+    "output": "Buy two, get one free."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "会社へ電話してください。",
+    "output": "Call me at the office."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたにお願い事をしてもよいでしょうか。",
+    "output": "Can I ask you a favor?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "お願いがあるんだけど。",
+    "output": "Can I ask you a favor?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "お願いがあるの。",
+    "output": "Can I ask you a favor?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "このペンをお借りしていいですか。",
+    "output": "Can I borrow this pen?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "車を貸してもらえますか。",
+    "output": "Can I borrow your car?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "車を貸してくれませんか。",
+    "output": "Can I borrow your car?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ペンを貸してもらえますか。",
+    "output": "Can I borrow your pen?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ペンを拝借できますか。",
+    "output": "Can I borrow your pen?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ペンを貸していただけますか。",
+    "output": "Can I borrow your pen?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ペン借りていい？",
+    "output": "Can I borrow your pen?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ペン借りてもいい？",
+    "output": "Can I borrow your pen?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "このオレンジ、食べてもいい？",
+    "output": "Can I eat this orange?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "車に乗せてあげましょうか。",
+    "output": "Can I give you a ride?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "遊びに行ってもいい？",
+    "output": "Can I go out and play?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "何か手伝えることがありますか。",
+    "output": "Can I help in any way?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "何かお手伝いできることはありますか？",
+    "output": "Can I help in any way?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "伝言をお願いできますか。",
+    "output": "Can I leave a message?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "伝言をお願いしたいのですが。",
+    "output": "Can I leave a message?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "伝言お願いできますか。",
+    "output": "Can I leave a message?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "窓を開けてもいいですか。",
+    "output": "Can I open the window?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "後で電話してもいい？",
+    "output": "Can I phone you later?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "少し音楽をかけていいかい？",
+    "output": "Can I play some music?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ボタン、押していい？",
+    "output": "Can I push the button?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "後ろに座ってもいいですか？",
+    "output": "Can I sit in the back?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "車の中にいてもいい？",
+    "output": "Can I stay in the car?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "テレビ消してもいい？",
+    "output": "Can I turn off the TV?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは明日来れるの？",
+    "output": "Can Tom come tomorrow?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "それは本当に僕のものなんだろうか。",
+    "output": "Can it really be mine?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "だれか、電話出て。",
+    "output": "Can somebody get that?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "そのうわさは本当だろうか。",
+    "output": "Can the rumor be true?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "そのうわさは果たして本当だろうか。",
+    "output": "Can the rumor be true?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あのうわさは本当かしら。",
+    "output": "Can the rumor be true?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "月曜日会える？",
+    "output": "Can we meet on Monday?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "明日来れる？",
+    "output": "Can you come tomorrow?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私のお願いを聞いてもらえますか？",
+    "output": "Can you do me a favor?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "お願いしたいことがあるのですが。",
+    "output": "Can you do me a favor?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "一日休みとれるの？",
+    "output": "Can you get a day off?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "彼女、いくつだと思う？",
+    "output": "Can you guess her age?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "何か聞こえませんか。",
+    "output": "Can you hear anything?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "君ってチームに入れるの？",
+    "output": "Can you join the team?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "秘密を守れる？",
+    "output": "Can you keep a secret?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "秘密を守れますか。",
+    "output": "Can you keep a secret?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "誰にも言いませんか。",
+    "output": "Can you keep a secret?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "見せてもらえますか？",
+    "output": "Can you let me see it?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ペンを貸してもらえますか。",
+    "output": "Can you loan me a pen?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ドアを開けてもらえる？",
+    "output": "Can you open the door?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "英語を話せますか。",
+    "output": "Can you speak English?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ちょっと待ってくれる？",
+    "output": "Can you wait a minute?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "いっこも泳げないの？",
+    "output": "Can't you swim at all?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "全く泳げないの？",
+    "output": "Can't you swim at all?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "猫は水が嫌いです。",
+    "output": "Cats don't like water."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "猫は日向ぼっこが好きなんだよ。",
+    "output": "Cats enjoy sunbathing."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "猫は日向ぼっこが好きなんだよ。",
+    "output": "Cats like to sunbathe."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "辞書で確認してごらん。",
+    "output": "Check your dictionary."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "もう一度、目をつぶって。",
+    "output": "Close your eyes again."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "もう一度、目を閉じて。",
+    "output": "Close your eyes again."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "石炭は化石燃料だ。",
+    "output": "Coal is a fossil fuel."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私はコーヒーを飲むと眠れない。",
+    "output": "Coffee keeps me awake."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "コーヒーを飲むと眠くならない。",
+    "output": "Coffee keeps me awake."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "いつでも来ていいよ。",
+    "output": "Come anytime you like."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "こっちに来て手伝ってよ。",
+    "output": "Come here and help me."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "日が暮れないうちに帰ってきなさいよ。",
+    "output": "Come home before dark."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "暗くならないうちに家に帰りなさい。",
+    "output": "Come home before dark."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "暗くならないうちに帰ってきなさい。",
+    "output": "Come home before dark."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "俺んちにでもよってけ。",
+    "output": "Come over to my house."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "家においでよ。",
+    "output": "Come over to my place."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "俺んちにでもよってけ。",
+    "output": "Come over to my place."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "どうぞこちらへおいで下さい。",
+    "output": "Come this way, please."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "明日の朝、来なさい。",
+    "output": "Come tomorrow morning."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "明日の朝に来て。",
+    "output": "Come tomorrow morning."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "コンパスは北を示す。",
+    "output": "Compasses point north."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "荷物を預けることができますか。",
+    "output": "Could I check my bags?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "お茶をもらえますか。",
+    "output": "Could I have some tea?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたの机を使わせていただけますか。",
+    "output": "Could I use your desk?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "スプーンをいただけますか。",
+    "output": "Could we have a spoon?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "もう一度伺ってよろしいですか。",
+    "output": "Could you repeat that?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "もう一度お願いします。",
+    "output": "Could you repeat that?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "１から１０まで数えなさい。",
+    "output": "Count from one to ten."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "蟹は甲殻類だよ。",
+    "output": "Crabs are crustaceans."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "カラスは賢い鳥です。",
+    "output": "Crows are smart birds."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムは試験に受かったの？",
+    "output": "Did Tom pass the exam?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはテストに受かったの？",
+    "output": "Did Tom pass the test?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムはそれ理解したかな？",
+    "output": "Did Tom understand it?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トム、分かったのかな？",
+    "output": "Did Tom understand it?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "彼はメアリーに会いにいきましたか。",
+    "output": "Did he go to see Mary?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "彼はあなたに結婚を申し込んだのですか。",
+    "output": "Did he propose to you?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "昨日、雨が降ってたの？",
+    "output": "Did it rain yesterday?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "値段は聞きましたか。",
+    "output": "Did you ask the price?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "値段聞いた？",
+    "output": "Did you ask the price?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "家に持って帰ったの？",
+    "output": "Did you bring it home?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "新しい車買ったの？",
+    "output": "Did you buy a new car?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたはその本を買いましたか？",
+    "output": "Did you buy that book?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたはこの本を買いましたか。",
+    "output": "Did you buy that book?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたはこの本を買いましたか。",
+    "output": "Did you buy this book?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "列車で来たのですか？",
+    "output": "Did you come by train?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "髪切った？",
+    "output": "Did you get a haircut?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "願いがかないましたか。",
+    "output": "Did you get your wish?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "望み通りになりましたか。",
+    "output": "Did you get your wish?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "望みは叶いましたか。",
+    "output": "Did you get your wish?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムに会いに行ったの？",
+    "output": "Did you go to see Tom?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "君たち楽しかった？",
+    "output": "Did you guys have fun?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ここには今着いたばかりなの？",
+    "output": "Did you just get here?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "今何を見たの？",
+    "output": "Did you just see that?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "そのプレゼント気に入った？",
+    "output": "Did you like the gift?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "試験には受かったの？",
+    "output": "Did you pass the test?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "なんか言った？",
+    "output": "Did you say something?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "そこで彼女に会ったんですか？",
+    "output": "Did you see her there?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私のカメラを見ましたか。",
+    "output": "Did you see my camera?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "父を見かけませんでしたか？",
+    "output": "Did you see my father?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "本送ったの？",
+    "output": "Did you send the book?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "彼に電話したのですか。",
+    "output": "Did you telephone him?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "彼に電話した？",
+    "output": "Did you telephone him?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私のカメラ使った？",
+    "output": "Did you use my camera?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私のカメラを使ったの？",
+    "output": "Did you use my camera?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "夕食の準備はほとんどできています。",
+    "output": "Dinner's almost ready."
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "これ食べなきゃダメ？",
+    "output": "Do I have to eat this?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "俺ってそこまで馬鹿に見えるかな？",
+    "output": "Do I look that stupid?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私、そこまで間抜けに見える？",
+    "output": "Do I look that stupid?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私がそこに出向く必要がありますか。",
+    "output": "Do I need to go there?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私がそこに行く必要がありますか。",
+    "output": "Do I need to go there?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "乗り換えは必要ですか。",
+    "output": "Do I need to transfer?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "うさぎって、ドングリを食べるの？",
+    "output": "Do rabbits eat acorns?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたは神様を信じますか。",
+    "output": "Do you believe in God?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたは、勉強が好きですか。",
+    "output": "Do you enjoy studying?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私は美しいとあなたはお考えですか。",
+    "output": "Do you find me pretty?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "自転車を持っていますか。",
+    "output": "Do you have a bicycle?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ライター持ってる？",
+    "output": "Do you have a lighter?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ライターをお持ちですか。",
+    "output": "Do you have a lighter?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "パートナーはいますか？",
+    "output": "Do you have a partner?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "プリンター持ってる？",
+    "output": "Do you have a printer?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "空き部屋はありますか。",
+    "output": "Do you have a vacancy?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたはお金をいくらか持っていませんか。",
+    "output": "Do you have any money?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "お金持ってる？",
+    "output": "Do you have any money?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "お金ある？",
+    "output": "Do you have any money?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "金持ってんのか？",
+    "output": "Do you have any money?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "何か予定はあるの？",
+    "output": "Do you have any plans?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "アップルパイはありますか？",
+    "output": "Do you have apple pie?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "イヤホン持ってる？",
+    "output": "Do you have earphones?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "イヤホンはありますか？",
+    "output": "Do you have earphones?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "牛乳はありますか？",
+    "output": "Do you have some milk?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "時間がありますか。",
+    "output": "Do you have some time?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "お時間はありますか。",
+    "output": "Do you have some time?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ワインはありますか。",
+    "output": "Do you have some wine?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "もう行かなきゃいけないの？",
+    "output": "Do you have to go now?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ルール分かってる？",
+    "output": "Do you know the rules?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "歌詞がわかる？",
+    "output": "Do you know the words?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "この歌知ってる？",
+    "output": "Do you know this song?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "この曲知ってる？",
+    "output": "Do you know this tune?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "この単語って、分かる？",
+    "output": "Do you know this word?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "この単語、知ってる？",
+    "output": "Do you know this word?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "彼が誰だか知っていますか。",
+    "output": "Do you know who he is?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "彼が誰か知っていますか。",
+    "output": "Do you know who he is?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "君は彼が誰だか知っているか。",
+    "output": "Do you know who he is?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "サイズはお分かりですか。",
+    "output": "Do you know your size?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "チョコは好き？",
+    "output": "Do you like chocolate?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "庭いじりは好き？",
+    "output": "Do you like gardening?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ガーデニングは好き？",
+    "output": "Do you like gardening?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "土いじりは好きかい？",
+    "output": "Do you like gardening?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたは私の友人が好きですか。",
+    "output": "Do you like my friend?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "オリーブオイルは好きですか？",
+    "output": "Do you like olive oil?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あのソファー気に入った？",
+    "output": "Do you like that sofa?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ピアノは好き？",
+    "output": "Do you like the piano?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "あなたはこの本が好きですか。",
+    "output": "Do you like this book?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "旅行することが好きですか。",
+    "output": "Do you like to travel?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "旅行は好きですか？",
+    "output": "Do you like to travel?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "旅行は好き？",
+    "output": "Do you like to travel?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "旅行はお好きですか？",
+    "output": "Do you like to travel?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "旅行することが好きですか。",
+    "output": "Do you like traveling?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "旅行は好きですか？",
+    "output": "Do you like traveling?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "旅行は好き？",
+    "output": "Do you like traveling?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "旅行はお好きですか？",
+    "output": "Do you like traveling?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "この近くにお住まいなんですか？",
+    "output": "Do you live near here?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "この辺に住んでるの？",
+    "output": "Do you live near here?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "僕を少しでも愛していますか？",
+    "output": "Do you love me at all?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "もっと時間が必要ですか？",
+    "output": "Do you need more time?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "この本が必要なんですか。",
+    "output": "Do you need this book?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "ほんとに私のこと好きなの？",
+    "output": "Do you really love me?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私のこと、本当に愛してるの？",
+    "output": "Do you really love me?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "本気でそう言ってんのか。",
+    "output": "Do you really mean it?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "本当に欲しい？",
+    "output": "Do you really want it?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "電池は売っていますか。",
+    "output": "Do you sell batteries?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムのことまだ好きなの？",
+    "output": "Do you still like Tom?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "トムのことまだ好きなの？",
+    "output": "Do you still love Tom?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "まだ彼のことを愛しているの？",
+    "output": "Do you still love him?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "まだお茶が要りますか。",
+    "output": "Do you still need tea?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私のこと可愛いと思ってる？",
+    "output": "Do you think I'm cute?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私のことかわいいって思う？",
+    "output": "Do you think I'm cute?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私のこと、ブスだと思う？",
+    "output": "Do you think I'm ugly?"
+  },
+  {
+    "instruction": "次の入力を英語に翻訳してください。",
+    "input": "私は不細工なのでしょうか。",
+    "output": "Do you think I'm ugly?"
+  }
+]

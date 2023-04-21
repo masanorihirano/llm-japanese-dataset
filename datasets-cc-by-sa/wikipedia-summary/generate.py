@@ -14,7 +14,7 @@ def process_file(file_name):
     current_id: Optional[str] = None
     current_url: Optional[str] = None
     current_word: Optional[str] = None
-    current_description: Optional[str] = None
+    current_description: str = ""
     with open(file_name, mode="r", encoding="utf-8") as f:
         for line in f:
             if line.startswith('<doc id="'):
@@ -31,15 +31,22 @@ def process_file(file_name):
                         if line == "\n":
                             continue
                         else:
-                            current_description = line.replace("\n", "")
-                            if current_description != "</doc>" and "(曖昧さ回避)" not in current_word:
-                                if current_id is None or current_word is None or current_description is None:
-                                    raise AssertionError
-                                data.append({"curid": current_id, "instruction": "入力されたワードを説明してください。", "input": current_word, "output": current_description})
-                            current_id = None
-                            current_word = None
-                            current_description = None
-                            current_state = 0
+                            if line.endswith(".\n") or line == "</doc>\n":
+                                if current_description != "" and "(曖昧さ回避)" not in current_word:
+                                    if current_id is None or current_word is None or current_description == "":
+                                        print(current_id)
+                                        print(current_word)
+                                        print(current_description)
+                                        raise AssertionError
+                                    if current_description.endswith("\n"):
+                                        current_description = current_description[:-1]
+                                    data.append({"curid": current_id, "instruction": "入力されたワードを説明してください。", "input": current_word, "output": current_description})
+                                current_id = None
+                                current_word = None
+                                current_description = ""
+                                current_state = 0
+                            else:
+                                current_description += line
                 else:
                     continue
     return data

@@ -9,7 +9,7 @@ data = []
 for file_name in sorted([x for x in zip_file.namelist() if x.endswith(".txt")]):
     with zip_file.open(file_name, mode="r") as f:
         header_count = 0
-        info = {"file_name": file_name.replace("AozoraTxt/person_utf8/", "")}
+        info = {"file_name": file_name.replace("AozoraTxt/person_utf8/", ""), "text": ""}
         for i, line in enumerate(f):
             line = line.decode("utf-8").replace("\u3000", "").replace(" ", "")
             if i == 0:
@@ -18,15 +18,17 @@ for file_name in sorted([x for x in zip_file.namelist() if x.endswith(".txt")]):
             if i == 1:
                 info["author"] = line.replace("\n", "")
                 continue
-            if line == "-------------------------------------------------------\n":
+            if line.startswith("----------------------------------------------"):
                 header_count += 1
             else:
                 if header_count == 2:
                     if line == "\n" or line.startswith("［＃"):
                         continue
                     else:
-                        info["text"] = line.replace("\n", "")[:100]
-                        break
+                        info["text"] += line.replace("\n", "")
+                        if len(info["text"]) >= 100:
+                            info["text"] = info["text"][:100]
+                            break
                 else:
                     continue
         data.append(info)

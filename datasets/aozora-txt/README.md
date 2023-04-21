@@ -4,6 +4,7 @@
 
 ```
 wget https://github.com/levelevel/AozoraTxt/releases/download/v20221227/AozoraTxt_UTF8.zip
+poetry run python generate.py
 ```
 
 ## ライセンス

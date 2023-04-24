@@ -23,7 +23,8 @@ def filter_answers(lst_examples: List[Dict[str, str]]) -> List[Dict[str, str]]:
 def extract_instructs(
     example: Dict[str, Union[str, List[Dict[str, Union[int, str]]]]]
 ) -> List[Dict[str, str]]:
-    context: str = example["context"].split("[SEP]")[1].lstrip()
+    # context: str = example["context"].split("[SEP]")[1].lstrip()
+    context: str = "：".join(map(lambda x: x.strip(), example["context"].split("[SEP]")))
     available_instructs: List[List[Dict[str, str]]] = [
         [
             {
@@ -39,6 +40,7 @@ def extract_instructs(
     instructs: List[Dict[str, str]] = list(
         itertools.chain.from_iterable(map(filter_answers, available_instructs))
     )
+    instructs = list(filter(lambda x: len(x["input"]) >= 30, instructs))
     return instructs
 
 

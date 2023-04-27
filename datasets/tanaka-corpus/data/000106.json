@@ -1,0 +1,6002 @@
+[
+  {
+    "index": "F212000",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この単語を辞書で調べなさい。",
+    "output": "Please look up this word in a dictionary."
+  },
+  {
+    "index": "F212002",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この単語を辞書で見つけなさい。",
+    "output": "Look up this word in the dictionary."
+  },
+  {
+    "index": "F212004",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この単語は発音しにくい。",
+    "output": "This word is difficult to pronounce."
+  },
+  {
+    "index": "F212006",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この単語は何を意味しますか。",
+    "output": "What does that word mean?"
+  },
+  {
+    "index": "F212008",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この単語は何と発音しますか。",
+    "output": "How do you pronounce this word?"
+  },
+  {
+    "index": "F212010",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この単語はラテン語に由来している。",
+    "output": "This word is derived from Latin."
+  },
+  {
+    "index": "F212012",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この単語はどう発音するの？",
+    "output": "How do you pronounce this word?"
+  },
+  {
+    "index": "F212014",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この単語はどういう意味ですか。",
+    "output": "What does this word mean?"
+  },
+  {
+    "index": "F212016",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この単語はドイツ語からきている。",
+    "output": "This word is derived from German."
+  },
+  {
+    "index": "F212018",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この単語は、一般によく使われていない。",
+    "output": "This word is not in common use."
+  },
+  {
+    "index": "F212020",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この単語の発音の仕方を知っていますか。",
+    "output": "Do you know how to pronounce this word?"
+  },
+  {
+    "index": "F212022",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この単語の意味を知っていますか。",
+    "output": "Do you know the meaning of this word?"
+  },
+  {
+    "index": "F212024",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この単語の意味は何ですか。",
+    "output": "What is the meaning of this word?"
+  },
+  {
+    "index": "F212026",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この単語の意味が分からないな。辞書で調べることにするか。",
+    "output": "I don't know what this word means. I'll look it up in the dictionary."
+  },
+  {
+    "index": "F212028",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この単語の意味がわからないのですが。",
+    "output": "I don't understand this word."
+  },
+  {
+    "index": "F212030",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この単語には二つの意味があります。",
+    "output": "This word has two meanings."
+  },
+  {
+    "index": "F212032",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この単語が何を意味するかわかりますか。",
+    "output": "Can you tell me what this word means?"
+  },
+  {
+    "index": "F212034",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この単語がわからないのですが。",
+    "output": "I don't understand this word."
+  },
+  {
+    "index": "F212036",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この棚はそんなにたくさんの本は支えられません。",
+    "output": "These shelves cannot support so many books."
+  },
+  {
+    "index": "F212038",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この棚の本を持ち出すな。",
+    "output": "Don't take out the books on this shelf."
+  },
+  {
+    "index": "F212040",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この沢庵は塩気が足りない。",
+    "output": "The pickled radish needs a touch of salt."
+  },
+  {
+    "index": "F212042",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この大木で光がすっかりさえぎられている。",
+    "output": "The light is completely blocked out by the big tree."
+  },
+  {
+    "index": "F212044",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この大騒ぎは何ですか。",
+    "output": "What is all the fuss about?"
+  },
+  {
+    "index": "F212046",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この大学はかなり生徒数が少ない。",
+    "output": "There is a fairly small number of students at this university."
+  },
+  {
+    "index": "F212048",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この大学はいつ創設されたのですか。",
+    "output": "When was this university founded?"
+  },
+  {
+    "index": "F212050",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この大学は１９１０年に創立された。",
+    "output": "This college was established in 1910."
+  },
+  {
+    "index": "F212052",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この大学は１９１０年に設立された。",
+    "output": "This college was established in 1910."
+  },
+  {
+    "index": "F212054",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この大学の学生の中には教師に対する口の利き方すら知らないものがいる。",
+    "output": "Some students in this university don't even know how to talk to teachers."
+  },
+  {
+    "index": "F212056",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この大学には１万人の学生がいる。",
+    "output": "There are ten thousand students in this university."
+  },
+  {
+    "index": "F212058",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この大学での生活は全く期待はずれだ。",
+    "output": "Life at this college is nothing like I expected."
+  },
+  {
+    "index": "F212060",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この大きな門は小さな庭に不釣り合いだ。",
+    "output": "This big gate is disproportionate to the small garden."
+  },
+  {
+    "index": "F212062",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この大きな国で何が起こっているか見てみましょう。",
+    "output": "Let's see what's happening in this big country."
+  },
+  {
+    "index": "F212064",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この大きな活字は眼に楽だ。",
+    "output": "This large type is easy on the eyes."
+  },
+  {
+    "index": "F212066",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この大きなソファーは小さな部屋には不似合いだろう。",
+    "output": "This large sofa would be out of place in a small room."
+  },
+  {
+    "index": "F212068",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この大きなアメリカの地図を見て。",
+    "output": "Look at this large map of America."
+  },
+  {
+    "index": "F212070",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この台所で生ごみはどこに捨てますか。",
+    "output": "Where do you put the garbage in this kitchen?"
+  },
+  {
+    "index": "F212072",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この台の上に花瓶を置いてはいけません。",
+    "output": "Please don't place a vase on this stand."
+  },
+  {
+    "index": "F212074",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この代用貨幣では、会社の直営店に行き、その店で食料品や衣料を買うことしかできませんでした。",
+    "output": "With the token they could only go to the company shop and buy food or clothing from that shop."
+  },
+  {
+    "index": "F212076",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この貸付金は高い利子をとられることになっている。",
+    "output": "This loan will carry very heavy interest."
+  },
+  {
+    "index": "F212078",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この袋の中のオレンジは腐っている。",
+    "output": "The oranges in this bag are rotten."
+  },
+  {
+    "index": "F212080",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この替え芯は半年持つ。",
+    "output": "This refill lasts half a year."
+  },
+  {
+    "index": "F212082",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この体験はいつも私の記憶に残っているでしょう。",
+    "output": "This experience will always remain in my memory."
+  },
+  {
+    "index": "F212084",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この村の人口は減少した。",
+    "output": "The population of this village had decreased."
+  },
+  {
+    "index": "F212086",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この村には大気汚染は全くない。",
+    "output": "This village is free from air pollution."
+  },
+  {
+    "index": "F212088",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この村には工場は一つもない。",
+    "output": "There is no factory in this village."
+  },
+  {
+    "index": "F212090",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この村にはたくさん老人がいます。",
+    "output": "There are many old men in this village."
+  },
+  {
+    "index": "F212092",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この村には５０家族います。",
+    "output": "There are fifty families in this village."
+  },
+  {
+    "index": "F212094",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この村で彼らは幸せな生活を送りました。",
+    "output": "In this village, they lived a happy life."
+  },
+  {
+    "index": "F212096",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この村では、我々の村よりも物価が安い。",
+    "output": "The things in this village are cheaper than those in ours."
+  },
+  {
+    "index": "F212098",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この損害はみな嵐の結果だ。",
+    "output": "All this damage is the result of the storm."
+  },
+  {
+    "index": "F212100",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この贈り物を気に入ってくださればと思います。",
+    "output": "I hope you will be pleased with this present."
+  },
+  {
+    "index": "F212102",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この贈り物は受け取れません。",
+    "output": "I cannot accept this gift."
+  },
+  {
+    "index": "F212104",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この増加に加えて、世界の経済構造の変化があった。",
+    "output": "Along with this increase, there has been a change in the world's economic organization."
+  },
+  {
+    "index": "F212106",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この像は実物大です。",
+    "output": "This statue is as large as life."
+  },
+  {
+    "index": "F212108",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この像は十年前に作られた。",
+    "output": "This statue was erected ten years ago."
+  },
+  {
+    "index": "F212110",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この騒音は耐え難い音だ。",
+    "output": "This noise is something which I refuse to put up with."
+  },
+  {
+    "index": "F212112",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この騒音は我慢出来ない。",
+    "output": "I cannot put up with this noise."
+  },
+  {
+    "index": "F212114",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この騒音は我慢すべきだ。",
+    "output": "This noise should be put up with."
+  },
+  {
+    "index": "F212116",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この騒音には苛々する。",
+    "output": "This noise is annoying."
+  },
+  {
+    "index": "F212118",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この騒音はなんだ？",
+    "output": "What's this noise?"
+  },
+  {
+    "index": "F212120",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この騒音には耐えられない。",
+    "output": "I can't put up with this noise."
+  },
+  {
+    "index": "F212122",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この騒音にはもう我慢することができません。",
+    "output": "I can't tolerate this noise any longer."
+  },
+  {
+    "index": "F212124",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この騒音にはもうこれ以上耐えられない。",
+    "output": "I can't stand this noise any longer."
+  },
+  {
+    "index": "F212126",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この騒音にはがまんできない。",
+    "output": "I cannot put up with this noise."
+  },
+  {
+    "index": "F212128",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この騒音には、もう我慢できないの。",
+    "output": "I cannot bear this noise any more."
+  },
+  {
+    "index": "F212130",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この騒音で一睡も出来なかった。",
+    "output": "With this noise, I couldn't sleep a wink."
+  },
+  {
+    "index": "F212132",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この騒音が私をいらいらさせる。",
+    "output": "The noise is driving me crazy."
+  },
+  {
+    "index": "F212134",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この騒ぎはどうしたの。",
+    "output": "What is all this bother about?"
+  },
+  {
+    "index": "F212136",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この装置により、簡単に海水を淡水に変えることが可能となった。",
+    "output": "This device made it possible to turn sea-water into fresh water easily."
+  },
+  {
+    "index": "F212138",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この草地には蛙がうようよいる。",
+    "output": "This meadow abounds in frogs."
+  },
+  {
+    "index": "F212140",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この窓は南向きです。",
+    "output": "These windows look to the south."
+  },
+  {
+    "index": "F212142",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この窓は誰に壊されたのですか。",
+    "output": "By whom was this window broken?"
+  },
+  {
+    "index": "F212144",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この窓は一ヶ月割れたままになっている。",
+    "output": "This window has been broken for a month."
+  },
+  {
+    "index": "F212146",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この窓はどうしても閉まらない。",
+    "output": "This window won't fasten."
+  },
+  {
+    "index": "F212148",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この窓がどうしても開かないんだ。",
+    "output": "This window won't open."
+  },
+  {
+    "index": "F212150",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この窓が壊れたのは彼女のせいだ。",
+    "output": "She is responsible for this broken window."
+  },
+  {
+    "index": "F212152",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この窓から全市が見渡せる。",
+    "output": "This window overlooks the whole city."
+  },
+  {
+    "index": "F212154",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この窓がどうしても開かないんだよ。動かせるかどうかやってみて。",
+    "output": "This window won't open. See if you can get it to move."
+  },
+  {
+    "index": "F212156",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この掃除機は非常にうるさい音がする。",
+    "output": "This vacuum cleaner makes a lot of noise."
+  },
+  {
+    "index": "F212158",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この壮大な大聖堂の建立は中世にまでさかのぼる。",
+    "output": "This magnificent cathedral dates back to the Middle Ages."
+  },
+  {
+    "index": "F212160",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この鼠は私の猫に殺されました。",
+    "output": "This mouse was killed by my cat."
+  },
+  {
+    "index": "F212162",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この訴えを退けたくはない。",
+    "output": "I do not want to reject this claim."
+  },
+  {
+    "index": "F212164",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この組織は百パーセント寄付に頼っている。",
+    "output": "This organization relies entirely on voluntary donations."
+  },
+  {
+    "index": "F212166",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この組織は戦後生まれた。",
+    "output": "This institution came into being after the war."
+  },
+  {
+    "index": "F212168",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この組織は君無しには成り立たない。",
+    "output": "This organization cannot exist without you."
+  },
+  {
+    "index": "F212170",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この組織は幹部ばかりが名を連ね、果たして決断を下せるのか怪しいものだ。",
+    "output": "Since in this organization they're all managers, it's a wonder any decisions get made."
+  },
+  {
+    "index": "F212172",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この組織はまとまりに欠ける。",
+    "output": "This organization lacks unity."
+  },
+  {
+    "index": "F212174",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この組織は、現状のままに、ほうっておかれるならば、やがて、破滅するだろう。だがこの組織を、復旧させようとすることは、川を渡っている最中に、馬をとりかえることと同じように難しい。",
+    "output": "If this organization is left as it is, it will soon go bankrupt; its recovery is as difficult as swapping horses while crossing a stream."
+  },
+  {
+    "index": "F212176",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この組の生徒は全体に出来がよい。",
+    "output": "Generally speaking, the students of this class are very good."
+  },
+  {
+    "index": "F212178",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この素材は決してすり減ったりしない。",
+    "output": "This material never wears out."
+  },
+  {
+    "index": "F212180",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この全集は最終巻が欠けている。",
+    "output": "The last volume is missing from this set."
+  },
+  {
+    "index": "F212182",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この全集の５巻目が見当たらない。",
+    "output": "The fifth volume of this set is missing."
+  },
+  {
+    "index": "F212184",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前彼に会ってから２年経つ。",
+    "output": "It's been two years since I saw him last."
+  },
+  {
+    "index": "F212186",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前中国へ行ったとき、上海を訪れた。",
+    "output": "The last time I went to China, I visited Shanghai."
+  },
+  {
+    "index": "F212188",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前手紙を書いた時以来別に新しい事は何も起こっていない。",
+    "output": "There is nothing new transpired since I wrote you last."
+  },
+  {
+    "index": "F212190",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前行った事務所では数時間で仕事が終わってしまって、残りの時間が退屈だったわ。",
+    "output": "At the last office I went to I ran out of work after a couple of hours, which made the rest of the day rather boring."
+  },
+  {
+    "index": "F212192",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前御会いしてから５年がたちます。",
+    "output": "It's been five years since I last saw you."
+  },
+  {
+    "index": "F212194",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前京都を訪れたのはいつでしたか。",
+    "output": "When did you visit Kyoto last?"
+  },
+  {
+    "index": "F212196",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前会ってからどのくらいになるかな。",
+    "output": "How long has it been since we last met?"
+  },
+  {
+    "index": "F212198",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前会ってからずいぶん経ちましたね。",
+    "output": "It is a long time since I saw you last."
+  },
+  {
+    "index": "F212200",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前会った時彼女は健康そうだった。",
+    "output": "She looked well when I last saw her."
+  },
+  {
+    "index": "F212202",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前やめた所から読み始めなさい。",
+    "output": "Start reading where you left off."
+  },
+  {
+    "index": "F212204",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前みたいに私をがっかりさせないでね。",
+    "output": "Don't let me down as you did the other day."
+  },
+  {
+    "index": "F212206",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前はどこで終わりましたか。",
+    "output": "Where did we leave off last time?"
+  },
+  {
+    "index": "F212208",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前の嵐で数軒の家屋が被害を受けた。",
+    "output": "Several houses were damaged in the last storm."
+  },
+  {
+    "index": "F212210",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前の娘は口述内容を筆記するのも無理だった。速記なんて論外さ。",
+    "output": "That girl couldn't take things down in longhand, let alone shorthand."
+  },
+  {
+    "index": "F212212",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前の日曜日以降、私は彼に会っていません。",
+    "output": "I haven't seen him since last Sunday."
+  },
+  {
+    "index": "F212214",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前の日曜日は小説を読んで過ごした。",
+    "output": "I spent last Sunday reading novels."
+  },
+  {
+    "index": "F212216",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前の日曜日はたまたま暇だった。",
+    "output": "It happened that I was free last Sunday."
+  },
+  {
+    "index": "F212218",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前の日曜日に小型トラックで家に帰ったのを覚えている。",
+    "output": "I remember riding home on a pickup truck last Sunday."
+  },
+  {
+    "index": "F212220",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前の日曜日にメアリーといっしょに図書館へ行った。",
+    "output": "Last Sunday, Mary and I went to the library together."
+  },
+  {
+    "index": "F212222",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前の日曜日にお母さんが私に素敵な服を買ってくれた。",
+    "output": "Mother bought me a nice dress last Sunday."
+  },
+  {
+    "index": "F212224",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前の冬私は蔵王へスキーに行った。",
+    "output": "I went skiing at Zao last winter."
+  },
+  {
+    "index": "F212226",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前の冬、私はカナダへスキーに行った。",
+    "output": "I went skiing in Canada last winter."
+  },
+  {
+    "index": "F212228",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前の授業に出たかい？",
+    "output": "Did you go to the last class?"
+  },
+  {
+    "index": "F212230",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前の時カップを逆さにして置いたのはどういうつもりだったのよ。",
+    "output": "What was the idea of leaving the cup upside down last time?"
+  },
+  {
+    "index": "F212232",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前の試験はどうでしたか。",
+    "output": "How were your last exams?"
+  },
+  {
+    "index": "F212234",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前の京都旅行はとても楽しかった。",
+    "output": "On my last visit to Kyoto I enjoyed myself very much."
+  },
+  {
+    "index": "F212236",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前の夏にこの池は水がなくなりました。",
+    "output": "The pond dried up last summer."
+  },
+  {
+    "index": "F212238",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前の夏に、私は１２年前に入った会社をついに辞めた。",
+    "output": "Last summer, I finally left the firm that I had joined twelve years before."
+  },
+  {
+    "index": "F212240",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前の夏、私はロンドンを訪れる機会がありました。",
+    "output": "Last summer I had a chance to visit London."
+  },
+  {
+    "index": "F212242",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前に電話したときは彼は留守でした。",
+    "output": "The last time I called him, he was out."
+  },
+  {
+    "index": "F212244",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前食べたときは、とてもおいしかったよ。",
+    "output": "Their food was great last time."
+  },
+  {
+    "index": "F212246",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前に見たのと同じ服を彼女が着ているのに、私は気づいた。",
+    "output": "I found that she wore the same dress that I had seen her wear last time."
+  },
+  {
+    "index": "F212248",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前ケントに会ったとき、彼はとても元気でした。",
+    "output": "The last time I saw Kent, he was very well."
+  },
+  {
+    "index": "F212250",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前あなたにお会いして以来、かなり進歩されたようですね。",
+    "output": "You seem to have made considerable progress since I saw you last."
+  },
+  {
+    "index": "F212252",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前、僕が君にあったのはいつだっけ。",
+    "output": "Do you remember when I saw you last?"
+  },
+  {
+    "index": "F212254",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この前、混雑した幹線道路の真ん中でガス欠してしまったんです。",
+    "output": "The other day I ran out of gas in the middle of a busy Interstate."
+  },
+  {
+    "index": "F212256",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この船は大きすぎて運河を通れない。",
+    "output": "This ship is too big to pass through the canal."
+  },
+  {
+    "index": "F212258",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この船をクイーンエリザベスと名づける。",
+    "output": "I name this ship the Queen Elizabeth."
+  },
+  {
+    "index": "F212260",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この船は蒸気で動かされている。",
+    "output": "This ship is driven by steam."
+  },
+  {
+    "index": "F212262",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この船は遠洋航海には堪えない。",
+    "output": "This ship is not fit for an ocean voyage."
+  },
+  {
+    "index": "F212264",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この船はジャングルを通りぬける。",
+    "output": "This boat goes through the jungle."
+  },
+  {
+    "index": "F212266",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この船はバンクーバー行きである。",
+    "output": "This ship is bound for Vancouver."
+  },
+  {
+    "index": "F212268",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この船はジブラルタル海峡を通過します。",
+    "output": "This boat sails through the Strait of Gibraltar."
+  },
+  {
+    "index": "F212270",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この船の目的地はどこですか。",
+    "output": "What's the destination of this ship?"
+  },
+  {
+    "index": "F212272",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この船の長さは３０メートルだ。",
+    "output": "The length of this ship is 30 meters."
+  },
+  {
+    "index": "F212274",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この船には鼠がいっぱいいる。",
+    "output": "The ship abounds with rats."
+  },
+  {
+    "index": "F212276",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この線を２０等分せよ。",
+    "output": "Divide this line into twenty equal parts."
+  },
+  {
+    "index": "F212278",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この線は経度を表している。",
+    "output": "This line represents the longitude."
+  },
+  {
+    "index": "F212280",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この線はもう一方の線に平行している。",
+    "output": "This line is parallel to the other."
+  },
+  {
+    "index": "F212282",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この線はあの線に平行です。",
+    "output": "This line is parallel to that."
+  },
+  {
+    "index": "F212284",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この線の終点はどこですか。",
+    "output": "Where is the end of this line?"
+  },
+  {
+    "index": "F212286",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この線があなたの身長を示します。",
+    "output": "This line marks your height."
+  },
+  {
+    "index": "F212288",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この潜水時計は少し値段が高すぎます。",
+    "output": "This diver's watch is a little too expensive."
+  },
+  {
+    "index": "F212290",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この洗濯機は使えません。",
+    "output": "You can't use this washing machine."
+  },
+  {
+    "index": "F212292",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この染みはどうしても落ちない。",
+    "output": "This stain won't come out."
+  },
+  {
+    "index": "F212294",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この洗濯機の使い方を教えて下さい。",
+    "output": "Could you tell me how to use this washing machine?"
+  },
+  {
+    "index": "F212296",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この洗濯機は何かおかしい。",
+    "output": "Something is wrong with this washing machine."
+  },
+  {
+    "index": "F212298",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この栓はびんに合わない。",
+    "output": "This stopper does not fit the bottle."
+  },
+  {
+    "index": "F212300",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この戦いの後ナポレオンはヨーロッパの支配者になった。",
+    "output": "This battle left Napoleon master of Europe."
+  },
+  {
+    "index": "F212302",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川を泳ぐのは危険です。",
+    "output": "This river is dangerous to swim in."
+  },
+  {
+    "index": "F212304",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川は美しい。",
+    "output": "This river is beautiful."
+  },
+  {
+    "index": "F212306",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川を泳いで渡れますか。",
+    "output": "Can you swim across this river?"
+  },
+  {
+    "index": "F212308",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川は氾濫しそうだ。",
+    "output": "This river is going to overflow."
+  },
+  {
+    "index": "F212310",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川は長野の山々に源を発している。",
+    "output": "This river rises in the mountains in Nagano."
+  },
+  {
+    "index": "F212312",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川は南へ流れて海に注ぎこむ。",
+    "output": "This river flows south into the sea."
+  },
+  {
+    "index": "F212314",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川は長さ５００マイルです。",
+    "output": "This river is 500 miles in length."
+  },
+  {
+    "index": "F212316",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川は太平洋に注いでいる。",
+    "output": "This river flows into the Pacific Ocean."
+  },
+  {
+    "index": "F212318",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川は雪解けの後氾濫することがある。",
+    "output": "This river sometimes overflows after the thaw."
+  },
+  {
+    "index": "F212320",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川は数百マイルも続いている。",
+    "output": "This river extends for hundreds of miles."
+  },
+  {
+    "index": "F212322",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川は信濃川の３分の１の長さである。",
+    "output": "This river is about one third as long as the Shinano."
+  },
+  {
+    "index": "F212324",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川は私の村を流れている。",
+    "output": "This river runs through my village."
+  },
+  {
+    "index": "F212326",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川は子供が泳ぐには危険だ。",
+    "output": "This river is dangerous for children to swim in."
+  },
+  {
+    "index": "F212328",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川は工場の廃棄物で汚染されている。",
+    "output": "This river is polluted with factory waste."
+  },
+  {
+    "index": "F212330",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川は何というのですか。",
+    "output": "What is the name of this river?"
+  },
+  {
+    "index": "F212332",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川は汚染されていない。",
+    "output": "This river is not polluted."
+  },
+  {
+    "index": "F212334",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川は泳げるくらい深い。",
+    "output": "This river is deep enough to swim in."
+  },
+  {
+    "index": "F212336",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川は泳ぐのに危険である。",
+    "output": "This river is dangerous to swim in."
+  },
+  {
+    "index": "F212338",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川は泳ぐのには流れが速すぎる。",
+    "output": "The river flows too fast to swim in."
+  },
+  {
+    "index": "F212340",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川は泳ぐのには危険である。",
+    "output": "This river is dangerous to swim in."
+  },
+  {
+    "index": "F212342",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川は泳ぐのにとても危険だ。",
+    "output": "This river is very dangerous to swim in."
+  },
+  {
+    "index": "F212344",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川は泳ぐには流れが速すぎる。",
+    "output": "This river flows too fast to swim in."
+  },
+  {
+    "index": "F212346",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川は泳ぐには危険だ。",
+    "output": "This river is dangerous to swim in."
+  },
+  {
+    "index": "F212348",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川は泳いでわたるのは危険だ。",
+    "output": "This river is dangerous to swim across."
+  },
+  {
+    "index": "F212350",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川は泳いでも安全だ。",
+    "output": "This river is safe to swim in."
+  },
+  {
+    "index": "F212352",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川はヨーロッパで一番幅が広い。",
+    "output": "The river is the widest in Europe."
+  },
+  {
+    "index": "F212354",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川はここが最も深いんだ。",
+    "output": "This river is deepest here."
+  },
+  {
+    "index": "F212356",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川はオンタリオ湖に流れ込む。",
+    "output": "This river runs into Lake Ontario."
+  },
+  {
+    "index": "F212358",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川はあの川の３倍長い。",
+    "output": "This river is three times longer than that one."
+  },
+  {
+    "index": "F212360",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川はあそこで浅くなっている。",
+    "output": "This river becomes shallow at that point."
+  },
+  {
+    "index": "F212362",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川は、七月に泳ぐのは危険です。",
+    "output": "This river is dangerous to swim in July."
+  },
+  {
+    "index": "F212364",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川の幅はどのぐらいですか。",
+    "output": "How wide is this river?"
+  },
+  {
+    "index": "F212366",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川の流れは急だ。",
+    "output": "The current of this river is rapid."
+  },
+  {
+    "index": "F212368",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川の幅が１マイルある。",
+    "output": "This river is one mile across."
+  },
+  {
+    "index": "F212370",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川の水はとてもきれいだ。",
+    "output": "The water in this river is very clean."
+  },
+  {
+    "index": "F212372",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川の汚染がひどくて、もう魚は住めない。",
+    "output": "This river is so polluted that fish can no longer live in it."
+  },
+  {
+    "index": "F212374",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川の１キロほど川上に橋があります。",
+    "output": "There is a bridge about one kilometer up this river."
+  },
+  {
+    "index": "F212376",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川に架かっているあの橋は町で一番古い。",
+    "output": "That bridge across this river is the oldest in the town."
+  },
+  {
+    "index": "F212378",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川には雑魚がたくさんいる。",
+    "output": "This river abounds in small fish."
+  },
+  {
+    "index": "F212380",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川には魚が多い。",
+    "output": "Fish abound in this river."
+  },
+  {
+    "index": "F212382",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川にはマスが多い。",
+    "output": "This river abounds in trout."
+  },
+  {
+    "index": "F212384",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川で捕れる魚はみんなおいしい。",
+    "output": "The fish caught in this river are all nice."
+  },
+  {
+    "index": "F212386",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川で取れた魚の数は大変少なかった。",
+    "output": "The number of fish caught in this river was very small."
+  },
+  {
+    "index": "F212388",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川で泳ぐのは危険だ。",
+    "output": "It's dangerous to swim in this river."
+  },
+  {
+    "index": "F212390",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川で泳ぐのは、安全ですか。",
+    "output": "Is it safe to swim in this river?"
+  },
+  {
+    "index": "F212392",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川で泳いではいけない。",
+    "output": "Swimming is not allowed in this river."
+  },
+  {
+    "index": "F212394",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この川でスケートをした事がありますか。",
+    "output": "Have you ever tried skating on the river?"
+  },
+  {
+    "index": "F212396",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この専門紙は私には理解できない。",
+    "output": "This technical journal is above me."
+  },
+  {
+    "index": "F212398",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この千円札をくずしてくれませんか。",
+    "output": "Can you break this thousand-yen bill?"
+  },
+  {
+    "index": "F212400",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この先通行禁止。",
+    "output": "No passage this way."
+  },
+  {
+    "index": "F212402",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この先祖伝来の家宝は君の物だ。",
+    "output": "This heirloom shall be yours."
+  },
+  {
+    "index": "F212404",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この先生は「おじさん」という呼び名で通っている。",
+    "output": "This teacher goes by the name of \"Pops.\""
+  },
+  {
+    "index": "F212406",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この先危険物あり。",
+    "output": "Danger ahead."
+  },
+  {
+    "index": "F212408",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この先何が起こるか誰もわからない。",
+    "output": "None of us knows what is in store for us."
+  },
+  {
+    "index": "F212410",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この先の道は凍結してるよ。",
+    "output": "The road ahead is frozen."
+  },
+  {
+    "index": "F212412",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "こんな先の丸くなった鉛筆では書けないよ。",
+    "output": "I can't write with this dull pencil."
+  },
+  {
+    "index": "F212414",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この先どうなるの。",
+    "output": "What will come?"
+  },
+  {
+    "index": "F212416",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この雪の中をオーバーも着ないで出て行くなんて気でも狂ってるのか。",
+    "output": "You are mad to go out in the snow without a coat."
+  },
+  {
+    "index": "F212418",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この雪でも列車は動いている。",
+    "output": "The trains are running in this snow."
+  },
+  {
+    "index": "F212420",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この折りたたみの傘を持って行きなさい。役に立つかもしれませんから。",
+    "output": "Take this folding umbrella with you. It might come in handy."
+  },
+  {
+    "index": "F212422",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この切符、誰でも欲しがっている人にやっていいよ。",
+    "output": "You may give this ticket to whoever wants it."
+  },
+  {
+    "index": "F212424",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この切符を取り消せますか。",
+    "output": "Can I cancel this ticket?"
+  },
+  {
+    "index": "F212426",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この切符は無料です。",
+    "output": "This is a free ticket."
+  },
+  {
+    "index": "F212428",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この切符は途中下車できます。",
+    "output": "This ticket allows you to stop over at any station."
+  },
+  {
+    "index": "F212430",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この切符は三日間有効なんだ。",
+    "output": "This ticket is good for three days."
+  },
+  {
+    "index": "F212432",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この切符は購入後２日のみ有効である。",
+    "output": "This ticket holds good only for two days after purchase."
+  },
+  {
+    "index": "F212434",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この切符は一ヶ月間有効である。",
+    "output": "This ticket holds good for a month."
+  },
+  {
+    "index": "F212436",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この切符はまだ一週間有効だ。",
+    "output": "This ticket is good for one more week."
+  },
+  {
+    "index": "F212438",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この切符は３日間有効です。",
+    "output": "This ticket is good for three days."
+  },
+  {
+    "index": "F212440",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この切符の出発日を変更できますか。",
+    "output": "Could you change the departure date for this ticket?"
+  },
+  {
+    "index": "F212442",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この切符で二人入れるよ。",
+    "output": "The ticket admits two persons."
+  },
+  {
+    "index": "F212444",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この切符で特別展をみられますか。",
+    "output": "Can I see the special exhibit with this ticket?"
+  },
+  {
+    "index": "F212446",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この切符では２人無料で入場できる。",
+    "output": "This ticket will admit two persons free."
+  },
+  {
+    "index": "F212448",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この切符で２名入場できます。",
+    "output": "This ticket admits two persons."
+  },
+  {
+    "index": "F212450",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この切手のどちらでもあげよう。",
+    "output": "I'll give you either of these stamps."
+  },
+  {
+    "index": "F212452",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この切手には誰の肖像が印刷してありますか。",
+    "output": "Whose image is on this stamp?"
+  },
+  {
+    "index": "F212454",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この赤色で柄全体がだいなしだ。",
+    "output": "The red kills the whole pattern."
+  },
+  {
+    "index": "F212456",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この赤ん坊はまだスプーンが使えない。",
+    "output": "The baby cannot use a spoon yet."
+  },
+  {
+    "index": "F212458",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この赤ちゃんは男ですか女ですか。",
+    "output": "Is this baby a he or a she?"
+  },
+  {
+    "index": "F212460",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この赤ちゃんは生後3週間です。",
+    "output": "This baby is 3 weeks old."
+  },
+  {
+    "index": "F212462",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この赤い帽子は彼女の服によく合ってますよ。",
+    "output": "This red hat corresponds well to her dress."
+  },
+  {
+    "index": "F212464",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この赤い帽子はいかがですか。",
+    "output": "How about this red hat?"
+  },
+  {
+    "index": "F212466",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この赤いボタンを押すだけでいいのです。",
+    "output": "You have only to push this red button."
+  },
+  {
+    "index": "F212468",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この責任は結局だれにあるのか。",
+    "output": "Who is ultimately responsible for this?"
+  },
+  {
+    "index": "F212470",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この石鹸を使えば彼女の顔の色艶がよくなるだろう。",
+    "output": "This soap will improve her complexion."
+  },
+  {
+    "index": "F212472",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この石を動かすのを手伝ってください。",
+    "output": "Help me move this stone."
+  },
+  {
+    "index": "F212474",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この石を持ち上げる事が出来ますか。",
+    "output": "Can you lift this stone?"
+  },
+  {
+    "index": "F212476",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この石は重すぎて持ち上げられない。",
+    "output": "This stone is too heavy to lift."
+  },
+  {
+    "index": "F212478",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この石は重すぎて私には動かせない。",
+    "output": "This stone is too heavy for me to move."
+  },
+  {
+    "index": "F212480",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この石はとても重かったので持ち上げることができなかった。",
+    "output": "This stone was so heavy that I could not lift it."
+  },
+  {
+    "index": "F212482",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この石はあの石の２倍の重さだ。",
+    "output": "This stone is twice as heavy as that one."
+  },
+  {
+    "index": "F212484",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この石には、真ん中に穴がある。",
+    "output": "This stone has a hole in the center."
+  },
+  {
+    "index": "F212486",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この石は５トンの重さがある。",
+    "output": "This stone weighs five tons."
+  },
+  {
+    "index": "F212488",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この石けんはすばらしく泡だちがいい。",
+    "output": "This soap makes a lot bubbles."
+  },
+  {
+    "index": "F212490",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この席を取っておいてくれませんか。",
+    "output": "Will you keep this seat for me?"
+  },
+  {
+    "index": "F212492",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この席を取っておいてくださいませんか。",
+    "output": "Will you hold this seat for me?"
+  },
+  {
+    "index": "F212494",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この席を見ていてくれませんか。",
+    "output": "Can you save this seat for me?"
+  },
+  {
+    "index": "F212496",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この席まで案内してくれますか。",
+    "output": "Could you take me to this seat?"
+  },
+  {
+    "index": "F212498",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この席はふさがっていないといいが。",
+    "output": "I hope this seat is not occupied."
+  },
+  {
+    "index": "F212500",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この席はふさがってますか。",
+    "output": "Is this seat taken?"
+  },
+  {
+    "index": "F212502",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この席はどのあたりでしょう？",
+    "output": "Where's this seat?"
+  },
+  {
+    "index": "F212504",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この席はどなたかいらっしゃいますか。",
+    "output": "Is this seat taken?"
+  },
+  {
+    "index": "F212506",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この席はあいてますか。",
+    "output": "Is this seat empty?"
+  },
+  {
+    "index": "F212508",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この席からはステージが良く見えない。",
+    "output": "I can't see the stage well from this seat."
+  },
+  {
+    "index": "F212510",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この席は空いていますか？",
+    "output": "Is this seat taken?"
+  },
+  {
+    "index": "F212512",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この静かな生活にはいい加減飽きてしまった。",
+    "output": "I'm about tired of this quiet life."
+  },
+  {
+    "index": "F212514",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この静かな森で動物を狩ることは禁止されている。",
+    "output": "Hunting game is forbidden in these tranquil woods."
+  },
+  {
+    "index": "F212516",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この静かな原野で狩猟をすることは禁止されています。",
+    "output": "Hunting game is forbidden in this tranquil wilderness."
+  },
+  {
+    "index": "F212518",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この青いセーターはとてもきれいだ。",
+    "output": "This blue sweater is very pretty."
+  },
+  {
+    "index": "F212520",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この請求書の支払いは今日になっています。",
+    "output": "The payment of this bill is due today."
+  },
+  {
+    "index": "F212522",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この製品は美しく仕上がっている。",
+    "output": "This work is beautifully finished."
+  },
+  {
+    "index": "F212524",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この製品は飛ぶように売れています。",
+    "output": "These products are selling like hot cakes."
+  },
+  {
+    "index": "F212526",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この製品は彼らの製品より勝っている。",
+    "output": "These products are superior to theirs."
+  },
+  {
+    "index": "F212528",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この製品はイタリア製だ。",
+    "output": "This product is made in Italy."
+  },
+  {
+    "index": "F212530",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この製品は、２月１５日までにご注文いただければ、３月１５日までにお届けすることができます。",
+    "output": "Please order this product by February 15, and we will be able to deliver it before March 15."
+  },
+  {
+    "index": "F212532",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この製品のお陰で我が社は大きな利益をあげた。",
+    "output": "This product brought us a large margin."
+  },
+  {
+    "index": "F212534",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この生徒たちはそれぞれの自分の意見をもっている。",
+    "output": "Each of these students has his or her own opinion."
+  },
+  {
+    "index": "F212536",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この生地は洋服をつくるのには向かない。",
+    "output": "This material is not suitable for a dress."
+  },
+  {
+    "index": "F212538",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この生地は長持ちする。",
+    "output": "This cloth wears well."
+  },
+  {
+    "index": "F212540",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この生地は丈夫です。",
+    "output": "This cloth wears well."
+  },
+  {
+    "index": "F212542",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この生地は引っ張るとすぐ伸びる。",
+    "output": "This material stretches easily."
+  },
+  {
+    "index": "F212544",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この生地はしみになりやすい。",
+    "output": "This fabric stains easily."
+  },
+  {
+    "index": "F212546",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この生地はあの生地よりも上質です。",
+    "output": "This cloth is superior to that."
+  },
+  {
+    "index": "F212548",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この生地はアイロンがよくきく。",
+    "output": "This cloth irons well."
+  },
+  {
+    "index": "F212550",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この生地で洋服を作ってください。",
+    "output": "I want a suit made of this material."
+  },
+  {
+    "index": "F212552",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この生地でスカートを作ろうと思っています。",
+    "output": "I'm going to make this material into a skirt."
+  },
+  {
+    "index": "F212554",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この生地、今度作ろうと思ってる服に使おうと思うんですが、幾らしますか。",
+    "output": "I want to buy this material for a new dress. How much does it cost?"
+  },
+  {
+    "index": "F212556",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この生活に疲れた。",
+    "output": "I'm tired of living this life."
+  },
+  {
+    "index": "F212558",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この晴天が週末まで続くことを望む。",
+    "output": "I hope this fine weather lasts till the weekend."
+  },
+  {
+    "index": "F212560",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この政府はまさしく時代に逆行している。",
+    "output": "This government is really putting the clock back."
+  },
+  {
+    "index": "F212562",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この政治的問題は激しい議論を巻き起こした。",
+    "output": "This political problem gave rise to hot discussions."
+  },
+  {
+    "index": "F212564",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この政策は結局物価の高騰を引き起こした。",
+    "output": "This policy resulted in a great rise in prices."
+  },
+  {
+    "index": "F212566",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この政策は、景気を刺激するのにきっと大いに役立つであろう。",
+    "output": "This policy is sure to go a long way towards stimulating business."
+  },
+  {
+    "index": "F212568",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この政策の結果、物価が大幅に値上がりした。",
+    "output": "This policy resulted in a great rise in prices."
+  },
+  {
+    "index": "F212570",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この政策の結果、物価が大幅に上昇した。",
+    "output": "Prices rose drastically as a result of this policy."
+  },
+  {
+    "index": "F212572",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この政策で物価は大幅に値上がりした。",
+    "output": "This policy resulted in a great rise in prices."
+  },
+  {
+    "index": "F212574",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この制度は十中八九うまくいくだろう。",
+    "output": "This system will work well in nine cases out of ten."
+  },
+  {
+    "index": "F212576",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この制度には改良の余地がない。",
+    "output": "There is no room for further improvement in this system."
+  },
+  {
+    "index": "F212578",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この制度は欠陥だらけだ。",
+    "output": "This system is bristling with defects and drawbacks."
+  },
+  {
+    "index": "F212580",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この世界へようこそ！",
+    "output": "Welcome to this world!"
+  },
+  {
+    "index": "F212582",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この世界を直視するべきだ。",
+    "output": "We ought to look the world straight in the face."
+  },
+  {
+    "index": "F212584",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この世界は何時生じたのか。",
+    "output": "When did the world come into being?"
+  },
+  {
+    "index": "F212586",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この世界に戦争なんてなければよいのに。",
+    "output": "If only there were no wars in the world."
+  },
+  {
+    "index": "F212588",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この世は我々の想像力にとっての画布そのものである。",
+    "output": "This world is but canvas to our imaginations."
+  },
+  {
+    "index": "F212590",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この世は仮の宿に過ぎない。",
+    "output": "This world is but a place of passage."
+  },
+  {
+    "index": "F212592",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この世の中には新しいことは何もない。",
+    "output": "There is nothing new under the sun."
+  },
+  {
+    "index": "F212594",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この世の心配事は忘れて気をゆったり持て。",
+    "output": "Forget the anxieties of life and learn to relax."
+  },
+  {
+    "index": "F212596",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この世の喜びはほんのすこししかない。",
+    "output": "The joys of the world do but little."
+  },
+  {
+    "index": "F212598",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この世のことは、何もかも知るというわけにはいかない。",
+    "output": "We cannot know everything in the world."
+  },
+  {
+    "index": "F212600",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この世に全く新しきものなし。",
+    "output": "There is nothing new under the sun."
+  },
+  {
+    "index": "F212602",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この世に戦争がまったくない時代を想像することができますか。",
+    "output": "Can you imagine a time when the world is free of war?"
+  },
+  {
+    "index": "F212604",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この世に新しいものはない。",
+    "output": "There is nothing new under the sun."
+  },
+  {
+    "index": "F212606",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この世に私が恐れるものは何もない。",
+    "output": "There is nothing in this world that I am afraid of."
+  },
+  {
+    "index": "F212608",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この世に私がいなくなる日が来るだろう。",
+    "output": "The day will come when I cease to be on this earth."
+  },
+  {
+    "index": "F212610",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この世に思い煩らうことはない。",
+    "output": "I don't have a care in the world."
+  },
+  {
+    "index": "F212612",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この世にかわいい子はただ一人、母親にとってはそれはわが子。",
+    "output": "There's only one pretty child in the world, and every mother has it."
+  },
+  {
+    "index": "F212614",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この世にお茶がなかったならばどうするだろう。",
+    "output": "What would the world do without tea?"
+  },
+  {
+    "index": "F212616",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この世にある人は誰でも多くの困難に対処しなければならない。",
+    "output": "Everybody in this world has to cope with a lot of difficulties."
+  },
+  {
+    "index": "F212618",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この世で男にとって最良のことは良妻を選ぶことであり、最悪のことは選び損なって悪妻を持つことである。",
+    "output": "The best thing in the world for a man is to choose a good wife, the worst being to mistakenly choose an ill-suited one."
+  },
+  {
+    "index": "F212620",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この世で大切なことは、今、自分がどこにいるかということよりも、むしろどの方向に向かって進んでいるかということであると思う。",
+    "output": "I find the great thing in this world is not so much where we stand as in what direction we are moving."
+  },
+  {
+    "index": "F212622",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この世で太陽の影響を受けないものは何一つ無い。",
+    "output": "There is nothing on earth that is not affected by the sun."
+  },
+  {
+    "index": "F212624",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この世で太陽の影響を受けないものはない。",
+    "output": "There is nothing on earth that is not affected by the sun."
+  },
+  {
+    "index": "F212626",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この世で私たちが何かを学べないものは何も無い。",
+    "output": "There is nothing in the world from which we can't learn something."
+  },
+  {
+    "index": "F212628",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この世で愛する者を失うことほどつらいことはない。",
+    "output": "Nothing is as terrible as losing someone you love in the world."
+  },
+  {
+    "index": "F212630",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この世で愛するものを失う事ほど苦しい事はない。",
+    "output": "Nothing is as terrible as losing someone you love in the world."
+  },
+  {
+    "index": "F212632",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この世で、いくら受けても受けすぎることはなく、いくら与えても与えすぎることのない唯一のものは愛情である。",
+    "output": "The only thing in the world which one can never receive or give too much is love."
+  },
+  {
+    "index": "F212634",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この世がいつ出現したのかわかってない。",
+    "output": "We don't know when this world came into being."
+  },
+  {
+    "index": "F212636",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この数年間に彼は不朽の名詩を書いた。",
+    "output": "During these years he wrote immortal poems."
+  },
+  {
+    "index": "F212638",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この数字は原油輸入減を反映している。",
+    "output": "This figure is a mirror of the decrease in imports of crude oil."
+  },
+  {
+    "index": "F212640",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この数字の列を合計しなさい。",
+    "output": "Add up this column of figures."
+  },
+  {
+    "index": "F212642",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この数字があっているか調べてください。",
+    "output": "Will you please check these figures?"
+  },
+  {
+    "index": "F212644",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この随筆は一個の旅行かばんについてのものです。",
+    "output": "This essay is about a piece of luggage."
+  },
+  {
+    "index": "F212646",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この随筆は１個の旅行鞄についてのものです。",
+    "output": "This essay is about a piece of luggage."
+  },
+  {
+    "index": "F212648",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この水着は伸縮性のある素材でできている。",
+    "output": "This swimming suit is made of elastic material."
+  },
+  {
+    "index": "F212650",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この水を飲むのはよい。",
+    "output": "It is good to drink this water."
+  },
+  {
+    "index": "F212652",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この水は少量のアルコールを含んでいる。",
+    "output": "This water contains a little alcohol."
+  },
+  {
+    "index": "F212654",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この水は少し塩辛い。",
+    "output": "This water is a little salty."
+  },
+  {
+    "index": "F212656",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この水は殺菌してある。",
+    "output": "This water is sterilized."
+  },
+  {
+    "index": "F212658",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この水は嫌なにおいがする。",
+    "output": "This water has an ugly smell."
+  },
+  {
+    "index": "F212660",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この水は飲料に適している。",
+    "output": "This water is good to drink."
+  },
+  {
+    "index": "F212662",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この水は飲んでも大丈夫だ。",
+    "output": "This water is safe to drink."
+  },
+  {
+    "index": "F212664",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この水は飲んでも安心です。",
+    "output": "This water is safe to drink."
+  },
+  {
+    "index": "F212666",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この水は飲めます。",
+    "output": "This water is good to drink."
+  },
+  {
+    "index": "F212668",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この水は飲むのに適している。",
+    "output": "This water is good to drink."
+  },
+  {
+    "index": "F212670",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この水はよい味がする。",
+    "output": "This water tastes good."
+  },
+  {
+    "index": "F212672",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この水はいい匂いがする。",
+    "output": "This water tastes good."
+  },
+  {
+    "index": "F212674",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この水は、飲用に適している。",
+    "output": "This water is good to drink."
+  },
+  {
+    "index": "F212676",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この推理小説はまだ半分も読んでない。",
+    "output": "I am halfway through this detective story."
+  },
+  {
+    "index": "F212678",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この推理小説はまだ半分ぐらいしか読んでいない。",
+    "output": "I am halfway through this detective story."
+  },
+  {
+    "index": "F212680",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この図書館には非常にたくさんの本があります。",
+    "output": "There are a great many books in this library."
+  },
+  {
+    "index": "F212682",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この図書館には中国語の本がかなりそろっている。",
+    "output": "This library has a large collection of Chinese books."
+  },
+  {
+    "index": "F212684",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この図書館には英語の本がたくさんある。",
+    "output": "There are a lot of English books in this library."
+  },
+  {
+    "index": "F212686",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この図書館には英語の雑誌がありますか。",
+    "output": "Are there any English magazines in this library?"
+  },
+  {
+    "index": "F212688",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この図書館にはたくさんの本があります。",
+    "output": "There are a great many books in this library."
+  },
+  {
+    "index": "F212690",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この図書館には５万冊以上の書物がある。",
+    "output": "This library has more than 50,000 volumes."
+  },
+  {
+    "index": "F212692",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この図書館では１度に３冊まで借りられます。",
+    "output": "At this library, you can borrow up to three books at a time."
+  },
+  {
+    "index": "F212694",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この図解は地球の深い内部を示している。",
+    "output": "The illustration shows the deep interior."
+  },
+  {
+    "index": "F212696",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この図はオゾン層の機能を説明している。",
+    "output": "This chart illustrates the function of ozone layer."
+  },
+  {
+    "index": "F212698",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この図が私の言いたいことを説明してくれるでしょう。",
+    "output": "This diagram will illustrate what I mean."
+  },
+  {
+    "index": "F212700",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この人々は、血によってではなく、肉の欲求や人の意欲によってでもなく、ただ、神によって生まれたのである。",
+    "output": "These children are born not of natural descent, nor of human decision or a husband's will, but born of God."
+  },
+  {
+    "index": "F212702",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この人込みを見ると東京の通りを思い出す。",
+    "output": "This crowd reminds me of the streets of Tokyo."
+  },
+  {
+    "index": "F212704",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この人形は独りで作ったの。",
+    "output": "Did you make this doll by yourself?"
+  },
+  {
+    "index": "F212706",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この人形は私のです。",
+    "output": "This doll belongs to me."
+  },
+  {
+    "index": "F212708",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この人形は君一人で作ったの？",
+    "output": "Did you make this doll by yourself?"
+  },
+  {
+    "index": "F212710",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この人形はマリリン・モンローのつもりらしいが、実物ほどよくないと思う。",
+    "output": "This figure is supposed to represent Marilyn Monroe, but I don't think it does her justice."
+  },
+  {
+    "index": "F212712",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この人形はたった６０セントです。",
+    "output": "This doll costs only sixty cents."
+  },
+  {
+    "index": "F212714",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この人形は叔母からの贈り物です。",
+    "output": "This doll is a gift from my aunt."
+  },
+  {
+    "index": "F212716",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この人形が欲しいのですが。",
+    "output": "I'd like to buy this doll."
+  },
+  {
+    "index": "F212718",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この人は目が見えなくなって五年になる。",
+    "output": "This man has been blind for five years at least."
+  },
+  {
+    "index": "F212720",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この人は私の兄です。",
+    "output": "This is my brother."
+  },
+  {
+    "index": "F212722",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この人は光についてあかしするために来た。",
+    "output": "He came as a witness to testify concerning that light."
+  },
+  {
+    "index": "F212724",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この人は画家だ！",
+    "output": "This fellow is an artist!"
+  },
+  {
+    "index": "F212726",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この人は、車を盗んだといわれている人です。",
+    "output": "This is the man who they say stole the car."
+  },
+  {
+    "index": "F212728",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この人たちは無実どころではありません。",
+    "output": "These people are anything but innocent."
+  },
+  {
+    "index": "F212730",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この人がジョンで、あの人は兄さんだ。",
+    "output": "This is John and that is his brother."
+  },
+  {
+    "index": "F212732",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この人が、あなたが先日ほめていらっしゃった少女ですか。",
+    "output": "Is this the girl you spoke well of the other day?"
+  },
+  {
+    "index": "F212734",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この人、あたしをどなりつけるんですよ！",
+    "output": "This man's shouting at me!"
+  },
+  {
+    "index": "F212736",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この身振りは若い人たちにはよく知られている。",
+    "output": "This gesture is familiar to young people."
+  },
+  {
+    "index": "F212738",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この神秘を解いたものはいますか。",
+    "output": "Has anybody solved this mystery?"
+  },
+  {
+    "index": "F212740",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この神殿を壊してみなさい。",
+    "output": "Destroy this temple."
+  },
+  {
+    "index": "F212742",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この神殿は建てるのに４６年かかりました。",
+    "output": "It has taken forty-six years to build this temple."
+  },
+  {
+    "index": "F212744",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この真珠は本物そっくりだ。",
+    "output": "These pearls look real."
+  },
+  {
+    "index": "F212746",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この真っ赤なりんごを８つ下さい。",
+    "output": "Give me these 8 crimson apples please."
+  },
+  {
+    "index": "F212748",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この申込用紙に必要事項を記入してすぐ送って下さい。",
+    "output": "Fill in this application form and send it at once."
+  },
+  {
+    "index": "F212750",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この申込書に記入してください。",
+    "output": "Please fill in this application form."
+  },
+  {
+    "index": "F212752",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この申し出は、われわれの要求を満たさない。",
+    "output": "This offer does not meet our requirements."
+  },
+  {
+    "index": "F212754",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この森には野ブドウが密集して生えている。",
+    "output": "There is a dense growth of vines in this forest."
+  },
+  {
+    "index": "F212756",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この森にはたくさんの鳥がいる。",
+    "output": "There are many birds in this forest."
+  },
+  {
+    "index": "F212758",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この森には、幽霊がいると信じられている。",
+    "output": "It is believed that ghosts exist in this forest."
+  },
+  {
+    "index": "F212760",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この森では野生のうさぎを見る事が出来る。",
+    "output": "You can see some wild rabbits in the forest."
+  },
+  {
+    "index": "F212762",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この森では多くの動物が見られる。",
+    "output": "You can see many animals in this forest."
+  },
+  {
+    "index": "F212764",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この新薬は効果が永続的である。",
+    "output": "This new medicine has a lasting effect."
+  },
+  {
+    "index": "F212766",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この新薬は君の回復を早めるかも知れない。",
+    "output": "This new medicine may aid your recovery."
+  },
+  {
+    "index": "F212768",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この新聞は最も人気のある筆者をはずしてから、読者数を減らし始めた。",
+    "output": "The newspaper began to lose readers when it dispensed with one of its most popular writers."
+  },
+  {
+    "index": "F212770",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この新聞は購読者が多い。",
+    "output": "This paper has a large circulation."
+  },
+  {
+    "index": "F212772",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この新日程でご都合が悪いようでしたら、ご連絡下さい。",
+    "output": "If you will not be available at the new time, please let us know."
+  },
+  {
+    "index": "F212774",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この新製品は価格表から２０％引きで提供する用意がございます。",
+    "output": "We can offer these new products at 20% below list price."
+  },
+  {
+    "index": "F212776",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この新人歌手は本当にすばらしい。",
+    "output": "This new singer is really great."
+  },
+  {
+    "index": "F212778",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この新人のアナウンサー、さっきからとちってばかりいる。",
+    "output": "This new announcer keeps stumbling."
+  },
+  {
+    "index": "F212780",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この新車は他車をしのぐだろう。",
+    "output": "This new car will put other cars to shame."
+  },
+  {
+    "index": "F212782",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この新型自動車はとても人気がある。",
+    "output": "This new model of car is so popular."
+  },
+  {
+    "index": "F212784",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この新型機械を使えば多くの労力が省ける。",
+    "output": "This modern machine dispenses with much hard labor."
+  },
+  {
+    "index": "F212786",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この新型の車はとても人気があるので需要に応じるために新しい工場を作らねばならなかった。",
+    "output": "This new model of car is so popular that they have had to open a new factory to meet the demand."
+  },
+  {
+    "index": "F212788",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この新たな投資が利益増につながるだろう。",
+    "output": "This new investment will multiply our profit."
+  },
+  {
+    "index": "F212790",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この新しい清涼飲料水は、この夏の一押しです。",
+    "output": "This new soft drink is the best thing to drink this summer."
+  },
+  {
+    "index": "F212792",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この新しい政策によって大規模に職業が生まれることが期待される。",
+    "output": "It is hoped that this new policy will create jobs on a large scale."
+  },
+  {
+    "index": "F212794",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この新しい手順をとれば、時間の節約になるでしょう。",
+    "output": "You will save time if you adopt this new procedure."
+  },
+  {
+    "index": "F212796",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この新しい車の特徴は、もし酔っ払った人が運転しようとしてもエンジンは動かないことである。",
+    "output": "A feature of this new car is that if a drunk person is driving, the engine won't start."
+  },
+  {
+    "index": "F212798",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この新しい型は市場で手に入りますか。",
+    "output": "Is this new model available on the market?"
+  },
+  {
+    "index": "F212800",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この新しい靴は履き心地が悪い。",
+    "output": "I am uncomfortable in these new shoes."
+  },
+  {
+    "index": "F212802",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この新しい靴は、きつくてあしが痛い。",
+    "output": "The new shoes pinch my feet."
+  },
+  {
+    "index": "F212804",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この新しい機種を買う前に一度試してみたい。",
+    "output": "I'd like to try out this new model before I buy it."
+  },
+  {
+    "index": "F212806",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この新しい機械の使い方がわかりかけてきたところです。",
+    "output": "I'm getting the hang of this new machine."
+  },
+  {
+    "index": "F212808",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この新しいブーツでみんなの鼻を明かしてやりたいんだ。",
+    "output": "With these new boots of mine, I hope to knock them dead."
+  },
+  {
+    "index": "F212810",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この新しいバス便は住民の要求にかなうでしょう。",
+    "output": "This new bus service will meet the residents' needs."
+  },
+  {
+    "index": "F212812",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この新しいネクタイはスーツによく合っている。",
+    "output": "This new necktie goes well with the suit."
+  },
+  {
+    "index": "F212814",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この新しいコート、どう？",
+    "output": "What do you think of my new coat?"
+  },
+  {
+    "index": "F212816",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この新しいカーテンはじゅうたんには似合わない。",
+    "output": "These new curtains don't go well with the rugs."
+  },
+  {
+    "index": "F212818",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この食品は有毒である。",
+    "output": "This food is unhealthy."
+  },
+  {
+    "index": "F212820",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この食品は密閉された容器に入れておけば一週間もつ。",
+    "output": "This food will keep for a week in an airtight container."
+  },
+  {
+    "index": "F212822",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この食品は１０度以下で保存したほうがいい。",
+    "output": "You had better keep this food under ten degrees."
+  },
+  {
+    "index": "F212824",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "タワーからは眼下に平野が見晴らせる。",
+    "output": "From the tower you can look out across the plain spread beneath your eyes."
+  },
+  {
+    "index": "F212826",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この食事は二人分ある。",
+    "output": "This meal is adequate for two."
+  },
+  {
+    "index": "F212828",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この食事にはビタミンがたくさんはいっている。",
+    "output": "This diet is full of vitamins."
+  },
+  {
+    "index": "F212830",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この食べ物は腐った匂いがする。",
+    "output": "This food smells rotten."
+  },
+  {
+    "index": "F212832",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この食べ物は私の体に合わない。",
+    "output": "This food does not agree with me."
+  },
+  {
+    "index": "F212834",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この食べ物は、私には合わない。",
+    "output": "This food does not agree with me."
+  },
+  {
+    "index": "F212836",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この食べ物は、それなくしては我々の身体が正しく機能しないすべてのミネラルを含んでいます。",
+    "output": "This food contains all the minerals without which our bodies would not function."
+  },
+  {
+    "index": "F212838",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この色はあなたに似合う。",
+    "output": "This color becomes you."
+  },
+  {
+    "index": "F212840",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この色、気に入りましたか。",
+    "output": "Do you like this color?"
+  },
+  {
+    "index": "F212842",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この職業には経験が必要だ。",
+    "output": "This profession requires experience."
+  },
+  {
+    "index": "F212844",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この職について少し説明させてください。",
+    "output": "Please let me tell you a little bit about this position."
+  },
+  {
+    "index": "F212846",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この織物を染めて欲しいのです。",
+    "output": "I'd like to have this fabric dyed."
+  },
+  {
+    "index": "F212848",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この植物は水不足で枯れかけている。",
+    "output": "This plant is dying for want of water."
+  },
+  {
+    "index": "F212850",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この植物は食べられる。",
+    "output": "This plant is good to eat."
+  },
+  {
+    "index": "F212852",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この植物の根には水がものすごく必要。",
+    "output": "The roots of the plant are greedy for water."
+  },
+  {
+    "index": "F212854",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この錠剤は何ですか。",
+    "output": "What are these tablets?"
+  },
+  {
+    "index": "F212856",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この状況はとても喜んでなんかいられない。",
+    "output": "I'm far from happy about this situation."
+  },
+  {
+    "index": "F212858",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この状況が私たちにとって非常に困難であることは知っている。",
+    "output": "I know the situation is very difficult for us."
+  },
+  {
+    "index": "F212860",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この条件を受けていただけると、他社との競合が有利になります。",
+    "output": "This would enable us to compete more effectively with other agencies."
+  },
+  {
+    "index": "F212862",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この条件に該当する人は誰もいない。",
+    "output": "There is nobody who fulfils these conditions."
+  },
+  {
+    "index": "F212864",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この条件では拒絶に等しい。",
+    "output": "These conditions amount to refusal."
+  },
+  {
+    "index": "F212866",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この情報は秘密です。",
+    "output": "This information is confidential."
+  },
+  {
+    "index": "F212868",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この情報をすぐに提供してくれ。",
+    "output": "Supply me with this information as soon as possible."
+  },
+  {
+    "index": "F212870",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この情報は内密にしてください。",
+    "output": "Keep this information under your hat."
+  },
+  {
+    "index": "F212872",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この情報は当然最新であるべきなのに、実際はそうでない。",
+    "output": "This information is not as up-to-date as it should be."
+  },
+  {
+    "index": "F212874",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この情報は調べたところ間違いない。",
+    "output": "This information checks out all right."
+  },
+  {
+    "index": "F212876",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この情報は注釈ではなく本文で扱うべきだ。",
+    "output": "You should treat this information in the main body of the text, not in the notes."
+  },
+  {
+    "index": "F212878",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この情報は正しいか。",
+    "output": "Is this information right?"
+  },
+  {
+    "index": "F212880",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この場面は君が良くない。",
+    "output": "You're wrong in this case."
+  },
+  {
+    "index": "F212882",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この情報が間違い無いことは私が保証します。",
+    "output": "I guarantee that this information is correct."
+  },
+  {
+    "index": "F212884",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この場所を野菜を作るのに使っていいですか。",
+    "output": "Can I use this area to raise vegetables?"
+  },
+  {
+    "index": "F212886",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この場所は２回訪れる価値がある。",
+    "output": "The place is worth visiting twice."
+  },
+  {
+    "index": "F212888",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この場所に？",
+    "output": "Just right here?"
+  },
+  {
+    "index": "F212890",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この場合は経験がものを言う。",
+    "output": "Experience will tell in this case."
+  },
+  {
+    "index": "F212892",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この場所での喫煙は禁じられています。",
+    "output": "Smoking is forbidden in this area."
+  },
+  {
+    "index": "F212894",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この場合は君が悪い。",
+    "output": "You're wrong in this case."
+  },
+  {
+    "index": "F212896",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この場合、この規則を適用できますか？",
+    "output": "Can we apply this rule in this case?"
+  },
+  {
+    "index": "F212898",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この場合にはその新しい規則があてはまる。",
+    "output": "The new rule holds good in this case."
+  },
+  {
+    "index": "F212900",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この場合は、翻訳は事実上不可能だ。",
+    "output": "In this case, translation is, in effect, impossible."
+  },
+  {
+    "index": "F212902",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この場合、この理論をあてはめることはできません。",
+    "output": "You can't apply this theory to this case."
+  },
+  {
+    "index": "F212904",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この場をお借りして一言挨拶を申し上げます。",
+    "output": "Please allow me to say a few words on this occasion."
+  },
+  {
+    "index": "F212906",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この城はあの城よりも美しい。",
+    "output": "This castle is more beautiful than that."
+  },
+  {
+    "index": "F212908",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この城の塔から町の全景が見渡せる。",
+    "output": "This castle tower commands a panoramic view of the whole city."
+  },
+  {
+    "index": "F212910",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この城から町を見渡すことができる。",
+    "output": "This castle overlooks the city."
+  },
+  {
+    "index": "F212912",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この上着を両方とも着て比べてごらんよ。",
+    "output": "Try on both these coats and compare them."
+  },
+  {
+    "index": "F212914",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この上着を何か少し派手な物と組み合わせられませんか。",
+    "output": "Can you match this coat with something a little more colorful?"
+  },
+  {
+    "index": "F212916",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この上着をお召しになってみてはいかがですか。そのズボンに似合いますよ。",
+    "output": "Why don't you try this jacket on? It looks nice with your trousers."
+  },
+  {
+    "index": "F212918",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この上着は背中のところが少しきつい。",
+    "output": "This coat is a little tight across the back."
+  },
+  {
+    "index": "F212920",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この上着は洗濯が簡単だという長所がある。",
+    "output": "This jacket has the virtue of being easy to wash."
+  },
+  {
+    "index": "F212922",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この上着は私の体に合わない。",
+    "output": "This coat doesn't fit me."
+  },
+  {
+    "index": "F212924",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この上着は私にぴったり合う。",
+    "output": "This coat fits me very well."
+  },
+  {
+    "index": "F212926",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この上着は私にはだぶだぶだ。",
+    "output": "This coat looks loose on me."
+  },
+  {
+    "index": "F212928",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この上着は仕立て直さなければならない。",
+    "output": "This coat must be altered."
+  },
+  {
+    "index": "F212930",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この上着は雨を通さない。",
+    "output": "This coat is rainproof."
+  },
+  {
+    "index": "F212932",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この上着はもう私の体に合わない。",
+    "output": "This coat does not fit me any more."
+  },
+  {
+    "index": "F212934",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この上着はちょっと大きすぎる。",
+    "output": "This jacket is a little too big."
+  },
+  {
+    "index": "F212936",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この上着はどんな素材で出来ているのですか。",
+    "output": "What stuff is this jacket made of?"
+  },
+  {
+    "index": "F212938",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この上なく入念に準備した計画でもしばしば失敗する。",
+    "output": "The best laid plans of mice and men often go awry."
+  },
+  {
+    "index": "F212940",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この賞をいただいき光栄に存じます。",
+    "output": "I am honored to be awarded this prize."
+  },
+  {
+    "index": "F212942",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この証書は完全に無効である。",
+    "output": "This bond is null and void."
+  },
+  {
+    "index": "F212944",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この証拠は彼にとって不利だった。",
+    "output": "This evidence was against him."
+  },
+  {
+    "index": "F212946",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この証拠には、疑いの余地がない。これが、ピカソの本物の作品であるはずがない。",
+    "output": "The evidence leaves no room for doubt; this can't be an original Picasso."
+  },
+  {
+    "index": "F212948",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この証拠で彼が横領者だということが分かった。",
+    "output": "This evidence revealed him to be an embezzler."
+  },
+  {
+    "index": "F212950",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この証拠から彼は無罪ということになる。",
+    "output": "From this evidence it follows that he is innocent."
+  },
+  {
+    "index": "F212952",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この証拠からして当然彼女は無実だということになる。",
+    "output": "It follows from this evidence that she is innocent."
+  },
+  {
+    "index": "F212954",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この証拠から、彼は犯人ではないということになる。",
+    "output": "From this evidence, it follows that he is not the criminal."
+  },
+  {
+    "index": "F212956",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この肖像画はほぼ実物大です。",
+    "output": "This portrait is nearly as large as life."
+  },
+  {
+    "index": "F212958",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この紹介状は叔父によってかかれた。",
+    "output": "My uncle wrote this letter of introduction."
+  },
+  {
+    "index": "F212960",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この章では幾何学の概念に焦点をあてます。",
+    "output": "This chapter will focus on the concepts of geometry."
+  },
+  {
+    "index": "F212962",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この章ではその惑星の謎に焦点をあてます。",
+    "output": "This chapter will focus on the riddles of the planets."
+  },
+  {
+    "index": "F212964",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この症状はいつまで続くのですか。",
+    "output": "For how long will I continue to have these symptoms?"
+  },
+  {
+    "index": "F212966",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この症状が出たのは初めてですか。",
+    "output": "Is this the first time you've had this symptom?"
+  },
+  {
+    "index": "F212968",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この症状が出たのはいつですか。",
+    "output": "How long have you had this problem?"
+  },
+  {
+    "index": "F212970",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この昇進は、あなたの熱心で質の高い仕事ぶりを反映したものでしょう。",
+    "output": "This promotion properly reflects the quality and diligence of your work."
+  },
+  {
+    "index": "F212972",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この床の面積は６００平方メートルある。",
+    "output": "The area of this floor is 600 square meters."
+  },
+  {
+    "index": "F212974",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この少年は窓を壊した事を否定した。",
+    "output": "This boy denied having broken the window."
+  },
+  {
+    "index": "F212976",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この少年たちは少女たちと話をするのがうまくない。",
+    "output": "These boys are not good at speaking to girls."
+  },
+  {
+    "index": "F212978",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この少女は誰ですか。",
+    "output": "Who is this girl?"
+  },
+  {
+    "index": "F212980",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この少女たちは私の生徒なのですが、私に会いに来たのです。",
+    "output": "These girls, who're my pupils, have come to see me."
+  },
+  {
+    "index": "F212982",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小包を郵便局へ持って行ってください。",
+    "output": "Please take this parcel to the post office."
+  },
+  {
+    "index": "F212984",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小包を郵便で出してくれませんか。",
+    "output": "Will you mail this parcel for me?"
+  },
+  {
+    "index": "F212986",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小包を船便で送ってください。",
+    "output": "Please send this parcel by surface mail."
+  },
+  {
+    "index": "F212988",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小包を書留にしたいのですが。",
+    "output": "I'd like to have this parcel registered."
+  },
+  {
+    "index": "F212990",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小包をすぐ送りたい。",
+    "output": "I want to send this parcel at once."
+  },
+  {
+    "index": "F212992",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小包をすぐ送ってもらいたい。",
+    "output": "I want you to send this parcel at once."
+  },
+  {
+    "index": "F212994",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小包をカナダへ送りたいのですが。",
+    "output": "I'd like to mail this package to Canada."
+  },
+  {
+    "index": "F212996",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小包は君宛てだ。",
+    "output": "This parcel is addressed to you."
+  },
+  {
+    "index": "F212998",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小麦は粉にされる。",
+    "output": "This wheat is made into flour."
+  },
+  {
+    "index": "F213000",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小説は読んでて楽しかったよ。",
+    "output": "I have enjoyed reading this novel."
+  },
+  {
+    "index": "F213002",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小説を読めば必ず涙が出てくる。",
+    "output": "You cannot read this novel without crying."
+  },
+  {
+    "index": "F213004",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小説を読むことに興味のある生徒はほとんどいません。",
+    "output": "Few students are interested in reading this novel."
+  },
+  {
+    "index": "F213006",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小説を子供向きに書き改めるのは難しい。",
+    "output": "It is hard to adapt this story for children."
+  },
+  {
+    "index": "F213008",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小説は理解するには難しい。",
+    "output": "It is difficult to understand this novel."
+  },
+  {
+    "index": "F213010",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小説は理解しにくい。",
+    "output": "This novel is difficult to understand."
+  },
+  {
+    "index": "F213012",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小説は米国の作家によって書かれた。",
+    "output": "This novel was written by an American writer."
+  },
+  {
+    "index": "F213014",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小説は彼の名声を増した。",
+    "output": "The novel added to his reputation."
+  },
+  {
+    "index": "F213016",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小説は難しすぎて、私には読むことができない。",
+    "output": "This novel is too difficult for me to read."
+  },
+  {
+    "index": "F213018",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小説は読む価値がある。",
+    "output": "It is worthwhile to read this novel."
+  },
+  {
+    "index": "F213020",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小説は退屈だ。",
+    "output": "This novel bores me."
+  },
+  {
+    "index": "F213022",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小説は読むたびごとに実におもしろいと思う。",
+    "output": "Every time I read this novel, I find it very interesting."
+  },
+  {
+    "index": "F213024",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小説は想像力に富んでいる。",
+    "output": "This novel is very imaginative."
+  },
+  {
+    "index": "F213026",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小説は若い人に大きな影響を与えた。",
+    "output": "This novel exercised a great influence on young people."
+  },
+  {
+    "index": "F213028",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小説は子供でも読めるほどやさしい。",
+    "output": "This novel is so easy that even a child can read it."
+  },
+  {
+    "index": "F213030",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小説は三部から成っている。",
+    "output": "This novel consists of three parts."
+  },
+  {
+    "index": "F213032",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小説は三部からなりたっている。",
+    "output": "This novel consists of three parts."
+  },
+  {
+    "index": "F213034",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小説は作家の最高の出来栄えを示しているようだと思う。",
+    "output": "I think this novel shows the author at his best."
+  },
+  {
+    "index": "F213036",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小説は映画用に脚色された。",
+    "output": "The novel was adapted for a film."
+  },
+  {
+    "index": "F213038",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小説は英語から訳されました。",
+    "output": "This novel was translated from English."
+  },
+  {
+    "index": "F213040",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小説は一読の価値がある。",
+    "output": "It is worthwhile to read this novel."
+  },
+  {
+    "index": "F213042",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小説はとても興奮する。",
+    "output": "The novel is very exciting."
+  },
+  {
+    "index": "F213044",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小説はとてもおもしろい。",
+    "output": "This novel is interesting enough."
+  },
+  {
+    "index": "F213046",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小説はたいした物だと思う。",
+    "output": "I have a good opinion of this novel."
+  },
+  {
+    "index": "F213048",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小説は三部構成だ。",
+    "output": "This novel consists of three parts."
+  },
+  {
+    "index": "F213050",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小説はおもしろくもあり、ためにもなる。",
+    "output": "This novel is both interesting and instructive."
+  },
+  {
+    "index": "F213052",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小説はあれよりずっと面白い。",
+    "output": "This novel is by far more interesting than that one."
+  },
+  {
+    "index": "F213054",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小説はあの小説よりずっと長い。",
+    "output": "This novel is much longer than that."
+  },
+  {
+    "index": "F213056",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小説は、百年前の日本人のありのままの生活を描いている。",
+    "output": "This novel describes the life of the Japanese as it was a hundred years ago."
+  },
+  {
+    "index": "F213058",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小説の方が先週読んだ小説よりおもしろい。",
+    "output": "This novel is more interesting than the one I read last week."
+  },
+  {
+    "index": "F213060",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小説の作者は誰ですか。",
+    "output": "Who is the author of this story?"
+  },
+  {
+    "index": "F213062",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小説の作者はだれだと思いますか。",
+    "output": "Who do you think is the writer of this novel?"
+  },
+  {
+    "index": "F213064",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小切手を裏書きしてください。",
+    "output": "Please endorse this check."
+  },
+  {
+    "index": "F213066",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小切手を現金に換えてください。",
+    "output": "Please cash this check."
+  },
+  {
+    "index": "F213068",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小切手を現金にしてくれますか。",
+    "output": "Can you cash this check for me?"
+  },
+  {
+    "index": "F213070",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小切手を銀行の当座に入れなさい。",
+    "output": "Deposit this check in my checking account."
+  },
+  {
+    "index": "F213072",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小切手は不渡りになりました。",
+    "output": "This check was not honored."
+  },
+  {
+    "index": "F213074",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小切手は持参人払いだ。",
+    "output": "This check is payable to the bearer."
+  },
+  {
+    "index": "F213076",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小冊子は無料だ。",
+    "output": "This booklet is free of charge."
+  },
+  {
+    "index": "F213078",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小屋は倒壊のおそれがある。",
+    "output": "This hut is in danger of falling down."
+  },
+  {
+    "index": "F213080",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この小さな家を見ていると私が生まれた家を思い出します。",
+    "output": "This cottage reminds me of the one I was born in."
+  },
+  {
+    "index": "F213082",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この奨学金のおかげで彼は留学できた。",
+    "output": "The scholarship enabled him to study abroad."
+  },
+  {
+    "index": "F213084",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この商品は免税品です。",
+    "output": "The goods are exempt from taxes."
+  },
+  {
+    "index": "F213086",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この商品はテレビの宣伝でよく知られている。",
+    "output": "This product is well known by its advertisement on television."
+  },
+  {
+    "index": "F213088",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この商品の需要は多い。",
+    "output": "These goods are in great demand."
+  },
+  {
+    "index": "F213090",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この商品にはおまけが付く。",
+    "output": "This article comes with a free gift."
+  },
+  {
+    "index": "F213092",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この商売は儲かりません。",
+    "output": "There isn't much money in this business."
+  },
+  {
+    "index": "F213094",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この勝利に対して我々は大変な代価を払った。",
+    "output": "We paid a heavy price for this victory."
+  },
+  {
+    "index": "F213096",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この除草剤は人間には無害だ。",
+    "output": "This weed killer does not harm human beings."
+  },
+  {
+    "index": "F213098",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この女性は、その往復を２０時間以内で終えた。",
+    "output": "She completed the trip in less than 20 hours."
+  },
+  {
+    "index": "F213100",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この女性はインド人です。",
+    "output": "This lady is Indian."
+  },
+  {
+    "index": "F213102",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この女性が今日の午後３時にある事故を目撃しました。",
+    "output": "This lady witnessed an accident at three o'clock this afternoon."
+  },
+  {
+    "index": "F213104",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この女の子達のほうが、きのう会った子たちよりかわいらしい。",
+    "output": "These girls are more charming than the ones I met yesterday."
+  },
+  {
+    "index": "F213106",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この女の子はまだ小さくてもののよしあしがわからない。",
+    "output": "The girl is not old enough to be responsible."
+  },
+  {
+    "index": "F213108",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この女の子は昨日来た子だ。",
+    "output": "This is the girl that came yesterday."
+  },
+  {
+    "index": "F213110",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この書類を片付けてください。",
+    "output": "Please get these papers out of the way."
+  },
+  {
+    "index": "F213112",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この書類を書き写すとき一語もおとすことのないように気をつけなさい。",
+    "output": "In copying this paper, be careful not to leave out any words."
+  },
+  {
+    "index": "F213114",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この書類を写すとき一語もおとさないように気をつけなさい。",
+    "output": "In copying this paper, be careful not to leave out any words."
+  },
+  {
+    "index": "F213116",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この書類を支社に届けてくれませんか。",
+    "output": "Will you take this document to the branch?"
+  },
+  {
+    "index": "F213118",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この書類を今すぐ彼女に届けてほしい。",
+    "output": "I want you to take this paper to her right away."
+  },
+  {
+    "index": "F213120",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この書類をめくってその問題を私に詳細に説明して下さい。",
+    "output": "Please turn over these papers and explain the matter to me in detail."
+  },
+  {
+    "index": "F213122",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この書類をタイプで打ってくれませんか。",
+    "output": "Will you type this paper for me?"
+  },
+  {
+    "index": "F213124",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この書類をそれぞれ２部ずつコピーしてほしいんだが。",
+    "output": "I'd like two copies of each of these documents."
+  },
+  {
+    "index": "F213126",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この書類を５枚コピーして下さい。",
+    "output": "Please make five copies of this document."
+  },
+  {
+    "index": "F213128",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この書類に目を通しておいてくれますか。",
+    "output": "Will you look over these papers?"
+  },
+  {
+    "index": "F213130",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この書類に必要事項を書き込んで下さい。",
+    "output": "Please fill out this form."
+  },
+  {
+    "index": "F213132",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この書類に書き込んで下さい。",
+    "output": "Please fill out this form."
+  },
+  {
+    "index": "F213134",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この書類に署名していただけますか。",
+    "output": "Will you sign your name on this paper?"
+  },
+  {
+    "index": "F213136",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この書類に苦情の取り扱いかたが丁寧に説明してある。",
+    "output": "The document clearly spells out the correct procedure for dealing with complaints."
+  },
+  {
+    "index": "F213138",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この書類にざっと目を通してもらいたい。",
+    "output": "I would like you to look over these documents."
+  },
+  {
+    "index": "F213140",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この書類にサインして下さい。",
+    "output": "Put your name on this document."
+  },
+  {
+    "index": "F213142",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この書式はやや複雑そうだ。書きこむのを手伝ってくれ。",
+    "output": "This form looks kind of complicated. Help me fill it out."
+  },
+  {
+    "index": "F213144",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この書式に記入してください。",
+    "output": "Fill out this form, please."
+  },
+  {
+    "index": "F213146",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この書斎は私の父のです。",
+    "output": "This study is my father's study."
+  },
+  {
+    "index": "F213148",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この書斎は客間兼用だ。",
+    "output": "I also use this study for receiving guests."
+  },
+  {
+    "index": "F213150",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この暑さの中帽子なしで外出してはいけません。",
+    "output": "Don't go out in this heat with a bare head."
+  },
+  {
+    "index": "F213152",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この暑さでは勉強する気がしない。",
+    "output": "I don't like studying in this heat."
+  },
+  {
+    "index": "F213154",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この暑さでは草は茶色になるだろう。",
+    "output": "This heat will turn the grass brown."
+  },
+  {
+    "index": "F213156",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この暑さでは上着を着ていられない。",
+    "output": "I can't keep my coat on in this heat."
+  },
+  {
+    "index": "F213158",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この暑い中を外出するくらいなら家にいた方がよい。",
+    "output": "I would rather stay at home than go out in this hot weather."
+  },
+  {
+    "index": "F213160",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この暑い最中になぜ、あなたはロンドンにいなければならないのですか。",
+    "output": "Why do you have to stay in London in this heat?"
+  },
+  {
+    "index": "F213162",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この所少し疲れを感じているので、今週は泳ぎに行っていない。",
+    "output": "Recently I have been feeling a little tired, so I have not gone swimming this week."
+  },
+  {
+    "index": "F213164",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この所は私たちの援助の申し出を断った。",
+    "output": "She turned down our offer of help."
+  },
+  {
+    "index": "F213166",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この所は海外旅行するために貯金している。",
+    "output": "She is saving money to go abroad."
+  },
+  {
+    "index": "F213168",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この瞬間は歴史に記録されるだろう。",
+    "output": "This moment will be recorded in history."
+  },
+  {
+    "index": "F213170",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この春休みには、海外費用の足しにするため、レストランでアルバイトをした。",
+    "output": "During my last spring vacation I took a job in a restaurant to help pay the costs of my trip abroad."
+  },
+  {
+    "index": "F213172",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この宿泊カードに記入して下さい。",
+    "output": "Fill out this registration card, please."
+  },
+  {
+    "index": "F213174",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この宿題を全部君が一人でやったとは思えません。",
+    "output": "I don't think that you did all this homework by yourself."
+  },
+  {
+    "index": "F213176",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この宿題を終えるのに十分な時間がかかる。",
+    "output": "There is enough time to finish this homework."
+  },
+  {
+    "index": "F213178",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この宿題は私には難しい。",
+    "output": "This homework is difficult for me."
+  },
+  {
+    "index": "F213180",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この宿題は月曜日に提出することになっている。",
+    "output": "This assignment is to be handed in on Monday."
+  },
+  {
+    "index": "F213182",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この宿題はだいぶ時間がかかるだろう。",
+    "output": "This homework will take very long."
+  },
+  {
+    "index": "F213184",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この銃は誰の物だろう。",
+    "output": "Who does the gun belong to?"
+  },
+  {
+    "index": "F213186",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この銃は３００メートルの射程がある。",
+    "output": "This gun has a range of 300 meters."
+  },
+  {
+    "index": "F213188",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この銃には弾が入っていません。",
+    "output": "This gun is out of bullets."
+  },
+  {
+    "index": "F213190",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この重要な７月のＤＣＡ会議にご出席いただき、さらにご宿泊中に東京の多様な魅力もお楽しみくださるよう希望しています。",
+    "output": "I hope you can join us at these very important July DCA meetings and complement your stay by exploring some of the many affordable charms of Tokyo."
+  },
+  {
+    "index": "F213192",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この重役のポストに適当な人物を見つけるには、人材斡旋業者に依頼する必要がある。",
+    "output": "We'll need a head hunting agency to find the right man for this executive position."
+  },
+  {
+    "index": "F213194",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この重さを量ってもらえませんか。",
+    "output": "Can you weigh this, please?"
+  },
+  {
+    "index": "F213196",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この重い荷物を運ぶのを手伝ってくれませんか。",
+    "output": "Please help me with this heavy baggage."
+  },
+  {
+    "index": "F213198",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この柔らかい毛布は赤ちゃんにちょうどいい。",
+    "output": "This soft blanket is just right for babies."
+  },
+  {
+    "index": "F213200",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この住宅地域は住み心地がよい。",
+    "output": "This residential area is comfortable to live in."
+  },
+  {
+    "index": "F213202",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この住所まで、行ってください。",
+    "output": "Please take me to this address."
+  },
+  {
+    "index": "F213204",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この住所へお願いします。",
+    "output": "We request this address."
+  },
+  {
+    "index": "F213206",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この週末は暇ですか。",
+    "output": "Are you free this weekend?"
+  },
+  {
+    "index": "F213208",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この週末には忘れずに遊びにきてください。",
+    "output": "Please remember to come and see us this weekend."
+  },
+  {
+    "index": "F213210",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この週末には２つの最強のチームが激突する。",
+    "output": "The two strongest teams will clash with each other this weekend."
+  },
+  {
+    "index": "F213212",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この週刊誌は毎週１回発行される。",
+    "output": "This weekly comes out once a week."
+  },
+  {
+    "index": "F213214",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この習慣は日本人の間にすっかり定着した。",
+    "output": "This custom has become firmly established among the Japanese."
+  },
+  {
+    "index": "F213216",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この習慣は日本に特有のものである。",
+    "output": "This custom is peculiar to Japan."
+  },
+  {
+    "index": "F213218",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この習慣は絶えて久しい。",
+    "output": "This custom became extinct a long time ago."
+  },
+  {
+    "index": "F213220",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この習慣は世代から世代へと受け継がれてきた。",
+    "output": "This custom has been handed down from generation to generation."
+  },
+  {
+    "index": "F213222",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この習慣は江戸時代に始まった。",
+    "output": "This custom began in the Edo Period."
+  },
+  {
+    "index": "F213224",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この習慣は江戸時代からのものだ。",
+    "output": "This custom dates from the Edo period."
+  },
+  {
+    "index": "F213226",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この習慣は古代から続いている。",
+    "output": "This custom dates from ancient times."
+  },
+  {
+    "index": "F213228",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この習慣はアメリカ独特のものである。",
+    "output": "This custom is unique to America."
+  },
+  {
+    "index": "F213230",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この秋は台風が多い。",
+    "output": "We have had lots of typhoons this fall."
+  },
+  {
+    "index": "F213232",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この秋は荒れた日が続くと思います。",
+    "output": "We expect stormy days this fall."
+  },
+  {
+    "index": "F213234",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この秋に総選挙があるといわれている。",
+    "output": "It is said that there will be a general election this fall."
+  },
+  {
+    "index": "F213236",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この秋には総選挙があるという噂です。",
+    "output": "They say there will be a general election this fall."
+  },
+  {
+    "index": "F213238",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この秋には「ロミオとジュリエット」が上演されます。",
+    "output": "They are going to bring out \"Romeo and Juliet\" this coming fall."
+  },
+  {
+    "index": "F213240",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この州には鉱物資源が豊富です。",
+    "output": "The province is rich in mineral resources."
+  },
+  {
+    "index": "F213242",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この授業は明日休講です。",
+    "output": "This lesson is cancelled tomorrow."
+  },
+  {
+    "index": "F213244",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この授業はとても重要だ。",
+    "output": "This subject is the most important."
+  },
+  {
+    "index": "F213246",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この種は長距離移動の記録を持っています。",
+    "output": "This species holds the record for long-distance migration."
+  },
+  {
+    "index": "F213248",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この酒には独特の味わいがある。",
+    "output": "This liquor has a taste all of its own."
+  },
+  {
+    "index": "F213250",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この授業は１０分後に終わります。",
+    "output": "This class will be over in ten minutes."
+  },
+  {
+    "index": "F213252",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この種の洋服地は持ちがよくないだろう。",
+    "output": "The suit materials of this sort will not stand up well."
+  },
+  {
+    "index": "F213254",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この種の要求に屈するくらいなら死んだ方がましだ。",
+    "output": "I'd rather die than yield to this sort of demand."
+  },
+  {
+    "index": "F213256",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この種の毛布は十分に虫干ししなければならない。",
+    "output": "This kind of blanket needs good airing."
+  },
+  {
+    "index": "F213258",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この種の本はあまり私の注意を引かなかった。",
+    "output": "Few books of this character have come to my attention."
+  },
+  {
+    "index": "F213260",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この種の保険は掛け捨てが多い。",
+    "output": "With this type of insurance, most policies don't come with a maturity refund."
+  },
+  {
+    "index": "F213262",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この種の爆弾は全人類にとって重大な脅威だ。",
+    "output": "This kind of bomb is a serious menace to mankind."
+  },
+  {
+    "index": "F213264",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この種の猫には尾が無い。",
+    "output": "This type of cat has no tail."
+  },
+  {
+    "index": "F213266",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この種の猫にはしっぽがない。",
+    "output": "Tails are absent in this type of cat."
+  },
+  {
+    "index": "F213268",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この種の専門知識は日常生活とはほとんど関係がない。",
+    "output": "This kind of specialized knowledge has very little to do with daily life."
+  },
+  {
+    "index": "F213270",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この種の食べ物は食べ慣れています。",
+    "output": "I am accustomed to eating this sort of food."
+  },
+  {
+    "index": "F213272",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この種の植物は熱帯地方にのみ育ちます。",
+    "output": "This kind of plant grows only in the tropical regions."
+  },
+  {
+    "index": "F213274",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この種の辞書は市販されている。",
+    "output": "These dictionaries are on the market."
+  },
+  {
+    "index": "F213276",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この種の事例は統計的処理が適応できる。",
+    "output": "This kind of case is amenable to statistical treatment."
+  },
+  {
+    "index": "F213278",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この種の事故はしばしば起こるものだ。",
+    "output": "Accidents of this kind often occur."
+  },
+  {
+    "index": "F213280",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この種の事件はよく疑惑を生む。",
+    "output": "Events of that type generally arouse suspicion."
+  },
+  {
+    "index": "F213282",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この種の仕事は非常に忍耐を必要とする。",
+    "output": "This sort of work calls for great patience."
+  },
+  {
+    "index": "F213284",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この種の仕事は非常な忍耐を必要とする。",
+    "output": "This sort of work calls for great patience."
+  },
+  {
+    "index": "F213286",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この種の仕事はすごい努力を必要とする。",
+    "output": "This sort of work calls for great patience."
+  },
+  {
+    "index": "F213288",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この種の仕事には大変な根気が必要とされる。",
+    "output": "This sort of work calls for a lot of patience."
+  },
+  {
+    "index": "F213290",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この種の昆虫は日本に広く分布している。",
+    "output": "These insects are widely distributed throughout Japan."
+  },
+  {
+    "index": "F213292",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この種の犬は日本だけにいる。",
+    "output": "This kind of dog exists only in Japan."
+  },
+  {
+    "index": "F213294",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この種の経験は誰にも馴染み深い。",
+    "output": "This kind of experience is familiar to everyone."
+  },
+  {
+    "index": "F213296",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この種の経験は誰にでもよくあることです。",
+    "output": "This kind of experience is familiar to everybody."
+  },
+  {
+    "index": "F213298",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この種の経験はだれにもある。",
+    "output": "This kind of experience is familiar to everybody."
+  },
+  {
+    "index": "F213300",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この種の靴は地面がぬれているとすべりやすい。",
+    "output": "This kind of shoe is apt to slip on wet ground."
+  },
+  {
+    "index": "F213302",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この種の機械を使う時には、皮の手袋は必需品だね。",
+    "output": "A pair of leather gloves is a must when you work with these machines."
+  },
+  {
+    "index": "F213304",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この種の慣習はアジアの国々に独特のものだと思います。",
+    "output": "I think this kind of custom is unique to Asian countries."
+  },
+  {
+    "index": "F213306",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この種の音楽は年輩の人たちが理解するのに苦労するものだ。",
+    "output": "This kind of music is something that older people have difficulty understanding."
+  },
+  {
+    "index": "F213308",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この種の汚染物質は主として自動車エンジンの燃焼から生まれる。",
+    "output": "Pollutants like this derive mainly from the combustion of fuel in car engines."
+  },
+  {
+    "index": "F213310",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この種のブラウスは流行遅れになりかけている。",
+    "output": "This type of blouse is beginning to be dated."
+  },
+  {
+    "index": "F213312",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この種のバラは野生です。",
+    "output": "This kind of rose grows wild."
+  },
+  {
+    "index": "F213314",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手袋は両方がそろっていない。",
+    "output": "Their gloves are not in pairs."
+  },
+  {
+    "index": "F213316",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手袋が彼女の手を暖める。",
+    "output": "These gloves kept her hands warm."
+  },
+  {
+    "index": "F213318",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手袋が彼女の手を暖かくしてくれた。",
+    "output": "These gloves kept her hands warm."
+  },
+  {
+    "index": "F213320",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手続きにはお役所仕事がだいぶからんでいます。",
+    "output": "There's a lot of red tape involved in this procedure."
+  },
+  {
+    "index": "F213322",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手術は成功するかしら、と彼は思った。",
+    "output": "He said to himself, \"Will this operation result in success?\""
+  },
+  {
+    "index": "F213324",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙を郵送してくださいませんか。",
+    "output": "Would you mind mailing this letter for me?"
+  },
+  {
+    "index": "F213326",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙を忘れずに投函しなさい。",
+    "output": "Remember to mail this letter."
+  },
+  {
+    "index": "F213328",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙を必ず投函するようにしてください。",
+    "output": "See to it that this letter is posted without fail."
+  },
+  {
+    "index": "F213330",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙を必ず投函して下さい。",
+    "output": "Don't fail to mail this letter."
+  },
+  {
+    "index": "F213332",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙を日本までファックスしてください。",
+    "output": "I'd like to fax this to Japan."
+  },
+  {
+    "index": "F213334",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙を日本に送ってくれませんか。",
+    "output": "Could you send this letter to Japan?"
+  },
+  {
+    "index": "F213336",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙を投函してくれませんか。",
+    "output": "Will you mail this letter for me?"
+  },
+  {
+    "index": "F213338",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙を投函していただけませんか。",
+    "output": "Would you mind mailing this letter for me?"
+  },
+  {
+    "index": "F213340",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙を朝一番で出すの忘れないでね。",
+    "output": "Don't forget to mail this letter first thing in the morning."
+  },
+  {
+    "index": "F213342",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙を速達で送っていただけませんか。",
+    "output": "Will you express this letter?"
+  },
+  {
+    "index": "F213344",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙を書類にしてもらいたい。",
+    "output": "I want this letter registered."
+  },
+  {
+    "index": "F213346",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙を書留にしてもらいたいのですが。",
+    "output": "I want this letter registered."
+  },
+  {
+    "index": "F213348",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙を書留にしたい。",
+    "output": "I want to have this letter registered."
+  },
+  {
+    "index": "F213350",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙を書き終えたら、あの山の２マイルほど先の湖水にご案内しましょう。",
+    "output": "When I have finished writing the letter, I will take you to the lake about two miles beyond the hill."
+  },
+  {
+    "index": "F213352",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙を出すのを忘れないで下さいね。",
+    "output": "Please remember to mail this letter."
+  },
+  {
+    "index": "F213354",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙を出して下さい。",
+    "output": "Please mail this letter for me."
+  },
+  {
+    "index": "F213356",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙を出しておいて下さい。",
+    "output": "Can you mail these letters for me?"
+  },
+  {
+    "index": "F213358",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙を出していただけますか。",
+    "output": "Can you mail these for me?"
+  },
+  {
+    "index": "F213360",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙を受け取って驚いたかもしれません。",
+    "output": "You may be surprised to receive this letter."
+  },
+  {
+    "index": "F213362",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙を受け取ったらすぐに返事を下さい。",
+    "output": "Write back to me as soon as you get this letter."
+  },
+  {
+    "index": "F213364",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙を受け取ったらすぐに私に電話を下さい。",
+    "output": "Please call me on receiving this letter."
+  },
+  {
+    "index": "F213366",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙を私の代わりに書いてくださいませんか。",
+    "output": "Would you be kind enough to write?"
+  },
+  {
+    "index": "F213368",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙を航空便で出してくれませんか。",
+    "output": "Would you please send this letter by airmail?"
+  },
+  {
+    "index": "F213370",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙を航空便で出してください。",
+    "output": "Send this letter by air."
+  },
+  {
+    "index": "F213372",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙をタイプで打ってください。",
+    "output": "Type this letter for me."
+  },
+  {
+    "index": "F213374",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙をすぐだしてきてください。",
+    "output": "Please mail this letter for me at once."
+  },
+  {
+    "index": "F213376",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙は紛失するといけないから、書留にするがよい。",
+    "output": "You had better get this letter registered for fear it should be lost."
+  },
+  {
+    "index": "F213378",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "これは誰からの手紙ですか？",
+    "output": "Who is this letter from?"
+  },
+  {
+    "index": "F213380",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙は昨晩ナオコによって書かれました。",
+    "output": "This letter was written by Naoko last night."
+  },
+  {
+    "index": "F213382",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙は個人的なものであり、他の誰にも読まれたくない。",
+    "output": "This letter is personal, and I don't want anyone else to read it."
+  },
+  {
+    "index": "F213384",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙は君宛てです。",
+    "output": "This letter is addressed to you."
+  },
+  {
+    "index": "F213386",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙は英語で書かなければなりませんか。",
+    "output": "Must this letter be written in English?"
+  },
+  {
+    "index": "F213388",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙は宛名が違っている。",
+    "output": "This letter is wrongly addressed."
+  },
+  {
+    "index": "F213390",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙はメアリーが書いたものですか。",
+    "output": "Was this letter written by Mary?"
+  },
+  {
+    "index": "F213392",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙が、謎を解く唯一の手掛かりだ。",
+    "output": "This letter is the only key to the mystery."
+  },
+  {
+    "index": "F213394",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙はながすぎて手ごろな値段で訳してもらえない。",
+    "output": "This letter is too long to have it translated at a reasonable price."
+  },
+  {
+    "index": "F213396",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙はすぐに出さないといけないよ。",
+    "output": "This letter has to be sent right away."
+  },
+  {
+    "index": "F213398",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙はケンによって書かれましたか。",
+    "output": "Was this letter written by Ken?"
+  },
+  {
+    "index": "F213400",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙はあなた宛だ。",
+    "output": "This letter is addressed to you."
+  },
+  {
+    "index": "F213402",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙に切手を貼って下さい。",
+    "output": "Will you stamp this letter for me?"
+  },
+  {
+    "index": "F213404",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙には署名がない。",
+    "output": "This letter bears no signature."
+  },
+  {
+    "index": "F213406",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙には外国切手がはってある。",
+    "output": "This letter bears a foreign stamp."
+  },
+  {
+    "index": "F213408",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙には何も特別のことが書いていない。",
+    "output": "There is nothing special interest to me."
+  },
+  {
+    "index": "F213410",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙にはわざわざご返事くださるに及びません。",
+    "output": "Don't bother to answer this letter."
+  },
+  {
+    "index": "F213412",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙で彼は日曜日に着くといっている。",
+    "output": "This letter says that he will arrive on Monday."
+  },
+  {
+    "index": "F213414",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙で彼は辞意を表明している。",
+    "output": "This letter purports to be his resignation."
+  },
+  {
+    "index": "F213416",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙から察すると彼は立腹しているようだ。",
+    "output": "I gathered from this letter that he was angry."
+  },
+  {
+    "index": "F213418",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙から、彼が本当に思っていることが解った。",
+    "output": "The letter showed what he really felt."
+  },
+  {
+    "index": "F213420",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手紙があなたの健康と幸せを見つけますように。",
+    "output": "May this letter find you well and happy."
+  },
+  {
+    "index": "F213422",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手作りのイタリア製チタン自転車は、恐ろしく軽い。",
+    "output": "This handmade Italian-made titanium bicycle is terribly light."
+  },
+  {
+    "index": "F213424",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手荷物を別の場所に置いてもらえませんか。",
+    "output": "Could you put this bag in another place?"
+  },
+  {
+    "index": "F213426",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手違いについて説明を要求します。",
+    "output": "I demand an explanation for this mistake."
+  },
+  {
+    "index": "F213428",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手の本はあまり読まない。",
+    "output": "I don't read this kind of book much."
+  },
+  {
+    "index": "F213430",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手の仕事は強い忍耐力を必要とする。",
+    "output": "This sort of work calls for great patience."
+  },
+  {
+    "index": "F213432",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手の仕事にはかなりの忍耐力が必要だ。",
+    "output": "This kind of work requires a lot of patience."
+  },
+  {
+    "index": "F213434",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手の雑誌は若者に害を与えかねない。",
+    "output": "This kind of magazine can do harm to young people."
+  },
+  {
+    "index": "F213436",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この手の音楽は私の趣味じゃない。",
+    "output": "This sort of music is not my cup of tea."
+  },
+  {
+    "index": "F213438",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この取り決めは一時的なものでしかない。",
+    "output": "This arrangement is only temporary."
+  },
+  {
+    "index": "F213440",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この取り決めには関係したくない。",
+    "output": "I'll be no party to this arrangement."
+  },
+  {
+    "index": "F213442",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この取り引きには大金が賭けられている。",
+    "output": "There's a lot of money at stake in this transaction."
+  },
+  {
+    "index": "F213444",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この主要道路のお陰でずいぶん時間が節約できる。",
+    "output": "This highway saves us a lot of time."
+  },
+  {
+    "index": "F213446",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この若人に対してねたましく思う気持ちを、君はやむを得ないものと受け入れなければならない。",
+    "output": "You need to come to terms with your jealousy of this young man."
+  },
+  {
+    "index": "F213448",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この若さで国際大会で優勝するなんて、まさに前途洋洋ですね。",
+    "output": "His victory at this age in an international competition is a good indication of a bright future."
+  },
+  {
+    "index": "F213450",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この蛇口は使えません。故障しています。",
+    "output": "You can't use this faucet. It's out of order."
+  },
+  {
+    "index": "F213452",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この蛇は触っても安全ですか。",
+    "output": "Is this snake safe to touch?"
+  },
+  {
+    "index": "F213454",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車を処分しなければならない。",
+    "output": "This car must go."
+  },
+  {
+    "index": "F213456",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車を自由にお使い下さい。",
+    "output": "The car is at your service."
+  },
+  {
+    "index": "F213458",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車を好きなときに使っていいですよ。",
+    "output": "You can put this car to use as you like."
+  },
+  {
+    "index": "F213460",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車をできるだけ早く修理してもらいたいのですが。",
+    "output": "I would like to have this car repaired as soon as possible."
+  },
+  {
+    "index": "F213462",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は乱暴な使い方をされてきたに違いない。",
+    "output": "This car must have had tough usage."
+  },
+  {
+    "index": "F213464",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は父が使っています。",
+    "output": "This car is used by my father."
+  },
+  {
+    "index": "F213466",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は父が持っているのと同じタイプの車だ。",
+    "output": "This is the same type of car as my father has."
+  },
+  {
+    "index": "F213468",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は彼が買えるほど安価だった。",
+    "output": "This car was cheap enough for him to buy."
+  },
+  {
+    "index": "F213470",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は日本製です。",
+    "output": "This car is made in Japan."
+  },
+  {
+    "index": "F213472",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は日本で作られました。",
+    "output": "This car was made in Japan."
+  },
+  {
+    "index": "F213474",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は動かない。",
+    "output": "This car won't start."
+  },
+  {
+    "index": "F213476",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は天然ガスで動く。",
+    "output": "This car runs on natural gas."
+  },
+  {
+    "index": "F213478",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は直しても甲斐が無い。",
+    "output": "This car isn't worth repairing."
+  },
+  {
+    "index": "F213480",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は調子がいい。",
+    "output": "This car is in good condition."
+  },
+  {
+    "index": "F213482",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は即金で買った。",
+    "output": "I paid cash for the car."
+  },
+  {
+    "index": "F213484",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は洗う必要がある。",
+    "output": "This car needs washing."
+  },
+  {
+    "index": "F213486",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は新品同様だ。",
+    "output": "This car is as good as new."
+  },
+  {
+    "index": "F213488",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は新車同様だ。",
+    "output": "This car is like new."
+  },
+  {
+    "index": "F213490",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は修理する必要がある。",
+    "output": "This car needs repairing."
+  },
+  {
+    "index": "F213492",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は修理するだけの値打ちはない。",
+    "output": "It isn't worth repairing this car."
+  },
+  {
+    "index": "F213494",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は修理してもらう必要がある。",
+    "output": "This car needs repairing."
+  },
+  {
+    "index": "F213496",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は修理が必要だ。",
+    "output": "This car needs repairing."
+  },
+  {
+    "index": "F213498",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は自分で自由に使えない。",
+    "output": "This car is not at my disposal."
+  },
+  {
+    "index": "F213500",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は時代遅れです。",
+    "output": "This car is out of date."
+  },
+  {
+    "index": "F213502",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は時速６０キロで走っている。",
+    "output": "This car is going 60km an hour."
+  },
+  {
+    "index": "F213504",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は私の父のものです。",
+    "output": "This car is my father's."
+  },
+  {
+    "index": "F213506",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は錆に強い。",
+    "output": "This car is resistant to rust."
+  },
+  {
+    "index": "F213508",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は昨日乗ったのと同じ車だ。",
+    "output": "This is same car that we were in yesterday."
+  },
+  {
+    "index": "F213510",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は最新型です。",
+    "output": "This car is the latest model."
+  },
+  {
+    "index": "F213512",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は高そうですが、耐久性があるので長い目で見れば得です。",
+    "output": "This seems expensive, but it's so durable it will pay in the long run."
+  },
+  {
+    "index": "F213514",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は故障しそうだ。",
+    "output": "This car is going to break down."
+  },
+  {
+    "index": "F213516",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は近ごろ故障ばかりしている。",
+    "output": "This car is always breaking down lately."
+  },
+  {
+    "index": "F213518",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は過去１０年間使用されてきた。",
+    "output": "This car has been used for the past ten years."
+  },
+  {
+    "index": "F213520",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は運転しやすいな。",
+    "output": "This car is easy to drive."
+  },
+  {
+    "index": "F213522",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は以前ほど快調に走らない。",
+    "output": "This car is running less smoothly than it used to."
+  },
+  {
+    "index": "F213524",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車はわたしのだ。",
+    "output": "This car is mine."
+  },
+  {
+    "index": "F213526",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車はよく売れる。",
+    "output": "This car sells well."
+  },
+  {
+    "index": "F213528",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車はもうすぐガソリンを使い果たすのでガソリンスタンドを探す必要がある。",
+    "output": "We need to look for a gas station because this car will soon run out of gas."
+  },
+  {
+    "index": "F213530",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車はとても運転が楽だ。",
+    "output": "This car handles very easily."
+  },
+  {
+    "index": "F213532",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車はどこか具合が悪いようだ。",
+    "output": "It seems that something is wrong with this car."
+  },
+  {
+    "index": "F213534",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車はそんな目的にかなうように作られている。",
+    "output": "This car is built to serve such purposes."
+  },
+  {
+    "index": "F213536",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車はスピードが一番はやい車です。",
+    "output": "This is the car with the most speed."
+  },
+  {
+    "index": "F213538",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車はがらくた同然である。",
+    "output": "This car is no better than junk."
+  },
+  {
+    "index": "F213540",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車はあれほど良くない。",
+    "output": "This car is not so nice as that one."
+  },
+  {
+    "index": "F213542",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車はあれに比べればよい。",
+    "output": "This car is better as compared with that one."
+  },
+  {
+    "index": "F213544",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車はあまりガソリンを食わない。",
+    "output": "This car is very economical on gas."
+  },
+  {
+    "index": "F213546",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車はあの車より性能がよい。",
+    "output": "This car has a better performance than that one."
+  },
+  {
+    "index": "F213548",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車はあの車よりもすぐれている。",
+    "output": "This car is superior to that."
+  },
+  {
+    "index": "F213550",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車はあの車より大きい。",
+    "output": "This car is bigger than that one."
+  },
+  {
+    "index": "F213552",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車はあの車と同じくらい大きい。",
+    "output": "This car is as big as that car."
+  },
+  {
+    "index": "F213554",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は５人乗れる。",
+    "output": "This car accommodates five people."
+  },
+  {
+    "index": "F213556",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は４トン車だ。",
+    "output": "This car can carry a load of 4 tons."
+  },
+  {
+    "index": "F213558",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車は「年間最優秀車」に選ばれた。",
+    "output": "This car was selected the \"car of the year\"."
+  },
+  {
+    "index": "F213560",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車の予備の部品を買うことができない。",
+    "output": "I cannot buy spare parts for this car."
+  },
+  {
+    "index": "F213562",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車の燃費はどれくらいですか。",
+    "output": "What is the fuel mileage of this car?"
+  },
+  {
+    "index": "F213564",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車の燃費はどれくらい？",
+    "output": "What mileage do you get with this car?"
+  },
+  {
+    "index": "F213566",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車の値段は１５％引きになっています。",
+    "output": "The price of this car is discounted fifteen percent."
+  },
+  {
+    "index": "F213568",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車の前は、ニッサン車に乗っていました。",
+    "output": "I had a Nissan before this one."
+  },
+  {
+    "index": "F213570",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "車の修理をお願いします。",
+    "output": "Please repair the car."
+  },
+  {
+    "index": "F213572",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車の価格はとても高い。",
+    "output": "The price of this car is very high."
+  },
+  {
+    "index": "F213574",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車の維持は高くつく。",
+    "output": "It is expensive running this car."
+  },
+  {
+    "index": "F213576",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車のタイヤの空気は十分でない。",
+    "output": "The tires of this car don't have enough air in them."
+  },
+  {
+    "index": "F213578",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車のエンジンはおかしい。",
+    "output": "Something is wrong with the engine of this car."
+  },
+  {
+    "index": "F213580",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車には楽にその山をのぼるだけの力がある。",
+    "output": "This car has enough power to go up the mountain easily."
+  },
+  {
+    "index": "F213582",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この車にはエアコンがついている。",
+    "output": "This car comes with an air conditioner."
+  },
+  {
+    "index": "F213584",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この社会では医者の地位はかなり高い。",
+    "output": "The status of a doctor is very high in this community."
+  },
+  {
+    "index": "F213586",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この社会が若さということにそのような感情的特権を付与するというのは誤解を引き起こしやすいと思う。",
+    "output": "I find it apt to cause misunderstanding that society confers such emotional privileges upon youth."
+  },
+  {
+    "index": "F213588",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この社はジュピターにささげられたものだ。",
+    "output": "This shrine is sacred to Jupiter."
+  },
+  {
+    "index": "F213590",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この写真大好き。",
+    "output": "I love this picture."
+  },
+  {
+    "index": "F213592",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この写真を出来るだけ早く現像して下さい。",
+    "output": "I want this photograph developed as soon as possible."
+  },
+  {
+    "index": "F213594",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この写真を見ると必ず亡くなった母のことを思い出す。",
+    "output": "I never see this picture without thinking of my dead mother."
+  },
+  {
+    "index": "F213596",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この写真を見ると必ず父を思い出す。",
+    "output": "I never see this picture without thinking of my father."
+  },
+  {
+    "index": "F213598",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この写真を見ると必ず私は若い頃を思い出す。",
+    "output": "I never see this picture without thinking of my young days."
+  },
+  {
+    "index": "F213600",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この写真を見ると必ず学生時代を思い出す。",
+    "output": "I cannot look at this photo without being reminded of my school days."
+  },
+  {
+    "index": "F213602",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この写真を見ると必ず、田舎での幸せな日々を私は思い出す。",
+    "output": "I never see this photo without being reminded of my happy days in the countryside."
+  },
+  {
+    "index": "F213604",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この写真を見ると私は学生時代を思い出す。",
+    "output": "The picture reminds me of when I was a student."
+  },
+  {
+    "index": "F213606",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この写真を見るとむかつく。",
+    "output": "I always view this photo with disgust."
+  },
+  {
+    "index": "F213608",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この写真を見るといつも彼を思い出す。",
+    "output": "I never see this picture without thinking of him."
+  },
+  {
+    "index": "F213610",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この写真を見るといつも彼のことを思い出す。",
+    "output": "I never see this picture without thinking of him."
+  },
+  {
+    "index": "F213612",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この写真を見るといつも昔を思い出す。",
+    "output": "These pictures always remind me of the old days."
+  },
+  {
+    "index": "F213614",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この写真を見るとあの休日の事を思い出す。",
+    "output": "When I see this picture, I'm reminded of our holiday."
+  },
+  {
+    "index": "F213616",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この写真を見ると、私は必ず子供のころを思い出す。",
+    "output": "I never see this picture without being reminded of my childhood."
+  },
+  {
+    "index": "F213618",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この写真を見ると、私は家族のことを思い出す。",
+    "output": "The picture reminds me of my family."
+  },
+  {
+    "index": "F213620",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この写真を見るたびに私の父を思い出す。",
+    "output": "Every time I see this picture, I remember my father."
+  },
+  {
+    "index": "F213622",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この写真を見るたびに、父を思い出す。",
+    "output": "Every time I see this photo, I think of my father."
+  },
+  {
+    "index": "F213624",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この写真を見て下さい。",
+    "output": "Please take a look at this picture."
+  },
+  {
+    "index": "F213626",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この写真をよく見て私を見つけてごらん。",
+    "output": "Have a good look at this picture and find me in it."
+  },
+  {
+    "index": "F213628",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この写真をよく見てそこに僕がいるか確かめて下さい。",
+    "output": "Have a good look at this picture and tell me whether or not you can find me in it."
+  },
+  {
+    "index": "F213630",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この写真をよく見て。",
+    "output": "Have a good look at this picture."
+  },
+  {
+    "index": "F213632",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この写真をよく見て、そこにぼくがいるかどうか見て下さい。",
+    "output": "Have a good look at this picture and tell me whether or not you can find me in it."
+  },
+  {
+    "index": "F213634",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この写真をどう思う、今日現像したのだ。",
+    "output": "How do you like these photos? I had them developed today."
+  },
+  {
+    "index": "F213636",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この写真をちょっと見せてください。",
+    "output": "Please let me have a look at those pictures."
+  },
+  {
+    "index": "F213638",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この写真は彼によって撮影された。",
+    "output": "This picture was taken by him."
+  },
+  {
+    "index": "F213640",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この写真は楽しかった私の少年時代を思い出させる。",
+    "output": "This photograph reminds me of enjoyable times when I was a child."
+  },
+  {
+    "index": "F213642",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この写真の猫を見かけたら、お電話ください。",
+    "output": "If you see the cat in this picture, please call us."
+  },
+  {
+    "index": "F213644",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この写真の中の少女は誰ですか。",
+    "output": "Who is the girl in this picture?"
+  },
+  {
+    "index": "F213646",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この写真ではシンガポールはとても素敵なようだ。",
+    "output": "Singapore looks very nice in this picture."
+  },
+  {
+    "index": "F213648",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この写真、いつ頃までに仕上がりますか。",
+    "output": "How quickly can you finish these pictures?"
+  },
+  {
+    "index": "F213650",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この芝生は座れないほどぬれている。",
+    "output": "This grass is too wet to sit on."
+  },
+  {
+    "index": "F213652",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この芝居はどこで上演していますか。",
+    "output": "Where is this play being performed?"
+  },
+  {
+    "index": "F213654",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この芝居は２つの短い場面で構成されている。",
+    "output": "This drama consists of just two short scenes."
+  },
+  {
+    "index": "F213656",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この芝居にはユーモアがない。",
+    "output": "This play has no humor in it."
+  },
+  {
+    "index": "F213658",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この芝は刈らなければならない。",
+    "output": "This grass needs cutting."
+  },
+  {
+    "index": "F213660",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この実験を行うのにいくら注意しても注意しすぎることはない。",
+    "output": "You can't be too careful when doing this experiment."
+  },
+  {
+    "index": "F213662",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この実験の結果、要素Ｔが構造全体を決定しているという推定が導き出される。",
+    "output": "The result of this experiment leads to our presumption that element T determines the entire structure."
+  },
+  {
+    "index": "F213664",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この実験には以下の手段を使用した。",
+    "output": "We used the following procedures in this experiment."
+  },
+  {
+    "index": "F213666",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この実験においては、粒子Ｍを水平方向に加速してやることが非常に重要である。",
+    "output": "It is of great significance in this experiment to accelerate the particle M in the horizontal direction."
+  },
+  {
+    "index": "F213668",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この実験で彼の学説はいっそう強固なものになった。",
+    "output": "The experiment confirmed his theory."
+  },
+  {
+    "index": "F213670",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この実験では不注意は許されない。",
+    "output": "You can't afford to be careless in this experiment."
+  },
+  {
+    "index": "F213672",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この実はたべられます。",
+    "output": "This berry is good to eat."
+  },
+  {
+    "index": "F213674",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この質問は答えにくいな。",
+    "output": "This question is difficult to answer."
+  },
+  {
+    "index": "F213676",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この質問は決してやさしくない。",
+    "output": "This question is by no means easy."
+  },
+  {
+    "index": "F213678",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この質問に答えるのは簡単だ。",
+    "output": "It is easy to answer this question."
+  },
+  {
+    "index": "F213680",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この質問に答えられますか。",
+    "output": "Can you answer this question?"
+  },
+  {
+    "index": "F213682",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この質問に答えとしてもごもごと言ったには、私が５０歳になっても、出かけようとすると母が窓から身を乗り出して飛ばし過ぎないように注意したいという話だけであった。",
+    "output": "All I could mumble in response was that when I was a man of fifty, my mother would lean out of the window when I left and remind me not to drive too fast."
+  },
+  {
+    "index": "F213684",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この質問にたいして、３つの意見があります。",
+    "output": "With respect to this question, there are three opinions."
+  },
+  {
+    "index": "F213686",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この失敗は私の間違った判断に起因する。",
+    "output": "This fault results from my wrong decision."
+  },
+  {
+    "index": "F213688",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この失敗は私に責任がある。",
+    "output": "I am responsible for this failure."
+  },
+  {
+    "index": "F213690",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この失敗は君の間違いのせいだ。",
+    "output": "This failure is due to your mistake."
+  },
+  {
+    "index": "F213692",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この失敗は、君自身の怠慢から起こったものだ。",
+    "output": "This failure was brought about by your own negligence."
+  },
+  {
+    "index": "F213694",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この失敗、きっと一生、言われつづけるなあ。",
+    "output": "We'll never live this fiasco down."
+  },
+  {
+    "index": "F213696",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この失業者の増加は不景気の当然な結果である。",
+    "output": "This increase in the number of unemployed people is a result of the bad economy."
+  },
+  {
+    "index": "F213698",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この七面鳥は５人分あります。",
+    "output": "This turkey will serve five."
+  },
+  {
+    "index": "F213700",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この七面鳥おいしいね。",
+    "output": "This turkey tastes good."
+  },
+  {
+    "index": "F213702",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書を使ってもいいですか。",
+    "output": "Would you mind my using this dictionary?"
+  },
+  {
+    "index": "F213704",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書を使っても良いですか。",
+    "output": "Can I use this dictionary?"
+  },
+  {
+    "index": "F213706",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書は非常に役に立つ。",
+    "output": "This dictionary is of great use."
+  },
+  {
+    "index": "F213708",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書は特に語法に重点を置いている。",
+    "output": "This dictionary puts a special emphasis on usage."
+  },
+  {
+    "index": "F213710",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書は大きさが手ごろだ。",
+    "output": "This dictionary is handy in size."
+  },
+  {
+    "index": "F213712",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書は信頼できるよ。",
+    "output": "You can depend on this dictionary."
+  },
+  {
+    "index": "F213714",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書は初級者に、いやそれどころか上級者にも役に立つ。",
+    "output": "This dictionary is useful to beginners, yes, and to advanced learners."
+  },
+  {
+    "index": "F213716",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書は私の姉のです。",
+    "output": "This dictionary is my sister's."
+  },
+  {
+    "index": "F213718",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書は私のものではありません。",
+    "output": "This dictionary doesn't belong to me."
+  },
+  {
+    "index": "F213720",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書は私に大いに役立った。",
+    "output": "This dictionary has been of great use to me."
+  },
+  {
+    "index": "F213722",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書は私にたいへん役に立つ。",
+    "output": "This dictionary is of great use to me."
+  },
+  {
+    "index": "F213724",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書は私たちには大変価値がある。",
+    "output": "This dictionary is of great value to us."
+  },
+  {
+    "index": "F213726",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書は私たちにとってありがたいものだ。",
+    "output": "This dictionary is great boon up to us."
+  },
+  {
+    "index": "F213728",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書は高校生向きに作られている。",
+    "output": "This dictionary is adapted for high school students."
+  },
+  {
+    "index": "F213730",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書は高校生を対象としたものです。",
+    "output": "This dictionary is primarily intended for high school students."
+  },
+  {
+    "index": "F213732",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書は高い。",
+    "output": "This dictionary is expensive."
+  },
+  {
+    "index": "F213734",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書は見出し語が約４万はいっている。",
+    "output": "This dictionary contains about 40,000 headwords."
+  },
+  {
+    "index": "F213736",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書は群を抜いてよい。",
+    "output": "This dictionary is by far the best."
+  },
+  {
+    "index": "F213738",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書は君のと同じぐらい役に立つ。",
+    "output": "This dictionary is as useful as yours."
+  },
+  {
+    "index": "F213740",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書は簡約版だ。",
+    "output": "This dictionary is an abridged edition."
+  },
+  {
+    "index": "F213742",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書は学生に非常に役に立つ。",
+    "output": "This dictionary is of great use for students."
+  },
+  {
+    "index": "F213744",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書は英語で書かれている。",
+    "output": "This dictionary is written in English."
+  },
+  {
+    "index": "F213746",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書はまったく役に立たない。",
+    "output": "This dictionary is no good."
+  },
+  {
+    "index": "F213748",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書はほとんど役に立たない。",
+    "output": "This dictionary is of little use."
+  },
+  {
+    "index": "F213750",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書はとても役に立っている。",
+    "output": "This dictionary is of great use to me."
+  },
+  {
+    "index": "F213752",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書はとても高いが買う価値がある。",
+    "output": "This dictionary is very expensive, but is worth buying."
+  },
+  {
+    "index": "F213754",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書はせいぜい２万語くらいしかのっていない。",
+    "output": "This dictionary contains not more than 20,000 words."
+  },
+  {
+    "index": "F213756",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書はすごく役に立つんだ。",
+    "output": "This dictionary is of great use."
+  },
+  {
+    "index": "F213758",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書はきわめて初心者向きである。",
+    "output": "This dictionary is well adapted for beginners."
+  },
+  {
+    "index": "F213760",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書はあれより優れている。",
+    "output": "This dictionary is superior to that one."
+  },
+  {
+    "index": "F213762",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書はあまり役にたたん。",
+    "output": "This dictionary doesn't go very far."
+  },
+  {
+    "index": "F213764",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書はあの辞書にまったく引けを取らない。",
+    "output": "This dictionary is every bit as good as that one."
+  },
+  {
+    "index": "F213766",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書はあの辞書と同じくらい役に立つ。",
+    "output": "This dictionary is as useful as that one."
+  },
+  {
+    "index": "F213768",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書は１２冊ある。",
+    "output": "This dictionary has 12 volumes."
+  },
+  {
+    "index": "F213770",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書は、第３巻が今欠けていますが、百ドルでした。",
+    "output": "This dictionary, of which the third volume is missing, cost me a hundred dollars."
+  },
+  {
+    "index": "F213772",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書の用例はわかりやすい。",
+    "output": "The examples in this dictionary are easy to understand."
+  },
+  {
+    "index": "F213774",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書の全ての単語が重要です。",
+    "output": "Every word in this dictionary is important."
+  },
+  {
+    "index": "F213776",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書の全ての単語が重要だとは限らない。",
+    "output": "Not every word in this dictionary is important."
+  },
+  {
+    "index": "F213778",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書の改訂には６年かかった。",
+    "output": "The revision of this dictionary took six years."
+  },
+  {
+    "index": "F213780",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書には大いに改善の余地がある。",
+    "output": "There is plenty of room for improvement in this dictionary."
+  },
+  {
+    "index": "F213782",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書には情報がたくさん入っています。",
+    "output": "This dictionary contains a lot of information."
+  },
+  {
+    "index": "F213784",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書には少なくとも５万語載っている。",
+    "output": "This dictionary contains not less than fifty thousand words."
+  },
+  {
+    "index": "F213786",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書には序文はあるが端書きがない。",
+    "output": "This dictionary has a preface, not a foreword."
+  },
+  {
+    "index": "F213788",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書にある単語はすべて大切である。",
+    "output": "Every word in this dictionary is important."
+  },
+  {
+    "index": "F213790",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書なしには済まされない。",
+    "output": "I can't do without this dictionary."
+  },
+  {
+    "index": "F213792",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書とあの辞書を比べると、どちらがいいか容易にわかるだろう。",
+    "output": "When you compare this dictionary with that one, you can easily see which is better."
+  },
+  {
+    "index": "F213794",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書とあの辞書を比べてみよう。",
+    "output": "Let's compare this dictionary with that one."
+  },
+  {
+    "index": "F213796",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書でよろしいですか。",
+    "output": "Will this dictionary do?"
+  },
+  {
+    "index": "F213798",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書では発音は見出し語の直後にある。",
+    "output": "In this dictionary the pronunciation comes right after the headword."
+  },
+  {
+    "index": "F213800",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この辞書が無くては済まされない。",
+    "output": "I cannot do without this dictionary."
+  },
+  {
+    "index": "F213802",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この自動販売機は故障しています。",
+    "output": "This vending machine is out of order."
+  },
+  {
+    "index": "F213804",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この自動販売機に５００円硬貨は使えない。",
+    "output": "This vending machine won't accept 500 yen coins."
+  },
+  {
+    "index": "F213806",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この自動販売機、動かないんですが。",
+    "output": "This vending machine isn't working."
+  },
+  {
+    "index": "F213808",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この自動車は運転しやすい。",
+    "output": "This car handles well."
+  },
+  {
+    "index": "F213810",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この自動車はアルコールを燃料に使う。",
+    "output": "This car runs on alcohol."
+  },
+  {
+    "index": "F213812",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この自転車を使ってもいいですか。",
+    "output": "Can I use this bike?"
+  },
+  {
+    "index": "F213814",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この自転車は油が切れている。",
+    "output": "This bicycle needs oiling."
+  },
+  {
+    "index": "F213816",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この自転車は誰のものですか。",
+    "output": "Whose is this bicycle?"
+  },
+  {
+    "index": "F213818",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この自動車は操縦しやすい。",
+    "output": "This car is easy to handle."
+  },
+  {
+    "index": "F213820",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この自転車は修理する必要があるな。",
+    "output": "This bicycle needs repairing."
+  },
+  {
+    "index": "F213822",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この自転車は乗りやすい。",
+    "output": "This bike is easy to ride."
+  },
+  {
+    "index": "F213824",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この自転車は私の弟のものだ。",
+    "output": "This bicycle belongs to my brother."
+  },
+  {
+    "index": "F213826",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この自転車は私の兄に使われる。",
+    "output": "This bike is used by my brother."
+  },
+  {
+    "index": "F213828",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この自転車は私のものです。",
+    "output": "This bicycle belongs to me."
+  },
+  {
+    "index": "F213830",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この自転車は今月の初めからここに置かれたままだ。",
+    "output": "This bicycle has been left here since the beginning of this month."
+  },
+  {
+    "index": "F213832",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この自転車はひどい。重すぎる。",
+    "output": "This bike is awful; it's too heavy."
+  },
+  {
+    "index": "F213834",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この自転車に乗っててひどい事故に遭ったんです。",
+    "output": "I had a terrible accident riding this bike."
+  },
+  {
+    "index": "F213836",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この自転車に油をさしなさい。",
+    "output": "Oil this bicycle."
+  },
+  {
+    "index": "F213838",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この自画像の私があなたを見つめているように思えても、そうではありません。",
+    "output": "If in this self-portrait I seem to be staring at you, I'm not."
+  },
+  {
+    "index": "F213840",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この磁鉄鉱は地球の磁場に引きつけられる。",
+    "output": "The magnetite is attracted to the earth's magnetic field."
+  },
+  {
+    "index": "F213842",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この磁場の線が２極で北の磁力と南の磁力の間に走っています。",
+    "output": "The lines of this field run between magnetic north and magnetic south at the two poles."
+  },
+  {
+    "index": "F213844",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この治療をすれば一晩で良くなるよ。",
+    "output": "This remedy will do you good overnight."
+  },
+  {
+    "index": "F213846",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この次来るときは、花を持ってきてあげよう。",
+    "output": "Next time I come, I'll bring you some flowers."
+  },
+  {
+    "index": "F213848",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この次は試合に勝つぞ。",
+    "output": "I will win the game next time."
+  },
+  {
+    "index": "F213850",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この次はもっと早く来よう。",
+    "output": "I will come earlier next time."
+  },
+  {
+    "index": "F213852",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この次はいつ会えますか。",
+    "output": "When can I see you next time?"
+  },
+  {
+    "index": "F213854",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この次の火曜日、すなわち９月１０日に君に会いたい。",
+    "output": "I will see you on next Tuesday, that is to say, the 10th of September."
+  },
+  {
+    "index": "F213856",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この次のお手紙で、そちらの町について話してください。",
+    "output": "Please tell me about your town in your next letter."
+  },
+  {
+    "index": "F213858",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この次に来るときその本を持ってきてくれ。",
+    "output": "Please bring me the book next time you come."
+  },
+  {
+    "index": "F213860",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この次に彼がきた時に、そのことについて彼に話しましょう。",
+    "output": "I will tell him about it when he comes next time."
+  },
+  {
+    "index": "F213862",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この次に償いをするよ。",
+    "output": "I will make up for it next time."
+  },
+  {
+    "index": "F213864",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この次いつ集まればよいのか彼に聞いてください。",
+    "output": "Ask him when to get together next."
+  },
+  {
+    "index": "F213866",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この次、京都に来たら私を訪ねなさい。",
+    "output": "Look me up next time you are in Kyoto."
+  },
+  {
+    "index": "F213868",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計、喉から手が出るほど欲しかったんだ。",
+    "output": "I wanted this watch so badly I could taste it."
+  },
+  {
+    "index": "F213870",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計会社の優れた技巧は群を抜いている。",
+    "output": "The quality of craftsmanship in this clock company is unsurpassed."
+  },
+  {
+    "index": "F213872",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計を買いたいところだが高すぎる。",
+    "output": "I would buy this watch, except it's too expensive."
+  },
+  {
+    "index": "F213874",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計を少し安いのと交換したいのです。",
+    "output": "I would like to exchange this watch for a cheaper one."
+  },
+  {
+    "index": "F213876",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計をただで上げよう。",
+    "output": "You can have this watch for nothing."
+  },
+  {
+    "index": "F213878",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計は本当にお買い得です。",
+    "output": "This watch is a real bargain."
+  },
+  {
+    "index": "F213880",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計は防水です。",
+    "output": "This watch is waterproof."
+  },
+  {
+    "index": "F213882",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計は父のです。",
+    "output": "This watch is my father's."
+  },
+  {
+    "index": "F213884",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計は不正確だ。",
+    "output": "This watch keeps bad time."
+  },
+  {
+    "index": "F213886",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計は非常に価値がある。",
+    "output": "This watch is of great value."
+  },
+  {
+    "index": "F213888",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計は日本製です。",
+    "output": "This watch is made in Japan."
+  },
+  {
+    "index": "F213890",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計は動かない。",
+    "output": "The clock does not run."
+  },
+  {
+    "index": "F213892",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計は動いてません。",
+    "output": "This clock isn't working."
+  },
+  {
+    "index": "F213894",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計は電気で動く。",
+    "output": "This clock is electric."
+  },
+  {
+    "index": "F213896",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計の値段はお幾らですか。",
+    "output": "What is the price of this watch?"
+  },
+  {
+    "index": "F213898",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計は絶対に狂わないこと請け合いだ。",
+    "output": "I guarantee this watch to keep perfect time."
+  },
+  {
+    "index": "F213900",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計は正確ですよ。",
+    "output": "This clock is accurate."
+  },
+  {
+    "index": "F213902",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計は修理の必要がある。一日２０分も進む。",
+    "output": "This watch needs to be repaired. It gains 20 minutes a day."
+  },
+  {
+    "index": "F213904",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計は修理する必要がある。",
+    "output": "This watch wants mending."
+  },
+  {
+    "index": "F213906",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計は時間が正確だ。",
+    "output": "The watch keeps accurate time."
+  },
+  {
+    "index": "F213908",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計は私のではなくあなたのです。",
+    "output": "This watch is not mine but yours."
+  },
+  {
+    "index": "F213910",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計は高い。",
+    "output": "This watch is expensive."
+  },
+  {
+    "index": "F213912",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計は昨日なくした私のものと似ている。",
+    "output": "This watch is similar to mine I lost yesterday."
+  },
+  {
+    "index": "F213914",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計は故障しているらしい。",
+    "output": "This clock seems to be malfunctioning."
+  },
+  {
+    "index": "F213916",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計は故障している。",
+    "output": "This clock is out of order."
+  },
+  {
+    "index": "F213918",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計は気に入りません。",
+    "output": "I don't like this watch."
+  },
+  {
+    "index": "F213920",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計は壊れている。",
+    "output": "This watch is broken."
+  },
+  {
+    "index": "F213922",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計は一万円だった。",
+    "output": "This watch cost me ten thousand yen."
+  },
+  {
+    "index": "F213924",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計は一日に二分進む。",
+    "output": "This clock gains two minutes a day."
+  },
+  {
+    "index": "F213926",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計は一日に３分遅れます。",
+    "output": "This clock loses three minutes a day."
+  },
+  {
+    "index": "F213928",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計は一日１分進む。",
+    "output": "This clock gains one minute a day."
+  },
+  {
+    "index": "F213930",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計はどこか故障しているらしい。",
+    "output": "Something seems to be wrong with this watch."
+  },
+  {
+    "index": "F213932",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計はどうかしたようだ。",
+    "output": "Something has happened to this clock."
+  },
+  {
+    "index": "F213934",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計はせいぜい１０ドルだ。",
+    "output": "This watch costs ten dollars at the most."
+  },
+  {
+    "index": "F213936",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計はおじさんからもらったんだ。",
+    "output": "This watch was given me by my uncle."
+  },
+  {
+    "index": "F213938",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計はあれよりもずっと良い。",
+    "output": "This watch is far better than that one."
+  },
+  {
+    "index": "F213940",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計はあれよりもずっと高価だ。",
+    "output": "This clock is far more expensive than that."
+  },
+  {
+    "index": "F213942",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計はあの時計よりも優れている。",
+    "output": "This watch is superior to that one."
+  },
+  {
+    "index": "F213944",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計はあの時計の２倍も値段が高い。",
+    "output": "This watch is twice as expensive as that one."
+  },
+  {
+    "index": "F213946",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計はあのブレスレットと同じくらい高価な贈り物です。",
+    "output": "This watch is as expensive a gift as that bracelet."
+  },
+  {
+    "index": "F213948",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計はあなたにあげるつもりです。",
+    "output": "This watch is meant for you."
+  },
+  {
+    "index": "F213950",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計は１５分ごとになる。",
+    "output": "This clock strikes the quarter hour."
+  },
+  {
+    "index": "F213952",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計は１０分遅れている。",
+    "output": "This watch is ten minutes slow."
+  },
+  {
+    "index": "F213954",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計は１０分進んでいる。",
+    "output": "This watch is ten minutes fast."
+  },
+  {
+    "index": "F213956",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計は、一年間の保証付です。",
+    "output": "They guarantee this clock for a year."
+  },
+  {
+    "index": "F213958",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時計の時間は正確だ。",
+    "output": "This watch keeps correct time."
+  },
+  {
+    "index": "F213960",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時期に雪が降るのは、ふつうではない。",
+    "output": "Snowing at this time of the year is unusual."
+  },
+  {
+    "index": "F213962",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時間帯は道路が混雑するんだ。",
+    "output": "There's a lot of traffic on the roads around this time of the day."
+  },
+  {
+    "index": "F213964",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時間は道路がとても込んでいるからね。",
+    "output": "The roads are very crowded at this time of the day."
+  },
+  {
+    "index": "F213966",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時間に会社に電気がついているのは変だ。",
+    "output": "It's odd that there should be a light on in the office at this hour."
+  },
+  {
+    "index": "F213968",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この時間にいつも彼はきます。",
+    "output": "This is the time he normally arrives."
+  },
+  {
+    "index": "F213970",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この寺院は七世紀からのものです。",
+    "output": "This temple dates from the 7th century."
+  },
+  {
+    "index": "F213972",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この寺院は７８０年に建てられた。",
+    "output": "This temple dates back to 780."
+  },
+  {
+    "index": "F213974",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この寺は桜の花で有名である。",
+    "output": "This temple is famous for its cherry blossoms."
+  },
+  {
+    "index": "F213976",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "このお寺は、500年以上も前に建てられたと言われています。",
+    "output": "This temple is said to have been built over 500 years ago."
+  },
+  {
+    "index": "F213978",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この寺の本尊は何であるか知っていますか。",
+    "output": "Do you know which deity this temple is dedicated to?"
+  },
+  {
+    "index": "F213980",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この事務所の通常営業時間は９時から５時までです。",
+    "output": "The usual business hours in this office are from nine to five."
+  },
+  {
+    "index": "F213982",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この事態は慎重な取り扱いを要する。",
+    "output": "This situation requires nice handling."
+  },
+  {
+    "index": "F213984",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この事実を忘れてはならない。",
+    "output": "This fact must not be forgotten."
+  },
+  {
+    "index": "F213986",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この事実を心に留めておいて下さい。",
+    "output": "Please bear this fact in mind."
+  },
+  {
+    "index": "F213988",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この事実は彼らにほとんど知られていない。",
+    "output": "This fact is all but unknown to them."
+  },
+  {
+    "index": "F213990",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この事実は彼の無罪を証明している。",
+    "output": "This fact bears witness to his innocence."
+  },
+  {
+    "index": "F213992",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この事実はほとんど重要ではない。",
+    "output": "This fact is of little consequence."
+  },
+  {
+    "index": "F213994",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この事実はどんなぼんやり者にも明白だ。",
+    "output": "The fact is apparent to the most casual observer."
+  },
+  {
+    "index": "F213996",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この事実に照らして彼に罪がないことは明らかだ。",
+    "output": "In the light of this fact, it is clear that he is innocent."
+  },
+  {
+    "index": "F213998",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この事実で彼が無知なのが分かる。",
+    "output": "This fact accounts for his ignorance."
+  }
+]

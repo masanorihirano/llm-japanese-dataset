@@ -50,7 +50,7 @@ datasetsフォルダー内に，データの生成形式ごとにフォルダー
  - Unlicense
  - スクレイピングにより取得したデータを加工したもの
 
-#### `satasets-cc-by-sa` に組み込み可能なライセンス
+#### `datasets-cc-by-sa` に組み込み可能なライセンス
  - CC-BY-SA
 #### 組み込むか要検討なライセンス
  - 4-Clause BSD License (一般的でないため)

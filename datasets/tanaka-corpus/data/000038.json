@@ -1,0 +1,6002 @@
+[
+  {
+    "index": "F76000",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "室内に入る時は帽子をとりなさい。",
+    "output": "Remove your hat when you go inside."
+  },
+  {
+    "index": "F76002",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "嫉妬深い人は、友達にすら、意地悪をして、満足感を得る。",
+    "output": "A jealous person gets a feeling of contentment by behaving like a dog in the manger even with his friends."
+  },
+  {
+    "index": "F76004",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "嫉妬心くらい強く人間の心情に巣食う情熱はない。",
+    "output": "There is not a passion so strongly rooted in the human heart as envy."
+  },
+  {
+    "index": "F76006",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "嫉妬がその殺人の動機だった。",
+    "output": "Jealousy was the motive for the murder."
+  },
+  {
+    "index": "F76008",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失礼にも彼女に電話をかけた。",
+    "output": "I took the liberty of calling her."
+  },
+  {
+    "index": "F76010",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失礼をお許し下さい。",
+    "output": "Please excuse me for being rude."
+  },
+  {
+    "index": "F76012",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失礼ですが御提案を修正させていただきます。",
+    "output": "I beg to modify your proposal."
+  },
+  {
+    "index": "F76014",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失礼ながらお尋ねいたします。",
+    "output": "I make so bold as to ask you."
+  },
+  {
+    "index": "F76016",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失礼ですが駅へ行く道を教えて下さいませんか。",
+    "output": "Excuse me, but will you tell me the way to the station?"
+  },
+  {
+    "index": "F76018",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失礼ですがどなたでしょうか。",
+    "output": "And who might you be?"
+  },
+  {
+    "index": "F76020",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失礼ですがホワイト博士ではございませんか。",
+    "output": "Excuse me, but aren't you Dr. White?"
+  },
+  {
+    "index": "F76022",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失礼ですがその点であなたと意見が違います。",
+    "output": "I beg to differ with you on that point."
+  },
+  {
+    "index": "F76024",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失礼ですがそれは私のラケットです。",
+    "output": "Pardon me, but that is my racket."
+  },
+  {
+    "index": "F76026",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失礼ですが、お名前を伺ってもよろしいですか。",
+    "output": "Excuse me, but do you mind if I ask your name?"
+  },
+  {
+    "index": "F76028",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失礼ですがあなたの計算が間違えていることを指摘させてもらいます。",
+    "output": "I beg to point out that your calculation is wrong."
+  },
+  {
+    "index": "F76030",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失礼ですがあなたが間違っておいでです。",
+    "output": "May I presume to tell you that you are wrong?"
+  },
+  {
+    "index": "F76032",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失礼ですが、窓をあけてもよろしいですか。",
+    "output": "Excuse me, but may I open the window?"
+  },
+  {
+    "index": "F76034",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失礼ですが、電話番号をお間違いではないでしょうか。",
+    "output": "Sorry, but I think you've got the wrong number."
+  },
+  {
+    "index": "F76036",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失礼ですがあなたが悪いのです。",
+    "output": "Sorry, but you're in the wrong here."
+  },
+  {
+    "index": "F76038",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失礼ですが、もう一度おっしゃって下さい。",
+    "output": "I beg your pardon?"
+  },
+  {
+    "index": "F76040",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失礼ですが、この席は空いていますか。",
+    "output": "Excuse me, is this seat taken?"
+  },
+  {
+    "index": "F76042",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "残念ですが、あなたの名前をどうしても覚えられない。",
+    "output": "I'm sorry to say I don't remember your name."
+  },
+  {
+    "index": "F76044",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失礼ですが、あなたは英語を話されますか。",
+    "output": "Excuse me. Do you speak English?"
+  },
+  {
+    "index": "F76046",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失礼だが同意出来ない。",
+    "output": "I beg to differ."
+  },
+  {
+    "index": "F76048",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失礼ですが、あなたと意見が違います。",
+    "output": "I beg to differ with you."
+  },
+  {
+    "index": "F76050",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失礼しました。",
+    "output": "Excuse my clumsiness."
+  },
+  {
+    "index": "F76052",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失礼しますといって席を立った。",
+    "output": "I excused myself from the table."
+  },
+  {
+    "index": "F76054",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失明すること以上に大きな不幸があるだろうか。",
+    "output": "What greater misfortune is there than to go blind?"
+  },
+  {
+    "index": "F76056",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失礼。すみません。",
+    "output": "Excuse me."
+  },
+  {
+    "index": "F76058",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失礼してもいい。",
+    "output": "Can I be excused?"
+  },
+  {
+    "index": "F76060",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失礼してもよろしいですか。",
+    "output": "May I be excused?"
+  },
+  {
+    "index": "F76062",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失敗を両親のせいにするのはフェアではありません。",
+    "output": "It's not fair to attribute your failure to your parents."
+  },
+  {
+    "index": "F76064",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失望するな。",
+    "output": "Keep up your courage."
+  },
+  {
+    "index": "F76066",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失敗を恐れるな。",
+    "output": "Don't be afraid of making mistakes."
+  },
+  {
+    "index": "F76068",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失敗を彼女のせいにするな。",
+    "output": "Don't blame the mistake on her."
+  },
+  {
+    "index": "F76070",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失敗を怖がることはありません。",
+    "output": "Don't be scared of making mistakes."
+  },
+  {
+    "index": "F76072",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失敗は無知から生じることがよくある。",
+    "output": "Failures often spring from ignorance."
+  },
+  {
+    "index": "F76074",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失敗は彼の怠惰に起因していた。",
+    "output": "The failure resulted from his idleness."
+  },
+  {
+    "index": "F76076",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失敗は成功のもと。",
+    "output": "We learn by trial and error."
+  },
+  {
+    "index": "F76078",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失敗の責任を他人でなく自分に負わせるべきだ。",
+    "output": "You ought to blame yourself, not the others, for the failure."
+  },
+  {
+    "index": "F76080",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失敗のさいの危険を考慮しながら、彼は相手との対決を要求した。",
+    "output": "Calculating the risk which is involved in the event of failure, he demanded a show-down with the other party."
+  },
+  {
+    "index": "F76082",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失敗にも関わらず彼は幸せを感じている。",
+    "output": "He feels happy in spite of his failure."
+  },
+  {
+    "index": "F76084",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失敗しないよう気をつけなさい。",
+    "output": "Take care not to fail."
+  },
+  {
+    "index": "F76086",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失敗しても彼女は落胆しなかった。",
+    "output": "She did not let failure discourage her."
+  },
+  {
+    "index": "F76088",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失敗してもあきらめてはいけないよ。",
+    "output": "Don't give up if you fail."
+  },
+  {
+    "index": "F76090",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失敗したらもう一度やってごらん。",
+    "output": "If you fail, try again!"
+  },
+  {
+    "index": "F76092",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失敗したらどうなるだろう。",
+    "output": "What if I fail?"
+  },
+  {
+    "index": "F76094",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失敗したなあ。",
+    "output": "I shouldn't have done it."
+  },
+  {
+    "index": "F76096",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失敗した！もっと、余裕をもって計画たてるべきだった。",
+    "output": "I choked! I should have come up with a proper plan first."
+  },
+  {
+    "index": "F76098",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失敗しても諦めるな。",
+    "output": "Don't give up if you fail."
+  },
+  {
+    "index": "F76100",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失言は政治家には命取りとなることがある。",
+    "output": "A slip of the tongue is sometimes fatal to a politician."
+  },
+  {
+    "index": "F76102",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失業率は徐々に上昇するだろう。",
+    "output": "The unemployment rate will rise by degrees."
+  },
+  {
+    "index": "F76104",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失業率は一月に過去５年間の最低を記録しました。",
+    "output": "The unemployment rate dropped to a five-year low in January."
+  },
+  {
+    "index": "F76106",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失業率は５％にまで上昇した。",
+    "output": "The unemployment rate went up to 5%."
+  },
+  {
+    "index": "F76108",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失業者数は徐々に増加するだろう。",
+    "output": "The number of unemployed people will rise by degrees."
+  },
+  {
+    "index": "F76110",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失業者は常にどん底におちる羽目になります。",
+    "output": "The unemployed always wind up at the bottom of the heap."
+  },
+  {
+    "index": "F76112",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失業者の数が最近、増加しているそうだ。",
+    "output": "I hear that the number of the unemployed has been increasing recently."
+  },
+  {
+    "index": "F76114",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失業の経験がゆっくり人生に着いて考える機会を与えてくれた。",
+    "output": "Being unemployed gave me the chance to stand back and think about my life."
+  },
+  {
+    "index": "F76116",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失業した後、彼は大変苦労した。",
+    "output": "After losing his job, he went through a very difficult time."
+  },
+  {
+    "index": "F76118",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失われるべき時間はない。",
+    "output": "There is no time to be lost."
+  },
+  {
+    "index": "F76120",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失われた時を取り返すことはできない。",
+    "output": "Time lost cannot be recalled."
+  },
+  {
+    "index": "F76122",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失われた幸福は金では償えない。",
+    "output": "Money cannot pay for the loss of happiness."
+  },
+  {
+    "index": "F76124",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失った物がないかと家中を捜した。",
+    "output": "I searched all the rooms for the lost thing."
+  },
+  {
+    "index": "F76126",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失った時間を埋め合わせなければならない。",
+    "output": "Lost time must be made up for."
+  },
+  {
+    "index": "F76128",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失った時間を取り戻すためわれわれは相当頑張らなければならない。",
+    "output": "We must work hard to make up for lost time."
+  },
+  {
+    "index": "F76130",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失った時間を取り戻すために、私たちはいそいだ。",
+    "output": "We hurried to make up for the lost time."
+  },
+  {
+    "index": "F76132",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失った時間を取り返さなければならない。",
+    "output": "You have to make up the time you have lost."
+  },
+  {
+    "index": "F76134",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失った時間を金で埋め合わせることはできない。",
+    "output": "Money cannot make up for lost time."
+  },
+  {
+    "index": "F76136",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失った時間の埋め合わせをしなけばならない。",
+    "output": "We must make up for lost time."
+  },
+  {
+    "index": "F76138",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失った時を埋め合わせるのは難しい。",
+    "output": "It's difficult to make up for lost time."
+  },
+  {
+    "index": "F76140",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失った機会は決して二度とは来ない。",
+    "output": "The lost chance will never come again."
+  },
+  {
+    "index": "F76142",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "失うものは何もない。",
+    "output": "Nothing is missing."
+  },
+  {
+    "index": "F76144",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "執行部の交替で彼は失職した。",
+    "output": "Owing to a change of administrations, he lost his job."
+  },
+  {
+    "index": "F76146",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "叱られた少年はすすり泣いていた。",
+    "output": "The scolded boy was sobbing."
+  },
+  {
+    "index": "F76148",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "七面鳥は鶏より少し大きい。",
+    "output": "A turkey is a little bigger than a chicken."
+  },
+  {
+    "index": "F76150",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "七面鳥の日おめでとう。",
+    "output": "Have a happy Turkey day."
+  },
+  {
+    "index": "F76152",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "七年ぶりに帰省しました。",
+    "output": "After an absence of seven years, I went home."
+  },
+  {
+    "index": "F76154",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "七時半に私たちもドアを閉ざしました。",
+    "output": "At seven-thirty, we too closed the door behind us."
+  },
+  {
+    "index": "F76156",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "七時三十分だった。",
+    "output": "It was seven thirty."
+  },
+  {
+    "index": "F76158",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "七時に公園で待っています。",
+    "output": "It is waiting in the park at 7 o'clock."
+  },
+  {
+    "index": "F76160",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "七時に学校に到着する。",
+    "output": "I go to school at seven."
+  },
+  {
+    "index": "F76162",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "式典は彼の話から始まった。",
+    "output": "The ceremony began with his speech."
+  },
+  {
+    "index": "F76164",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "式のための準備が進行中である。",
+    "output": "Preparations for the ceremony are under way."
+  },
+  {
+    "index": "F76166",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "式に余分の変数を加えたことによって、この実験結果は不明瞭なものになっている。",
+    "output": "The result of this experiment is obscured by the extra variables added in the formula."
+  },
+  {
+    "index": "F76168",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "式に引き続いてパーティーがあった。",
+    "output": "The ceremony was followed by the reception."
+  },
+  {
+    "index": "F76170",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "式には出席するつもりですか。",
+    "output": "Are you going to attend the ceremony?"
+  },
+  {
+    "index": "F76172",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "式が終わるとタンカーは進水した。",
+    "output": "The tanker was launched after the ceremony."
+  },
+  {
+    "index": "F76174",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "鹿児島には一度も行ったことがありませんが、今年の夏行くつもりです。",
+    "output": "I've never visited Kagoshima, but I intend to this summer."
+  },
+  {
+    "index": "F76176",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "鹿は良い獲物だ。",
+    "output": "Deer are good game."
+  },
+  {
+    "index": "F76178",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "鹿は木の葉のねぐらで眠った。",
+    "output": "The deer slept on a bed of leaves."
+  },
+  {
+    "index": "F76180",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "鹿は命懸けで逃げた。",
+    "output": "The deer ran for its life."
+  },
+  {
+    "index": "F76182",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "鹿は昔猟の獲物の主たるものだった。",
+    "output": "Deer were once the main game."
+  },
+  {
+    "index": "F76184",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "鹿は驚いて急いで逃げていった。",
+    "output": "The deer darted off in alarm."
+  },
+  {
+    "index": "F76186",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "鹿は１頭だけで走っていた。",
+    "output": "The deer was running by itself."
+  },
+  {
+    "index": "F76188",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "辞任劇は来るべき徴兵事務にはさして影響はないであろう。",
+    "output": "The resignations would have little or no effect on upcoming indications."
+  },
+  {
+    "index": "F76190",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "辞書を編さんするには膨大な時間を要する。",
+    "output": "Compiling a dictionary demands an enormous amount of time."
+  },
+  {
+    "index": "F76192",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "辞書を貸していただけないでしょうか。",
+    "output": "Would you please lend me your dictionary?"
+  },
+  {
+    "index": "F76194",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "辞書を階下に忘れてきた。",
+    "output": "I left my dictionary downstairs."
+  },
+  {
+    "index": "F76196",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "辞書を借りてもいいですか。",
+    "output": "May I use your dictionary?"
+  },
+  {
+    "index": "F76198",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "辞書をお借りできますか。",
+    "output": "May I borrow your dictionary?"
+  },
+  {
+    "index": "F76200",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "辞書をできるだけ生かして使うようにしなさい。",
+    "output": "Try to make the most of your dictionary."
+  },
+  {
+    "index": "F76202",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "辞書は優れた参考本だ。",
+    "output": "A dictionary is an excellent reference book."
+  },
+  {
+    "index": "F76204",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "辞書は知らない単語を調べるために使われる。",
+    "output": "Dictionaries are used to look up the words you don't know."
+  },
+  {
+    "index": "F76206",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "辞書は単語を定義するものである。",
+    "output": "A dictionary defines words."
+  },
+  {
+    "index": "F76208",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "辞書は言語を学習する時に重要な助けになる。",
+    "output": "A dictionary is an important aid in language learning."
+  },
+  {
+    "index": "F76210",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "辞書はことばの意味を調べるのに使う。",
+    "output": "We use a dictionary to look up the meaning of words."
+  },
+  {
+    "index": "F76212",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "辞書はすぐそこにある。",
+    "output": "The dictionary is close at hand."
+  },
+  {
+    "index": "F76214",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "辞書の単語を全部覚えようとするのはむだだ。",
+    "output": "It is useless to try to remember all the words in the dictionary."
+  },
+  {
+    "index": "F76216",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "辞書のその文字をご覧。",
+    "output": "Look up the word in the dictionary."
+  },
+  {
+    "index": "F76218",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "辞書に書いてあることが、常に正しいとは限らない。",
+    "output": "What a dictionary says is not always right."
+  },
+  {
+    "index": "F76220",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "辞書にもいろいろある。",
+    "output": "There are dictionaries and dictionaries."
+  },
+  {
+    "index": "F76222",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "辞書といえば、私はいろいろな辞書の恩恵を受けています。",
+    "output": "Speaking of dictionaries, I have benefited from various kinds."
+  },
+  {
+    "index": "F76224",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "辞書でそれを調べなさい。",
+    "output": "Look it up in your dictionary."
+  },
+  {
+    "index": "F76226",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "辞書でその言葉をみつけなさい。",
+    "output": "Look up the word in the dictionary."
+  },
+  {
+    "index": "F76228",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "辞書でその句を調べなさい。",
+    "output": "Look up the phrase in your dictionary."
+  },
+  {
+    "index": "F76230",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "辞書が必要なら、私の古い辞書を貸してあげよう。",
+    "output": "If you need a dictionary, I'll lend you an old one that I have."
+  },
+  {
+    "index": "F76232",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "辞書が机の上にある。",
+    "output": "There is a dictionary on the desk."
+  },
+  {
+    "index": "F76234",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "辞書がなかったら英語を学ぶのは難しいだろう。",
+    "output": "Without a dictionary, it would be hard to study English."
+  },
+  {
+    "index": "F76236",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "蒔かぬ種は生えぬ。",
+    "output": "Seeds unsown do not grow."
+  },
+  {
+    "index": "F76238",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "蒔かぬ種は生えない。",
+    "output": "You must sow before you can reap."
+  },
+  {
+    "index": "F76240",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自力でやるようにならない息子は父親の財産を引継ぐ資格はない。",
+    "output": "A son who could not learn to paddle his own canoe does not deserve to inherit his father's fortune."
+  },
+  {
+    "index": "F76242",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自力でそうしなさいと父は私にいった。",
+    "output": "My father told me to do so on my own."
+  },
+  {
+    "index": "F76244",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自由席を三枚ください。",
+    "output": "Could I have three seats in the unreserved section?"
+  },
+  {
+    "index": "F76246",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自由諸国の基盤は民主主義である。",
+    "output": "The foundation of free nations is democracy."
+  },
+  {
+    "index": "F76248",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自由社会においては個人の権利は重要である。",
+    "output": "The rights of the individual are important in a free society."
+  },
+  {
+    "index": "F76250",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自由市場システムが危機にひんしている。",
+    "output": "The free market system is endangered."
+  },
+  {
+    "index": "F76252",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自由を守るためにどんな事でもする覚悟です。",
+    "output": "I'm prepared to do anything to protect freedom."
+  },
+  {
+    "index": "F76254",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自由への道：困難な道のり。",
+    "output": "The road to freedom: hard to climb."
+  },
+  {
+    "index": "F76256",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自由は優れて根源的なものだから重要性は幾ら強調してもし過ぎない。",
+    "output": "Freedom is so fundamental that its importance cannot be overemphasized."
+  },
+  {
+    "index": "F76258",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自由はすぐれて根元的な物であるからその重要性はいくら強調してもしすぎることはない。",
+    "output": "Freedom is so fundamental that its importance cannot be overemphasized."
+  },
+  {
+    "index": "F76260",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自由の女神はアメリカの象徴である。",
+    "output": "The Statue of Liberty is a symbol of America."
+  },
+  {
+    "index": "F76262",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自由に召し上がって下さい。",
+    "output": "Please help yourself to anything you like."
+  },
+  {
+    "index": "F76264",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自由に取ってもいいんですか。",
+    "output": "May I help myself?"
+  },
+  {
+    "index": "F76266",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自由に辞書をお使いください。",
+    "output": "You are free to use this dictionary."
+  },
+  {
+    "index": "F76268",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自由に果物をお食べ下さい。",
+    "output": "Help yourself to the fruit."
+  },
+  {
+    "index": "F76270",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自由に意見を述べてください。",
+    "output": "You are at liberty to state your own views."
+  },
+  {
+    "index": "F76272",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自由にこの車を使ってください。",
+    "output": "You are free to use this car."
+  },
+  {
+    "index": "F76274",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自由にこの辞書を使いなさい。",
+    "output": "You are free to use this dictionary."
+  },
+  {
+    "index": "F76276",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自由にこの辞書をお使い下さい。",
+    "output": "You are free to use this dictionary."
+  },
+  {
+    "index": "F76278",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自由にケーキを取ってください。",
+    "output": "Please help yourself to the cakes."
+  },
+  {
+    "index": "F76280",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自由にクッキーをお取り下さい。",
+    "output": "Please help yourself to the cookies."
+  },
+  {
+    "index": "F76282",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自由にお持ち下さい。",
+    "output": "Please take one."
+  },
+  {
+    "index": "F76284",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自由にお取りください。",
+    "output": "Please take freely."
+  },
+  {
+    "index": "F76286",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自由にお金を使っていいですよ。",
+    "output": "You may spend this money freely."
+  },
+  {
+    "index": "F76288",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自由にお菓子をお取りください。",
+    "output": "Please help yourself to the cake."
+  },
+  {
+    "index": "F76290",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自由な時間がたくさんあるので、フランス語を学ぶことに決めた。",
+    "output": "Having lots of free time, I've decided to study French."
+  },
+  {
+    "index": "F76292",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自由と放任を取り違えてはならない。",
+    "output": "You must not confuse liberty with license."
+  },
+  {
+    "index": "F76294",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自由と放縦の間には大きな違いがある。",
+    "output": "There is a great difference between liberty and license."
+  },
+  {
+    "index": "F76296",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自由とはたいてい、やりたいことを何でもやることと同一視される。",
+    "output": "Freedom is usually equated with doing whatever you like."
+  },
+  {
+    "index": "F76298",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自由すぎると人はみなだめになる。",
+    "output": "Too much liberty spoils all."
+  },
+  {
+    "index": "F76300",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自由こそ不可欠なものだ。",
+    "output": "Freedom is the breath of life."
+  },
+  {
+    "index": "F76302",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自由こそまさに我々の民主主義の神髄だ。",
+    "output": "Freedom is the very essence of our democracy."
+  },
+  {
+    "index": "F76304",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自民党は増税の法案を提出したが、猛烈な反対にあって撤回した。",
+    "output": "The LDP brought out a bill to raise taxes, but they met with such violent opposition that they backed down."
+  },
+  {
+    "index": "F76306",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自民党はみそぎが必要ですね。",
+    "output": "The LDP needs a spiritual cleansing."
+  },
+  {
+    "index": "F76308",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自慢に聞こえるかもしれないが、私はフランス語が話せる。",
+    "output": "It may sound like blowing my own horn, but I can speak French."
+  },
+  {
+    "index": "F76310",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自慢じゃないがこのクラブでは私が一番ゴルフがうまいと思う。",
+    "output": "I flatter myself that I'm the best golfer in the club."
+  },
+  {
+    "index": "F76312",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自暴自棄になるな。",
+    "output": "Never surrender yourself to despair."
+  },
+  {
+    "index": "F76314",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分勝手なその男は同僚達から軽蔑された。",
+    "output": "The selfish man was despised by his colleagues."
+  },
+  {
+    "index": "F76316",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分達がパリに来るとは夢にも思っていなかった。",
+    "output": "Little did we imagine finding ourselves in Paris."
+  },
+  {
+    "index": "F76318",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分自身を恥じてはいけない。",
+    "output": "Don't be ashamed of yourself."
+  },
+  {
+    "index": "F76320",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分自身を知るべきだ。",
+    "output": "You should know yourself."
+  },
+  {
+    "index": "F76322",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分自身を知ることは非常に難しい。",
+    "output": "To know oneself is very difficult."
+  },
+  {
+    "index": "F76324",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分自身を知ることはむずかしい。",
+    "output": "To know oneself is difficult."
+  },
+  {
+    "index": "F76326",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分自身を精神的に追いつめている。",
+    "output": "You are backing yourself into a bad emotional corner."
+  },
+  {
+    "index": "F76328",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分自身を信頼なさい。",
+    "output": "Have confidence in yourself."
+  },
+  {
+    "index": "F76330",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分自身を信じれば自分の選んだ全てを受け入れられる。",
+    "output": "I believe in myself and trust what I do."
+  },
+  {
+    "index": "F76332",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分自身をつくっていくのは我々の能力だ。",
+    "output": "It is our capacity to mold ourselves."
+  },
+  {
+    "index": "F76334",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分自身の無知を認めることが、賢くなるための第一歩であるとソクラテスは言った。",
+    "output": "Socrates said that recognising your own ignorance is the first step towards wisdom."
+  },
+  {
+    "index": "F76336",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分自身が解らない。",
+    "output": "I don't know what I am."
+  },
+  {
+    "index": "F76338",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分一人で生きられる人はいない。",
+    "output": "No man can live for himself."
+  },
+  {
+    "index": "F76340",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分一人きりの状況を想像してごらん。",
+    "output": "Imagine a situation where you are all alone."
+  },
+  {
+    "index": "F76342",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分を腐らせたくない。",
+    "output": "I don't want to let myself go bad."
+  },
+  {
+    "index": "F76344",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分を恥ずかしいと思うことはないよ。",
+    "output": "Don't be ashamed of yourself."
+  },
+  {
+    "index": "F76346",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分を知ることは難しい。",
+    "output": "It is difficult to know oneself."
+  },
+  {
+    "index": "F76348",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分を大切にしなさい。",
+    "output": "Respect yourself."
+  },
+  {
+    "index": "F76350",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分を憎む者にも親切にしなさい。",
+    "output": "Do good to those who hate you."
+  },
+  {
+    "index": "F76352",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分を責めることはないよ。",
+    "output": "You don't have to kick yourself."
+  },
+  {
+    "index": "F76354",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分を愚か者と思われることを好む人はいない。",
+    "output": "No one likes being thought a fool."
+  },
+  {
+    "index": "F76356",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分を何様だと思っているのだ、人をそんな風に見て。",
+    "output": "Who do you think you are, to look at me like this?"
+  },
+  {
+    "index": "F76358",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分を偉い者だと思っている。",
+    "output": "He thinks himself to be somebody."
+  },
+  {
+    "index": "F76360",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分を安売りしてはいけない。",
+    "output": "Don't sell yourself short."
+  },
+  {
+    "index": "F76362",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分を愛さないものはいない。",
+    "output": "There is no man but loves himself."
+  },
+  {
+    "index": "F76364",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分をそんなふうに人々に利用させておくべきではない。",
+    "output": "You shouldn't let people use you like that."
+  },
+  {
+    "index": "F76366",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分をかまってくれる人がいないと知って彼女は気を悪くした。",
+    "output": "She was hurt to find that nobody took any notice of her."
+  },
+  {
+    "index": "F76368",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分より年下の子をいじめるものではありません。",
+    "output": "Don't pick on younger kids."
+  },
+  {
+    "index": "F76370",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分も生き、他人も生かせ。",
+    "output": "Live and let live."
+  },
+  {
+    "index": "F76372",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分は無実だと言い張っている。",
+    "output": "She maintains her innocence."
+  },
+  {
+    "index": "F76374",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分はなんと愚かだったのだろうかと思った。",
+    "output": "He thought how foolish he had been."
+  },
+  {
+    "index": "F76376",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の力で宿題をやりなさい。",
+    "output": "Do your homework for yourself."
+  },
+  {
+    "index": "F76378",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の力だけでそれをできる。",
+    "output": "I can do it alone."
+  },
+  {
+    "index": "F76380",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の両親をこんな風に扱うなんて、彼は気が狂っているに違いない。",
+    "output": "He must be crazy to treat his parents like this."
+  },
+  {
+    "index": "F76382",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の友達を見てみると、性格的に自分に結構似ている人が多いかもしれない。",
+    "output": "If you take a close look, you'll find that your friends and you have similar personalities."
+  },
+  {
+    "index": "F76384",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の友達の悪口を言うなんてみっともないぞ。",
+    "output": "It's small of you to speak ill of your friends."
+  },
+  {
+    "index": "F76386",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の約束は誠意を持って守らなければならない。",
+    "output": "You should be true to your word."
+  },
+  {
+    "index": "F76388",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の役に立つような本を読みなさい。",
+    "output": "Read such books as are useful to you."
+  },
+  {
+    "index": "F76390",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の目がほとんど信じられなかった。",
+    "output": "I scarcely believed my eyes."
+  },
+  {
+    "index": "F76392",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の命を危険にさらすとは正気ではない。",
+    "output": "It is crazy of you to put your life at risk."
+  },
+  {
+    "index": "F76394",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の名前が後ろから呼ばれるのがきこえた。",
+    "output": "I heard my name called from behind me."
+  },
+  {
+    "index": "F76396",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の名前が呼ばれるのを聞いた。",
+    "output": "He heard his name called."
+  },
+  {
+    "index": "F76398",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の名前があるかと彼女はリストにざっと目を通した。",
+    "output": "Her eyes ran over the list to see if her name was on it."
+  },
+  {
+    "index": "F76400",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の夢が実現することがないと彼女は思っていた。",
+    "output": "She didn't think her dream would ever come true."
+  },
+  {
+    "index": "F76402",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の本当の感情を見せることは、日本では美徳とは考えられていない。",
+    "output": "Showing your real feelings is not considered a virtue in Japan."
+  },
+  {
+    "index": "F76404",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の弁当を学校へ持ってきてもよろしい。",
+    "output": "You may bring your own lunch to school."
+  },
+  {
+    "index": "F76406",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の分は払います。",
+    "output": "Let me pay my share."
+  },
+  {
+    "index": "F76408",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の部屋を掃除しなさい。",
+    "output": "Clean your room."
+  },
+  {
+    "index": "F76410",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の部屋を掃除しないとね。",
+    "output": "I have to clean my room."
+  },
+  {
+    "index": "F76412",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の部屋の整頓をしなさい。",
+    "output": "Put your room in order."
+  },
+  {
+    "index": "F76414",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の部屋を整頓してから、彼は出て行った。",
+    "output": "Having put his room in order, he went out."
+  },
+  {
+    "index": "F76416",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の部屋はきれいにしておきなさい。",
+    "output": "You must keep your room clean."
+  },
+  {
+    "index": "F76418",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の部屋をきちんとしておくことはたいへんなことです。",
+    "output": "It is hard work to keep my room in proper order."
+  },
+  {
+    "index": "F76420",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の部屋は出来るだけきちんとしておきなさい。",
+    "output": "Keep your room as neat as you can."
+  },
+  {
+    "index": "F76422",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の部屋は出来るだけきちんとしておきたい。",
+    "output": "I want to keep my room as neat as possible."
+  },
+  {
+    "index": "F76424",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の部屋はきちんと片づけておきなさい。",
+    "output": "Keep your room neat and tidy."
+  },
+  {
+    "index": "F76426",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の部屋はいつもできるだけきちんとしておきます。",
+    "output": "I always keep my room as tidy as I can."
+  },
+  {
+    "index": "F76428",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の部屋はいつもきれいにしておかなければいけないよ。",
+    "output": "You must keep your room clean."
+  },
+  {
+    "index": "F76430",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の部屋の掃除をしなければならない。",
+    "output": "I have to clean my room."
+  },
+  {
+    "index": "F76432",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼は自分の部屋で本を読んでいます。",
+    "output": "He is reading a book in his room."
+  },
+  {
+    "index": "F76434",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の美しさに対する彼女のうぬぼれに多くの人が腹を立てた。",
+    "output": "Her conceit about her beauty annoyed many people."
+  },
+  {
+    "index": "F76436",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の非を認めるなんて君は正直だね。",
+    "output": "You are honest to admit your mistake."
+  },
+  {
+    "index": "F76438",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の発言には責任をもたなければならない。",
+    "output": "One is responsible for one's own words."
+  },
+  {
+    "index": "F76440",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "アルベルさんは自分の能力を試すため、何か新しいことをいつもやってみせます。",
+    "output": "Albert is always trying his hand at something to test his own skill."
+  },
+  {
+    "index": "F76442",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の能力に応じて働かなければならない。",
+    "output": "You must work according to your ability."
+  },
+  {
+    "index": "F76444",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の能力には大いに自信があります。",
+    "output": "I have much confidence in my ability."
+  },
+  {
+    "index": "F76446",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の任務を遂行しなければならない。",
+    "output": "You must fulfill your duty."
+  },
+  {
+    "index": "F76448",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の頭の上のハエを追え。",
+    "output": "Tend to your own affairs."
+  },
+  {
+    "index": "F76450",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の頭の上にいるハエを追え。",
+    "output": "Tend to your own affairs."
+  },
+  {
+    "index": "F76452",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の直感が、いかに確かなものか自慢した手前、当てがはずれた時は首をやらなければならなくなった。",
+    "output": "Having boasted how sure his hunches were, he was forced to eat his hat when he guessed wrong."
+  },
+  {
+    "index": "F76454",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の着なくなった服を教会ののみの市セールに寄付した。",
+    "output": "I gave my old clothes for the church flea market sale."
+  },
+  {
+    "index": "F76456",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の知らない単語を飛ばし読みする読者は多い。",
+    "output": "Many a reader skips the words that he doesn't know."
+  },
+  {
+    "index": "F76458",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の足で立つとは独立するという事である。",
+    "output": "To stand on your own feet means to be independent."
+  },
+  {
+    "index": "F76460",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の息子に頼って生きている人もいる。",
+    "output": "Some people live on their sons."
+  },
+  {
+    "index": "F76462",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の前に何があるのですか。",
+    "output": "What's in front of you?"
+  },
+  {
+    "index": "F76464",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の巣をよごすのは悪い鳥。",
+    "output": "It is an ill bird that fouls its own nest."
+  },
+  {
+    "index": "F76466",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の舌を自制することのできない者は適切に語ることができない。",
+    "output": "He cannot speak well that cannot hold his tongue."
+  },
+  {
+    "index": "F76468",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の責任を認めて自腹をきりなさい。",
+    "output": "You have to dig down and pay for it."
+  },
+  {
+    "index": "F76470",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の責任において何でも行いなさい。",
+    "output": "Do everything at your own risk."
+  },
+  {
+    "index": "F76472",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の席にもどりなさい。",
+    "output": "Go back to your seat."
+  },
+  {
+    "index": "F76474",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の衰えを感じた事がありますか。",
+    "output": "Do you ever feel like you're running down?"
+  },
+  {
+    "index": "F76476",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の人生を振り返ってみたとき、彼女は深い後悔の念にかられた。",
+    "output": "She regretted deeply when she looked back on her life."
+  },
+  {
+    "index": "F76478",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の人生は自分で決めろ。",
+    "output": "You make your own life."
+  },
+  {
+    "index": "F76480",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の新居にわくわくしている。",
+    "output": "I am thrilled with my new home."
+  },
+  {
+    "index": "F76482",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の信念を守るためには立ちあがるし、いかなる脅威にも屈しないつもりだ。",
+    "output": "I'll stand up for what I believe in and won't yield to any threats."
+  },
+  {
+    "index": "F76484",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の信念を隠すくらいなら死んだほうがましだ。",
+    "output": "I would rather die than conceal my belief."
+  },
+  {
+    "index": "F76486",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の宿題は自分ですべきだ。",
+    "output": "One should do one's homework by oneself."
+  },
+  {
+    "index": "F76488",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の宿題は自分でしなさい。",
+    "output": "Do your homework for yourself."
+  },
+  {
+    "index": "F76490",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の宿題は自分でやれよ。",
+    "output": "Do your homework for yourself."
+  },
+  {
+    "index": "F76492",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の手を汚すようなことだけはごめんだ。",
+    "output": "I don't want to get my hands dirty."
+  },
+  {
+    "index": "F76494",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の収入の範囲で生活するようにしなさい。",
+    "output": "Try to live within your income."
+  },
+  {
+    "index": "F76496",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の車に乗るのに切符を買う者がいるか。",
+    "output": "Who buys tickets to ride in their own motor car?"
+  },
+  {
+    "index": "F76498",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の主義に基づいて行動した。",
+    "output": "I acted up to my principles."
+  },
+  {
+    "index": "F76500",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の社交クラブを偶然訪れたとき彼は昔の友達に偶然に会った。",
+    "output": "He came upon an old friend when he visited his club."
+  },
+  {
+    "index": "F76502",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の失敗を人のせいにするな。",
+    "output": "Don't blame others for your failure."
+  },
+  {
+    "index": "F76504",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の失敗で他人を非難するな。",
+    "output": "Don't accuse others for your own failure."
+  },
+  {
+    "index": "F76506",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の失われた青春を考えても無駄である。",
+    "output": "It's no use thinking about one's lost youth."
+  },
+  {
+    "index": "F76508",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の時間をうまく使いなさい。",
+    "output": "You should make good use of your time."
+  },
+  {
+    "index": "F76510",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の持ち物を忘れないように。",
+    "output": "Don't leave your stuff behind."
+  },
+  {
+    "index": "F76512",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の持ち物には全て名前をつけなさい。",
+    "output": "Put your name on all your belongings."
+  },
+  {
+    "index": "F76514",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の事をしなさい。",
+    "output": "Go about your business."
+  },
+  {
+    "index": "F76516",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の事をしろ。",
+    "output": "Show your own business."
+  },
+  {
+    "index": "F76518",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の事に注意しなければならない。",
+    "output": "You must be careful of yourself."
+  },
+  {
+    "index": "F76520",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の事に打ち込みなさい。",
+    "output": "Mind your own business."
+  },
+  {
+    "index": "F76522",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の思春期を振り返ると、いつも憂うつな気分になる。",
+    "output": "I cannot look back on my adolescence without feeling depressed."
+  },
+  {
+    "index": "F76524",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の思うとおりにしなさい。",
+    "output": "Just follow your heart."
+  },
+  {
+    "index": "F76526",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の思い通りにしようとする。",
+    "output": "He will try to have his own way."
+  },
+  {
+    "index": "F76528",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の子供を持ってはじめて親の苦労がわかる。",
+    "output": "It is only when you have your own children that you realize the trouble of parenthood."
+  },
+  {
+    "index": "F76530",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の子供を愛さない母親はいない。",
+    "output": "There is no mother who doesn't love her own child."
+  },
+  {
+    "index": "F76532",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の子供の世話で精いっぱいだった。",
+    "output": "I had enough to do to look after my own children."
+  },
+  {
+    "index": "F76534",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の子供たちには是非とも優しくしなさい。",
+    "output": "Do be kind to your children!"
+  },
+  {
+    "index": "F76536",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の子を他人の子と比較するな。",
+    "output": "Don't compare your children with others."
+  },
+  {
+    "index": "F76538",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の子どもを愛さない母はいない。",
+    "output": "There is no mother that doesn't love her children."
+  },
+  {
+    "index": "F76540",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の姿を鏡にうつして見なさい。",
+    "output": "Look at yourself in the mirror."
+  },
+  {
+    "index": "F76542",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の仕事を楽しくすることが出来れば、金以上に価値のあるものをもっていることになる。",
+    "output": "If you enjoy the work you do, you have something worth more than money."
+  },
+  {
+    "index": "F76544",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の仕事をしなさい。",
+    "output": "Do your own work."
+  },
+  {
+    "index": "F76546",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の仕事や関心事について話し、また相手のそうしたことについて尋ねるのはいいが、話題があまりに個人的なものにならないよう気を付けなさい。",
+    "output": "It is acceptable to mention your job and interests and to ask the other person about his, but be careful not to let the conversation become too personal."
+  },
+  {
+    "index": "F76548",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の仕事の割り当ては終わりましたか。",
+    "output": "Have you finished your share of the work?"
+  },
+  {
+    "index": "F76550",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の仕事はあまり好きではなかったが、新しく買った家でお金を借りていた。",
+    "output": "He didn't really like his job, but he owed money on his new house."
+  },
+  {
+    "index": "F76552",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の仕事に専念しなさい。",
+    "output": "Apply yourself to your own work."
+  },
+  {
+    "index": "F76554",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の仕事に精を出しなさい。",
+    "output": "You must attend to your work."
+  },
+  {
+    "index": "F76556",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の仕事に身をいれなさい。",
+    "output": "Put your heart into your business."
+  },
+  {
+    "index": "F76558",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の仕事に誇りを持っていますか。",
+    "output": "Do you take pride in your work?"
+  },
+  {
+    "index": "F76560",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の仕事に一心不乱に打ち込みなさい。",
+    "output": "Give yourself to your work with body and soul."
+  },
+  {
+    "index": "F76562",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の仕事にやりがいを感じています。",
+    "output": "I really love my work."
+  },
+  {
+    "index": "F76564",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の仕事にかかりなさい。",
+    "output": "Go about your business!"
+  },
+  {
+    "index": "F76566",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の作品を自画自賛してどうするの。",
+    "output": "It won't do you any good to talk up your own work like that."
+  },
+  {
+    "index": "F76568",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の才能を示すために、めったにないこの機会を最大限に利用すべきだ。",
+    "output": "You should make the most of this rare opportunity to demonstrate your talent."
+  },
+  {
+    "index": "F76570",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の才能や興味に関連して仕事を選ぶべきだ。",
+    "output": "You should choose a job in relation to your talents and interests."
+  },
+  {
+    "index": "F76572",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の才能に合った望みを持て。",
+    "output": "You should harmonize your ambitions with your abilities."
+  },
+  {
+    "index": "F76574",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の国を愛さない者はいない。",
+    "output": "There is no one but loves his own country."
+  },
+  {
+    "index": "F76576",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の国の歴史は、よく知るべきです。",
+    "output": "You should get acquainted with the history of your own country."
+  },
+  {
+    "index": "F76578",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の国の人々の福祉に努力するのを自分の努めだと彼はみなしていた。",
+    "output": "He looked upon it as his duty to see to the welfare of the people on his land."
+  },
+  {
+    "index": "F76580",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の行動を恥じるべきだ。",
+    "output": "You should be ashamed of your behavior."
+  },
+  {
+    "index": "F76582",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の行動を思い出すと情けないよ。",
+    "output": "When I think back on what I did, I feel pretty stupid."
+  },
+  {
+    "index": "F76584",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の行為に対しては責任をとらなければならない。",
+    "output": "One must be responsible for one's conduct."
+  },
+  {
+    "index": "F76586",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の考えを僕に押しつけるな。",
+    "output": "Don't press your opinion on me."
+  },
+  {
+    "index": "F76588",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の考えを伝えることは時にはたいへんむずかしい。",
+    "output": "It is sometimes very hard to put your idea across."
+  },
+  {
+    "index": "F76590",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の考えを他人に押し付けるのはよくない。",
+    "output": "It's not good to force our ideas on others."
+  },
+  {
+    "index": "F76592",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の考えを他人に押しつけてはいけない。",
+    "output": "Don't intrude your opinions on others."
+  },
+  {
+    "index": "F76594",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の好みにぴったり合う靴が見つからなかった。",
+    "output": "I found no shoes completely to my taste."
+  },
+  {
+    "index": "F76596",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の好きなようにやってよろしい。",
+    "output": "You can do it however you like."
+  },
+  {
+    "index": "F76598",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の誤りを人のせいにしてはいけない。",
+    "output": "Don't blame others for your own fault."
+  },
+  {
+    "index": "F76600",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の限界を知る事は重要である。",
+    "output": "It is important to know your own limitations."
+  },
+  {
+    "index": "F76602",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の言語能力をできるだけ伸ばしなさい。",
+    "output": "Develop your linguistic competence as much as possible."
+  },
+  {
+    "index": "F76604",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の言語を他の人たちの言語と同じようにするために必要な変更を加える。",
+    "output": "It's necessary to make his language like other people's."
+  },
+  {
+    "index": "F76606",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の言った事に忠実であるべきだ。",
+    "output": "You should stick to what you say."
+  },
+  {
+    "index": "F76608",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の言った事には責任がある。",
+    "output": "One is responsible for one's own words."
+  },
+  {
+    "index": "F76610",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の言ったことに他人がどう感じるか、もっと敏感になるべきです。",
+    "output": "You should be more sensitive to how people feel about your words."
+  },
+  {
+    "index": "F76612",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の言うことを理解してもらうのは難しかった。",
+    "output": "I found it difficult to make myself understood."
+  },
+  {
+    "index": "F76614",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の見た夢を思い出せる人もいれば忘れてしまう人もいる。",
+    "output": "Some people are good at remembering their dreams, others forget theirs."
+  },
+  {
+    "index": "F76616",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の権利に目覚めたものが、他人に権利も尊重しなければならないことは、言うまでもない。",
+    "output": "It goes without saying that those who are awake to their own rights must respect those of others."
+  },
+  {
+    "index": "F76618",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の健康に注意しなければいけない。",
+    "output": "We must take care of ourselves."
+  },
+  {
+    "index": "F76620",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の欠点を認めようとする人はほとんどいない。",
+    "output": "Few people will admit their faults."
+  },
+  {
+    "index": "F76622",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の欠点を自覚できる人はほとんどいない。",
+    "output": "Few people can realize their faults."
+  },
+  {
+    "index": "F76624",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の欠点は忘れがちなものである。",
+    "output": "One is apt to forget his own faults."
+  },
+  {
+    "index": "F76626",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の靴の具合の悪いところは、自分が一番よく知っている。",
+    "output": "The wearer knows best where the shoe pinches."
+  },
+  {
+    "index": "F76628",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の金はびた一文持っていない。",
+    "output": "I haven't a cent to my name."
+  },
+  {
+    "index": "F76630",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の給料に満足しているよ。",
+    "output": "I'm content with my salary."
+  },
+  {
+    "index": "F76632",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の給料で生活したほうがいいよ。",
+    "output": "You had better live on your salary."
+  },
+  {
+    "index": "F76634",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の脚で立つとは独立する意味である。",
+    "output": "To stand on your own two feet means to be independent."
+  },
+  {
+    "index": "F76636",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の気持ちを表現できない。",
+    "output": "I cannot describe my feelings."
+  },
+  {
+    "index": "F76638",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の気持ちを押し隠すことはないんだよ。",
+    "output": "You don't have to hide your feelings."
+  },
+  {
+    "index": "F76640",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の顔を見ながら、そのうしろにあるもの、あなたの心の中を理解しようとします。",
+    "output": "As you look at your face, you try to figure out what is happening behind it, in your mind."
+  },
+  {
+    "index": "F76642",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の顔に仕返しをするために鼻をちょん切るな。",
+    "output": "Don't cut off your nose to spite your face."
+  },
+  {
+    "index": "F76644",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の感情を抑えることは、時に難しい。",
+    "output": "It's sometimes difficult to control our feelings."
+  },
+  {
+    "index": "F76646",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の過去をじっくり振り返ってみてもよいころだ。",
+    "output": "It's time to reflect on your past."
+  },
+  {
+    "index": "F76648",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の過去をじっくりと振り返っても良い頃だ。",
+    "output": "It's time to reflect on your past."
+  },
+  {
+    "index": "F76650",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の過去をじっくりと振り返ってみてもよいところだ。",
+    "output": "It is time to reflect on your past."
+  },
+  {
+    "index": "F76652",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の過去をじっくりと振り返ってみてもよいだろう。",
+    "output": "It's time to reflect on your past."
+  },
+  {
+    "index": "F76654",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の過ちを認める政治家は、ほとんどいない。",
+    "output": "Few politicians admit their mistakes."
+  },
+  {
+    "index": "F76656",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の過ちを認めてはどうですか。",
+    "output": "Why don't you admit your mistake?"
+  },
+  {
+    "index": "F76658",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の過ちを告白するのに恥じる必要は何もない。",
+    "output": "There is no need to be ashamed of confessing one's mistakes."
+  },
+  {
+    "index": "F76660",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の荷に名札を付けたけれども、すぐに取れてしまった。",
+    "output": "I attached my name-tag to my baggage, but it soon came off."
+  },
+  {
+    "index": "F76662",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の家庭を愛さない人はいない。",
+    "output": "There is no man but loves his home."
+  },
+  {
+    "index": "F76664",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の家族を愛さない人はいない。",
+    "output": "There is no man but loves his home."
+  },
+  {
+    "index": "F76666",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の家を売ってまでフェラーリ欲しくないよ。",
+    "output": "I don't want a Ferrari bad enough to sell my house to get one."
+  },
+  {
+    "index": "F76668",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の家を建てることなど私にはできない。",
+    "output": "It is beyond my power to build my own house."
+  },
+  {
+    "index": "F76670",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の家があったらな。",
+    "output": "I wish I had a house of my own."
+  },
+  {
+    "index": "F76672",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の英語を上達させるつもりなら、英語が話されている国に行った方がよい。",
+    "output": "If you are to improve your English, you had better go to countries where it is spoken."
+  },
+  {
+    "index": "F76674",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の運命に満足している人は幸福です。",
+    "output": "Happy is the man who is contented with his lot."
+  },
+  {
+    "index": "F76676",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の運命に甘んじるくらいなら自殺した方がましだ。",
+    "output": "I might as well kill myself as reconcile myself to my fate."
+  },
+  {
+    "index": "F76678",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の運を試してみよう。",
+    "output": "I'll try my luck."
+  },
+  {
+    "index": "F76680",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の為になるような本を読まなければならない。",
+    "output": "We must read such books as will benefit us."
+  },
+  {
+    "index": "F76682",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の意思を伝えようと努めたが無駄だった。",
+    "output": "I tried to make myself understood, but in vain."
+  },
+  {
+    "index": "F76684",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の意志でここに来たの？",
+    "output": "Did you come here of your own free will?"
+  },
+  {
+    "index": "F76686",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の意見を他人に押し付けてはいけない。",
+    "output": "You shouldn't impose your opinion on others."
+  },
+  {
+    "index": "F76688",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分のものを片付けなさい。",
+    "output": "Put away your things."
+  },
+  {
+    "index": "F76690",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分のものなら何でも最高。",
+    "output": "All his geese are swans."
+  },
+  {
+    "index": "F76692",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分のものならガチョウも白鳥に見える。",
+    "output": "All his geese are swans."
+  },
+  {
+    "index": "F76694",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分のまいた種は自分で刈ることになる。",
+    "output": "As you sow, so shall you reap."
+  },
+  {
+    "index": "F76696",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分のペースでやってください。",
+    "output": "You can take your time."
+  },
+  {
+    "index": "F76698",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分のふところ具合を語るにはいつも注意を払うべきである。",
+    "output": "One should always be careful in talking about one's finances."
+  },
+  {
+    "index": "F76700",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分のすることを何でも上手にしようとすることは立派な野心である。",
+    "output": "It is a worthy ambition to do well whatever one does."
+  },
+  {
+    "index": "F76702",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分のすることになっている仕事がいやであることを彼は隠しきれなかった。",
+    "output": "He could not hide his disgust at the task he was to perform."
+  },
+  {
+    "index": "F76704",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分のすらっとした姿を得意に思っています。",
+    "output": "She is vain about her slender figure."
+  },
+  {
+    "index": "F76706",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分のステレオを持っています。",
+    "output": "I have my own stereo set."
+  },
+  {
+    "index": "F76708",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分のしたことをよく考えなさい。",
+    "output": "Reflect on what you have done."
+  },
+  {
+    "index": "F76710",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分のしたことに責任を持つべきです。",
+    "output": "You ought to answer for what you have done."
+  },
+  {
+    "index": "F76712",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分のシートに戻りなさい。",
+    "output": "Go back to your seat."
+  },
+  {
+    "index": "F76714",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分のことを棚にあげて他人を非難することはできない。",
+    "output": "The pot can't call the kettle black."
+  },
+  {
+    "index": "F76716",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分のことを考える前に人のことを考えるのはまさに彼女らしい。",
+    "output": "It is just like her to think of others before thinking of herself."
+  },
+  {
+    "index": "F76718",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分のことは自分でできる。",
+    "output": "I can take care of yours truly."
+  },
+  {
+    "index": "F76720",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分のことだけ気にかけろ！",
+    "output": "Mind your own business!"
+  },
+  {
+    "index": "F76722",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分のことだけかまってろよ。",
+    "output": "Attend to your business alone!"
+  },
+  {
+    "index": "F76724",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分のことがよくわかっている。",
+    "output": "She knows herself well."
+  },
+  {
+    "index": "F76726",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分の３０年後の姿なんて知りたくもない。",
+    "output": "I don't want to see my future after 30 years."
+  },
+  {
+    "index": "F76728",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分に対するどんな無礼も彼はすぐに許した。",
+    "output": "Any offence against himself he forgave readily."
+  },
+  {
+    "index": "F76730",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分に関わりのないことには口を出すな。",
+    "output": "Don't interfere with matters that do not concern you!"
+  },
+  {
+    "index": "F76732",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分に価値を見いだせない。",
+    "output": "I have no self-esteem."
+  },
+  {
+    "index": "F76734",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分には欠点がないというのだろうか。",
+    "output": "Is she faultless herself?"
+  },
+  {
+    "index": "F76736",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分にとって正しいと思うことをやりなさい。",
+    "output": "You must do what seems right to you."
+  },
+  {
+    "index": "F76738",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分としては満足している。",
+    "output": "As for myself, I am satisfied."
+  },
+  {
+    "index": "F76740",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分で話してこい。",
+    "output": "Go tell him yourself."
+  },
+  {
+    "index": "F76742",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分で本を作るために私はワープロを買った。",
+    "output": "I bought a word processor for making a book on my own."
+  },
+  {
+    "index": "F76744",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分で物を作ることほど多くの喜びを我々に与えてくれるものはない。",
+    "output": "Nothing gives us so much pleasure as making things ourselves."
+  },
+  {
+    "index": "F76746",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分で服を作ったら節約になりますよ。",
+    "output": "If you make your own clothes, it will save you money."
+  },
+  {
+    "index": "F76748",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分で読めると思っているよりも実際はずっと多くの本が読めるものです。",
+    "output": "You can read a lot more than you think you can."
+  },
+  {
+    "index": "F76750",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分で痛い目に遭わないと、分からないのだろう。",
+    "output": "He has to burn his fingers to learn."
+  },
+  {
+    "index": "F76752",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分で痛い目に会わないとわからない。",
+    "output": "He has to burn his fingers."
+  },
+  {
+    "index": "F76754",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分で使ってみなさい。",
+    "output": "Try it out yourself."
+  },
+  {
+    "index": "F76756",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分で作ったのではないのですよ。",
+    "output": "I didn't make it myself."
+  },
+  {
+    "index": "F76758",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分で行く代わりに、彼は息子をその政治集会に参加させた。",
+    "output": "Instead of going himself, he sent his son to the political meeting."
+  },
+  {
+    "index": "F76760",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分で行きたいと思う映画を見に行かない。",
+    "output": "I don't go to the movies as often as I'd like."
+  },
+  {
+    "index": "F76762",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分で考え勉強することは非常に大切です。",
+    "output": "It is very important to think for yourself and to study."
+  },
+  {
+    "index": "F76764",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分で解いてみようとすべきだ。",
+    "output": "You should try to figure it out for yourself."
+  },
+  {
+    "index": "F76766",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分で運転するほうが僕に運転させるより安全だと彼は思っている。",
+    "output": "He thinks it's safer to drive himself than to let me drive."
+  },
+  {
+    "index": "F76768",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分で運転しないので、彼は車について詳しくない。",
+    "output": "Not driving himself, he isn't familiar with cars."
+  },
+  {
+    "index": "F76770",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分で引き受けたことは自分で処理しなければならない。",
+    "output": "You have to make do with what you've got."
+  },
+  {
+    "index": "F76772",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分で意味がわからない言葉はつかってはいけない。",
+    "output": "Don't use any words whose meanings you don't know well."
+  },
+  {
+    "index": "F76774",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分でよくわかっている。",
+    "output": "I know myself very well."
+  },
+  {
+    "index": "F76776",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分でやりなさい。",
+    "output": "Do it yourself."
+  },
+  {
+    "index": "F76778",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分でやりたいんです。",
+    "output": "I prefer to do it on my own."
+  },
+  {
+    "index": "F76780",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分でやったことは責任を負わなければならない。",
+    "output": "You will have to be responsible for what you've done."
+  },
+  {
+    "index": "F76782",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分でも解ってる。",
+    "output": "I quite appreciate it."
+  },
+  {
+    "index": "F76784",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分でやったことだから仕方がないね。",
+    "output": "You brought it on yourself."
+  },
+  {
+    "index": "F76786",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分でもどう考えていいのかはっきりしません。",
+    "output": "I am not certain what I have in mind myself."
+  },
+  {
+    "index": "F76788",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分では認めようとしなかったが、彼はとても疲れていた。",
+    "output": "Though he wouldn't admit it, he was very tired."
+  },
+  {
+    "index": "F76790",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分ではひとかどの人間だとうぬぼれている。",
+    "output": "He fancies himself somebody."
+  },
+  {
+    "index": "F76792",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分ではなく別の女の人を見た。",
+    "output": "Who she saw was not herself but a different woman."
+  },
+  {
+    "index": "F76794",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分ではないような気がする。",
+    "output": "I feel as if I were another person."
+  },
+  {
+    "index": "F76796",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分では、分かったつもりでいたけど、改めて考えると分かんなくなってきた。",
+    "output": "I was sure I understood it, but on thinking it over, I realized I didn't know at all."
+  },
+  {
+    "index": "F76798",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分でそれをせよ、しかも直ちに。",
+    "output": "Do it yourself and do it right away."
+  },
+  {
+    "index": "F76800",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分でそれをしなければならない。",
+    "output": "You must do it for yourself."
+  },
+  {
+    "index": "F76802",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分でその問題を解きなさい。",
+    "output": "Solve this problem on your own."
+  },
+  {
+    "index": "F76804",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分でそのことを調べてみたらどうですか。",
+    "output": "Why not look into the matter yourself?"
+  },
+  {
+    "index": "F76806",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分ですればいいだろ。",
+    "output": "Do your own work."
+  },
+  {
+    "index": "F76808",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分でいかなきゃいけませんよ。",
+    "output": "You have to appear in person."
+  },
+  {
+    "index": "F76810",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分たちの体をきれいにしておかなければならない。",
+    "output": "We should keep ourselves clean."
+  },
+  {
+    "index": "F76812",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分たちの持ち家が欲しい。",
+    "output": "We want a house of our own."
+  },
+  {
+    "index": "F76814",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分たちの欠点を自覚するべきです。",
+    "output": "We should be conscious of our shortcomings."
+  },
+  {
+    "index": "F76816",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分たちの悪事がばれないようにするなんて、なんて悪どい奴等！",
+    "output": "Those guys are ruthless, covering up their tracks like that after all their wrongdoing."
+  },
+  {
+    "index": "F76818",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分たちのお金を全部使い果たすなんてばかげている。",
+    "output": "It would be ridiculous to spend all their money."
+  },
+  {
+    "index": "F76820",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分たちだけでその問題を相談した。",
+    "output": "We discussed the matter among ourselves."
+  },
+  {
+    "index": "F76822",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分たちがどの程度他人に依存しているのかを悟っていない。",
+    "output": "They don't see the extent to which they depend on others."
+  },
+  {
+    "index": "F76824",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分だけの幸せを追求して生きるべきではない。",
+    "output": "You shouldn't live merely in pursuit of your own happiness."
+  },
+  {
+    "index": "F76826",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分じゃいい女だと思っていたけど。",
+    "output": "She obviously thought she was a good woman, but..."
+  },
+  {
+    "index": "F76828",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分が利口だと思ってもさしつかえないが、それだからと言って私をあざ笑うことはできないよ。",
+    "output": "You may think you are clever, but you cannot laugh at me because of that."
+  },
+  {
+    "index": "F76830",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分が利口だと思っている人は幸せだ。",
+    "output": "Happy are those who think themselves wise."
+  },
+  {
+    "index": "F76832",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分が別人になった感じだ。",
+    "output": "I feel like another person."
+  },
+  {
+    "index": "F76834",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分が約束したことはちゃんと実行するように最善を尽くすべきだ。",
+    "output": "You should do your best to carry out your promises."
+  },
+  {
+    "index": "F76836",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分が勝ったと知って驚いた。",
+    "output": "I was amazed to learn I had won."
+  },
+  {
+    "index": "F76838",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分が敗北者だと認めるのは難しい。",
+    "output": "It's hard to admit to yourself that you are a failure."
+  },
+  {
+    "index": "F76840",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分が石であればいいのになあ。",
+    "output": "I wish I were a stone."
+  },
+  {
+    "index": "F76842",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分が生きている世界との共感がなければ、作家であることは無益である。",
+    "output": "It is no use being a writer if one is not in sympathy with the world in which one is living."
+  },
+  {
+    "index": "F76844",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分が人にしてもらいたいと思うように人にもせよ。",
+    "output": "Do to others as you would have others do to you."
+  },
+  {
+    "index": "F76846",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分が人からしてもらいたいと思うことは人にもせよ。",
+    "output": "Do as you would be done by."
+  },
+  {
+    "index": "F76848",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分が勝つとは全く思っても見なかった。",
+    "output": "Little did I think that I would win."
+  },
+  {
+    "index": "F76850",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分が集めた事実をもとにして、科学者は、その事実に意味と秩序と価値を与える論理の模様すなわち理論を織りあげるのである。",
+    "output": "Around his facts the scientist weaves a logical pattern or theory which gives the facts meaning, order, and significance."
+  },
+  {
+    "index": "F76852",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分が自分の面倒を見られる限りは自分たちだけで暮らす。",
+    "output": "Instead, they live alone as long as they are able to take care of themselves."
+  },
+  {
+    "index": "F76854",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分が子供を産んではじめて母親の愛がどんなものかわかりました。",
+    "output": "It was not until I had a baby myself that I knew what mother's love is."
+  },
+  {
+    "index": "F76856",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分が堅く誓ったことは、どんなことがあっても実行しなければいけないよ。",
+    "output": "You've got to carry out your commitment at all costs."
+  },
+  {
+    "index": "F76858",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分が興味を惹かれるような本を読みなさい。",
+    "output": "Read such books as interest you."
+  },
+  {
+    "index": "F76860",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分を何様だと思ってるんだ？",
+    "output": "Who do you think you are?"
+  },
+  {
+    "index": "F76862",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分が億万長者だと想像してごらん。",
+    "output": "Imagine yourself as a billionaire."
+  },
+  {
+    "index": "F76864",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分がもっているものに満足している人は、心豊かな人である。",
+    "output": "Those men are rich who are contented with what they have."
+  },
+  {
+    "index": "F76866",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分がよく言われていないという事実にお気付きですか。",
+    "output": "Are you aware of the fact that you are not spoken well of?"
+  },
+  {
+    "index": "F76868",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分がどこにいるのか分からなくて、彼女は路上で立ち止まって、道を尋ねた。",
+    "output": "Not knowing where she was, she stopped and asked the way on the street."
+  },
+  {
+    "index": "F76870",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分がどうしたらそんなミスを犯したものか考えもつかない。",
+    "output": "I can't conceive how I could have made such a mistake."
+  },
+  {
+    "index": "F76872",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分勝手な奴だな。",
+    "output": "You always try to get what you want."
+  },
+  {
+    "index": "F76874",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分がだまされたことを、その時初めて彼は悟った。",
+    "output": "Only then did he realize he had been deceived."
+  },
+  {
+    "index": "F76876",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分がたばこを吸っているのを母に見つかった日のことを、彼は今でも覚えている。",
+    "output": "He still remembers the day his mother found out he was smoking."
+  },
+  {
+    "index": "F76878",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分がその賞を貰うとはまったく思ってもいなかった。",
+    "output": "Little did I think that I would win the prize."
+  },
+  {
+    "index": "F76880",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分がその賞を得ようとは全く思っていなかった。",
+    "output": "Little did I think that I would win the prize."
+  },
+  {
+    "index": "F76882",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分がその仕事に適任であるかに関しては確信が持てない。",
+    "output": "I am uncertain as to whether I am the right person for the job."
+  },
+  {
+    "index": "F76884",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分がその仕事に適任であるとは思いません。",
+    "output": "I do not feel myself equal to the task."
+  },
+  {
+    "index": "F76886",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分がすでに他人から学ぶことがないほど賢明であると思っているものは、何をすることにも成功しないだろう。",
+    "output": "He who thinks himself already too wise to learn from others will never succeed in doing anything."
+  },
+  {
+    "index": "F76888",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分がしてもらいたいように人にもしなさい。",
+    "output": "Do as you would be done by."
+  },
+  {
+    "index": "F76890",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分がしてもらいたいと思うように他人にしてあげなさい。",
+    "output": "Do unto others as you would have others do unto you."
+  },
+  {
+    "index": "F76892",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分がけがをしていることを気にもしないで彼女は再び私をひざで蹴った。",
+    "output": "She kneed me again, not even caring that she was hurt."
+  },
+  {
+    "index": "F76894",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自分ひとりで勉強したの？",
+    "output": "Did you study by yourself?"
+  },
+  {
+    "index": "F76896",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自動販売機はあそこにあります。",
+    "output": "The vending machines are over there."
+  },
+  {
+    "index": "F76898",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自動車製造は人間の労働者に代わって、コンピューターが組み込まれたロボットによって行われている。",
+    "output": "Car manufacturing is carried out by computer-programmed robots in place of human workers."
+  },
+  {
+    "index": "F76900",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自動車生産は頂点を超えた。",
+    "output": "Automobile production has peaked out."
+  },
+  {
+    "index": "F76902",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自動車事故は彼女にとって悪い経験であった。",
+    "output": "The car crash was a bad experience for her."
+  },
+  {
+    "index": "F76904",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自動車事故の現場は恐ろしい光景だった。",
+    "output": "The scene of the traffic accident was a horrible sight."
+  },
+  {
+    "index": "F76906",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自動車産業は日本の大きな産業のひとつである。",
+    "output": "The automobile industry is one of the main industries in Japan."
+  },
+  {
+    "index": "F76908",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自動車産業の不振で多くの人が職を失うだろう。",
+    "output": "Many people will lose their jobs due to the slump in the auto industry."
+  },
+  {
+    "index": "F76910",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自動車産業では競争が激しい。",
+    "output": "Competition is very keen in the car industry."
+  },
+  {
+    "index": "F76912",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自動車を門の外に待たせてある。",
+    "output": "The car is waiting at the gate."
+  },
+  {
+    "index": "F76914",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自動車を借りてもいいですか。",
+    "output": "May I borrow your car?"
+  },
+  {
+    "index": "F76916",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自動車を運転する時はシートベルトをしめなさい。",
+    "output": "Fasten your seat belts when you drive a car."
+  },
+  {
+    "index": "F76918",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自動車を運転するときは、歩行者に気をつけなさい。",
+    "output": "Look out for pedestrians when you drive a car."
+  },
+  {
+    "index": "F76920",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自動車をここから動かしてください。",
+    "output": "Please move your car out of here."
+  },
+  {
+    "index": "F76922",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自動車や通行人は止まって小さいおうちがゆっくりと動いていくのを見送りました。",
+    "output": "Traffic and passers-by stopped as they were slowly seen off from the little village."
+  },
+  {
+    "index": "F76924",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自動車は町に着く前に燃料切れになった。",
+    "output": "The car ran out of gas before reaching the city."
+  },
+  {
+    "index": "F76926",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自動車は私たちの生活を変えた。",
+    "output": "The automobile has changed our life."
+  },
+  {
+    "index": "F76928",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自動車は左折した。",
+    "output": "The car made a turn to the left."
+  },
+  {
+    "index": "F76930",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自動車は工場で作られる。",
+    "output": "Automobiles are made in factories."
+  },
+  {
+    "index": "F76932",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自動車は工業製品であり、食料は農作物である。",
+    "output": "Cars are factory products, while foods are farm products."
+  },
+  {
+    "index": "F76934",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自動車は角をすれすれに通った。",
+    "output": "The car just shaved the corner."
+  },
+  {
+    "index": "F76936",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自動車の輸入は第一・四半期には急減するでしょう。",
+    "output": "Auto imports will take a nose-dive in the first quarter."
+  },
+  {
+    "index": "F76938",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自動車の売れ行きは年度末に後退しました。",
+    "output": "Automobile sales suffered a setback at the end of the financial year."
+  },
+  {
+    "index": "F76940",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自動車の数が増えている。",
+    "output": "The number of automobiles has been increasing."
+  },
+  {
+    "index": "F76942",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自動車の出現とともに馬車は徐々に姿を消していった。",
+    "output": "Carriages gradually disappeared with the advent of the motorcar."
+  },
+  {
+    "index": "F76944",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自動車にひかれたのではないですか。",
+    "output": "Wasn't he killed by a car?"
+  },
+  {
+    "index": "F76946",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自動車には車輪が４個ある。",
+    "output": "An automobile has four wheels."
+  },
+  {
+    "index": "F76948",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自動車で旅行するのは楽しい。",
+    "output": "It's fun to take a trip in an automobile."
+  },
+  {
+    "index": "F76950",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自動車が馬車に取って変わった。",
+    "output": "Automobiles replaced carriages."
+  },
+  {
+    "index": "F76952",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自動車が通りをいっぱいにする前には、町の空気はきれいだった。",
+    "output": "Before automobiles filled out streets, city air used to be clean."
+  },
+  {
+    "index": "F76954",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自動車が速く走っている。",
+    "output": "The car is running fast."
+  },
+  {
+    "index": "F76956",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自動ドアが開き、トムは乗り込んだ。",
+    "output": "The automatic doors opened and Tom got in."
+  },
+  {
+    "index": "F76958",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自動車が正面衝突した。",
+    "output": "The cars collided head on."
+  },
+  {
+    "index": "F76960",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自伝の中で彼はくりかえし不幸な少年時代に言及している。",
+    "output": "In his autobiography, he repeatedly refers to his unhappy school days."
+  },
+  {
+    "index": "F76962",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自転車を片付けなさい。",
+    "output": "Put away your bicycle."
+  },
+  {
+    "index": "F76964",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自転車を直して欲しいと頼まれた。",
+    "output": "I was asked to fix the bicycle."
+  },
+  {
+    "index": "F76966",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自転車を貸してくれませんか。",
+    "output": "Will you lend me your bicycle?"
+  },
+  {
+    "index": "F76968",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自転車を修理するのに５、０００円かかった。",
+    "output": "It cost me 5,000 yen to repair my bicycle."
+  },
+  {
+    "index": "F76970",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自転車を借りてもよろしいですか。",
+    "output": "May I borrow your bike?"
+  },
+  {
+    "index": "F76972",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自転車を借りてもいいですか。",
+    "output": "May I borrow your bicycle?"
+  },
+  {
+    "index": "F76974",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自転車を持っていますか。",
+    "output": "Do you have a bicycle?"
+  },
+  {
+    "index": "F76976",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自転車を持っていないの？",
+    "output": "Don't you have a bicycle?"
+  },
+  {
+    "index": "F76978",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自転車を持ってないんだ。",
+    "output": "I don't have a bicycle."
+  },
+  {
+    "index": "F76980",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自転車を雨の中に出しっぱなしにするな。",
+    "output": "Don't leave the bicycle out in the rain."
+  },
+  {
+    "index": "F76982",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自転車を安く買った。",
+    "output": "I got the bicycle at a bargain."
+  },
+  {
+    "index": "F76984",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自転車をここから動かして下さい。",
+    "output": "Please move your bicycle out of here."
+  },
+  {
+    "index": "F76986",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自転車もらえるかしら。",
+    "output": "Do you think I'll get the bike?"
+  },
+  {
+    "index": "F76988",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自転車は車の右側を走ってはいけないことになっている。",
+    "output": "It is illegal for bicycles to pass on the right of cars."
+  },
+  {
+    "index": "F76990",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自転車はトラックに衝突してめちゃめちゃになった。",
+    "output": "The bike was mangled in its collision with the truck."
+  },
+  {
+    "index": "F76992",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自転車はゴールに向かって走っている。",
+    "output": "The bicycle is racing to finish."
+  },
+  {
+    "index": "F76994",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自転車の掃除は退屈だ。",
+    "output": "It's a dull job to clean a bike."
+  },
+  {
+    "index": "F76996",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自転車の二人乗りは危険だ。",
+    "output": "Two people riding on a bicycle at the same time is dangerous."
+  },
+  {
+    "index": "F76998",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自転車のブレーキを調整してもらった。",
+    "output": "I had the brakes of my bicycle adjusted."
+  },
+  {
+    "index": "F77000",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自転車に乗れないのか。",
+    "output": "Can't you ride a bicycle?"
+  },
+  {
+    "index": "F77002",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自転車に乗る前にパンクしたタイヤを修理しなくてはならない。",
+    "output": "I have to fix my flat tire before I can resume cycling."
+  },
+  {
+    "index": "F77004",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自転車に乗る時はいくら注意してもしすぎることはない。",
+    "output": "You cannot be too careful in riding a bicycle."
+  },
+  {
+    "index": "F77006",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自転車に乗って出かけた。",
+    "output": "I went out by bicycle."
+  },
+  {
+    "index": "F77008",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自転車に乗ってもいいですか。",
+    "output": "May I ride a bicycle?"
+  },
+  {
+    "index": "F77010",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自転車に乗っている少年は私の弟です。",
+    "output": "The boy riding a bicycle is my brother."
+  },
+  {
+    "index": "F77012",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自転車で通勤しています。",
+    "output": "I bike to work."
+  },
+  {
+    "index": "F77014",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自転車で行こうと思っていたのに、雨が降ってきました。",
+    "output": "I was thinking to go there by bike, but it began to rain."
+  },
+  {
+    "index": "F77016",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自転車で学校に行く人もいれば、バスで行く人もいる。",
+    "output": "Some go to school by bicycle, others go by bus."
+  },
+  {
+    "index": "F77018",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自転車がパンクしたので、７時の電車に乗り遅れた。",
+    "output": "My bicycle had a flat tire, so I missed the seven o'clock train."
+  },
+  {
+    "index": "F77020",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自転車があれば、君の家に２０分で着くことができるだろう。",
+    "output": "With a bicycle, I could reach your house in 20 minutes."
+  },
+  {
+    "index": "F77022",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自尊心から彼にそのような侮辱は耐えられなかった。",
+    "output": "His pride would not brook such insults."
+  },
+  {
+    "index": "F77024",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自尊心があるから彼はそのお金を受け取らなかった。",
+    "output": "His pride did not allow him to take the money."
+  },
+  {
+    "index": "F77026",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自然食品は体によい。",
+    "output": "Natural food will do you good."
+  },
+  {
+    "index": "F77028",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自然食品がつねに消化にいいとは限らない。",
+    "output": "Natural food is not always good for our digestion."
+  },
+  {
+    "index": "F77030",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自然食は人間の消化に合っている。",
+    "output": "A natural diet is suitable for human digestion."
+  },
+  {
+    "index": "F77032",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自然環境の回復を宣伝する組織がリサイクルに力を入れて、植林に貢献しないのは何故か。",
+    "output": "Since many organizations are putting effort into recycling in order to restore the natural environment, why won't you contribute to reforestation?"
+  },
+  {
+    "index": "F77034",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自然環境の悪化を阻止しましょう。",
+    "output": "Let's stop the deterioration of the natural environment."
+  },
+  {
+    "index": "F77036",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自然界のバランスはとてもこわれやすい。",
+    "output": "The balance of nature is very fragile."
+  },
+  {
+    "index": "F77038",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自然界には褒美もなければ罰もない。",
+    "output": "In nature there are neither rewards nor punishments."
+  },
+  {
+    "index": "F77040",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自然は真空を嫌う。",
+    "output": "Nature abhors a vacuum."
+  },
+  {
+    "index": "F77042",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自然は我々の生活に大切な役割を果たしています。",
+    "output": "Nature plays an important role in our life."
+  },
+  {
+    "index": "F77044",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自然はあらゆる領域で侵されている。",
+    "output": "Nature is under attack on all fronts."
+  },
+  {
+    "index": "F77046",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自然は、環境面での危険に対しては他の形の防御を与えている。",
+    "output": "Nature provides other forms of protection against environmental dangers."
+  },
+  {
+    "index": "F77048",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自然の法則には逆らえない。",
+    "output": "You can't go against the laws of nature."
+  },
+  {
+    "index": "F77050",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自然の中には無用なものは何もない。",
+    "output": "There is nothing useless in nature."
+  },
+  {
+    "index": "F77052",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自然の姿を見るだけで、それは一つの喜びである。",
+    "output": "The simple perception of natural forms is a delight."
+  },
+  {
+    "index": "F77054",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自然の驚異を記述した本。",
+    "output": "A book descriptive of the wonders of nature."
+  },
+  {
+    "index": "F77056",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自然の温泉がある島に住んでいるなんて、日本人は幸せです。",
+    "output": "Japanese people are fortunate to live in a land with natural hot springs."
+  },
+  {
+    "index": "F77058",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自然に治ります。",
+    "output": "It'll cure itself naturally."
+  },
+  {
+    "index": "F77060",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自然と書籍はそれを見る眼のものだ。",
+    "output": "Nature and books belong to the eyes that see them."
+  },
+  {
+    "index": "F77062",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自然がそうした生き延びるための手段を与えているのである。",
+    "output": "Nature provides them with the means of survival."
+  },
+  {
+    "index": "F77064",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自然がいつもそこにあって私たちを助けてくれることを当然だと思ってはいけない。",
+    "output": "Don't take it for granted that nature is always there to help us."
+  },
+  {
+    "index": "F77066",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自前で買ったのです。",
+    "output": "She got it at her own expense."
+  },
+  {
+    "index": "F77068",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自制できるようにならねばならない。",
+    "output": "You must learn to govern your temper."
+  },
+  {
+    "index": "F77070",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自制するよう努めなさい。",
+    "output": "Try to control yourself."
+  },
+  {
+    "index": "F77072",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自信過剰にならないよう注意しなくてはいけない。",
+    "output": "You should beware of overconfidence."
+  },
+  {
+    "index": "F77074",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自信を無くしちゃいけません、マイク。",
+    "output": "Don't lose confidence, Mike."
+  },
+  {
+    "index": "F77076",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自信を持ちなさい、あなたなら出来ますよ。",
+    "output": "Have confidence. You can do it."
+  },
+  {
+    "index": "F77078",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自助は最上の助け。",
+    "output": "Self-help is the best help."
+  },
+  {
+    "index": "F77080",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自賛は推薦にならない。",
+    "output": "Self-praise is no recommendation."
+  },
+  {
+    "index": "F77082",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自賛は悪臭を放つ。",
+    "output": "Proper praise stinks."
+  },
+  {
+    "index": "F77084",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自殺は絶望的な行為だ。",
+    "output": "Suicide is a desperate act."
+  },
+  {
+    "index": "F77086",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自殺しようとしている。",
+    "output": "You're trying to commit suicide."
+  },
+  {
+    "index": "F77088",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自国の言葉について、いくら知っても知りすぎることはない。",
+    "output": "We cannot know too much about our own language."
+  },
+  {
+    "index": "F77090",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼は自己中心な人だ。",
+    "output": "He is a self-oriented person."
+  },
+  {
+    "index": "F77092",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自己紹介をします。",
+    "output": "I'll just introduce myself."
+  },
+  {
+    "index": "F77094",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自己紹介をしてもいいですか。",
+    "output": "May I introduce myself?"
+  },
+  {
+    "index": "F77096",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自己紹介をさせてください。",
+    "output": "May I introduce myself?"
+  },
+  {
+    "index": "F77098",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自己紹介します。",
+    "output": "May I introduce myself?"
+  },
+  {
+    "index": "F77100",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自己紹介をさせていただきます。",
+    "output": "Let me introduce myself."
+  },
+  {
+    "index": "F77102",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自己紹介してもいいですか。",
+    "output": "May I introduce myself to you?"
+  },
+  {
+    "index": "F77104",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自己紹介していただけますか。",
+    "output": "Would you introduce yourself?"
+  },
+  {
+    "index": "F77106",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自己紹介させて下さい。",
+    "output": "Allow me to introduce myself."
+  },
+  {
+    "index": "F77108",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自己紹介させて頂きます。",
+    "output": "Let me introduce myself."
+  },
+  {
+    "index": "F77110",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自己自身であれ。他人のまねをするな。",
+    "output": "Be your own person and don't imitate others."
+  },
+  {
+    "index": "F77112",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自己紹介いたします。",
+    "output": "Please let me introduce myself."
+  },
+  {
+    "index": "F77114",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自己を過信してはいけない。",
+    "output": "Don't be overconfident."
+  },
+  {
+    "index": "F77116",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自己の方針をあくまで守れ。",
+    "output": "Keep to your own line."
+  },
+  {
+    "index": "F77118",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自画像を描くとき、誰でも座ってじっと自分を見つめます。",
+    "output": "When you paint a self-portrait, you sit staring hard at yourself."
+  },
+  {
+    "index": "F77120",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自画自賛のようですが。",
+    "output": "This may sound like blowing my own horn, but ..."
+  },
+  {
+    "index": "F77122",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自営業の方がいい。",
+    "output": "I prefer to work on my own."
+  },
+  {
+    "index": "F77124",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "慈愛は我が家からはじまる。",
+    "output": "Charity begins at home."
+  },
+  {
+    "index": "F77126",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自ら志願した人たちが障害者の為に寄付を集めた。",
+    "output": "Volunteers collected donations for the benefit of the handicapped."
+  },
+  {
+    "index": "F77128",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼は自ら墓穴を掘ってるね。",
+    "output": "He is digging his own grave."
+  },
+  {
+    "index": "F77130",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自らの義務を果たすべきだ。",
+    "output": "You should carry out your duty."
+  },
+  {
+    "index": "F77132",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自らの失敗をくよくよ悲しんだ。",
+    "output": "He grieved over his failures."
+  },
+  {
+    "index": "F77134",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "アタシは自らの過ちのせいで自分を憎んでいます。",
+    "output": "I hate myself for my own error."
+  },
+  {
+    "index": "F77136",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "自らスパイと認める。",
+    "output": "Confess himself to be a spy."
+  },
+  {
+    "index": "F77138",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "耳鳴りがするんですよ。",
+    "output": "My ear is ringing."
+  },
+  {
+    "index": "F77140",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "耳鳴りがします。",
+    "output": "I have a ringing in my ears."
+  },
+  {
+    "index": "F77142",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "耳障りな音が聞こえる。",
+    "output": "I hear a noise offensive to the ear."
+  },
+  {
+    "index": "F77144",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "耳垢を取って欲しい。",
+    "output": "I want the wax cleaned from my ears."
+  },
+  {
+    "index": "F77146",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "耳元でうるさくしないでくれ。",
+    "output": "Don't buzz about my ears."
+  },
+  {
+    "index": "F77148",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "耳寄りな話だ。",
+    "output": "You've told me something."
+  },
+  {
+    "index": "F77150",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "耳寄りな話がある。",
+    "output": "I've got an attractive proposition for you."
+  },
+  {
+    "index": "F77152",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "耳を貸して下さい。",
+    "output": "Lend me your ears!"
+  },
+  {
+    "index": "F77154",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "耳を澄ませてごらん。",
+    "output": "Listen carefully."
+  },
+  {
+    "index": "F77156",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私は耳を澄ましたが、何も聞こえなかった。",
+    "output": "I listened, but I heard nothing."
+  },
+  {
+    "index": "F77158",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "耳を傾けないわけにはいかない。",
+    "output": "I cannot choose but hear."
+  },
+  {
+    "index": "F77160",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "耳を出してください。",
+    "output": "I'd like it above my ears."
+  },
+  {
+    "index": "F77162",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "耳も聞こえなかった。",
+    "output": "He was deaf, too."
+  },
+  {
+    "index": "F77164",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "耳を傾けたけれども、彼らが行なっている事が理解できなかった。",
+    "output": "I listened but couldn't make out what they were saying."
+  },
+  {
+    "index": "F77166",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "耳は出しますか。",
+    "output": "Would you like your ears to show?"
+  },
+  {
+    "index": "F77168",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "耳の不自由な人は手話で会話が出きる。",
+    "output": "Deaf people can talk in sign language."
+  },
+  {
+    "index": "F77170",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "耳の感染症によくかかります。",
+    "output": "I often have ear infections."
+  },
+  {
+    "index": "F77172",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "耳にたこができたよ。",
+    "output": "I'm sick of hearing it."
+  },
+  {
+    "index": "F77174",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "耳が凍傷にかかりました。",
+    "output": "My ears are frostbitten."
+  },
+  {
+    "index": "F77176",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "耳が痛いのです。",
+    "output": "I have an earache."
+  },
+  {
+    "index": "F77178",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "耳がほてる。",
+    "output": "My ears burn."
+  },
+  {
+    "index": "F77180",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "耳がふさがっている感じがします。",
+    "output": "My ears feel plugged up."
+  },
+  {
+    "index": "F77182",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "耳がかゆいのです。",
+    "output": "I have an itch in my ear."
+  },
+  {
+    "index": "F77184",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "耳がしもやけになったんだ。",
+    "output": "My ears are frostbitten."
+  },
+  {
+    "index": "F77186",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "耳がかぶれています。",
+    "output": "I have an ear infection."
+  },
+  {
+    "index": "F77188",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "耳あかを取るのに何を使いますか。",
+    "output": "What do you use to pick wax out of your ears?"
+  },
+  {
+    "index": "F77190",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "耳あかが取れません。",
+    "output": "I can't remove my earwax."
+  },
+  {
+    "index": "F77192",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "耳あかが固くなってしまいました。",
+    "output": "My earwax got very hard."
+  },
+  {
+    "index": "F77194",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "磁石は鉄を引きつける。",
+    "output": "A magnet attracts iron."
+  },
+  {
+    "index": "F77196",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "磁石の針は北を指す。",
+    "output": "Compass needles point to the north."
+  },
+  {
+    "index": "F77198",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "痔があります。",
+    "output": "I have hemorrhoids."
+  },
+  {
+    "index": "F77200",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "治療よりも予防。",
+    "output": "Prevention is better than cure."
+  },
+  {
+    "index": "F77202",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "治療が終わるまでに総額どのくらいかかりますか。",
+    "output": "About how much will I have to pay for all the treatments?"
+  },
+  {
+    "index": "F77204",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "治るのにどのくらいの期間がかかりますか。",
+    "output": "How long will it take to get well?"
+  },
+  {
+    "index": "F77206",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "治るのにしばらくかかりますね。",
+    "output": "It will take a while to go away."
+  },
+  {
+    "index": "F77208",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次郎は列車に乗り遅れたようだ。",
+    "output": "Jiro seems to have missed the train."
+  },
+  {
+    "index": "F77210",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次郎は服のことに無頓着だ。",
+    "output": "Jiro is indifferent about clothing."
+  },
+  {
+    "index": "F77212",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次郎は服にさっとブラシをかけた。",
+    "output": "Jiro gave his suit a quick brush."
+  },
+  {
+    "index": "F77214",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次郎は富士山をスケッチした。",
+    "output": "Jiro made a sketch of Mt. Fuji."
+  },
+  {
+    "index": "F77216",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次郎は私にどの本を買ったらいいか教えてくれた。",
+    "output": "Jiro advised me on which book to buy."
+  },
+  {
+    "index": "F77218",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次郎はまだニューヨークから帰っていない。",
+    "output": "Jiro has not come back from New York yet."
+  },
+  {
+    "index": "F77220",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次郎はそれ以外の行動をとることができなかった。",
+    "output": "Jiro could not act otherwise."
+  },
+  {
+    "index": "F77222",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次郎はコカ・コーラが飲みたいと思っている。",
+    "output": "Jiro wants to drink Coke."
+  },
+  {
+    "index": "F77224",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次郎はケンと仲良くするのは難しいと思っている。",
+    "output": "Jiro finds it difficult to make friends with Ken."
+  },
+  {
+    "index": "F77226",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次郎は今日学校へ行く必要がない。",
+    "output": "Jiro doesn't have to go to school today."
+  },
+  {
+    "index": "F77228",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次郎はオーストラリアのペンパルと文通している。",
+    "output": "Jiro communicates with his pen pal in Australia."
+  },
+  {
+    "index": "F77230",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次郎ここに来なさい。",
+    "output": "Come on, Jiro."
+  },
+  {
+    "index": "F77232",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次第に多くの医者が新薬を使い始めた。",
+    "output": "More and more physicians have begun to use the new medicines."
+  },
+  {
+    "index": "F77234",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次第に多くのつばめを見ることができる。",
+    "output": "We can see more and more swallows."
+  },
+  {
+    "index": "F77236",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次々に動物が死んだ。",
+    "output": "One after another, the animals died."
+  },
+  {
+    "index": "F77238",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次々に事件が起きた。",
+    "output": "One event followed another."
+  },
+  {
+    "index": "F77240",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次号では離婚について特集します。",
+    "output": "The next issue will feature articles on divorce."
+  },
+  {
+    "index": "F77242",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次回は来年の６月１日１０時にお会いしましょう。",
+    "output": "We'll meet next time at ten o'clock, June the first, next year."
+  },
+  {
+    "index": "F77244",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次回は必ずその本を持ってきて下さい。",
+    "output": "Next time bring me that book without fail!"
+  },
+  {
+    "index": "F77246",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次回は奈良を訪ねたいと思います。",
+    "output": "I hope to visit Nara next time."
+  },
+  {
+    "index": "F77248",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次回はもっと早く来ていただけませんか。",
+    "output": "Would you mind coming earlier next time?"
+  },
+  {
+    "index": "F77250",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次回はもっとうまくやれよ。",
+    "output": "Do a better job next time."
+  },
+  {
+    "index": "F77252",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次回はもっとうまくやるようにしなさい。",
+    "output": "Try and do better next time."
+  },
+  {
+    "index": "F77254",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次は前もって連絡してください。",
+    "output": "Next time phone ahead."
+  },
+  {
+    "index": "F77256",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "そんな悲しい目で見ないで。",
+    "output": "Don't give me such a sad look."
+  },
+  {
+    "index": "F77258",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次は前もって電話して下さいね。",
+    "output": "Next time phone ahead."
+  },
+  {
+    "index": "F77260",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次は私の番です。",
+    "output": "My turn comes next."
+  },
+  {
+    "index": "F77262",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次は君の番だ。",
+    "output": "It's your turn next."
+  },
+  {
+    "index": "F77264",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次は何をしたらよいでしょうか。",
+    "output": "What am I to do next?"
+  },
+  {
+    "index": "F77266",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次はわたしにごちそうさせてください。",
+    "output": "Let me treat you next time, then."
+  },
+  {
+    "index": "F77268",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次はもっとうまく歌えると思うよ。",
+    "output": "I expect to sing better next time."
+  },
+  {
+    "index": "F77270",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次はどんな遊びをしようか。",
+    "output": "Which game shall we play next?"
+  },
+  {
+    "index": "F77272",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次はどこへ行きたいですか。",
+    "output": "Where would you like to go next?"
+  },
+  {
+    "index": "F77274",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次はどうしたら良いか教えて下さい。",
+    "output": "Please show me what to do next."
+  },
+  {
+    "index": "F77276",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次はきっとうまくいきますよ。",
+    "output": "Better luck next time."
+  },
+  {
+    "index": "F77278",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の列車までまだ少し時間がある。",
+    "output": "We have a little time before the next train."
+  },
+  {
+    "index": "F77280",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次はいつ集まることにしようか。",
+    "output": "When shall we get together next?"
+  },
+  {
+    "index": "F77282",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次はいつ来ればいいのでしょうか。",
+    "output": "When should I come again?"
+  },
+  {
+    "index": "F77284",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の列車までに２時間の合間があった。",
+    "output": "There was a two hour's interval to the next train."
+  },
+  {
+    "index": "F77286",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の列車はこの列車ほど混雑しないだろう。",
+    "output": "The next train will be less crowded than this one."
+  },
+  {
+    "index": "F77288",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の列車が到着する正確な時刻を教えてください。",
+    "output": "Tell me the exact time when the next train will arrive."
+  },
+  {
+    "index": "F77290",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の予約は５月２日の１０時でいいですか。",
+    "output": "Can you come at ten on May second?"
+  },
+  {
+    "index": "F77292",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の列車が東京へ発つのは何時ですか。",
+    "output": "What time does the next train leave for Tokyo?"
+  },
+  {
+    "index": "F77294",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の予約の日を受付で決めてください。",
+    "output": "Make another appointment at the front desk."
+  },
+  {
+    "index": "F77296",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の問題にとりかかった。",
+    "output": "He proceeded to the next question."
+  },
+  {
+    "index": "F77298",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の方どうぞ。",
+    "output": "Next person, please."
+  },
+  {
+    "index": "F77300",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の便に乗ることができますか。",
+    "output": "Is it possible to get on the next flight?"
+  },
+  {
+    "index": "F77302",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の便にキャンセルの席がございます。",
+    "output": "There is a canceled seat available on the next flight."
+  },
+  {
+    "index": "F77304",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の文章を日本語に直しなさい。",
+    "output": "Put the following sentences into Japanese."
+  },
+  {
+    "index": "F77306",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の文化祭で初めて主役を演じることになっています。",
+    "output": "He will play the leading role for the first time in the next school festival."
+  },
+  {
+    "index": "F77308",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の文を日本語に訳しなさい。",
+    "output": "Translate the following sentences into Japanese."
+  },
+  {
+    "index": "F77310",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の文の誤りを直しなさい。",
+    "output": "Correct the following sentences."
+  },
+  {
+    "index": "F77312",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の文を英訳せよ。",
+    "output": "Put the following sentences into English."
+  },
+  {
+    "index": "F77314",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の飛行機がいつ出るかを彼にたずねなさい。",
+    "output": "Ask him when the next plane leaves."
+  },
+  {
+    "index": "F77316",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の晩出かけていき同じウェイトレスがついた。",
+    "output": "The next night I came and I had the same new waitress."
+  },
+  {
+    "index": "F77318",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の日曜日ぼくとつき合ってもらえないかな。",
+    "output": "I wonder if you'd like to go out with me this Sunday."
+  },
+  {
+    "index": "F77320",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の日曜日ハイキングに行くのはどうでしょう。",
+    "output": "What do you say to going on a hike next Sunday?"
+  },
+  {
+    "index": "F77322",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の日曜日に参りましょうか。",
+    "output": "Shall I come next Sunday?"
+  },
+  {
+    "index": "F77324",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の日曜日に元町にショッピングに行こうと彼女は私たちに提案した。",
+    "output": "She suggested that we go shopping to Motomachi next Sunday."
+  },
+  {
+    "index": "F77326",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の日曜日に君に会うのを楽しみにしています。",
+    "output": "I am looking forward to seeing you next Sunday."
+  },
+  {
+    "index": "F77328",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の日曜日にはどこへ行きたいですか。",
+    "output": "Where would you like to go next Sunday?"
+  },
+  {
+    "index": "F77330",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の日曜日にコンサートがあります。",
+    "output": "There will be a concert next Sunday."
+  },
+  {
+    "index": "F77332",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の日曜は空けておいてね。",
+    "output": "Keep next Sunday free."
+  },
+  {
+    "index": "F77334",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の日曜日で、私はホテルに１ヶ月滞在しつづけていることになるでしょう。",
+    "output": "I will have been staying in this hotel for one month next Sunday."
+  },
+  {
+    "index": "F77336",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の日曜に君に会うのを楽しみにしています。",
+    "output": "I'm looking forward to seeing you next Sunday."
+  },
+  {
+    "index": "F77338",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の日曜にバーベキューパーティーをするのはどう？",
+    "output": "How about holding a barbecue party next Sunday?"
+  },
+  {
+    "index": "F77340",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の日曜にあなたに会いに行きます。",
+    "output": "I will come to see you next Sunday."
+  },
+  {
+    "index": "F77342",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の日、風邪は治った。",
+    "output": "The next day, the cold was cured."
+  },
+  {
+    "index": "F77344",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の日また行くと、新しいウェイトレスがついた。",
+    "output": "The next day I came back, and I had a new waitress."
+  },
+  {
+    "index": "F77346",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の日はクリスマスだった。",
+    "output": "The next day was Christmas Day."
+  },
+  {
+    "index": "F77348",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の土曜日までに歴史のレポートを提出しなければならない。",
+    "output": "We must hand in a history paper by next Saturday."
+  },
+  {
+    "index": "F77350",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の土曜日の午後は空けておいてください。",
+    "output": "Please leave next Saturday afternoon free."
+  },
+  {
+    "index": "F77352",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の土曜日にオフィスの大掃除をしましょう。",
+    "output": "Let's clean the entire office next Saturday."
+  },
+  {
+    "index": "F77354",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の土曜日にあなたを私の両親に紹介したい。",
+    "output": "I want to introduce you to my parents next Saturday."
+  },
+  {
+    "index": "F77356",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の兎の飼育当番は彼らです。",
+    "output": "They are the next to be on duty for taking care of the rabbits."
+  },
+  {
+    "index": "F77358",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の電車は何時に出ますか。",
+    "output": "When does the next train leave?"
+  },
+  {
+    "index": "F77360",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の停留所で降ります。",
+    "output": "I am going to get off at the next stop."
+  },
+  {
+    "index": "F77362",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の停留所で降りてください。",
+    "output": "Get off at the next stop."
+  },
+  {
+    "index": "F77364",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の停留所で下車し、空港行きのバスに乗りなさい。",
+    "output": "Get off at the next stop and take a bus headed to the airport."
+  },
+  {
+    "index": "F77366",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の停車駅はどこですか。",
+    "output": "What is the next stop?"
+  },
+  {
+    "index": "F77368",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の停留所でお降り下さい。",
+    "output": "Get off at the next stop."
+  },
+  {
+    "index": "F77370",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の通りのつきあたりに私達の家があります。",
+    "output": "You'll find our house at the end of the next street."
+  },
+  {
+    "index": "F77372",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の朝彼は浴室で死んでいた。",
+    "output": "The next morning found him dead in his bathroom."
+  },
+  {
+    "index": "F77374",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の朝はみんなひどい二日酔いでした。",
+    "output": "On the following day, we all had terrible hangovers."
+  },
+  {
+    "index": "F77376",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の段階は、いい芸術学校に入ることだった。",
+    "output": "The next stage was to enter a good arts school."
+  },
+  {
+    "index": "F77378",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の誕生日で２０歳になりますと私は言った。",
+    "output": "I said that I would be twenty next birthday."
+  },
+  {
+    "index": "F77380",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私は次の誕生日で１６歳になる。",
+    "output": "I will be sixteen next birthday."
+  },
+  {
+    "index": "F77382",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の送迎バスは何時にでますか。",
+    "output": "What time does the airport bus leave?"
+  },
+  {
+    "index": "F77384",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の選挙では民主党が共和党に勝つものと予想されている。",
+    "output": "In the next election, the Democratic Party is expected to get the better of the Republican Party."
+  },
+  {
+    "index": "F77386",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の選挙では彼が当選するだろう。",
+    "output": "He'll probably win in the next election."
+  },
+  {
+    "index": "F77388",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の世紀に向け将来の計画を立てよう。",
+    "output": "Let's look ahead to the next century."
+  },
+  {
+    "index": "F77390",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の新幹線は９時ちょうどに出ます。",
+    "output": "The next Shinkansen train leaves at just nine o'clock."
+  },
+  {
+    "index": "F77392",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の上演時間は何時からですか。",
+    "output": "What time is the next performance?"
+  },
+  {
+    "index": "F77394",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の章を予習しておきなさい。",
+    "output": "Study the next chapter."
+  },
+  {
+    "index": "F77396",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の瞬間ヘラクレスは怪獣を捕まえた。",
+    "output": "The next instant Hercules caught hold of the monster."
+  },
+  {
+    "index": "F77398",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の週末にお会いするのを皆心待ちにしております。",
+    "output": "We all anticipate seeing you next weekend."
+  },
+  {
+    "index": "F77400",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の授業までにこの詩を暗記しなければならない。",
+    "output": "We must learn this poem by heart by the next lesson."
+  },
+  {
+    "index": "F77402",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の時間は何だっけ？",
+    "output": "What is the next class?"
+  },
+  {
+    "index": "F77404",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の質問をたてることから分析を始めよう。",
+    "output": "Let us begin our analysis by positing the following question."
+  },
+  {
+    "index": "F77406",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の時間はドイツ語試験だ。",
+    "output": "Next period I take an exam in German."
+  },
+  {
+    "index": "F77408",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の試合の準備をしなさい。",
+    "output": "You had better prepare yourself for the next game."
+  },
+  {
+    "index": "F77410",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の試合を私にさせて下さい。",
+    "output": "Let me play the next game."
+  },
+  {
+    "index": "F77412",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の試験の準備をすべきなのだが、今とてもそれはできそうにない。",
+    "output": "I ought to prepare for the next examination, but I just don't feel up to it now."
+  },
+  {
+    "index": "F77414",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の四月までに、あなたは１０年間英語を勉強したことになる。",
+    "output": "By next April you will have studied English for ten years."
+  },
+  {
+    "index": "F77416",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の三月で私たちはここに１年間住んでいることになるでしょう。",
+    "output": "We will have lived here for a year next March."
+  },
+  {
+    "index": "F77418",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の交差点を右に曲がりなさい。",
+    "output": "Turn right at the next crossing."
+  },
+  {
+    "index": "F77420",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の交差点まで行って左折しなさい。",
+    "output": "Drive to the next intersection and make a left turn."
+  },
+  {
+    "index": "F77422",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の月曜日までには手紙を受け取るはずです。",
+    "output": "You should receive the letter by next Monday."
+  },
+  {
+    "index": "F77424",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の月曜日にお目にかかれるでしょうか。",
+    "output": "Will I be able to see you next Monday?"
+  },
+  {
+    "index": "F77426",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の月曜に私達は英語のテストを受ける。",
+    "output": "We will have an English test next Monday."
+  },
+  {
+    "index": "F77428",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の空港行きの列車は２番ホームから出発する。",
+    "output": "The next train to the airport departs from platform 2."
+  },
+  {
+    "index": "F77430",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の金曜日にもう一度彼女に会うでしょう。",
+    "output": "I will be seeing her again next Friday."
+  },
+  {
+    "index": "F77432",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の金曜日まで会合を延期しましょう。",
+    "output": "Let's put off the meeting until next Friday."
+  },
+  {
+    "index": "F77434",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の曲は「ウィアーザワールド」です。",
+    "output": "Coming up next is \"We are the world.\""
+  },
+  {
+    "index": "F77436",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の金曜に来てください。",
+    "output": "Please come next Friday."
+  },
+  {
+    "index": "F77438",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の給油所で満タンにする必要がある。",
+    "output": "We need to fill up at the next gas station."
+  },
+  {
+    "index": "F77440",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の議論は出生前の組織移植に関するものである。",
+    "output": "The next discussion concerns the transplantation of prenatal tissues."
+  },
+  {
+    "index": "F77442",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の記述分析は１５００以上の厳密に管理されたアンケート調査によって得られたものである。",
+    "output": "The following descriptive analysis was derived from over 1500 closely-monitored questionnaires."
+  },
+  {
+    "index": "F77444",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の機会にお願いします。",
+    "output": "I'll take a rain check on that."
+  },
+  {
+    "index": "F77446",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の角で右に曲がりなさい。",
+    "output": "Turn right at the next corner."
+  },
+  {
+    "index": "F77448",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の角で降ろしてください。",
+    "output": "Please set me down at the next corner."
+  },
+  {
+    "index": "F77450",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の会合の日取りを決めた。",
+    "output": "We agreed on a date for the next meeting."
+  },
+  {
+    "index": "F77452",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の会合は６月１０日です。",
+    "output": "The next meeting will be on the tenth of June."
+  },
+  {
+    "index": "F77454",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の会合の日取りをご通告下さい。",
+    "output": "Please advise me of the date for the next meeting."
+  },
+  {
+    "index": "F77456",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の会合で検討してみよう。",
+    "output": "Let's kick it around at the next meeting."
+  },
+  {
+    "index": "F77458",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の会合がいつ開かれるか教えてください。",
+    "output": "Please tell me when the next meeting will be held."
+  },
+  {
+    "index": "F77460",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の会議は数日中に開かれる。",
+    "output": "The next meeting will take place in a few days."
+  },
+  {
+    "index": "F77462",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の会議は４月１５日に開かれることを通知いたします。",
+    "output": "Please be advised that the next meeting will be held on April 15."
+  },
+  {
+    "index": "F77464",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の会議の日取りを繰り上げた。",
+    "output": "We advanced the date of the meeting."
+  },
+  {
+    "index": "F77466",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の会議の通知がドアに掲示されていた。",
+    "output": "A notice about the next meeting was posted on the door."
+  },
+  {
+    "index": "F77468",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の歌手が登場したとき、雨が降り出した。",
+    "output": "When the next singer came on, it began to rain."
+  },
+  {
+    "index": "F77470",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の駅で列車を乗り換えなさい。",
+    "output": "Change trains at the next station."
+  },
+  {
+    "index": "F77472",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の駅で乗客のほとんどが電車を降りていった。",
+    "output": "At the next station, nearly everyone got off the train."
+  },
+  {
+    "index": "F77474",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の駅で乗り換えます。",
+    "output": "We'll change trains at the next station."
+  },
+  {
+    "index": "F77476",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の駅で乗り換えですよ。",
+    "output": "You have to change trains at the next stop."
+  },
+  {
+    "index": "F77478",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の駅で降りるつもりだ。",
+    "output": "I'll get off at the next station."
+  },
+  {
+    "index": "F77480",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の駅で降ります。",
+    "output": "I am getting off at the next station."
+  },
+  {
+    "index": "F77482",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の駅で降りなければなりませんよ。",
+    "output": "You'll have to get off at the next station."
+  },
+  {
+    "index": "F77484",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の駅で下車します。",
+    "output": "I'm getting off at the next station."
+  },
+  {
+    "index": "F77486",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の駅でおります。どうぞおかけ下さい。",
+    "output": "I'm getting off at the next stop, please keep your seat."
+  },
+  {
+    "index": "F77488",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の一節はある有名な寓話から引用したものです。",
+    "output": "The following passage was quoted from a well-known fable."
+  },
+  {
+    "index": "F77490",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次のワシントン行きは何時ですか。",
+    "output": "What time's the next train to Washington?"
+  },
+  {
+    "index": "F77492",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次のレースに参加するつもりですか。",
+    "output": "Are you going to take part in the next race?"
+  },
+  {
+    "index": "F77494",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次のように記載します。",
+    "output": "We'll note it in the following way."
+  },
+  {
+    "index": "F77496",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次のような問題を想像してください。あなたのお兄さんが自動車事故にあったとしましょう。",
+    "output": "Imagine a problem such as this: Suppose your brother has a car accident."
+  },
+  {
+    "index": "F77498",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次のような段取りになりましたことをお知らせいたします。",
+    "output": "Let us inform you that the following arrangements have been made."
+  },
+  {
+    "index": "F77500",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次のようなことをあなたに質問したい。",
+    "output": "I'll ask you these questions."
+  },
+  {
+    "index": "F77502",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次のボストン行きは何時ですか。",
+    "output": "When is your next train for Boston?"
+  },
+  {
+    "index": "F77504",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次のページを見なさい。",
+    "output": "Look at the next page."
+  },
+  {
+    "index": "F77506",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次のひかり号は９時１５分に到着する。",
+    "output": "The next Hikari arrives at 9:15."
+  },
+  {
+    "index": "F77508",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次のバス停で乗り換えなくてはなりません。",
+    "output": "You have to change buses at the next stop."
+  },
+  {
+    "index": "F77510",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次のバスを待つより、むしろ歩きたい。",
+    "output": "I would rather walk than wait for the next bus."
+  },
+  {
+    "index": "F77512",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次のバスを待ったほうがいいですよ。",
+    "output": "You'd better wait for the next bus."
+  },
+  {
+    "index": "F77514",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次のバスを待つくらいなら歩いた方がましだ。",
+    "output": "We may as well walk as wait for the next bus."
+  },
+  {
+    "index": "F77516",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次のバスまでにはどのくらい待ちますか。",
+    "output": "How long do I have to wait for the next bus?"
+  },
+  {
+    "index": "F77518",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次のバスまで２０分待たなければいけなかった。",
+    "output": "I had to wait twenty minutes for the next bus."
+  },
+  {
+    "index": "F77520",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次のバスはいつ来ますか。",
+    "output": "Can you tell me when the next bus will arrive?"
+  },
+  {
+    "index": "F77522",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次のバスは３０分後に来た。",
+    "output": "The next bus came thirty minutes later."
+  },
+  {
+    "index": "F77524",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次のバスの発車時刻を確かめたほうがいいよ。",
+    "output": "You would do well to make sure when the next bus starts."
+  },
+  {
+    "index": "F77526",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次のバスに乗ります。",
+    "output": "I'll take the next bus."
+  },
+  {
+    "index": "F77528",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次のバスには遅れるだろうが、とにかく真夜中前には着くよ。",
+    "output": "We may miss the next bus but at any rate we'll be there before midnight."
+  },
+  {
+    "index": "F77530",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次のドライブインで休憩していこう。",
+    "output": "Let's turn off at the next rest stop."
+  },
+  {
+    "index": "F77532",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次のスタンドまでどのくらいありますか。",
+    "output": "How far is the next gas station?"
+  },
+  {
+    "index": "F77534",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次のジェーンとのデートにはディズニーランドへ行こうかと思っている。",
+    "output": "I'm thinking of going to Disneyland for my next date with Jane."
+  },
+  {
+    "index": "F77536",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次のコンサートは６月にあります。",
+    "output": "The next concert will take place in June."
+  },
+  {
+    "index": "F77538",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次のことを説明しなさい。",
+    "output": "Explain the following."
+  },
+  {
+    "index": "F77540",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次のことが１９９３年の主な出来事だ。",
+    "output": "The followings are the chief events of 1993."
+  },
+  {
+    "index": "F77542",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次のクリスマスで私たちが知り合って３年になります。",
+    "output": "We'll have known each other for three years next Christmas."
+  },
+  {
+    "index": "F77544",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次のかどで左に曲がって。",
+    "output": "Turn left at the next corner."
+  },
+  {
+    "index": "F77546",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次のガソリンスタンドまで何マイルですか。",
+    "output": "How many miles is it to the next gas station?"
+  },
+  {
+    "index": "F77548",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次のガソリンスタンドに寄ろうよ。",
+    "output": "Let's stop at the next gas station."
+  },
+  {
+    "index": "F77550",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の４月までに、あなたは１０年間英語を勉強したことがありますか。",
+    "output": "By next April will you have studied English for ten years?"
+  },
+  {
+    "index": "F77552",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の４月でわれわれはここに２年住んでいることになる。",
+    "output": "We'll have lived here for two years next April."
+  },
+  {
+    "index": "F77554",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次の２０年が私たち皆にとってさらに実り多いものになりますように。",
+    "output": "We hope the next 20 years will be even more successful for all of us."
+  },
+  {
+    "index": "F77556",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に話す機会を楽しみにして待ちませんか。",
+    "output": "Aren't you looking forward to your next chance to speak?"
+  },
+  {
+    "index": "F77558",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に来るとき、忘れずにそれを私に返してください。",
+    "output": "Next time you come, don't forget to give it back to me."
+  },
+  {
+    "index": "F77560",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に踊ってもらえますか。",
+    "output": "May I have your next dance?"
+  },
+  {
+    "index": "F77562",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に彼女は町にさらに２つの公園を設計した。",
+    "output": "She went on to lay out two more parks in the town."
+  },
+  {
+    "index": "F77564",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に彼女が来る時には、家にいます。",
+    "output": "I will be at home when she comes next."
+  },
+  {
+    "index": "F77566",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に彼が来るときには家にいます。",
+    "output": "I will be at home when he comes next."
+  },
+  {
+    "index": "F77568",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に彼がいつ来るかはわからないんだ。",
+    "output": "I don't know when he'll come next time."
+  },
+  {
+    "index": "F77570",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に日曜日は小説を読んで過ごすつもりだ。",
+    "output": "I will spend next Sunday reading novels."
+  },
+  {
+    "index": "F77572",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に到着した列車はシカゴ発だった。",
+    "output": "The next train to arrive was from Chicago."
+  },
+  {
+    "index": "F77574",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に停車する町はどこですか。",
+    "output": "What town does the bus stop at next?"
+  },
+  {
+    "index": "F77576",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に考えられるべきことは、食べ物のことだった。",
+    "output": "The next thing to be considered was food."
+  },
+  {
+    "index": "F77578",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に起こったことは恐ろしかった。",
+    "output": "What happened next was terrible."
+  },
+  {
+    "index": "F77580",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に起こったことはいやなことだった。",
+    "output": "What followed was unpleasant."
+  },
+  {
+    "index": "F77582",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に会うときは、君はすっかりかわっているだろう。",
+    "output": "The next time that I see you, you will be quite different."
+  },
+  {
+    "index": "F77584",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に何をやるべきか教えてくれませんか。",
+    "output": "Will you tell me what I should do next?"
+  },
+  {
+    "index": "F77586",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に何をやってよいか見当がつかない。",
+    "output": "I can't guess what to do next."
+  },
+  {
+    "index": "F77588",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に何をすればよいか彼は途方にくれた。",
+    "output": "He didn't know what to do next."
+  },
+  {
+    "index": "F77590",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に何をするべきかわからない。",
+    "output": "I don't know what to do next."
+  },
+  {
+    "index": "F77592",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に何をするかが私たちの問題である。",
+    "output": "What to do next is our question."
+  },
+  {
+    "index": "F77594",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に何をすべきかわかりますか。",
+    "output": "Can you see what to do next?"
+  },
+  {
+    "index": "F77596",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に何をすべきかよく考えなければならない。",
+    "output": "We must consider what to do next."
+  },
+  {
+    "index": "F77598",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に何をすべきかが問題である。",
+    "output": "What to do next is the question."
+  },
+  {
+    "index": "F77600",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に何をしましょうか。",
+    "output": "What shall I do next?"
+  },
+  {
+    "index": "F77602",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に何をしたらよいのですか。",
+    "output": "What am I to do next?"
+  },
+  {
+    "index": "F77604",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に何をしでかすかを考えるとぞくぞくする。",
+    "output": "It always thrills me to think of what she'll do next."
+  },
+  {
+    "index": "F77606",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に何をしたらよいかが問題だ。",
+    "output": "What we should do next is the question."
+  },
+  {
+    "index": "F77608",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に何をしたらよいのか、さっぱりわからない。",
+    "output": "I have no idea what to do next."
+  },
+  {
+    "index": "F77610",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に何をしたらいいか彼に尋ねてごらん。",
+    "output": "Ask him what to do next."
+  },
+  {
+    "index": "F77612",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に何をしたらいいか教えてください。",
+    "output": "Please tell us what to do next."
+  },
+  {
+    "index": "F77614",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に何が起こるか分からない。",
+    "output": "There is no telling what may happen next."
+  },
+  {
+    "index": "F77616",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に何が起こるかだれにもわからない。",
+    "output": "Nobody knows what will happen next."
+  },
+  {
+    "index": "F77618",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に何が起こるかわかったものではない。",
+    "output": "There is no telling what will happen next."
+  },
+  {
+    "index": "F77620",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に何が起きるか知る事は不可能だ。",
+    "output": "There is no knowing what will happen next."
+  },
+  {
+    "index": "F77622",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に何が起きたのか、私は知らない。",
+    "output": "What happened next, I don't know."
+  },
+  {
+    "index": "F77624",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に何がおこるかは誰にもわからない。",
+    "output": "There is no telling what will happen next."
+  },
+  {
+    "index": "F77626",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次にロンドンに来る時は、私達のところに寄って下さい。",
+    "output": "Drop in on us when you next visit London."
+  },
+  {
+    "index": "F77628",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次には、主賓がそれらを開き、品定めをするのである。",
+    "output": "Then the guest of honor opens them and expresses his or her appreciation."
+  },
+  {
+    "index": "F77630",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次には、これらのやの上に絹の糸をさらに張り、巣の中央に滑らかで、粘りのない部分を残す。",
+    "output": "Then it draws more silky lines across these spokes, leaving a smooth, non-sticky patch in the middle of the web."
+  },
+  {
+    "index": "F77632",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次になにをしたらいいか教えてくれ。",
+    "output": "Tell us what to do next."
+  },
+  {
+    "index": "F77634",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次にどこへ行ったらいいか教えてください。",
+    "output": "Please tell me where to go next."
+  },
+  {
+    "index": "F77636",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次においでの時に、電話をして下さい。",
+    "output": "I will tell him the news as soon as I see him."
+  },
+  {
+    "index": "F77638",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次にあげる「ブラック・ユーモア」の例を見れば、自分で判断を下すことができるだろう。",
+    "output": "The following example of sick humor will enable you to judge for yourself."
+  },
+  {
+    "index": "F77640",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次に、パム・ローランドさんにお話をうかがってみましょう。",
+    "output": "Next, we will talk to Ms. Pam Roland."
+  },
+  {
+    "index": "F77642",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次が君の降りる駅です。",
+    "output": "The next station is where you get off."
+  },
+  {
+    "index": "F77644",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次から次へと面倒な事態が生じた。",
+    "output": "One difficulty after another arose."
+  },
+  {
+    "index": "F77646",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次から次へと失敗がかさなった。",
+    "output": "One failure followed another."
+  },
+  {
+    "index": "F77648",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "次、転職するとしたら、自分の今までの経験を活かせる職につきたい。",
+    "output": "Next time I switch jobs, I need work that will let me make use of the experience I've gained up to now."
+  },
+  {
+    "index": "F77650",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時代遅れのその政権は崩壊寸前だ。",
+    "output": "The obsolete regime is about to collapse."
+  },
+  {
+    "index": "F77652",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時代は変わるだろうが、人間の本性は変わらないものだ。",
+    "output": "Times may change, but human nature stays the same."
+  },
+  {
+    "index": "F77654",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時代の潮流が急速に変化している。",
+    "output": "The sweep of the times is changing rapidly."
+  },
+  {
+    "index": "F77656",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時代の流れについていくのは容易ではない。",
+    "output": "It's not easy to keep up with the times."
+  },
+  {
+    "index": "F77658",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時代に遅れないように新聞を読みなさい。",
+    "output": "Read a newspaper to keep up with the times."
+  },
+  {
+    "index": "F77660",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時代に遅れないように新しいコンピューターを買った。",
+    "output": "I bought a new computer to keep up with the times."
+  },
+  {
+    "index": "F77662",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時代に遅れないようについていくのは老人にとってむしろ難しいことである。",
+    "output": "It is rather difficult for an old man to keep up with the times."
+  },
+  {
+    "index": "F77664",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時代に遅れないようにしよう。",
+    "output": "Keep up with the times."
+  },
+  {
+    "index": "F77666",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時代に遅れないように。",
+    "output": "Keep up with the times."
+  },
+  {
+    "index": "F77668",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時代が変われば風習も変わる。",
+    "output": "Other times, other manners."
+  },
+  {
+    "index": "F77670",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時早く過ぎる。",
+    "output": "Time flies."
+  },
+  {
+    "index": "F77672",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時折私は悲しくなる。",
+    "output": "At times I feel sad."
+  },
+  {
+    "index": "F77674",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時折打ち合わせがもたれた。",
+    "output": "The meetings were held at intervals."
+  },
+  {
+    "index": "F77676",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時折雨がぱらつくでしょう。",
+    "output": "We are expecting an occasional rainfall."
+  },
+  {
+    "index": "F77678",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時勢に付いて行くために新聞を読むようにしなさい。",
+    "output": "Be sure to read the newspaper so as to keep pace with the times."
+  },
+  {
+    "index": "F77680",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時勢に遅れない様にしなければなりません。",
+    "output": "It is necessary to keep up with the times."
+  },
+  {
+    "index": "F77682",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時勢に遅れないように、新聞を読むべきです。",
+    "output": "You should read the newspapers in order to keep up with the times."
+  },
+  {
+    "index": "F77684",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時勢に遅れずに付いて行きなさい。",
+    "output": "Keep abreast with the times."
+  },
+  {
+    "index": "F77686",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々列車は定時に着かない事がある。",
+    "output": "At times the train doesn't arrive on time."
+  },
+  {
+    "index": "F77688",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々遊びにいらっしゃい。",
+    "output": "Come and see me from time to time."
+  },
+  {
+    "index": "F77690",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々彼女は不注意にも道に迷いました。",
+    "output": "Sometimes she was careless enough to lose her way."
+  },
+  {
+    "index": "F77692",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々彼女は彼にインドの話をしてみた。",
+    "output": "Sometimes she tried talking to him about India."
+  },
+  {
+    "index": "F77694",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々彼女は私に会いにやってくる。",
+    "output": "She comes to see me from time to time."
+  },
+  {
+    "index": "F77696",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々彼女はテニスをする。",
+    "output": "Now and then she plays tennis."
+  },
+  {
+    "index": "F77698",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々彼らは野球をします。",
+    "output": "They sometimes play baseball."
+  },
+  {
+    "index": "F77700",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々彼は変なことを言う。",
+    "output": "Once in a while he tells strange things."
+  },
+  {
+    "index": "F77702",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々彼はまるで私の上司のように振る舞う。",
+    "output": "Sometimes he acts as if he were my boss."
+  },
+  {
+    "index": "F77704",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々彼はひとりぼっちで時をすごします。",
+    "output": "Sometimes he spends time by himself."
+  },
+  {
+    "index": "F77706",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々彼は、まるで私の上司であるかのように振る舞った。",
+    "output": "Sometimes he acted as if he were my boss."
+  },
+  {
+    "index": "F77708",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々彼に通りで会います。",
+    "output": "I sometimes see him on the street."
+  },
+  {
+    "index": "F77710",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々男の子たちは先生をからかったものでした。",
+    "output": "Sometimes the boys would play a joke on the teacher."
+  },
+  {
+    "index": "F77712",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々脱線するんです。",
+    "output": "Sometimes I get out of line."
+  },
+  {
+    "index": "F77714",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々周りで起きていることに無関心を装う。",
+    "output": "He sometimes affects indifference to what's happening around him."
+  },
+  {
+    "index": "F77716",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々手紙を書いてくれなければいけませんよ。",
+    "output": "You must sometimes write to me."
+  },
+  {
+    "index": "F77718",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々寂しくなることがあるんだ。",
+    "output": "I get lonely at times."
+  },
+  {
+    "index": "F77720",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々私は空を見上げた。",
+    "output": "Now and then, I looked up at the sky."
+  },
+  {
+    "index": "F77722",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々散歩にでかける。",
+    "output": "I sometimes go out for a walk."
+  },
+  {
+    "index": "F77724",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々私たちはドライブに出かける。",
+    "output": "At times we go for a drive."
+  },
+  {
+    "index": "F77726",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々、腰痛に悩まされるんです。",
+    "output": "I sometimes suffer from pain in my lower back."
+  },
+  {
+    "index": "F77728",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々ぼくのことを思い出してくれ。",
+    "output": "Remember me from time to time."
+  },
+  {
+    "index": "F77730",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々は様子を知らせてください。",
+    "output": "Write to me sometimes and let me know how you are doing."
+  },
+  {
+    "index": "F77732",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々は手紙下さい。",
+    "output": "Please write to me once in a while."
+  },
+  {
+    "index": "F77734",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々は会いに来て下さい。",
+    "output": "Please come to see me from time to time."
+  },
+  {
+    "index": "F77736",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々トニーは彼の家族を訪れました。",
+    "output": "Sometimes Tony visited his family."
+  },
+  {
+    "index": "F77738",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私は時々テレビを見る。",
+    "output": "I watch TV off and on."
+  },
+  {
+    "index": "F77740",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々彼をテレビで見るよ。",
+    "output": "I sometimes see him on TV."
+  },
+  {
+    "index": "F77742",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々ゴルフをします。",
+    "output": "I play golf every so often."
+  },
+  {
+    "index": "F77744",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々かんしゃくを抑えきれなくなる。",
+    "output": "My temper sometimes gets the better of me."
+  },
+  {
+    "index": "F77746",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々イタリア人の大道音楽家が町にやって来ました。",
+    "output": "Sometimes an Italian street musician came to town."
+  },
+  {
+    "index": "F77748",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々、和食が食べたくなります。",
+    "output": "He sometimes feels like eating Japanese-style food."
+  },
+  {
+    "index": "F77750",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々、彼のことが信じられなくなる。",
+    "output": "At times, I can't trust him."
+  },
+  {
+    "index": "F77752",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々、彼と離婚しようと思うの。",
+    "output": "Now and then I think of divorcing him."
+  },
+  {
+    "index": "F77754",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々、政治家の一人がテレビの討論会に出て傍聴者の意見を押さえつけようとする場面をみる。",
+    "output": "Sometimes, one of the politicians can be seen trying to keep the audience's opinions under control during televised debates."
+  },
+  {
+    "index": "F77756",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々、叔父は私を港に連れて行ってくれた。",
+    "output": "Once in a while my uncle took me to the harbor."
+  },
+  {
+    "index": "F77758",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々、自分のけつを思いきり蹴りあげてやりたくなる。",
+    "output": "Sometimes I feel like kicking my own rump."
+  },
+  {
+    "index": "F77760",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々、お父さんがひょっこり私を訪ねて来る。",
+    "output": "My dad drops in on me from time to time."
+  },
+  {
+    "index": "F77762",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々、お父さんがひょっこり私に尋ねてくる。",
+    "output": "Sometimes, father will ask me unexpectedly."
+  },
+  {
+    "index": "F77764",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時々、ｃｕｒｖｅとｃａｒｖｅを間違えてしまう。",
+    "output": "At times I confuse \"curve\" with \"carve\"."
+  },
+  {
+    "index": "F77766",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時差ボケで辛い。",
+    "output": "I've got a bad case of jet lag."
+  },
+  {
+    "index": "F77768",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時差ボケって、ただ眠いって感じではなくて、眠い上になんか気持ちも悪くなるんだよね。",
+    "output": "Jet lag is more than just feeling tired - on top of that you just don't feel well."
+  },
+  {
+    "index": "F77770",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時差のある場合、電子メールが最も効果的で便利な手段ですので、メールを使って連絡をしてくださることを希望します。",
+    "output": "I hope you're prepared to communicate under these conditions, because e-mail is most effective and convenient when different time zones are taken into consideration."
+  },
+  {
+    "index": "F77772",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時刻表を見れば発車の時刻が分かります。",
+    "output": "You can depend on the timetable to tell you when trains leave."
+  },
+  {
+    "index": "F77774",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時刻表を見ていただけませんでしょうか。",
+    "output": "Could I see the timetable?"
+  },
+  {
+    "index": "F77776",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時刻表を見せてください。",
+    "output": "May I see the timetable?"
+  },
+  {
+    "index": "F77778",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時刻表をいただけますか。",
+    "output": "May I have a timetable?"
+  },
+  {
+    "index": "F77780",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時刻表をお持ちですか。",
+    "output": "Do you have a timetable?"
+  },
+  {
+    "index": "F77782",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時刻表が改訂された。",
+    "output": "The timetable has been revised."
+  },
+  {
+    "index": "F77784",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時刻表が改正された。",
+    "output": "The timetable has been revised."
+  },
+  {
+    "index": "F77786",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計を無くしても彼は気にしていない様子だった。",
+    "output": "When he lost his watch he didn't seem to care."
+  },
+  {
+    "index": "F77788",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計を分解するのは組み立てるより簡単だ。",
+    "output": "Taking a watch apart is easier than putting it together."
+  },
+  {
+    "index": "F77790",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計を日本標準時に合わせよう。",
+    "output": "We will set our watch by Japan Time."
+  },
+  {
+    "index": "F77792",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計を盗まれた。",
+    "output": "I had my watch stolen."
+  },
+  {
+    "index": "F77794",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計を調整しなければ。遅れているのだ。",
+    "output": "I must adjust my watch. It's slow."
+  },
+  {
+    "index": "F77796",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計を組み立てるのはちょっと難しい。",
+    "output": "It is rather difficult to assemble a watch."
+  },
+  {
+    "index": "F77798",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計を修理に出さなければいけない。",
+    "output": "I must get my watch repaired."
+  },
+  {
+    "index": "F77800",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計を修理してもらった。",
+    "output": "I had my watch mended."
+  },
+  {
+    "index": "F77802",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計を修理してもらうのに５０ドルかかった。",
+    "output": "It cost me 50 dollars to have my watch fixed."
+  },
+  {
+    "index": "F77804",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計を修理したので、今は調子良く動いている。",
+    "output": "I repaired the clock, it is now in order."
+  },
+  {
+    "index": "F77806",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計を合わせなさい。１０分進んでいるよ。",
+    "output": "Set the clock right. It's ten minutes fast."
+  },
+  {
+    "index": "F77808",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計を見て５時過ぎだと気がついた。",
+    "output": "I looked at my watch and noted that it was past five."
+  },
+  {
+    "index": "F77810",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計をなくしました。",
+    "output": "I lost the watch."
+  },
+  {
+    "index": "F77812",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計をなくしたと彼は言った。",
+    "output": "He told me that he had lost his watch."
+  },
+  {
+    "index": "F77814",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計は毎日巻かれたものだった。",
+    "output": "Clocks used to be wound every day."
+  },
+  {
+    "index": "F77816",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計は動いていた。しかし目覚ましのベルが鳴らなかった。",
+    "output": "The clock was working, but the alarm hadn't gone off."
+  },
+  {
+    "index": "F77818",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計は以前は毎日巻かれたものだ。",
+    "output": "Clocks used to be wound every day."
+  },
+  {
+    "index": "F77820",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計はすでに正午を打った。",
+    "output": "The clock has already struck noon."
+  },
+  {
+    "index": "F77822",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計は４時を打っている。",
+    "output": "The clock is striking four."
+  },
+  {
+    "index": "F77824",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計は１０分進んでいる。",
+    "output": "My watch is ten minutes fast."
+  },
+  {
+    "index": "F77826",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計の調子が悪いんだ。",
+    "output": "Something is the matter with my watch."
+  },
+  {
+    "index": "F77828",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計の針を、逆に回してはいけない。",
+    "output": "Don't turn the hands of a clock the other way around."
+  },
+  {
+    "index": "F77830",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計の修理をしているんです。",
+    "output": "I am fixing the clock."
+  },
+  {
+    "index": "F77832",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計の時刻を直して。",
+    "output": "Put the clock right."
+  },
+  {
+    "index": "F77834",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計の具合が悪い。",
+    "output": "Something is the matter with my watch."
+  },
+  {
+    "index": "F77836",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計のネジを巻くのを忘れたので、止まってしまったんです。",
+    "output": "I forgot to wind my watch up, so it stopped."
+  },
+  {
+    "index": "F77838",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計には針が２本ある。時針と分針がそれだ。",
+    "output": "The clock has two hands, an hour hand and a minute hand."
+  },
+  {
+    "index": "F77840",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計には２本の針があります。",
+    "output": "A clock has two hands."
+  },
+  {
+    "index": "F77842",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計というものは何よりもまず正確でなければだめだ。",
+    "output": "A clock must be above all correct."
+  },
+  {
+    "index": "F77844",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計が欲しいのですかと私は彼に言った。",
+    "output": "I asked him if he wanted a watch."
+  },
+  {
+    "index": "F77846",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計が生きていないのと同様、コンピューターもいきてはいない。",
+    "output": "A computer is no more alive than a clock is."
+  },
+  {
+    "index": "F77848",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計が人間の行動を指図する。",
+    "output": "The clock dictates man's movements."
+  },
+  {
+    "index": "F77850",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計が止まってしまった。",
+    "output": "My watch has run down."
+  },
+  {
+    "index": "F77852",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計が止まって、時間がわからなくなった。",
+    "output": "My watch ran down and I didn't know the time."
+  },
+  {
+    "index": "F77854",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計が止まった。新しい電池が必要だ。",
+    "output": "The clock has run down. I need new batteries."
+  },
+  {
+    "index": "F77856",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計が止まった。",
+    "output": "A clock stopped."
+  },
+  {
+    "index": "F77858",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計が故障してしまったので、新品が欲しい。",
+    "output": "My watch is broken, so I want a new one."
+  },
+  {
+    "index": "F77860",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計が壊れているのに気がついた。",
+    "output": "I found my watch broken."
+  },
+  {
+    "index": "F77862",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計がどこか故障しているらしい。",
+    "output": "I'm afraid something is wrong with my watch."
+  },
+  {
+    "index": "F77864",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計がどこか故障した。",
+    "output": "Something went wrong with my watch."
+  },
+  {
+    "index": "F77866",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計がちょうど３時を打った。",
+    "output": "The clock has just struck three."
+  },
+  {
+    "index": "F77868",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計がたった今十時を打った。",
+    "output": "The clock has just struck ten."
+  },
+  {
+    "index": "F77870",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計がおくれていたので、私は特急にのりそこねた。",
+    "output": "As my watch was slow, I missed the special express."
+  },
+  {
+    "index": "F77872",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計が２時を指している。",
+    "output": "The clock says two."
+  },
+  {
+    "index": "F77874",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計が１０分遅れている。",
+    "output": "The clock is ten minutes slow."
+  },
+  {
+    "index": "F77876",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計が１０時を打ったとき彼はちょうど宿題を終えたところだった。",
+    "output": "He had just finished his homework when the clock struck ten."
+  },
+  {
+    "index": "F77878",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時計が１０時を打った。",
+    "output": "The clock struck ten."
+  },
+  {
+    "index": "F77880",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時給はいくら？",
+    "output": "How much is your hourly pay?"
+  },
+  {
+    "index": "F77882",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間内に終わりそうもないと思う。",
+    "output": "I'm afraid I can't finish them in time."
+  },
+  {
+    "index": "F77884",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間通りに授業に出ることを君に求めるのはいきすぎではない。",
+    "output": "It's not too much to ask you to come to class on time."
+  },
+  {
+    "index": "F77886",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間通りに行かなければならないから、明日は待たさないでくれよ。",
+    "output": "We have to be there on time, so don't stand me up tomorrow!"
+  },
+  {
+    "index": "F77888",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間通りに駅に着いた。",
+    "output": "I arrived at the station on time."
+  },
+  {
+    "index": "F77890",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間通りには着けないよ。",
+    "output": "You won't get there on time."
+  },
+  {
+    "index": "F77892",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間割をもらえますか。",
+    "output": "May I have a class schedule?"
+  },
+  {
+    "index": "F77894",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間を浪費すべきではない。",
+    "output": "You should not waste your time."
+  },
+  {
+    "index": "F77896",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間を浪費してはいけない。",
+    "output": "Don't waste time."
+  },
+  {
+    "index": "F77898",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間を有効に使いなさい。",
+    "output": "You have to beat the time."
+  },
+  {
+    "index": "F77900",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間を無駄に使うことはよくない。",
+    "output": "Idling away your time is not good."
+  },
+  {
+    "index": "F77902",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間を無駄に過ごしてしまう。",
+    "output": "He idles away his time."
+  },
+  {
+    "index": "F77904",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間を無駄にしない為に急ごう。",
+    "output": "Let's hurry so as not to waste time."
+  },
+  {
+    "index": "F77906",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間を無駄にしないように気を付けなければならない。",
+    "output": "You must be careful not to waste time."
+  },
+  {
+    "index": "F77908",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間を大切にしよう。",
+    "output": "Let's economize on time."
+  },
+  {
+    "index": "F77910",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間を無駄にしないようにしよう。",
+    "output": "Let's not waste time."
+  },
+  {
+    "index": "F77912",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間を大切にしなければならない。",
+    "output": "You must make much of time."
+  },
+  {
+    "index": "F77914",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間を節約するためにコンピューターを使った。",
+    "output": "I used a computer in order to save time."
+  },
+  {
+    "index": "F77916",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間を上手く利用するようにしなさい。",
+    "output": "Try to make good use of your time."
+  },
+  {
+    "index": "F77918",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間を十分に利用するようにしなさい。",
+    "output": "Try to make good use of your time."
+  },
+  {
+    "index": "F77920",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間を守れないのですか。私は一時間も待ち続けたんですよ。",
+    "output": "Can't you ever be punctual? I have been waiting here for one hour."
+  },
+  {
+    "index": "F77922",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間を守ることは大事である。",
+    "output": "It is important that you should be punctual."
+  },
+  {
+    "index": "F77924",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間を最大限に活用するようにしなさい。",
+    "output": "Try to make the most of your time."
+  },
+  {
+    "index": "F77926",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間を合わせなさい。",
+    "output": "Put the clock right."
+  },
+  {
+    "index": "F77928",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間を厳守することは、欧米では当然のことと考えられている。",
+    "output": "Punctuality is thought to be a matter of course in Europe and America."
+  },
+  {
+    "index": "F77930",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間を賢く使いましょう。",
+    "output": "Let's make use of our time wisely."
+  },
+  {
+    "index": "F77932",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間を教えてくれないか。",
+    "output": "Can you tell me the time?"
+  },
+  {
+    "index": "F77934",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間を教えていただけますか。",
+    "output": "Do you have the time?"
+  },
+  {
+    "index": "F77936",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間をむだにしないで、この仕事を進めよう。",
+    "output": "Let's stop wasting time and get on with this work."
+  },
+  {
+    "index": "F77938",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間をつぶしているだけです。",
+    "output": "I'm killing time."
+  },
+  {
+    "index": "F77940",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "お時間を割いていただきありがとうございます。",
+    "output": "Thank you very much for inviting me."
+  },
+  {
+    "index": "F77942",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間をじょうずに利用しなさい。",
+    "output": "Make good use of your time."
+  },
+  {
+    "index": "F77944",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間をください。",
+    "output": "Give me time."
+  },
+  {
+    "index": "F77946",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間をかけてゆっくりやりなさい。",
+    "output": "Take your time over it."
+  },
+  {
+    "index": "F77948",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間をかけて反射しろ。",
+    "output": "Take the time to reflect."
+  },
+  {
+    "index": "F77950",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間をかけてゆっくりやってください。さもないとミスをしますよ。",
+    "output": "Take your time, or you may make some mistake."
+  },
+  {
+    "index": "F77952",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間をうまく利用するように努めなさい。",
+    "output": "Try to make good use of your time."
+  },
+  {
+    "index": "F77954",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間をうまく利用しなさい。",
+    "output": "Make good use of your time."
+  },
+  {
+    "index": "F77956",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間までに埠頭に着けないよ。近道しよう。",
+    "output": "We won't be able to arrive at the harbor in time. Let's take a shortcut."
+  },
+  {
+    "index": "F77958",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間までに着けそうかな。",
+    "output": "Are we likely to arrive in time?"
+  },
+  {
+    "index": "F77960",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間までに家に着けないよ。",
+    "output": "We won't be able to arrive home in time."
+  },
+  {
+    "index": "F77962",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間ほど大切な物はない。",
+    "output": "Nothing is more important than time."
+  },
+  {
+    "index": "F77964",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間ほど大切なものはないとよく言われる。",
+    "output": "It is often said that nothing is more precious than time."
+  },
+  {
+    "index": "F77966",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間ほど貴重な物はない。",
+    "output": "Nothing is so precious as time."
+  },
+  {
+    "index": "F77968",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間ほど貴重なものはないが、これほど軽んじられえているものはない。",
+    "output": "Nothing is more valuable than time, but nothing is less valued."
+  },
+  {
+    "index": "F77970",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間は怒りの薬なりとはうまく言ったものである。",
+    "output": "It is truly said that time is anger's medicine."
+  },
+  {
+    "index": "F77972",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間は他の何よりも貴重だ。",
+    "output": "Time is more precious than anything else."
+  },
+  {
+    "index": "F77974",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間は十分にある。",
+    "output": "We have enough time."
+  },
+  {
+    "index": "F77976",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間は充分あったので急ぐ必要はなかった。",
+    "output": "I had enough time, so I didn't need to hurry."
+  },
+  {
+    "index": "F77978",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間は仕事と余暇と勉強に配分されている。",
+    "output": "Time is allotted for work, recreation, and study."
+  },
+  {
+    "index": "F77980",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間は最大限に活用すべきだ。",
+    "output": "You must make the most of your time."
+  },
+  {
+    "index": "F77982",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間は最も貴重なものだ。",
+    "output": "Time is the most precious thing of all."
+  },
+  {
+    "index": "F77984",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間は一番大切だ。",
+    "output": "Time is the most precious thing."
+  },
+  {
+    "index": "F77986",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間は貴重なものであるから、できるだけ活用すべきである。",
+    "output": "Time is a precious thing, so we should make the best use of it."
+  },
+  {
+    "index": "F77988",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間はほかの何よりも高価だ。",
+    "output": "Time is more precious than anything else."
+  },
+  {
+    "index": "F77990",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間はなんて早く過ぎるんだ。",
+    "output": "How time flies!"
+  },
+  {
+    "index": "F77992",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間はなんて早く過ぎて行くのだろう。",
+    "output": "How time flies!"
+  },
+  {
+    "index": "F77994",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間はどのくらいかかりますか。",
+    "output": "How long does it take?"
+  },
+  {
+    "index": "F77996",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間はできるだけ有効に使わなければならない。",
+    "output": "You must make the most of your time."
+  },
+  {
+    "index": "F77998",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "時間はたっぷりあるのだが、お金が足りない。",
+    "output": "I have plenty of time, but not enough money."
+  }
+]

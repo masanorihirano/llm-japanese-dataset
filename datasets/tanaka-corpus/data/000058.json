@@ -1,0 +1,6002 @@
+[
+  {
+    "index": "F116000",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日雨が降ったのはあいにくだった。",
+    "output": "It was unfortunate that it rained yesterday."
+  },
+  {
+    "index": "F116002",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日一日中雨が降った。",
+    "output": "It rained all day yesterday."
+  },
+  {
+    "index": "F116004",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日ロバートの所に遊びに行った、彼の父はパイロットです。",
+    "output": "Yesterday I went to see Robert, whose father is a pilot."
+  },
+  {
+    "index": "F116006",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日ロジャース氏とスミス氏の婚約が発表された。",
+    "output": "The engagement of Mr Rogers and Miss Smith was announced yesterday."
+  },
+  {
+    "index": "F116008",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日より今日の方が具合が悪い。",
+    "output": "I feel worse today than I did yesterday."
+  },
+  {
+    "index": "F116010",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日より今日のほうがずっと気分が悪い。",
+    "output": "I feel much worse today than yesterday."
+  },
+  {
+    "index": "F116012",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日より雲が多いな。",
+    "output": "There's more cloud today than yesterday."
+  },
+  {
+    "index": "F116014",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日よいアイデアが浮かんだ。",
+    "output": "Yesterday I hit on a good idea."
+  },
+  {
+    "index": "F116016",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日メアリーは表紙が青い本をくれた。",
+    "output": "Yesterday Mary gave me a book the cover of which was blue."
+  },
+  {
+    "index": "F116018",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日メアリーは１日中家にいた。",
+    "output": "Yesterday Mary stayed home all day."
+  },
+  {
+    "index": "F116020",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日メアリーが買ったのは何ですか。",
+    "output": "What was it that Mary bought yesterday?"
+  },
+  {
+    "index": "F116022",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日メアリーが買ったのはこのスカートだった。",
+    "output": "It was this skirt that Mary bought yesterday."
+  },
+  {
+    "index": "F116024",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日みんなに笑われた。",
+    "output": "Everyone laughed at me yesterday."
+  },
+  {
+    "index": "F116026",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日まで私はキャシーと話した事がなかった。",
+    "output": "I had never talked with Cathy until yesterday."
+  },
+  {
+    "index": "F116028",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日まで一週間ずっと雨が降っていた。",
+    "output": "It had been raining for week until yesterday."
+  },
+  {
+    "index": "F116030",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日ボブに何か起こったにちがいない。",
+    "output": "Something must have happened to Bob yesterday."
+  },
+  {
+    "index": "F116032",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は木曜日だった。",
+    "output": "Yesterday was Thursday."
+  },
+  {
+    "index": "F116034",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は無分別に買い物をしてしまった。",
+    "output": "I bought a pig in a poke yesterday."
+  },
+  {
+    "index": "F116036",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は夢をみなかった。",
+    "output": "I didn't dream last night."
+  },
+  {
+    "index": "F116038",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は僕の誕生日だった。",
+    "output": "Yesterday was my birthday."
+  },
+  {
+    "index": "F116040",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は風が強かっただけでなく雨も激しく降った。",
+    "output": "Not only were there strong winds yesterday, but also it rained heavily."
+  },
+  {
+    "index": "F116042",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は病気だったけど、今日は元気になれそうです。",
+    "output": "I was ill yesterday but I am feeling fine today!"
+  },
+  {
+    "index": "F116044",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は彼女は外出しないで家にいた。",
+    "output": "Yesterday she stayed at home instead of going out."
+  },
+  {
+    "index": "F116046",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は彼の家に泊まった。",
+    "output": "I stayed at his place yesterday."
+  },
+  {
+    "index": "F116048",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は彼の容体はたいへん危なかったが、今日はだいぶんよい。",
+    "output": "Yesterday he was seriously ill, but today he is much better."
+  },
+  {
+    "index": "F116050",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は日曜日でした。",
+    "output": "It was Sunday yesterday."
+  },
+  {
+    "index": "F116052",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は日曜日で、土曜日ではなかった。",
+    "output": "Yesterday was Sunday, not Saturday."
+  },
+  {
+    "index": "F116054",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は曇っていた。",
+    "output": "It was cloudy yesterday."
+  },
+  {
+    "index": "F116056",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は天候が悪かった。",
+    "output": "The weather was very bad yesterday."
+  },
+  {
+    "index": "F116058",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は天気が悪かった。",
+    "output": "We had bad weather yesterday."
+  },
+  {
+    "index": "F116060",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は沢山料理をした。スープでしょ、ビスケットでしょ、それか。",
+    "output": "I had a very productive day of cooking yesterday; I made soup, biscuits, and two pies."
+  },
+  {
+    "index": "F116062",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は大雪だったんだよ。",
+    "output": "It snowed hard yesterday."
+  },
+  {
+    "index": "F116064",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は大変に寒かったので帽子をかぶった。",
+    "output": "I wore a hat yesterday because it was very cold."
+  },
+  {
+    "index": "F116066",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は大雨だった。",
+    "output": "We had a heavy rain yesterday."
+  },
+  {
+    "index": "F116068",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は素晴らしい夕食にご招待してもらって、ありがとう。",
+    "output": "Thank you very much for the wonderful dinner last night."
+  },
+  {
+    "index": "F116070",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は全く風がありませんでした。",
+    "output": "There was no wind at all yesterday."
+  },
+  {
+    "index": "F116072",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は全くついていなかった。",
+    "output": "It just was not my day yesterday."
+  },
+  {
+    "index": "F116074",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は雪がひどかった。",
+    "output": "It snowed hard yesterday."
+  },
+  {
+    "index": "F116076",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は暑くも寒くもなくて、散歩には打ってつけの日であった。",
+    "output": "Yesterday it was neither too warm nor too cold. It was an ideal day for taking a walk."
+  },
+  {
+    "index": "F116078",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は暑かった。",
+    "output": "It was hot yesterday."
+  },
+  {
+    "index": "F116080",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日、叔母が私を訪ねてきた。",
+    "output": "My aunt dropped in on me yesterday."
+  },
+  {
+    "index": "F116082",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は私は日記にたくさん書きました。",
+    "output": "I wrote a lot in my diary yesterday."
+  },
+  {
+    "index": "F116084",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は私の十七歳の誕生日だった。",
+    "output": "Yesterday was my seventeenth birthday."
+  },
+  {
+    "index": "F116086",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は今日より寒かった。",
+    "output": "It was colder yesterday than today."
+  },
+  {
+    "index": "F116088",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は君がいないので寂しかった。",
+    "output": "I missed you very much yesterday."
+  },
+  {
+    "index": "F116090",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は強い風が吹いた。",
+    "output": "A strong wind blew yesterday."
+  },
+  {
+    "index": "F116092",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は久しぶりにひまだったので、友人とテニスを楽しんだ。",
+    "output": "As I was free after a long interval yesterday, I enjoyed playing tennis with my friends."
+  },
+  {
+    "index": "F116094",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は気温が零下５度に下がった。",
+    "output": "The temperature fell five degrees centigrade below zero yesterday."
+  },
+  {
+    "index": "F116096",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は寒かったが、今日は更にいっそう寒い。",
+    "output": "It was cold yesterday, but it is still colder today."
+  },
+  {
+    "index": "F116098",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は寒かったですか。",
+    "output": "Was it cold yesterday?"
+  },
+  {
+    "index": "F116100",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は寒かった。",
+    "output": "It was cold yesterday."
+  },
+  {
+    "index": "F116102",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は楽しかったかい？",
+    "output": "Did you have a good time yesterday?"
+  },
+  {
+    "index": "F116104",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は楽しかったか、と私は彼に尋ねた。",
+    "output": "I asked him if he had enjoyed himself the day before."
+  },
+  {
+    "index": "F116106",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は楽しかった。",
+    "output": "I had a good time yesterday."
+  },
+  {
+    "index": "F116108",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は何人が動物園へ来ましたか。",
+    "output": "How many people came to the zoo yesterday?"
+  },
+  {
+    "index": "F116110",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は雨降りでした。",
+    "output": "It was raining yesterday."
+  },
+  {
+    "index": "F116112",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は雨が降ったが、今朝は晴れた。",
+    "output": "It rained yesterday, but it cleared up this morning."
+  },
+  {
+    "index": "F116114",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は一日中懸命に働いた。",
+    "output": "I worked hard all day long yesterday."
+  },
+  {
+    "index": "F116116",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は雨が降った。",
+    "output": "It rained yesterday."
+  },
+  {
+    "index": "F116118",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は一日中英単語を暗記した。",
+    "output": "I learned English words by heart all day yesterday."
+  },
+  {
+    "index": "F116120",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は一日中雨が降っていた。",
+    "output": "It rained all day yesterday."
+  },
+  {
+    "index": "F116122",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日はよい天気だった。",
+    "output": "We had nice weather yesterday."
+  },
+  {
+    "index": "F116124",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日はよく眠れましたか？",
+    "output": "Did you have a good night last night?"
+  },
+  {
+    "index": "F116126",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は一日中雨が降ったりやんだりしていた。",
+    "output": "It was raining off and on all day yesterday."
+  },
+  {
+    "index": "F116128",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日はなぜ休んだのですか。",
+    "output": "Why were you absent yesterday?"
+  },
+  {
+    "index": "F116130",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日はなんともひどい天気だった。",
+    "output": "The weather was miserable yesterday."
+  },
+  {
+    "index": "F116132",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日はとても忙しかったんだ。",
+    "output": "I was very busy yesterday."
+  },
+  {
+    "index": "F116134",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日はなぜ学校を欠席したのですか。",
+    "output": "Why were you absent from school yesterday?"
+  },
+  {
+    "index": "F116136",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日はとても風が強かった。",
+    "output": "It was very windy yesterday."
+  },
+  {
+    "index": "F116138",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日はとても寒かったので私は家にいた。",
+    "output": "It was so cold yesterday that I stayed home."
+  },
+  {
+    "index": "F116140",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日はとても寒かった。",
+    "output": "It was terribly cold yesterday."
+  },
+  {
+    "index": "F116142",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日はテニスをしましたか。",
+    "output": "Did you play tennis yesterday?"
+  },
+  {
+    "index": "F116144",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日はテレビを見る時間がなかった。",
+    "output": "I didn't have time to watch TV yesterday."
+  },
+  {
+    "index": "F116146",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日はその本を８０ページ読んだ。",
+    "output": "I read the book up to page 80 yesterday."
+  },
+  {
+    "index": "F116148",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日はでかけないで読書で日を過ごした。",
+    "output": "I spent yesterday reading instead of going out."
+  },
+  {
+    "index": "F116150",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日はその本を８０ページまで読んだ。",
+    "output": "I read the book up to page 80 yesterday."
+  },
+  {
+    "index": "F116152",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日はじめてその事故について聞きました。",
+    "output": "I heard about the accident for the first time yesterday."
+  },
+  {
+    "index": "F116154",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日はグデングデンに酔っ払っちゃって、どうやって家に帰ったのか覚えてないんだ。",
+    "output": "I got blind drunk last night - so drunk I don't even know how I got home."
+  },
+  {
+    "index": "F116156",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日はかなりたくさんの人々がその会合に参加した。",
+    "output": "Quite a few people came to the meeting yesterday."
+  },
+  {
+    "index": "F116158",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日はあまりにも気分が悪くて学校に行けなかった。",
+    "output": "I was too sick to go to school yesterday."
+  },
+  {
+    "index": "F116160",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日はあまり寒くなかった。",
+    "output": "It was not very cold yesterday."
+  },
+  {
+    "index": "F116162",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日パーティーに来ればよかったのに。とても面白かったよ。",
+    "output": "We missed you very much at the party yesterday. We had a very good time indeed."
+  },
+  {
+    "index": "F116164",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は４発命中しただけでした。",
+    "output": "I only shot four bull's-eyes yesterday."
+  },
+  {
+    "index": "F116166",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は１日中忙しかったので、今朝はひどく疲れている。",
+    "output": "Having been busy all day yesterday, I feel very tired this morning."
+  },
+  {
+    "index": "F116168",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は一日中寝ていた。",
+    "output": "I slept all day yesterday."
+  },
+  {
+    "index": "F116170",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は１日中雨だったので、私は家にいました。",
+    "output": "It rained all day long yesterday, so I stayed home."
+  },
+  {
+    "index": "F116172",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は、誰か君を訪問しましたか。",
+    "output": "Did anybody call on you yesterday?"
+  },
+  {
+    "index": "F116174",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は、私のコンピューターが故障していたのです。",
+    "output": "My computer was down yesterday."
+  },
+  {
+    "index": "F116176",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は激しく雨が降った。",
+    "output": "It rained hard yesterday."
+  },
+  {
+    "index": "F116178",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は、何もする事が無かったので、一日中家でゴロゴロしていた。",
+    "output": "Yesterday I didn't have anything to do so I was just lolling around all day long."
+  },
+  {
+    "index": "F116180",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は曇りだった。",
+    "output": "It was cloudy yesterday."
+  },
+  {
+    "index": "F116182",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日の嵐で建物は被害を受けた。",
+    "output": "The buildings were damaged by the storm last night."
+  },
+  {
+    "index": "F116184",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日の夜僕たちはとても疲れていたので９時頃寝た。",
+    "output": "We were so tired that we turned in about 9:00 last night."
+  },
+  {
+    "index": "F116186",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨夜は近所で火事があって、眠れませんでした。",
+    "output": "Last night there was a fire near here, and I couldn't sleep."
+  },
+  {
+    "index": "F116188",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日の夜どこにいたの？",
+    "output": "Where were you last night?"
+  },
+  {
+    "index": "F116190",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日の夜、特別試写会があった。",
+    "output": "There was a special sneak preview last night."
+  },
+  {
+    "index": "F116192",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日の夜、遅くまでインターネットしていたの。",
+    "output": "I surfed the net late last night."
+  },
+  {
+    "index": "F116194",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日の夢は今日の希望。",
+    "output": "The dream of yesterday is the hope of today."
+  },
+  {
+    "index": "F116196",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日の晩、私のショーを聞いてくれた？",
+    "output": "Did you hear my show last night?"
+  },
+  {
+    "index": "F116198",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日の晩は楽しかったです。",
+    "output": "I had a good time last evening."
+  },
+  {
+    "index": "F116200",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日の敵が今日の友になることもある。",
+    "output": "An enemy yesterday can be a friend today."
+  },
+  {
+    "index": "F116202",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼は駅で英語の先生にばったり会った。",
+    "output": "He met his English teacher at the station by accident."
+  },
+  {
+    "index": "F116204",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日の朝はとても寒かった。",
+    "output": "It was very cold yesterday morning."
+  },
+  {
+    "index": "F116206",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日の朝たくさんの鳥を見た。",
+    "output": "Yesterday morning I saw many birds."
+  },
+  {
+    "index": "F116208",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日の朝、激しく雨が降った。",
+    "output": "It rained hard yesterday morning."
+  },
+  {
+    "index": "F116210",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日の朝、あなたはテニスをしていましたか。",
+    "output": "Were you playing tennis yesterday morning?"
+  },
+  {
+    "index": "F116212",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日の戦闘でだいぶ被害があったようだ。",
+    "output": "It seems that much damage was done by yesterday's battle."
+  },
+  {
+    "index": "F116214",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "今日の新聞によれば、昨夜この町に火事があったそうだ。",
+    "output": "According to today's paper, there was a fire in this town last night."
+  },
+  {
+    "index": "F116216",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日の重役会は大成功だった。",
+    "output": "Yesterday's board meeting was a ten-strike!"
+  },
+  {
+    "index": "F116218",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日の主な出来事は何でしたか。",
+    "output": "What were yesterday's chief events?"
+  },
+  {
+    "index": "F116220",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日の試合で早稲田は慶応と引き分けた。",
+    "output": "Waseda tied Keio in yesterday's game."
+  },
+  {
+    "index": "F116222",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日の試験の問題は思ったよりずっとやさしかった。",
+    "output": "The questions in yesterday's examination were far easier than I had expected."
+  },
+  {
+    "index": "F116224",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日の仕事を片づけるつもりです。",
+    "output": "I will clean up yesterday's work."
+  },
+  {
+    "index": "F116226",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日の今頃は何をしていましたか。",
+    "output": "What were you doing about this time yesterday?"
+  },
+  {
+    "index": "F116228",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日の今頃は、テレビを見ていた。",
+    "output": "I was watching TV at this time yesterday."
+  },
+  {
+    "index": "F116230",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日の午後誰を訪ねましたか。",
+    "output": "Whom did you visit yesterday afternoon?"
+  },
+  {
+    "index": "F116232",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日の午後はずっと、私の部屋を掃除するのに費やした。",
+    "output": "I spent all yesterday afternoon cleaning my room."
+  },
+  {
+    "index": "F116234",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日の競馬のメインレースは、とってもかたくおさまったよ。ああいうのを、銀行レースって言うんだよね。",
+    "output": "The main race yesterday was no surprise. That's the kind of race you can bank on."
+  },
+  {
+    "index": "F116236",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日の議論には参加しましたか。",
+    "output": "Did you take part in the discussion yesterday?"
+  },
+  {
+    "index": "F116238",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日の株式市場の出来高は５億株だった。",
+    "output": "Yesterday's turnover on the stock market was 500 million shares."
+  },
+  {
+    "index": "F116240",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日の株価下落に伴い、今日の取引は低迷だった。",
+    "output": "Trading was slow today after yesterday's market decline."
+  },
+  {
+    "index": "F116242",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日の会議にはすべての委員が出席したわけではなかった。",
+    "output": "All the members were not present at the meeting yesterday."
+  },
+  {
+    "index": "F116244",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日の火事で二百戸が全焼した。",
+    "output": "Two hundred houses were burnt down in the fire which broke out yesterday."
+  },
+  {
+    "index": "F116246",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日は小雨だった。",
+    "output": "There was a light rain yesterday."
+  },
+  {
+    "index": "F116248",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日のバーバラの運転免許の試験はどうでしたか。",
+    "output": "How did Barbara do on her driver's test yesterday?"
+  },
+  {
+    "index": "F116250",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日のパーティーの間、彼女は時折家に電話していた。",
+    "output": "Every now and then she called home during the party last night."
+  },
+  {
+    "index": "F116252",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日のパーティーにくればよかったのに。",
+    "output": "We missed you very much at the party yesterday."
+  },
+  {
+    "index": "F116254",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "今日のテストは去年のと同じだった、と誰かが言った。",
+    "output": "Somebody told me that today's test was identical to the one we had last year."
+  },
+  {
+    "index": "F116256",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日のテストはうまくいったかもしれないが、まだその結果はわからない。",
+    "output": "I might have done well on yesterday's test, but I do not know the results yet."
+  },
+  {
+    "index": "F116258",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日のコンサートにはたくさんの聴衆がいた。",
+    "output": "There was a large audience at yesterday's concert."
+  },
+  {
+    "index": "F116260",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日のけんかを気にしてるの？意外にナイーブなのね。",
+    "output": "Are you still letting last night's fight bother you? You're surprisingly sensitive."
+  },
+  {
+    "index": "F116262",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日の火事のこと聞きました？",
+    "output": "Did you hear about the fire yesterday?"
+  },
+  {
+    "index": "F116264",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日のあなたの講演はとてもすばらしかった。",
+    "output": "The lecture you gave yesterday was a masterpiece."
+  },
+  {
+    "index": "F116266",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日の１０時、外には何百人もの人がいた。",
+    "output": "At 10 o'clock yesterday, there were hundreds of people outside."
+  },
+  {
+    "index": "F116268",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日になって初めてわれわれはその動物がいなくなっているのに気づいた。",
+    "output": "It was not until yesterday that we noticed the animal missing."
+  },
+  {
+    "index": "F116270",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日になって初めてその事実を知った。",
+    "output": "It was not until yesterday that I knew the fact."
+  },
+  {
+    "index": "F116272",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日になってはじめてその事故のことを聞きました。",
+    "output": "It was not until yesterday that I heard about the accident."
+  },
+  {
+    "index": "F116274",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日になって初めてそのニュースを知りました。",
+    "output": "It was not until yesterday that I knew the news."
+  },
+  {
+    "index": "F116276",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日になってようやく真相を知りました。",
+    "output": "Not until yesterday did I know the truth."
+  },
+  {
+    "index": "F116278",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日になってやっとその事実を知りました。",
+    "output": "Only yesterday did I know the fact."
+  },
+  {
+    "index": "F116280",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日になってやっと、彼女が本当に言いたいことが分かった。",
+    "output": "It was only yesterday that I realized what she really meant."
+  },
+  {
+    "index": "F116282",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日になってはじめて僕は彼女の名前を知った。",
+    "output": "It was not until yesterday that I knew her name."
+  },
+  {
+    "index": "F116284",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日になってはじめて私はその知らせをきいた。",
+    "output": "It wasn't until yesterday that I heard the news."
+  },
+  {
+    "index": "F116286",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日になってはじめて私はそのことを知った。",
+    "output": "Not until yesterday did I know about it."
+  },
+  {
+    "index": "F116288",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日になって初めてそのことに気づいた。",
+    "output": "It was not until yesterday that I noticed it."
+  },
+  {
+    "index": "F116290",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日になってはじめて、私はその出来事を知った。",
+    "output": "Not until yesterday did I know of the event."
+  },
+  {
+    "index": "F116292",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日になってはじめて、あなたの手紙を受け取った。",
+    "output": "We did not get your letter until yesterday."
+  },
+  {
+    "index": "F116294",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日トラックがこの塀にぶつかった。",
+    "output": "Yesterday a truck hit this wall."
+  },
+  {
+    "index": "F116296",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日トムはバイクの事故でけがをしたので、しばらく体育の授業には出られません。",
+    "output": "Yesterday, Tom was injured in a motorbike accident, so he can't attend gym class for the time being."
+  },
+  {
+    "index": "F116298",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日どこへ行きましたか。",
+    "output": "Where did you go yesterday?"
+  },
+  {
+    "index": "F116300",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日テレビで面白い番組を見た。",
+    "output": "We saw an interesting program on television yesterday."
+  },
+  {
+    "index": "F116302",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日デパートに買い物に行きました。",
+    "output": "I went to the department store to do some shopping yesterday."
+  },
+  {
+    "index": "F116304",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日ディズニーランドへ行きました。",
+    "output": "I went to Disneyland yesterday."
+  },
+  {
+    "index": "F116306",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日チケットを手に入れたんだ。",
+    "output": "I got tickets yesterday."
+  },
+  {
+    "index": "F116308",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日たくさん日記を読みました。",
+    "output": "I read a lot in my diary yesterday."
+  },
+  {
+    "index": "F116310",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日たくさんの雨が降った。",
+    "output": "We had a lot of rain yesterday."
+  },
+  {
+    "index": "F116312",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日その答えを知ってさえいたらなあ。",
+    "output": "If only I had known the answer yesterday!"
+  },
+  {
+    "index": "F116314",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日その窓をこわしたのはジャックです。",
+    "output": "It was Jack that broke the window yesterday."
+  },
+  {
+    "index": "F116316",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日その手紙を書いておけばよかったのだが。",
+    "output": "I ought to have written the letter yesterday."
+  },
+  {
+    "index": "F116318",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日その仕事を仕上げる予定だったのだができなかった。",
+    "output": "I was to have finished the work yesterday."
+  },
+  {
+    "index": "F116320",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日その絵を買ったのは誰だろう。",
+    "output": "Who was it that bought those pictures yesterday?"
+  },
+  {
+    "index": "F116322",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日その家に泥棒が入った。",
+    "output": "Yesterday, a thief entered the house."
+  },
+  {
+    "index": "F116324",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日その家に雷が落ちた。",
+    "output": "The house was struck by lightning yesterday."
+  },
+  {
+    "index": "F116326",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日そこへ行った学生はだれもいない。",
+    "output": "No students went there yesterday."
+  },
+  {
+    "index": "F116328",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日そこへ行ったのは私です。",
+    "output": "It's me that went there yesterday."
+  },
+  {
+    "index": "F116330",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日ジョーンズ氏のために送別会が開かれた。",
+    "output": "Yesterday, a farewell party was held for Mr. Jones."
+  },
+  {
+    "index": "F116332",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日ジョーンズ氏のために歓迎会が開かれた。",
+    "output": "A welcome party was held in honor of Mr Jones."
+  },
+  {
+    "index": "F116334",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日ジャイアンツはライオンズに勝った。",
+    "output": "The Giants beat the Lions yesterday."
+  },
+  {
+    "index": "F116336",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日コンサートに行ったのはアリスだった。",
+    "output": "It was Alice who went to the concert yesterday."
+  },
+  {
+    "index": "F116338",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日この横断歩道で、１人の歩行者がトラックにひかれた。",
+    "output": "Yesterday a pedestrian was run over by a truck at this pedestrian crossing."
+  },
+  {
+    "index": "F116340",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日このラケットを買ったのはマイクでした。",
+    "output": "It was Mike that bought this racket yesterday."
+  },
+  {
+    "index": "F116342",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日このスカートを買ったのは誰ですか。",
+    "output": "Who was it that bought this skirt yesterday?"
+  },
+  {
+    "index": "F116344",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日このスカートを買ったのはメアリーだった。",
+    "output": "It was Mary that bought this skirt yesterday."
+  },
+  {
+    "index": "F116346",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日ここに来た女性は山田さんだ。",
+    "output": "The woman who came here yesterday is Miss Yamada."
+  },
+  {
+    "index": "F116348",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日ここに来たと彼は言った。",
+    "output": "He told me that he had gone there."
+  },
+  {
+    "index": "F116350",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日ここに着いた運転手を見つけに行きなさい。",
+    "output": "Go and find the driver who arrived here yesterday."
+  },
+  {
+    "index": "F116352",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日ここで雅子にあったのは私でした。",
+    "output": "It was I who met Masako here yesterday."
+  },
+  {
+    "index": "F116354",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日ケンに会った。",
+    "output": "I met Ken yesterday."
+  },
+  {
+    "index": "F116356",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日から何も食べてない。",
+    "output": "I haven't eaten anything since yesterday."
+  },
+  {
+    "index": "F116358",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日カレーを食べた。",
+    "output": "I had curry and rice last night."
+  },
+  {
+    "index": "F116360",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日からずっと寒い。",
+    "output": "It has been cold since yesterday."
+  },
+  {
+    "index": "F116362",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日から雨が降っている。",
+    "output": "It has rained since yesterday."
+  },
+  {
+    "index": "F116364",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日からずっと雨が降っている。",
+    "output": "It has been raining since yesterday."
+  },
+  {
+    "index": "F116366",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日お訪ねくださったとき、あいにく留守をしていた。",
+    "output": "It happened that I was out when you called yesterday."
+  },
+  {
+    "index": "F116368",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日お金を貸しませんでしたか。",
+    "output": "Didn't I lend you some money yesterday?"
+  },
+  {
+    "index": "F116370",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日エンジンが故障してね。",
+    "output": "I had some engine trouble yesterday."
+  },
+  {
+    "index": "F116372",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日おいで下さったそうですが、あいにく不在で失礼しました。",
+    "output": "I am sorry to learn you called at my home yesterday while I was out."
+  },
+  {
+    "index": "F116374",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日インドで大きな地震が起こった。",
+    "output": "A big earthquake occurred in India yesterday."
+  },
+  {
+    "index": "F116376",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日いい考えを思いついたんです。",
+    "output": "Yesterday I hit on a good idea."
+  },
+  {
+    "index": "F116378",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日ある料理店で偶然彼女に会った。",
+    "output": "I met her by chance at a restaurant yesterday."
+  },
+  {
+    "index": "F116380",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日アメリカから来た学生に会った。",
+    "output": "I met a student from America yesterday."
+  },
+  {
+    "index": "F116382",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日あまり寝る時間がなかったので、会社に来てからウツラウツラしている。",
+    "output": "I didn't get much sleep last night so I was nodding off all day at work."
+  },
+  {
+    "index": "F116384",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日あの会社の株価が暴落した。",
+    "output": "That company's stock price fell yesterday."
+  },
+  {
+    "index": "F116386",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日あなたをお訪ねするつもりだったのですが。",
+    "output": "I had intended to visit you yesterday."
+  },
+  {
+    "index": "F116388",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日あなたはテニスをしていた。",
+    "output": "You played tennis yesterday."
+  },
+  {
+    "index": "F116390",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日あなたの手紙をポストに入れたことを覚えています。",
+    "output": "I remember posting your letter yesterday."
+  },
+  {
+    "index": "F116392",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日２学期が終わった。",
+    "output": "The second term came to an end yesterday."
+  },
+  {
+    "index": "F116394",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日１台の車がその崖から落ちた。",
+    "output": "Yesterday a car fell over the cliff."
+  },
+  {
+    "index": "F116396",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日、有給休暇を取りました。",
+    "output": "I took a paid day off yesterday."
+  },
+  {
+    "index": "F116398",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日、母とセールに出かけて、服をおねだりした。",
+    "output": "I went to a sale with my mother yesterday and kept hounding her to buy me a dress."
+  },
+  {
+    "index": "F116400",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日、彼女は病気で寝ていた。",
+    "output": "She was sick in bed yesterday."
+  },
+  {
+    "index": "F116402",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日、彼女は偶然ジャックに会った。",
+    "output": "She came across Jack yesterday."
+  },
+  {
+    "index": "F116404",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日、彼女は１０時間以上寝た。",
+    "output": "She slept more than ten hours yesterday."
+  },
+  {
+    "index": "F116406",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日、彼女の家を探すのにちょっとばかり手間取った。",
+    "output": "I had some trouble finding her house yesterday."
+  },
+  {
+    "index": "F116408",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日、彼は彼女に車の運転方法を尋ねた。",
+    "output": "He asked her how to drive a car yesterday."
+  },
+  {
+    "index": "F116410",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日、彼は基地に帰らなかった。",
+    "output": "He didn't come back to the base yesterday."
+  },
+  {
+    "index": "F116412",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日、東京は曇りでしたか。",
+    "output": "Was it cloudy in Tokyo yesterday?"
+  },
+  {
+    "index": "F116414",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日、誰かが彼女を訪ねてきた。",
+    "output": "Someone called on her yesterday."
+  },
+  {
+    "index": "F116416",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日、窓を壊したのは誰ですか。",
+    "output": "Who was it that broke the window yesterday?"
+  },
+  {
+    "index": "F116418",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日、叔父に会ったら、３日前にロンドンからかえったところだと言っていた。",
+    "output": "When I saw my uncle yesterday, he told me that he had returned from London three days before."
+  },
+  {
+    "index": "F116420",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日、私は買い物をしている間に自転車を盗まれた。",
+    "output": "Yesterday my bicycle was stolen while I was doing some shopping."
+  },
+  {
+    "index": "F116422",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日、私は道を歩いていて事故をみかけた。",
+    "output": "Yesterday, as I was walking along the street, I saw an accident."
+  },
+  {
+    "index": "F116424",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日、私は叔父の家を訪問した。",
+    "output": "I called at my uncle's house yesterday."
+  },
+  {
+    "index": "F116426",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日、私は時計を調べてもらうためにその店に行った。",
+    "output": "Yesterday I went to the store to get my watch checked."
+  },
+  {
+    "index": "F116428",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日、私は空港で有名な学者に会った。",
+    "output": "I met a famous scholar at the airport yesterday."
+  },
+  {
+    "index": "F116430",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日、私は学校から帰る途中にわか雨にあった。",
+    "output": "As I returned from school yesterday, I was caught in a sudden shower."
+  },
+  {
+    "index": "F116432",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日、私は駅で彼女に偶然出会った。",
+    "output": "Yesterday I ran across her at the station."
+  },
+  {
+    "index": "F116434",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日、私はエレンに手紙を出した。",
+    "output": "Yesterday I wrote to Ellen."
+  },
+  {
+    "index": "F116436",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日、仕事をしたのですか。",
+    "output": "Did you work yesterday?"
+  },
+  {
+    "index": "F116438",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日、胸にするどい痛みをおぼえた。",
+    "output": "I had a sharp pain in my chest yesterday."
+  },
+  {
+    "index": "F116440",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日、会社帰りに昔の彼女にバッタリ会った。",
+    "output": "Yesterday I was on my way home from work when I ran smack into my old girlfriend."
+  },
+  {
+    "index": "F116442",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日、加古川で真一に会った。",
+    "output": "I saw Shinichi in Kakogawa yesterday."
+  },
+  {
+    "index": "F116444",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日、バットがボールといっしょに盗まれた。",
+    "output": "The bat was stolen yesterday, along with the balls."
+  },
+  {
+    "index": "F116446",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日、ジャイアンツぼろ負け！！",
+    "output": "The Giants got clobbered yesterday."
+  },
+  {
+    "index": "F116448",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日、アンプを組み立てた。",
+    "output": "I built an amplifier yesterday."
+  },
+  {
+    "index": "F116450",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日、このあたりで船が沈んだ。",
+    "output": "A ship sank near here yesterday."
+  },
+  {
+    "index": "F116452",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日、アメリカから帰ってきたので、まだ頭の中が英語環境だ。",
+    "output": "I just got back from the States yesterday, so I'm still thinking in English."
+  },
+  {
+    "index": "F116454",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨日、あなたからの手紙を受け取りました。",
+    "output": "I received your letter yesterday."
+  },
+  {
+    "index": "F116456",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨秋は晴天続きだった。",
+    "output": "We had a spell of fine weather last autumn."
+  },
+  {
+    "index": "F116458",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨今は災害が頻ぴんとあった。",
+    "output": "Recently we have had several disasters."
+  },
+  {
+    "index": "F116460",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨今、物価は非常に高い。",
+    "output": "Nowadays prices of commodities are very high."
+  },
+  {
+    "index": "F116462",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "昨今、個人的自由は少なくなっている。",
+    "output": "Personal liberty is diminishing nowadays."
+  },
+  {
+    "index": "F116464",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "作文を書くのに大切なことは、自分の考えをはっきりさせることである。",
+    "output": "What is important in writing a composition is to make your ideas clear."
+  },
+  {
+    "index": "F116466",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "作文は書いてしまいましたか。",
+    "output": "Have you finished writing your composition?"
+  },
+  {
+    "index": "F116468",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "作物は枯れた。",
+    "output": "The crops have withered."
+  },
+  {
+    "index": "F116470",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "作物は厳しい寒さにやられた。",
+    "output": "The crop was blasted by the severe cold."
+  },
+  {
+    "index": "F116472",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "作物の出来不出来は試合中の選手達のボールの投げ方やけり方によって決まるものと信じられていたのです。",
+    "output": "It was believed that the success of their crops depended on the way the players threw or kicked the ball during the game."
+  },
+  {
+    "index": "F116474",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "作物には本当に雨が必要だと最近新聞で読んだ。",
+    "output": "I read in the newspaper recently that the crops really need rain."
+  },
+  {
+    "index": "F116476",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "作動温度が高いと、潤滑剤の寿命は短くなる。",
+    "output": "High operating temperatures shorten lubricant life."
+  },
+  {
+    "index": "F116478",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "作者は恋人に対する情熱を表現している。",
+    "output": "The author expresses his passion for his love."
+  },
+  {
+    "index": "F116480",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "作者の真の意志を知るためには行間を読まなければならない。",
+    "output": "You have to read between the lines to know the true intention of the author."
+  },
+  {
+    "index": "F116482",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "作曲家は音楽を作る。",
+    "output": "Composers create music."
+  },
+  {
+    "index": "F116484",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "作曲家の中では誰が一番好きですか。",
+    "output": "Which of the composers do you like best?"
+  },
+  {
+    "index": "F116486",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "作曲をするには創造力に富んでいなければならない。",
+    "output": "You must be creative in composing a piece of music."
+  },
+  {
+    "index": "F116488",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "作業員は新しい家に配線工事をしている。",
+    "output": "The workers are wiring the new house."
+  },
+  {
+    "index": "F116490",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "作業員が岩を爆破しているのを見た。",
+    "output": "We saw laborers blasting rocks."
+  },
+  {
+    "index": "F116492",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "作業をする人は髪を短くきらなければなりません。",
+    "output": "Workers must have their hair cut short."
+  },
+  {
+    "index": "F116494",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "作家は必ずしも人生をあるがままに描くとは限らない。",
+    "output": "The writer does not always present life as it is."
+  },
+  {
+    "index": "F116496",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "作家は誰でも自分に合った書き方をする。",
+    "output": "Every writer writes in the way that accords with his own idiosyncrasies."
+  },
+  {
+    "index": "F116498",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "作家は自分達の想像力を頼りにして書く。",
+    "output": "Writers draw on their imagination."
+  },
+  {
+    "index": "F116500",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "作家はよく辞書を参照する。",
+    "output": "Writers often refer to a dictionary."
+  },
+  {
+    "index": "F116502",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "作家としての彼女は伝統的なカテゴリーのいずれにも当てはまらない。",
+    "output": "As a writer, she does not fit into any of the traditional categories."
+  },
+  {
+    "index": "F116504",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "作家としては尊敬するが嫌いだ。",
+    "output": "Much as I admire him as a writer, I don't like him as a man."
+  },
+  {
+    "index": "F116506",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "作るのは難しかったですか。",
+    "output": "Was it difficult to make?"
+  },
+  {
+    "index": "F116508",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "埼玉と千葉の間に川があります。",
+    "output": "There is a river between Saitama and Chiba."
+  },
+  {
+    "index": "F116510",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "榊さんとかいう方がお見えになりました。",
+    "output": "A Mr Sakaki has come to see you."
+  },
+  {
+    "index": "F116512",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "阪神大震災では地面が長時間に渡って揺れた。",
+    "output": "In the Hanshin earthquake, the ground shook for a long time."
+  },
+  {
+    "index": "F116514",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "阪神三日天下。あっと言う間に首位から転落しちゃったよ。",
+    "output": "Hanshin's moment of glory didn't last. They fell out of first place in a hurry."
+  },
+  {
+    "index": "F116516",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "坂本さんこれからもいい仕事を続けてください。",
+    "output": "Keep up the good work, Mr. Sakamoto."
+  },
+  {
+    "index": "F116518",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "坂崎幸之助はアルフィーに所属しています。",
+    "output": "Kounosuke Sakazaki belongs to \"THE ALFEE\"."
+  },
+  {
+    "index": "F116520",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財務的な事柄に関して、ジョーンズ氏は会社の誰よりも知っている。",
+    "output": "With respect to financial matters, Mr Jones knows more than anyone else in the company."
+  },
+  {
+    "index": "F116522",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財布を無くさないでね。",
+    "output": "Don't lose your purse."
+  },
+  {
+    "index": "F116524",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財布を探すのを手伝ってくれませんか。",
+    "output": "Will you help me look for my purse?"
+  },
+  {
+    "index": "F116526",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財布を手探りしたがなくなっていた。",
+    "output": "When I felt for my pocketbook I found it was gone."
+  },
+  {
+    "index": "F116528",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財布を家に忘れてきたので１０００円貸してくれないかと彼は私に言った。",
+    "output": "He said that he had left his purse at home and asked me if I could lend him 1,000 yen."
+  },
+  {
+    "index": "F116530",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財布を家に忘れてきたことをふと思い出した。",
+    "output": "It occurred to me that I had left my purse at home."
+  },
+  {
+    "index": "F116532",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財布を握っている者が家の支配者である。",
+    "output": "Who holds the purse, rules the house."
+  },
+  {
+    "index": "F116534",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財布をヒータの上に置くな。",
+    "output": "Don't put the wallet on the top of the heater."
+  },
+  {
+    "index": "F116536",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財布をなくしたので、父はその日１日中不機嫌だった。",
+    "output": "All that day my father was out of humor because he had lost his wallet."
+  },
+  {
+    "index": "F116538",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財布をどこかこの辺に落としたんだ。",
+    "output": "I lost my wallet somewhere around here."
+  },
+  {
+    "index": "F116540",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財布をしまっておきなさい。",
+    "output": "Put away your wallet."
+  },
+  {
+    "index": "F116542",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財布をさがしているのですが。",
+    "output": "I'm looking for a wallet."
+  },
+  {
+    "index": "F116544",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財布をあらためて見たら中は空だった。",
+    "output": "I examined the purse again, and found it empty."
+  },
+  {
+    "index": "F116546",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財布の紐を締めなくてはいけない。",
+    "output": "We have to be careful with expenses."
+  },
+  {
+    "index": "F116548",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財布の中身をこの袋に空けなさい。",
+    "output": "Empty the purse into this bag."
+  },
+  {
+    "index": "F116550",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財布に金が無くなった。",
+    "output": "I have no more money in my wallet."
+  },
+  {
+    "index": "F116552",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財布にはお金が少しも残っていなかった。",
+    "output": "There was no money left in my wallet."
+  },
+  {
+    "index": "F116554",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財布にお金をいれた。",
+    "output": "I put my money in a purse."
+  },
+  {
+    "index": "F116556",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財布とパスポートがなくなってます。",
+    "output": "My wallet and passport are missing."
+  },
+  {
+    "index": "F116558",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財布が重ければ心は軽くなる。",
+    "output": "A heavy purse makes a light heart."
+  },
+  {
+    "index": "F116560",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財政不安の結果、金の価格が急騰しています。",
+    "output": "Gold prices are skyrocketing in the wake of financial instability."
+  },
+  {
+    "index": "F116562",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財政的援助が彼らに与えられている。",
+    "output": "Financial support is given to them."
+  },
+  {
+    "index": "F116564",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財政赤字の埋め合わせの一般的方法は債券発行です。",
+    "output": "A common way to finance a budget deficit is to issue bonds."
+  },
+  {
+    "index": "F116566",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財政赤字の削減が政府の大きな関心事である。",
+    "output": "Reducing the budget deficit is a major concern of the government."
+  },
+  {
+    "index": "F116568",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財政状態は週ごとに悪化している。",
+    "output": "The financial situation is getting worse week by week."
+  },
+  {
+    "index": "F116570",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財政危機に直面している発展途上国もある。",
+    "output": "Some developing countries are faced with financial crises."
+  },
+  {
+    "index": "F116572",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財政改革は今の財政難を改善するかもしれません。",
+    "output": "Financial reforms may ameliorate the current economic difficulties."
+  },
+  {
+    "index": "F116574",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財政の専門家たちは最近の動向をどう判断してよいのかわからないのです。",
+    "output": "Financial experts don't know what to make of this trend."
+  },
+  {
+    "index": "F116576",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財産目当てに結婚するものは自由を売り渡すものである。",
+    "output": "He that marries for wealth sells his liberty."
+  },
+  {
+    "index": "F116578",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財産分与が争いの種だった。",
+    "output": "The division of the property was a bone of contention between the brothers."
+  },
+  {
+    "index": "F116580",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財産を相続する。",
+    "output": "I succeed to a fortune."
+  },
+  {
+    "index": "F116582",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財を成すため、彼は地位を利用した。",
+    "output": "He exploited his position to build up his fortune."
+  },
+  {
+    "index": "F116584",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財産をそんなに見せびらかす物ではない。",
+    "output": "Don't make such a parade of your wealth."
+  },
+  {
+    "index": "F116586",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財産は父から息子へと譲られた。",
+    "output": "The property passed from father to son."
+  },
+  {
+    "index": "F116588",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財産は相続人たちの間で平等に分けられた。",
+    "output": "The property was divided equally among the heirs."
+  },
+  {
+    "index": "F116590",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財産は３人兄弟の間で分配された。",
+    "output": "The fortune was divided among the three brothers."
+  },
+  {
+    "index": "F116592",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "財産と人格とはまったく別のものだ。",
+    "output": "What we have is one thing and what we are is quite another."
+  },
+  {
+    "index": "F116594",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "罪人は考えを変えるよう彼に懇願した。",
+    "output": "The criminal pleaded with him to change his mind."
+  },
+  {
+    "index": "F116596",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "罪人は絞首台に送られた。",
+    "output": "The criminal was sent to the gallows."
+  },
+  {
+    "index": "F116598",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "罪を犯したなら、罰せられなければならない。",
+    "output": "If you commit a crime, you must be punished."
+  },
+  {
+    "index": "F116600",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "罪の報いは死である。",
+    "output": "The wages of sin is death."
+  },
+  {
+    "index": "F116602",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "サラリーマンが罪ほろぼしに僻地でひっそりと暮らしはじめた。",
+    "output": "The salaryman went to live quietly in a remote area in order to atone for his sins."
+  },
+  {
+    "index": "F116604",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "罪の意識が彼の顔にはっきり現れている。",
+    "output": "The guilt manifests itself on his face."
+  },
+  {
+    "index": "F116606",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "罪に比例して罰するべきだ。",
+    "output": "The punishment should be in proportion to the crime."
+  },
+  {
+    "index": "F116608",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "材質は何ですか。",
+    "output": "What's the material?"
+  },
+  {
+    "index": "F116610",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "在庫がなくなりははじめている。",
+    "output": "The supplies are beginning to give out."
+  },
+  {
+    "index": "F116612",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "際どかった。",
+    "output": "That was a close shave."
+  },
+  {
+    "index": "F116614",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "際どいところを辛うじて助かった。",
+    "output": "I had a close shave."
+  },
+  {
+    "index": "F116616",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "際どいところで勝つ。",
+    "output": "To win by a narrow margin."
+  },
+  {
+    "index": "F116618",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "裁判長は被告に大いに同情していた。",
+    "output": "The presiding judge was touched by pity for the accused."
+  },
+  {
+    "index": "F116620",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "裁判長は被告に死刑の判決を言い渡した。",
+    "output": "The presiding judge sentenced the defendant to death."
+  },
+  {
+    "index": "F116622",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "裁判長は、２時間の休憩を告げた。",
+    "output": "The judge called for a recess of two hours."
+  },
+  {
+    "index": "F116624",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "裁判所は彼女に罰金を支払うように命じた。",
+    "output": "The court decreed that she should pay the fine."
+  },
+  {
+    "index": "F116626",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "裁判所は彼が無罪であると判決を下した。",
+    "output": "The court adjudged him not guilty."
+  },
+  {
+    "index": "F116628",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "裁判所はその料金を支払うように命じた。",
+    "output": "The court decreed that the charge be paid."
+  },
+  {
+    "index": "F116630",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "裁判所はその弁護士に証拠の提出を求めた。",
+    "output": "The court called on the lawyer to give evidence."
+  },
+  {
+    "index": "F116632",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "裁判所が未成年の犯罪者に対してとる姿勢は成人の犯罪者に対する姿勢とは異なる。",
+    "output": "The attitude of the court toward young criminals is different from its attitude toward adult criminals."
+  },
+  {
+    "index": "F116634",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "裁判所が法律を執行する。",
+    "output": "The courts administer the law."
+  },
+  {
+    "index": "F116636",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "裁判官は傍聴人に静寂にするように命じた。",
+    "output": "The judge charged the audience to be silent."
+  },
+  {
+    "index": "F116638",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "裁判官は非常にすばやくその訴訟を片づけた。",
+    "output": "The judge disposed of the case in short order."
+  },
+  {
+    "index": "F116640",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "裁判官は彼に罰金を言い渡した。",
+    "output": "The judge sentenced him to a fine."
+  },
+  {
+    "index": "F116642",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "裁判官は彼に重い罰金を科せるのだろうか。",
+    "output": "Will the judge fine him heavily?"
+  },
+  {
+    "index": "F116644",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "裁判官は彼に死刑を宣告した。",
+    "output": "The judge condemned him to death."
+  },
+  {
+    "index": "F116646",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "裁判官は彼に五年の懲役刑を宣告した。",
+    "output": "The judge sentenced him to a jail term of five years."
+  },
+  {
+    "index": "F116648",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "裁判官は思わず笑った。",
+    "output": "The judge laughed in spite of himself."
+  },
+  {
+    "index": "F116650",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "裁判官は原告に不利な判決を下した。",
+    "output": "The judge decided against the plaintiff."
+  },
+  {
+    "index": "F116652",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "裁判官はついうっかり笑ってしまった。",
+    "output": "The judge laughed in spite of himself."
+  },
+  {
+    "index": "F116654",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "裁判官はその未決囚の行動に対する嫌悪の念をためらうことなくあからさまにして、できるだけ過酷な刑を下した。",
+    "output": "The judge made no bones about his disgust with the accused's actions and handed down the severest sentence possible."
+  },
+  {
+    "index": "F116656",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "裁判官はその囚人の一年の刑期を赦免した。",
+    "output": "The judge pardoned the prisoner a year of his sentence."
+  },
+  {
+    "index": "F116658",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "裁判官はその囚人が有罪であると決断を下した。",
+    "output": "The judge concluded that the prisoner was guilty."
+  },
+  {
+    "index": "F116660",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "裁判官は、それが初犯であることを考慮に入れた。",
+    "output": "The judge took into consideration the fact that it was his first offense."
+  },
+  {
+    "index": "F116662",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "裁判官は、その囚人が無罪だと結論をくだした。",
+    "output": "The judge concluded that the prisoner was innocent."
+  },
+  {
+    "index": "F116664",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "ヤッパリさんが裁判官に慈悲を求めて訴えた。",
+    "output": "Mr. Yappari appealed to the judge for mercy."
+  },
+  {
+    "index": "F116666",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "裁判官には慎重さがなくてはならない。",
+    "output": "Discretion is proper to judges."
+  },
+  {
+    "index": "F116668",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "裁判官が有罪の判決を下した以上、いさぎよく服役しなければならない。",
+    "output": "The judge pronounced him \"guilty\", and now he must face the music of a sentence in prison."
+  },
+  {
+    "index": "F116670",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "裁判を中断するのは不可能だ。",
+    "output": "Suspending the trial is out of the question."
+  },
+  {
+    "index": "F116672",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "裁判は三時間続いた。",
+    "output": "The court session lasted for three hours."
+  },
+  {
+    "index": "F116674",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "裁判は公明正大であることが要求される。",
+    "output": "Judgment requires impartiality."
+  },
+  {
+    "index": "F116676",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "裁判はこちらの負けにおわりそうだ。",
+    "output": "The lawsuit is likely to end in our defeat."
+  },
+  {
+    "index": "F116678",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "裁判は１０日間継続して行われた。",
+    "output": "The trial lasted for ten consecutive days."
+  },
+  {
+    "index": "F116680",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "裁判で決着をつけましょう。",
+    "output": "Let's take it to court."
+  },
+  {
+    "index": "F116682",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "菜食主義者へのおすすめは、なんですか。",
+    "output": "Can you recommend any vegetarian dishes?"
+  },
+  {
+    "index": "F116684",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "ベジタリアン用の特別メニューはありますか？",
+    "output": "Do you have a special menu for vegetarians?"
+  },
+  {
+    "index": "F116686",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "細部まで気を配りなさい。",
+    "output": "Remember to cross your t's."
+  },
+  {
+    "index": "F116688",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "細縄で鞭を作った。",
+    "output": "They made a whip out of cords."
+  },
+  {
+    "index": "F116690",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "ムリエルさんはバイトで細細と暮らしている。",
+    "output": "Muriel is making a poor living from her part-time job."
+  },
+  {
+    "index": "F116692",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "細菌は小さすぎて我々の眼には見えない。",
+    "output": "Germs are too tiny for our eyes to see."
+  },
+  {
+    "index": "F116694",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "細菌は顕微鏡の力を借りて初めて見られる。",
+    "output": "Germs can only be seen with the aid of a microscope."
+  },
+  {
+    "index": "F116696",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "細菌が病気を引き起こすことがある。",
+    "output": "Germs can cause sickness."
+  },
+  {
+    "index": "F116698",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "細く愛して長く愛して。",
+    "output": "Love me little, love me long."
+  },
+  {
+    "index": "F116700",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "細かなほこりが空中に浮いている。",
+    "output": "Particles of dust float in the atmosphere."
+  },
+  {
+    "index": "F116702",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "細かい所は省いて構わない。",
+    "output": "You may leave out the details."
+  },
+  {
+    "index": "F116704",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "細かい雨が降っていた。",
+    "output": "A fine rain was falling."
+  },
+  {
+    "index": "F116706",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "細かいところは後で決めましょう。",
+    "output": "Let's arrange the details later."
+  },
+  {
+    "index": "F116708",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "細かいことに気をつける人は、ものを書く時にｉに点をつけ、ｔに横棒をつけることを忘れないだろう。",
+    "output": "He who minds his Ps and Qs will not forget to dot the \"i's\" and cross his \"t's\", when writing."
+  },
+  {
+    "index": "F116710",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "細かいことにこだわるな。",
+    "output": "Don't split hairs."
+  },
+  {
+    "index": "F116712",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "細かいことでとやかく言うのはよそう。",
+    "output": "Let's not quibble over trivial matters."
+  },
+  {
+    "index": "F116714",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "斎藤さんを覚えていますか。",
+    "output": "Do you remember Mr Saito?"
+  },
+  {
+    "index": "F116716",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "祭日が日曜にダブると月曜が休みになる。",
+    "output": "When a holiday falls on Sunday, we have an extra holiday on Monday."
+  },
+  {
+    "index": "F116718",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "祭が終わった。",
+    "output": "The festival came to an end."
+  },
+  {
+    "index": "F116720",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砦は不意に攻撃された。",
+    "output": "The fort was attacked by surprise."
+  },
+  {
+    "index": "F116722",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "災害が相次いでその地域を襲った。",
+    "output": "A string of disasters struck the region."
+  },
+  {
+    "index": "F116724",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "災い転じて福となる。",
+    "output": "Good comes out of evil."
+  },
+  {
+    "index": "F116726",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "災い転じて福となせ。",
+    "output": "Make the best of a bad bargain."
+  },
+  {
+    "index": "F116728",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "災いを転じて福としなさい。",
+    "output": "Turn your misfortune to account."
+  },
+  {
+    "index": "F116730",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "済んでしまったことをああだこうだ言ってもどうにもならないだろう。",
+    "output": "You can critique it all you want and it won't change a thing. It's over."
+  },
+  {
+    "index": "F116732",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "済んだら戻してください。",
+    "output": "Bring it back when you are through."
+  },
+  {
+    "index": "F116734",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "済んだことは気にするな。",
+    "output": "Don't worry about what you've done."
+  },
+  {
+    "index": "F116736",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "済んだことはしかたがない。",
+    "output": "What is done cannot be undone."
+  },
+  {
+    "index": "F116738",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "済みません。通してくれますか。",
+    "output": "Excuse me. Can I get by here?"
+  },
+  {
+    "index": "F116740",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "済みません、電話に出て下さい。",
+    "output": "Please answer the phone."
+  },
+  {
+    "index": "F116742",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "歳入は増えているが経費の増加には追いつかない。",
+    "output": "Revenues are growing, but not as fast as costs."
+  },
+  {
+    "index": "F116744",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "歳月は人を待たず。",
+    "output": "Time and tide wait for no man."
+  },
+  {
+    "index": "F116746",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "歳月は距離同様二重の魅力を添える。",
+    "output": "Age, like distance, lends a double charm."
+  },
+  {
+    "index": "F116748",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "歳月はいつのまにか過ぎ去っていった。",
+    "output": "The year stole by."
+  },
+  {
+    "index": "F116750",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "栽培に適した土壌を得るには耕さなければならない。",
+    "output": "In order to get the soil ready for planting you must plow it."
+  },
+  {
+    "index": "F116752",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "採用と決定したらご通知いたします。",
+    "output": "If we decide to hire you, you will hear from us."
+  },
+  {
+    "index": "F116754",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "採点しましたか。",
+    "output": "Did you mark the papers?"
+  },
+  {
+    "index": "F116756",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "採掘が爆発した時、中には誰もいなかった。",
+    "output": "There was no one in the mine when it blew up."
+  },
+  {
+    "index": "F116758",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "才無しは財無しより、もっと始末が悪い。",
+    "output": "Want of wit is worse than want of gear."
+  },
+  {
+    "index": "F116760",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "才能を隠しているだけなんだよ。",
+    "output": "She just hides her light under a bushel."
+  },
+  {
+    "index": "F116762",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "才能は訓練を必要とする。",
+    "output": "One's talent is in need of discipline."
+  },
+  {
+    "index": "F116764",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "才能がなくても諦めてはいけない。",
+    "output": "You shouldn't give up just because you have no talent."
+  },
+  {
+    "index": "F116766",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "才能ある者を抑えておくことはできない。",
+    "output": "You can't keep a good man down."
+  },
+  {
+    "index": "F116768",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "才色兼備だ。",
+    "output": "She is as wise as fair."
+  },
+  {
+    "index": "F116770",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "才子多病、佳人薄命。",
+    "output": "Whom the gods love die young."
+  },
+  {
+    "index": "F116772",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "鳩山さんが競馬で妻子を養っていると言っています。",
+    "output": "Hatoyama says that he supports his family by gambling on horse racing."
+  },
+  {
+    "index": "F116774",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻子は運命に与えられた人質である。",
+    "output": "Wife and children are hostages given to fortune."
+  },
+  {
+    "index": "F116776",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻を待たせていたので私は駅へ急いだ。",
+    "output": "I hurried to the station as I had kept my wife waiting."
+  },
+  {
+    "index": "F116778",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻を説得して新しい車を買うのをやめさせた。",
+    "output": "I talked my wife out of buying a new car."
+  },
+  {
+    "index": "F116780",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻を元気付けようとして、トムは美しい真珠のネックレスを買ってやった。",
+    "output": "Hoping to cheer up his wife, Tom bought her a beautiful pearl necklace."
+  },
+  {
+    "index": "F116782",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻への贈り物を探しているんです。",
+    "output": "I'm looking for a gift for my wife."
+  },
+  {
+    "index": "F116784",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻は旅行に連れていって欲しいと言った。",
+    "output": "My wife suggested to me that I take her on the trip."
+  },
+  {
+    "index": "F116786",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻は養子をとりたかった。",
+    "output": "My wife wanted to adopt a child."
+  },
+  {
+    "index": "F116788",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻は毎日の決まりきった仕事に飽きつつある。",
+    "output": "My wife is getting tired of the daily routine."
+  },
+  {
+    "index": "F116790",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻は風邪を引きやすい。",
+    "output": "My wife is liable to catch a cold."
+  },
+  {
+    "index": "F116792",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻は部屋のむこう端から私に合図した。",
+    "output": "My wife gave me a sign from across the room."
+  },
+  {
+    "index": "F116794",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻は夫より長生きするものだ。",
+    "output": "Wives usually outlive husbands."
+  },
+  {
+    "index": "F116796",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻は夫から独立して財産を所有しうる。",
+    "output": "A wife can have property independent of her husband."
+  },
+  {
+    "index": "F116798",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻は彼のためにお風呂を用意した。",
+    "output": "His wife ran a hot bath for him."
+  },
+  {
+    "index": "F116800",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻は二日間の旅行に出かけた。",
+    "output": "My wife went on a two-day trip."
+  },
+  {
+    "index": "F116802",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻はひとつ目の猫を見て震え上がった。",
+    "output": "My wife shuddered at the sight of a one-eyed cat."
+  },
+  {
+    "index": "F116804",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻は世間知らずです。",
+    "output": "My wife is ignorant of the world."
+  },
+  {
+    "index": "F116806",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻は新しい家を買うかどうかじっくりと検討した。",
+    "output": "My wife deliberated whether we would buy a new house or not."
+  },
+  {
+    "index": "F116808",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻は食品を買いに毎日村のマーケットに出かける。",
+    "output": "My wife goes to the village market to buy foods every day."
+  },
+  {
+    "index": "F116810",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻は私を説き伏せて新車を買わせようとした。",
+    "output": "My wife tried to persuade me into buying a new car."
+  },
+  {
+    "index": "F116812",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻は私を説き伏せて新車を買わせた。",
+    "output": "My wife talked me into buying a new car."
+  },
+  {
+    "index": "F116814",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻は私の母とうまくやっている。",
+    "output": "My wife gets on well with my mother."
+  },
+  {
+    "index": "F116816",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻は今、肺炎にかかっています。",
+    "output": "My wife is suffering from pneumonia."
+  },
+  {
+    "index": "F116818",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻は結婚後５ポンド体重が増えた。",
+    "output": "After getting married, my wife put on five pounds."
+  },
+  {
+    "index": "F116820",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻は驚いたように見えた。",
+    "output": "My wife looked surprised."
+  },
+  {
+    "index": "F116822",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻は気分に支配されやすい。",
+    "output": "My wife is subject to moods."
+  },
+  {
+    "index": "F116824",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻は癌で死んだ。",
+    "output": "My wife died of cancer."
+  },
+  {
+    "index": "F116826",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻は外食をするのが好きなので、料理をする必要がない。",
+    "output": "My wife likes to eat out and so she doesn't have to cook."
+  },
+  {
+    "index": "F116828",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻は外食が好きで、だから食事を作る必要がないのです。",
+    "output": "My wife likes to eat out and so she doesn't have to cook."
+  },
+  {
+    "index": "F116830",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻は家を買いたい欲求に取りつかれている。",
+    "output": "My wife is possessed with the desire to buy a house."
+  },
+  {
+    "index": "F116832",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻は以前は家にいましたが、今は働いています。",
+    "output": "My wife used to stay home, but she works now."
+  },
+  {
+    "index": "F116834",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻は以前にその町にいたことを思い出した。",
+    "output": "My wife remembered having been in the town before."
+  },
+  {
+    "index": "F116836",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻はやりくりが上手だ。",
+    "output": "My wife is a good manager."
+  },
+  {
+    "index": "F116838",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻はまるで私が町一番のお金持ちであるかのようにお金を使う。",
+    "output": "My wife spends money as if I were the richest man in town."
+  },
+  {
+    "index": "F116840",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻はパートタイムで働いている。",
+    "output": "My wife works part time."
+  },
+  {
+    "index": "F116842",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻はふだん、夜はコーヒーを飲みません。私もそうです。",
+    "output": "My wife usually doesn't drink coffee at night, and neither do I."
+  },
+  {
+    "index": "F116844",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻はちょうど食卓を片付けたところだ。",
+    "output": "My wife has just cleared the table."
+  },
+  {
+    "index": "F116846",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻はいつも愚痴ばかりこぼしている。",
+    "output": "My wife is always complaining about something."
+  },
+  {
+    "index": "F116848",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻はアメリカでの新しい生活のリズムに慣れるのにえらい苦労した。",
+    "output": "My wife had a hard time getting into the swing of our new life in America."
+  },
+  {
+    "index": "F116850",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻の誕生日を忘れてから彼女が僕に冷たくてね。",
+    "output": "My wife has had it in for me since I forgot her birthday."
+  },
+  {
+    "index": "F116852",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻の死の知らせを聞いてもまゆ一つ動かさなかった。",
+    "output": "He did not even raise an eyebrow at the news of his wife's death."
+  },
+  {
+    "index": "F116854",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻の思いがけない死は、５０年以上にわたる、幸福な夫婦生活に終止符をうった。",
+    "output": "The untimely death of my wife has brought down the curtain on over 50 years of happily married life."
+  },
+  {
+    "index": "F116856",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻の金がなければ、彼は決して重役にはなれないだろう。",
+    "output": "Without his wife's money, he would never be a director."
+  },
+  {
+    "index": "F116858",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻の活動は家事に限られている。",
+    "output": "A wife's activities are confined to domestic matters."
+  },
+  {
+    "index": "F116860",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻のひっきりなしの愚痴話には本当にいらいらする。",
+    "output": "My wife's constant nagging really gets on my nerves."
+  },
+  {
+    "index": "F116862",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻に逃げられてから彼は酒を飲むようになった。",
+    "output": "He took to drinking after his wife left him."
+  },
+  {
+    "index": "F116864",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻に贈るバッグをさがしているんですが。",
+    "output": "I'm looking for a bag for my wife."
+  },
+  {
+    "index": "F116866",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻に四六時中ぶつぶつ言われるのには憂鬱になってしまう。",
+    "output": "My wife's constant nagging is getting me down."
+  },
+  {
+    "index": "F116868",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻に欠点はある。でもやはり私は彼女を愛している。",
+    "output": "My wife has faults. None the less, I love her."
+  },
+  {
+    "index": "F116870",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻と私はときどき好んで中華料理を食べに行く。",
+    "output": "My wife and I like to go out for Chinese food once in a while."
+  },
+  {
+    "index": "F116872",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻と私はしょっちゅう口論する。",
+    "output": "I constantly quarrel with my wife."
+  },
+  {
+    "index": "F116874",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻と子供たちは私に頼っている。",
+    "output": "My wife and children depend on me."
+  },
+  {
+    "index": "F116876",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻が来るまで駅で待とうと決心した。",
+    "output": "I decided to wait at the station until my wife came."
+  },
+  {
+    "index": "F116878",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻が服を着終わるまでには、バスは出てしまっていた。",
+    "output": "The bus had left by the time my wife finished dressing."
+  },
+  {
+    "index": "F116880",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻が電話してきたら、私は重要な会議中で出られないと言ってください。",
+    "output": "If my wife calls, just tell her I'm in an important meeting and cannot be disturbed."
+  },
+  {
+    "index": "F116882",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻が堕落するのは夫が悪いのだ。",
+    "output": "It is their husbands' faults if wives do fall."
+  },
+  {
+    "index": "F116884",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻が寝た後、書斎で仕事をした。",
+    "output": "I worked in my study after my wife had gone to bed."
+  },
+  {
+    "index": "F116886",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻が死んだ男の人は男やもめと呼ばれます。",
+    "output": "A man whose wife is dead is called a widower."
+  },
+  {
+    "index": "F116888",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻が家計簿をつけています。",
+    "output": "My wife keeps the household accounts."
+  },
+  {
+    "index": "F116890",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻が家を留守にしたので、彼は一人で夕食を作った。",
+    "output": "His wife being out, he cooked dinner for himself."
+  },
+  {
+    "index": "F116892",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻がいないと何かと不自由だ。",
+    "output": "I am inconvenienced when my wife is away."
+  },
+  {
+    "index": "F116894",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "妻がいなかったら、彼は仕事をかえはしなかっただろうに。",
+    "output": "If it had not been for his wife, he would not have changed his job."
+  },
+  {
+    "index": "F116896",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "このイスはあいていますか。",
+    "output": "Is this seat taken?"
+  },
+  {
+    "index": "F116898",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最良の材料のみを使用するよう十分な注意を払っております。",
+    "output": "Great care has been taken to use only the finest ingredients."
+  },
+  {
+    "index": "F116900",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最低賃金はこのところほとんど変わっていません。",
+    "output": "The minimum wage has hardly budged as of late."
+  },
+  {
+    "index": "F116902",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最低価格と一番早い納期を見積もってくださるようお願いいたします。",
+    "output": "Please estimate your best price and the earliest delivery date."
+  },
+  {
+    "index": "F116904",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最低！",
+    "output": "You're disgusting!"
+  },
+  {
+    "index": "F116906",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最低１時間前にはカウンターへいらっしゃってください。",
+    "output": "Please come to the counter at least an hour before your flight."
+  },
+  {
+    "index": "F116908",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最大限度に働いている。",
+    "output": "I am working with full steam."
+  },
+  {
+    "index": "F116910",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最大限の努力をすればあとで後悔しないから。",
+    "output": "Give it your all, and you won't be sorry later."
+  },
+  {
+    "index": "F116912",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "原子力事故に対して最大限の努力を尽くしております。",
+    "output": "We are making all efforts possible to deal with the nuclear crisis."
+  },
+  {
+    "index": "F116914",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最大限の努力をしなさい。",
+    "output": "Mark your maximum efforts."
+  },
+  {
+    "index": "F116916",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最大の注意を払って運転しなさい。",
+    "output": "Drive with the utmost care."
+  },
+  {
+    "index": "F116918",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最大の幸せは自由の中にある。",
+    "output": "The greatest happiness lies in freedom."
+  },
+  {
+    "index": "F116920",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最大の英語の辞書には４５万語以上のっている。",
+    "output": "The largest English dictionary has over 450,000 words."
+  },
+  {
+    "index": "F116922",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最大２００語以内に。",
+    "output": "Maximum length: 200 words."
+  },
+  {
+    "index": "F116924",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最善を尽くすつもりだ。",
+    "output": "I will do my best."
+  },
+  {
+    "index": "F116926",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最善を尽くすなら、成功するでしょう。",
+    "output": "If you do your best, you will succeed."
+  },
+  {
+    "index": "F116928",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最善を尽くしますが、よくいっても木曜以前に終える事は出来ません。",
+    "output": "I'll do my best, but I'll not be able to finish it before Thursday at best."
+  },
+  {
+    "index": "F116930",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最善を尽くしなさい。",
+    "output": "Do your best!"
+  },
+  {
+    "index": "F116932",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最善を尽くしなさい。そうすれば成功するでしょう。",
+    "output": "Do your best, and you will succeed."
+  },
+  {
+    "index": "F116934",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最善を尽くしていたら、私は成功したかもしれなかった。",
+    "output": "Had I done my best, I might have succeeded."
+  },
+  {
+    "index": "F116936",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最善を期待しよう。",
+    "output": "Let's hope for the best."
+  },
+  {
+    "index": "F116938",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最善をつくせば、誰も君をとがめないでしょう。",
+    "output": "If you do your best, no one will blame you."
+  },
+  {
+    "index": "F116940",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最善をつくすつもりです。",
+    "output": "I will do my best."
+  },
+  {
+    "index": "F116942",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最善をつくすことはよいことである。",
+    "output": "It is good to do your best."
+  },
+  {
+    "index": "F116944",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最善はしばしば善の敵である。",
+    "output": "The best is often the enemy of the good."
+  },
+  {
+    "index": "F116946",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最善と思われる処置を取りなさい。",
+    "output": "Take such steps as you think best."
+  },
+  {
+    "index": "F116948",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最前列の席は有りますか。",
+    "output": "Can I have a seat in the stalls?"
+  },
+  {
+    "index": "F116950",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最前列で絵を描いている女の子は私の姪です。",
+    "output": "The girl drawing a picture in the first row is my niece."
+  },
+  {
+    "index": "F116952",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最新の流行を追うのは大変お金がかかる。",
+    "output": "It is very expensive to keep up with the latest fashions."
+  },
+  {
+    "index": "F116954",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最新のメールの保存場所を間違ってしまったようです。",
+    "output": "It seems I have misplaced your last mail."
+  },
+  {
+    "index": "F116956",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最新のニュースは何ですか。",
+    "output": "What is the latest news?"
+  },
+  {
+    "index": "F116958",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最新のカタログを送りください。",
+    "output": "Please send me your latest catalogue."
+  },
+  {
+    "index": "F116960",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最上級生は週末にも図書館への入場許可がある。",
+    "output": "Senior students have access to the library at weekends."
+  },
+  {
+    "index": "F116962",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最上階にレストランがある。",
+    "output": "There is a restaurant on the top floor."
+  },
+  {
+    "index": "F116964",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最上のワインはフランスのものです。",
+    "output": "The finest wines are those from France."
+  },
+  {
+    "index": "F116966",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最上のものは後から出てくる。",
+    "output": "The best is behind."
+  },
+  {
+    "index": "F116968",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最小限どの世話だ立派に育つ植物もある。",
+    "output": "Some plants grow well with a minimum of care."
+  },
+  {
+    "index": "F116970",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初読んだ時私は君のレポートの間違いを見落としていた。",
+    "output": "I overlooked the mistakes in your paper the first time I read it."
+  },
+  {
+    "index": "F116972",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初私は彼を先生だと思っていたが、そうではなかった。",
+    "output": "At first, I thought he was a teacher, but he wasn't."
+  },
+  {
+    "index": "F116974",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初私は彼が言っていることが理解できなかった。",
+    "output": "At first, I couldn't make out what he was saying."
+  },
+  {
+    "index": "F116976",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初に何をすればよいかわからなかった。",
+    "output": "I didn't know what to do first."
+  },
+  {
+    "index": "F116978",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初私はどちらが欲しいのかわからなかったが、後になってこの赤いほうに決めた。",
+    "output": "At first I was not sure which one I wanted, but afterwards I decided on this red one."
+  },
+  {
+    "index": "F116980",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初私はギターをひくことができなかった。",
+    "output": "At first, I couldn't play the guitar."
+  },
+  {
+    "index": "F116982",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初簡単に思えるものが、あとで難しいとわかることがよくある。",
+    "output": "What seems easy at first often turns out to be difficult."
+  },
+  {
+    "index": "F116984",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初メグは、家が恋しかった。",
+    "output": "At first, Meg was homesick."
+  },
+  {
+    "index": "F116986",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初は彼は恥ずかしそうにしていた。",
+    "output": "He was shy at first."
+  },
+  {
+    "index": "F116988",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼は彼女を最初は好きではなかった。",
+    "output": "He didn't like her at first."
+  },
+  {
+    "index": "F116990",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初は彼の言っていることが分からなかった。",
+    "output": "At first, I couldn't make out what he was saying."
+  },
+  {
+    "index": "F116992",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初は彼のこと信じなかった。",
+    "output": "I didn't believe him at first."
+  },
+  {
+    "index": "F116994",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初は彼のことを信じなかった。",
+    "output": "I didn't believe him at first."
+  },
+  {
+    "index": "F116996",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初は彼のことが好きではなかったけれど今は好きです。",
+    "output": "At first I didn't like him, but I do now."
+  },
+  {
+    "index": "F116998",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初は彼が誰だか分からなかった。",
+    "output": "I didn't recognize him at first."
+  },
+  {
+    "index": "F117000",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初は彼が誰かわからなかった。",
+    "output": "I didn't recognize him at first."
+  },
+  {
+    "index": "F117002",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初は彼がよそよそしいように見えた。",
+    "output": "He looked unfriendly at first."
+  },
+  {
+    "index": "F117004",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初は誰も私を信じなかった。",
+    "output": "No one believed me at first."
+  },
+  {
+    "index": "F117006",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初は誰も私の言うことを信じなかった。",
+    "output": "No one believed me at first."
+  },
+  {
+    "index": "F117008",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初は全てのことを手帳に書き留めようとしました。",
+    "output": "At first I tried to write everything down in my notebook."
+  },
+  {
+    "index": "F117010",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初は小さな灰色の家々を通って走っていきました。",
+    "output": "At first they drove through streets of small, gray houses."
+  },
+  {
+    "index": "F117012",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初は私は彼が言っていることを理解できませんでした。",
+    "output": "At first, I couldn't understand what he said."
+  },
+  {
+    "index": "F117014",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初は私は何をしてよいかわからなかった。",
+    "output": "At first, I didn't know what to do."
+  },
+  {
+    "index": "F117016",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初は私は新しい環境に対処するのは難しいと思った。",
+    "output": "Initially I found it difficult to deal with my new environment."
+  },
+  {
+    "index": "F117018",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初は簡単に思えることがあとで難しいと分かることがよくある。",
+    "output": "What seems easy at first often turns out to be difficult."
+  },
+  {
+    "index": "F117020",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初はやさしく思われるものが、実際は難しいことがよくある。",
+    "output": "What seems easy at first often turns out to be difficult."
+  },
+  {
+    "index": "F117022",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初はみんな、彼の無実を確信していた。",
+    "output": "At first everybody was convinced of his innocence."
+  },
+  {
+    "index": "F117024",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初はバレエは好きではなかったが、しだいに好きになっていった。",
+    "output": "At first I didn't like ballet, but I've come to like it by degrees."
+  },
+  {
+    "index": "F117026",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初の電気計算器は１９世紀末に出現した。",
+    "output": "The first electric calculator came into existence toward the end of the 19th century."
+  },
+  {
+    "index": "F117028",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初は、多くのことが異なっていたように思われましたが、すぐに新しい生活にとけ込めました。",
+    "output": "At first many things seemed different, but I soon got involved in my new life."
+  },
+  {
+    "index": "F117030",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初の打者はアウトになった。",
+    "output": "The first batter was caught out."
+  },
+  {
+    "index": "F117032",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初の通りを右に曲がりなさい。",
+    "output": "Take the first street to the right."
+  },
+  {
+    "index": "F117034",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初の赤ん坊が生まれたとき、彼らはすでに結婚して１０年になっていた。",
+    "output": "When they had their first baby, they had been married for 10 years."
+  },
+  {
+    "index": "F117036",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初の信号を左へ曲がるのですか。",
+    "output": "Do I turn left at the first stoplight?"
+  },
+  {
+    "index": "F117038",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初の信号を左へ曲がって下さい。",
+    "output": "Turn left at the first light."
+  },
+  {
+    "index": "F117040",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初の条項には何と書いてあるか。",
+    "output": "How does the first article run?"
+  },
+  {
+    "index": "F117042",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初の手紙の後二通目からの手紙はすぐにきた。",
+    "output": "After the first letter the other came easily."
+  },
+  {
+    "index": "F117044",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初の攻撃は目標を外れた。",
+    "output": "The first attack missed the target."
+  },
+  {
+    "index": "F117046",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初の原子爆弾は日本に落とされた。",
+    "output": "The first atomic bomb was dropped on Japan."
+  },
+  {
+    "index": "F117048",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "２０１１年の最初の月の利益も１００万円を越えました。",
+    "output": "The revenues for the first month of 2011 exceed 1 000 000 yen."
+  },
+  {
+    "index": "F117050",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初の計画ではこの道路はすでに完成しているはずだ。",
+    "output": "This road should have already been completed according to the original plan."
+  },
+  {
+    "index": "F117052",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初の議題は、教育委員会によって提出された動議です。",
+    "output": "The first item is a motion proposed by the Education Committee."
+  },
+  {
+    "index": "F117054",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初の角を左に曲がってください。",
+    "output": "Please turn left at the first corner."
+  },
+  {
+    "index": "F117056",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初の角を右の曲がりなさい。",
+    "output": "Turn at the first corner to the right."
+  },
+  {
+    "index": "F117058",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初の角を右に曲がってまっすぐに行きなさい。",
+    "output": "Take the first turn to right and then go straight on."
+  },
+  {
+    "index": "F117060",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初の印刷機はグーテンベルグによって発明された。",
+    "output": "The first printing machine was invented by Gutenberg."
+  },
+  {
+    "index": "F117062",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初の一歩が常に最も難しい。",
+    "output": "The first step is always the hardest."
+  },
+  {
+    "index": "F117064",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初のパラグラフでは、いわゆるサプライサイドの経済戦略というものの妥当性について疑問を呈する。",
+    "output": "In the opening paragraphs I query the validity of so-called supply-side economic strategies."
+  },
+  {
+    "index": "F117066",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初のころを思い出す。",
+    "output": "I remember the first time."
+  },
+  {
+    "index": "F117068",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初のころ、人々が話すのが速すぎると、言っていることを理解するのが難しかった。",
+    "output": "At first, I had difficulty understanding people when they spoke too fast."
+  },
+  {
+    "index": "F117070",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初のころ、その少年は私の忠告にあまり注意を払わなかった。",
+    "output": "At first, the boy didn't pay much attention to my advice."
+  },
+  {
+    "index": "F117072",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初のグループは午前中に勉強し、２番目のグループは午後勉強するのです。",
+    "output": "The first group studies in the morning, and the second group studies in the afternoon."
+  },
+  {
+    "index": "F117074",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初のうちは彼女を好きではなかったが今は好きです。",
+    "output": "I didn't like her at first, but now I do."
+  },
+  {
+    "index": "F117076",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初のうちは彼は学生の顔を見分けるのに苦労した。",
+    "output": "At first he had difficulty telling one student from another."
+  },
+  {
+    "index": "F117078",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初に来る人はだれでも一番良い席をとる。",
+    "output": "Whoever comes first will get the best seats."
+  },
+  {
+    "index": "F117080",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初に来た者が最初に食物を供される。",
+    "output": "First come, first served."
+  },
+  {
+    "index": "F117082",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初に来たのはジェインだった。",
+    "output": "It was Jane who came first."
+  },
+  {
+    "index": "F117084",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初に彼の目をとらえたのはグラスについた指紋だった。",
+    "output": "The first thing that caught his eye was a fingerprint on the glass."
+  },
+  {
+    "index": "F117086",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初に着いた者が最初に接待を受ける。",
+    "output": "First come, first served."
+  },
+  {
+    "index": "F117088",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初に戦争を思いついた者に呪いあれ。",
+    "output": "Cursed be he that first invented war."
+  },
+  {
+    "index": "F117090",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初に試験を終えた生徒が必ずしも一番良い成績を取るとは限らない。",
+    "output": "The student who finishes the examination first does not always get the best grade."
+  },
+  {
+    "index": "F117092",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初に議論すべき点は、この地域に差別が存在したかどうかということである。",
+    "output": "The first point to be discussed is whether segregation existed in this district."
+  },
+  {
+    "index": "F117094",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初に何をすべきか教えてください。",
+    "output": "Please tell me what I should do first."
+  },
+  {
+    "index": "F117096",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初に右手を出しなさい。",
+    "output": "First, put the right hand out."
+  },
+  {
+    "index": "F117098",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初にデパートのバーゲンにつきあってほしいんだけど。",
+    "output": "First off, I'd like you to come with me to a department store sale."
+  },
+  {
+    "index": "F117100",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初にここに来たのは私です。",
+    "output": "It was I that came here first."
+  },
+  {
+    "index": "F117102",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初にスープを飲んだ。",
+    "output": "We began with the soup."
+  },
+  {
+    "index": "F117104",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初にすべきことは、医者を呼びに行くことだった。",
+    "output": "The first thing to do was call for the doctor."
+  },
+  {
+    "index": "F117106",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初にきたものが最初に食べ物のサービスを受ける。",
+    "output": "First come, first served."
+  },
+  {
+    "index": "F117108",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初にきたのはグレーさんでした。",
+    "output": "Mr Gray was the first man that arrived."
+  },
+  {
+    "index": "F117110",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初にあげなければならない問題は、それらのグループの間に文化障壁が存在していたかどうかということである。",
+    "output": "The first question we must raise is whether a cultural barrier existed between those groups."
+  },
+  {
+    "index": "F117112",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初に、彼は靴ひもをほどいてくつを脱いだ。",
+    "output": "The first thing he did was to untie his shoelaces and take his shoes off."
+  },
+  {
+    "index": "F117114",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初に、彼は学位論文を完成させた。",
+    "output": "First, he finished his thesis."
+  },
+  {
+    "index": "F117116",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初に、訓練生達は彼が一緒だったので落着かなかった。",
+    "output": "At first, the trainees were awkward in his company."
+  },
+  {
+    "index": "F117118",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初に、医師のベンジャミン・バーンズ氏に聞いてみましょう。",
+    "output": "First, we will talk to Doctor Benjamin Burns."
+  },
+  {
+    "index": "F117120",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初に、この実験で使用された触媒について吟味したい。",
+    "output": "As a beginning I would like to examine the catalyzer used in this experiment."
+  },
+  {
+    "index": "F117122",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初から始めよう。",
+    "output": "Let's begin at the beginning."
+  },
+  {
+    "index": "F117124",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初から最後までうっとりしてた。",
+    "output": "I mean, I was spellbound the whole time."
+  },
+  {
+    "index": "F117126",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初からもう一度やってごらん。",
+    "output": "Try it again from the first."
+  },
+  {
+    "index": "F117128",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初２人はぎこちなかったけど、話して行くうちに２人は意気投合した。",
+    "output": "We didn't hit it off too well at the beginning, but as we got to talking, we found we got along quite well."
+  },
+  {
+    "index": "F117130",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初、彼は全然英語が話せなかった。",
+    "output": "At first, he could not speak English at all."
+  },
+  {
+    "index": "F117132",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初、人々はマザー・テレサに反対していたが、彼女は決してあきらめなかった。",
+    "output": "People were against Mother Teresa at first, but she never gave up."
+  },
+  {
+    "index": "F117134",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初、新しい仕事をどうしてよいか彼はわからなかった。",
+    "output": "At first he was all at sea in his new job."
+  },
+  {
+    "index": "F117136",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初、私は舞台であがってしまったが、すぐに立ち直った。",
+    "output": "I had stage fright at first, but I got over it quickly."
+  },
+  {
+    "index": "F117138",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初、私は独りで泳げなかった。",
+    "output": "At first, I could not swim by myself."
+  },
+  {
+    "index": "F117140",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初、私はそのテストに失敗した。",
+    "output": "At first, I failed the test."
+  },
+  {
+    "index": "F117142",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初、訓練生達は彼が一緒だったので落ち着かなかった。",
+    "output": "At first the trainees were awkward in his company."
+  },
+  {
+    "index": "F117144",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最初、その計画は良いと思ったが、考え直してみて反対することにした。",
+    "output": "At first I thought I liked the plan, but on second thought I decided to oppose it."
+  },
+  {
+    "index": "F117146",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最終列車はすでに出発してしまった。",
+    "output": "The last train has already gone."
+  },
+  {
+    "index": "F117148",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最終投票がすべてを決めた。",
+    "output": "The final vote was decisive."
+  },
+  {
+    "index": "F117150",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最終電車はいつ出ますか。",
+    "output": "When does the last train leave?"
+  },
+  {
+    "index": "F117152",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最終電車に遅れはしないかと気が気でなっかった。",
+    "output": "I was impatient with fear of missing last train."
+  },
+  {
+    "index": "F117154",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最終電車に乗り遅れてしまいました。そこで、家までずっと歩くはめになりました。",
+    "output": "I missed the last train, so I had to walk all the way home."
+  },
+  {
+    "index": "F117156",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "追加の最終締め切りは６月１０日朝7時です。",
+    "output": "The new final deadline is at 7 o'clock on June 10th."
+  },
+  {
+    "index": "F117158",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最終提案は来週中に発表されます。",
+    "output": "The final proposal will be announced sometime next week."
+  },
+  {
+    "index": "F117160",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最終成績に関しては、君の最終試験によります。",
+    "output": "As to your final grade, that depends on your final examination."
+  },
+  {
+    "index": "F117162",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最終試験でボブは全くひどい目にあった。出題範囲が講義の全てにわたっていたのだ。",
+    "output": "At his final exam, Bob was really put through the wringer; the test covered everything that was in the course."
+  },
+  {
+    "index": "F117164",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最終決定は彼に任せた。",
+    "output": "We left the final decision to him."
+  },
+  {
+    "index": "F117166",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最終決定は大統領の権限である。",
+    "output": "The final decision rests with the president."
+  },
+  {
+    "index": "F117168",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最終決定は学生自身にある。",
+    "output": "The final decision rests with the students themselves."
+  },
+  {
+    "index": "F117170",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最終期限が近づいている。",
+    "output": "The deadline is drawing near."
+  },
+  {
+    "index": "F117172",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最終回にピンチヒッターが起用された。",
+    "output": "A pinch hitter was brought into action in the last inning."
+  },
+  {
+    "index": "F117174",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最終案は原案と大きく異なる。",
+    "output": "The final plan differs greatly from the original one."
+  },
+  {
+    "index": "F117176",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最終バスには乗客がほとんどいなかった。",
+    "output": "There were very few passengers on the last bus."
+  },
+  {
+    "index": "F117178",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最終バスに乗り遅れないよう、バス停に急いだ。",
+    "output": "I hurried to the bus stop so that I would not miss the last bus."
+  },
+  {
+    "index": "F117180",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最終バスが出てしまったので、私達は歩いて家に帰らねばならなかった。",
+    "output": "The last bus having gone, we had to walk home."
+  },
+  {
+    "index": "F117182",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最終バスが出てしまったいたので、私はタクシー拾わねばならなかった。",
+    "output": "The last bus having left, I had to take a taxi."
+  },
+  {
+    "index": "F117184",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最終の列車にちょうど間に合った。",
+    "output": "We were just in time for the last train."
+  },
+  {
+    "index": "F117186",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最終スコアは２対０であった。",
+    "output": "The final score was two to nothing."
+  },
+  {
+    "index": "F117188",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最高品が一番安い。",
+    "output": "The best is best cheap."
+  },
+  {
+    "index": "F117190",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最高百ドルまで遣ってよい。",
+    "output": "You may spend a maximum of 100 dollars."
+  },
+  {
+    "index": "F117192",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最高裁判所は皇居の近くにある。",
+    "output": "The Supreme Court is located near the Imperial Palace."
+  },
+  {
+    "index": "F117194",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最高裁が人種分離教育を攻撃。",
+    "output": "The Supreme Court attacks school segregation."
+  },
+  {
+    "index": "F117196",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最高裁は原判決をくつがえしました。",
+    "output": "The Supreme Court overturned a previous decision."
+  },
+  {
+    "index": "F117198",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最高の舞台だった。",
+    "output": "The performance was excellent."
+  },
+  {
+    "index": "F117200",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最高の品を扱う。",
+    "output": "Deal in top of the line of goods."
+  },
+  {
+    "index": "F117202",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最高の状態ですね。",
+    "output": "It's in peak condition."
+  },
+  {
+    "index": "F117204",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最高の金持ちさえ、すべての物を買えるわけではない。",
+    "output": "Even the richest man cannot buy everything."
+  },
+  {
+    "index": "F117206",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最高の気分だ。",
+    "output": "I feel on top of the world."
+  },
+  {
+    "index": "F117208",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最高！笑っちゃうよ。",
+    "output": "What a scream!"
+  },
+  {
+    "index": "F117210",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最高の運が向きますように祈っています。",
+    "output": "The best of luck to you."
+  },
+  {
+    "index": "F117212",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後まで話をつづけさせてください。",
+    "output": "Let me finish."
+  },
+  {
+    "index": "F117214",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後まで彼は最善を尽くした。",
+    "output": "He did his best to the last."
+  },
+  {
+    "index": "F117216",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後まで粘り抜いてね。",
+    "output": "Stick it out."
+  },
+  {
+    "index": "F117218",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "俺は最後まで闘うつもりだ。",
+    "output": "I intend on fighting till the end."
+  },
+  {
+    "index": "F117220",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後まで戦い抜こう。",
+    "output": "Let's fight to the last."
+  },
+  {
+    "index": "F117222",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後まで言わせてください。",
+    "output": "Let me finish."
+  },
+  {
+    "index": "F117224",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後まで議論の歯車が噛み合わなかった。",
+    "output": "We were arguing on different planes to the last."
+  },
+  {
+    "index": "F117226",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後までその仕事をやり遂げなければならない。",
+    "output": "You must carry the task through to the end."
+  },
+  {
+    "index": "F117228",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後までいる必要はありません。",
+    "output": "You don't have to stay to the end."
+  },
+  {
+    "index": "F117230",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後には成功しますよ。",
+    "output": "You will succeed in the end."
+  },
+  {
+    "index": "F117232",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後の葉が落ちる時、私もまた死ななければなりません。",
+    "output": "When the last leaf falls, I must go, too."
+  },
+  {
+    "index": "F117234",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後の部分を詳しく説明してくれない？",
+    "output": "Will you explain the last part in detail?"
+  },
+  {
+    "index": "F117236",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後の生理は２か月前です。",
+    "output": "My last period was two months ago."
+  },
+  {
+    "index": "F117238",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後の傷が致命的であるとわかった。",
+    "output": "The last wound proved fatal."
+  },
+  {
+    "index": "F117240",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後の瞬間になって、彼にいい考えが浮かんだ。",
+    "output": "A good idea came across his mind at the last moment."
+  },
+  {
+    "index": "F117242",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後の手段としては、いつでも職を辞められると彼は考えた。",
+    "output": "He supposed he could always quit the job in the last resort."
+  },
+  {
+    "index": "F117244",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後の最後まであきらめるな。",
+    "output": "Never give up till the very end."
+  },
+  {
+    "index": "F117246",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後の試験は来月にまたがるだろう。",
+    "output": "The final exams will probably carry over into next month."
+  },
+  {
+    "index": "F117248",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後の最後に断ってきた。",
+    "output": "He cried off at the last moment."
+  },
+  {
+    "index": "F117250",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後の詰めを怠ったばかりに、画竜点睛を欠くはめになってしまったね。",
+    "output": "You kept putting off working on the fine details on this project so it ended up lacking the finishing touches."
+  },
+  {
+    "index": "F117252",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後のつめにはいるときです。",
+    "output": "It's time to move in for the kill."
+  },
+  {
+    "index": "F117254",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後のお金を使い果たして彼は絶望していた。",
+    "output": "He was in despair when he spent the last of his money."
+  },
+  {
+    "index": "F117256",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後の２節を省略して歌いましょうか。",
+    "output": "We'll sing that song, omitting the last two verses."
+  },
+  {
+    "index": "F117258",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後の１頁を除き全部すんだ。",
+    "output": "I've finished all except the last page."
+  },
+  {
+    "index": "F117260",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後に彼にあったのは何時ですか。",
+    "output": "When did you see him last?"
+  },
+  {
+    "index": "F117262",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後に読めば、失望することはないだろう。",
+    "output": "You won't be let down if you read the entire book."
+  },
+  {
+    "index": "F117264",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後に笑う者の笑いが最上。",
+    "output": "He laughs best who laughs last."
+  },
+  {
+    "index": "F117266",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後に笑う者が最も良く笑う。",
+    "output": "He laughs best who laughs last."
+  },
+  {
+    "index": "F117268",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後に笑う者が一番よく笑う。",
+    "output": "He laughs best who laughs last."
+  },
+  {
+    "index": "F117270",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後に勝つのは正義であって力ではない。",
+    "output": "It is justice, and not might, that wins in the end."
+  },
+  {
+    "index": "F117272",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後に出て行ったのは背の高い男で、顔は青白く、つややかな黒い髪をしていた。",
+    "output": "The last to leave was a tall man, with a pale face and smooth, black hair."
+  },
+  {
+    "index": "F117274",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後に健康診断をしたのはいつですか。",
+    "output": "When did you have your last physical examination?"
+  },
+  {
+    "index": "F117276",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後には全てうまく行く事を願っている。",
+    "output": "I hope everything will turn out well in the end."
+  },
+  {
+    "index": "F117278",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後には正義は勝つものだ。",
+    "output": "Justice will prevail in the end."
+  },
+  {
+    "index": "F117280",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後にはすべてうまく行くことを祈っている。",
+    "output": "I hope everything will turn out well in the end."
+  },
+  {
+    "index": "F117282",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後にはすごい名案が思いついた。",
+    "output": "I finally came up with a great idea."
+  },
+  {
+    "index": "F117284",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後にはうまく収まるだろう。",
+    "output": "It'll come right in the end."
+  },
+  {
+    "index": "F117286",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後にコンピューターを使ったのは誰なのだ。",
+    "output": "Who was the last person to log on to the computer?"
+  },
+  {
+    "index": "F117288",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最後にゴールに入ったのは誰ですか。",
+    "output": "Who was the last to reach the goal?"
+  },
+  {
+    "index": "F117290",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近木村君に少しも会わない。",
+    "output": "I haven't seen anything of Mr Kimura lately."
+  },
+  {
+    "index": "F117292",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近無理をしていませんか。",
+    "output": "Are you overworking yourself lately?"
+  },
+  {
+    "index": "F117294",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近忘れっぽくて困っています。",
+    "output": "I'm getting forgetful these days, but what can you do?"
+  },
+  {
+    "index": "F117296",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近変わった海洋生物が発見された。",
+    "output": "A strange marine creature was found recently."
+  },
+  {
+    "index": "F117298",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近彼女を見かけない。",
+    "output": "We haven't seen her of late."
+  },
+  {
+    "index": "F117300",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近彼女に全然会ってない。",
+    "output": "I have seen nothing of her lately."
+  },
+  {
+    "index": "F117302",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近彼女に会っていない。",
+    "output": "I have not seen her lately."
+  },
+  {
+    "index": "F117304",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近彼女にあったとき、とても幸せそうだった。",
+    "output": "When I saw her recently, she looked very happy."
+  },
+  {
+    "index": "F117306",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近彼女から便りをもらいましたか。",
+    "output": "Have you heard from her recently?"
+  },
+  {
+    "index": "F117308",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近彼女から手紙をもらいましたか。",
+    "output": "Have you heard from her recently?"
+  },
+  {
+    "index": "F117310",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近彼らは勉強しています。",
+    "output": "They are studying these days."
+  },
+  {
+    "index": "F117312",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近彼は新しい事業を始めた。",
+    "output": "Recently he launched a new business."
+  },
+  {
+    "index": "F117314",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近彼は結婚生活の意味がわかるようになった。",
+    "output": "Recently he has come to realize the significance of married life."
+  },
+  {
+    "index": "F117316",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近彼の話し方に慣れてきた。",
+    "output": "I have recently become accustomed to his way of speaking."
+  },
+  {
+    "index": "F117318",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近彼のうわさを全然きかない。",
+    "output": "I have heard nothing of him lately."
+  },
+  {
+    "index": "F117320",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近彼に会っていない。",
+    "output": "I have not seen him lately."
+  },
+  {
+    "index": "F117322",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近彼に会った。",
+    "output": "I saw him recently."
+  },
+  {
+    "index": "F117324",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近彼と連絡をとっていますか。",
+    "output": "Have you been in contact with him recently?"
+  },
+  {
+    "index": "F117326",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近彼とよくあっているのかい。",
+    "output": "Have you been seeing a lot of him recently?"
+  },
+  {
+    "index": "F117328",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近、彼とはあまり会っていない。",
+    "output": "I have not seen much of him recently."
+  },
+  {
+    "index": "F117330",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近彼とあまり会わない。",
+    "output": "I haven't seen much of him recently."
+  },
+  {
+    "index": "F117332",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近彼が亡くなった。",
+    "output": "He died recently."
+  },
+  {
+    "index": "F117334",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近彼から便りがない。病気でないといいのだが。",
+    "output": "I haven't heard from him of late. I hope he is not sick."
+  },
+  {
+    "index": "F117336",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近彼から便りがあったかい。",
+    "output": "Have you heard from him recently?"
+  },
+  {
+    "index": "F117338",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近彼から手紙が来ることはますます少なくなった。",
+    "output": "He writes to me less and less often these days."
+  },
+  {
+    "index": "F117340",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近熱帯植物の貴重な化石が見つかった。",
+    "output": "A unique fossil of a tropical plant was found recently."
+  },
+  {
+    "index": "F117342",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近調子はどう、フランク？",
+    "output": "How's everything these days, Frank?"
+  },
+  {
+    "index": "F117344",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近調子が良くありません。",
+    "output": "I'm not in good shape now."
+  },
+  {
+    "index": "F117346",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近調子が悪そうですね。",
+    "output": "The condition seems to be bad recently."
+  },
+  {
+    "index": "F117348",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近虫が多くなった。",
+    "output": "Recently the number of worms increased."
+  },
+  {
+    "index": "F117350",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近遅刻の回数が増えている。",
+    "output": "You've been late for school more often than before."
+  },
+  {
+    "index": "F117352",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近地震が多いので恐ろしい。",
+    "output": "It scares me that we have frequently had earthquakes lately."
+  },
+  {
+    "index": "F117354",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近沢山の公衆浴場が倒産しました。",
+    "output": "Recently, many public bath-houses have gone out of business."
+  },
+  {
+    "index": "F117356",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近体の調子があまりよくない。",
+    "output": "Recently the condition of the body is not so good."
+  },
+  {
+    "index": "F117358",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近多数のグループが助言をしてきた。",
+    "output": "Recently numerous groups have offered counsel."
+  },
+  {
+    "index": "F117360",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近多くの女性が家の外で働いている。",
+    "output": "Many women work outside their homes these days."
+  },
+  {
+    "index": "F117362",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近多くの交通事故が起こっている。",
+    "output": "A number of traffic accidents have happened recently."
+  },
+  {
+    "index": "F117364",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近多くの交通事故がその道路で起こった。",
+    "output": "Recently, many traffic accidents have occurred on that road."
+  },
+  {
+    "index": "F117366",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近青少年の自殺があとをたたない。",
+    "output": "There seems to be no end to the number of young people committing suicide these days."
+  },
+  {
+    "index": "F117368",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近食欲がないんです。",
+    "output": "Recently I have had no appetite."
+  },
+  {
+    "index": "F117370",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近出版された書物のうちで、読む価値のあるものはほんのわずかしかない。",
+    "output": "Of all the books published recently, only a few are worth reading."
+  },
+  {
+    "index": "F117372",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近主婦業がやっと板についてきたって感じなのよねえ。",
+    "output": "I feel like I'm just getting comfortable with my homemaking chores."
+  },
+  {
+    "index": "F117374",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近車の数がずっと増えてきた。",
+    "output": "Recently the number of cars has greatly increased."
+  },
+  {
+    "index": "F117376",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近視力が落ちてきた。",
+    "output": "My vision is getting worse these days."
+  },
+  {
+    "index": "F117378",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近自動車事故に遭いました。",
+    "output": "I was recently in an automobile accident."
+  },
+  {
+    "index": "F117380",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近私は忙しい。",
+    "output": "These days I'm very busy."
+  },
+  {
+    "index": "F117382",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近私は別のアパートに引っ越した。",
+    "output": "Recently I moved to another apartment."
+  },
+  {
+    "index": "F117384",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近私は彼に全然会っていない。",
+    "output": "I have seen nothing of him recently."
+  },
+  {
+    "index": "F117386",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近私は彼と会っていない。",
+    "output": "I haven't seen much of him recently."
+  },
+  {
+    "index": "F117388",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近よく眠れないんです。",
+    "output": "I cannot get enough sleep any more."
+  },
+  {
+    "index": "F117390",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近、私、だれてるの。",
+    "output": "I've been sluggish recently."
+  },
+  {
+    "index": "F117392",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近思いもよらない事件が多いね。事実は小説より奇なり、とはよく言ったもんだよ。",
+    "output": "You hear about a lot of incidents these days that would be hard to dream up. It really backs up the old saying that fact is stranger than fiction."
+  },
+  {
+    "index": "F117394",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近君はどうしているか詳しい便りをください。",
+    "output": "I want to hear all your news."
+  },
+  {
+    "index": "F117396",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近共産主義は拡大した。",
+    "output": "Recently communism has extended its power."
+  },
+  {
+    "index": "F117398",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近喫煙を禁止する国が増えている。",
+    "output": "Recently, more and more countries have prohibited smoking."
+  },
+  {
+    "index": "F117400",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近絵を始めたんだ。",
+    "output": "I've taken up painting recently."
+  },
+  {
+    "index": "F117402",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近海外へ行く学生が増えている。",
+    "output": "The number of students going overseas has been increasing lately."
+  },
+  {
+    "index": "F117404",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近社会に多くの変化があった。",
+    "output": "Society has seen a lot of change recently."
+  },
+  {
+    "index": "F117406",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近会社はこの様な支出を正当化できる。",
+    "output": "Now the company can justify such expenditure."
+  },
+  {
+    "index": "F117408",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近何かおもしろいもの読んだ？",
+    "output": "Have you read anything interesting lately?"
+  },
+  {
+    "index": "F117410",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近王室ファミリーについて出された本で二冊が傑出している。",
+    "output": "Two books stand out among the dozens recently published on the Royal Family."
+  },
+  {
+    "index": "F117412",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近駅の改札あたりで、平気でイチャイチャしてる若い奴等多くなったよなあ。",
+    "output": "Lately you see more young couples making out at the train station ticket gates acting as though nobody in the world existed."
+  },
+  {
+    "index": "F117414",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近映画を見ましたか。",
+    "output": "Have you seen any movies lately?"
+  },
+  {
+    "index": "F117416",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近引っ越した部屋は日当たりが良い。",
+    "output": "The room I've moved into recently gets plenty of sunshine."
+  },
+  {
+    "index": "F117418",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近一人暮しの老人が多い。",
+    "output": "These days many old people live by themselves."
+  },
+  {
+    "index": "F117420",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近われわれはしばしばそこへ行く。",
+    "output": "We go there often."
+  },
+  {
+    "index": "F117422",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近医学の方面でどんどんめざましい進歩がみられる。",
+    "output": "Rapid and remarkable advances have been made in medicine."
+  },
+  {
+    "index": "F117424",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近よく彼と会う。",
+    "output": "I've seen much of him recently."
+  },
+  {
+    "index": "F117426",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近メールの調子が悪い。",
+    "output": "Something's wrong with my e-mail."
+  },
+  {
+    "index": "F117428",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近まではわれわれは石油を当然視していた。",
+    "output": "Until recently we took oil for granted."
+  },
+  {
+    "index": "F117430",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近まで、女性の主な役目は結婚して子供を生むことであった。",
+    "output": "Until recently, the main function of women was to marry and give birth to children."
+  },
+  {
+    "index": "F117432",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近は暮らしにくい。",
+    "output": "Life is getting hard these days."
+  },
+  {
+    "index": "F117434",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近は彼女から便りが無い。",
+    "output": "We haven't heard from her of late."
+  },
+  {
+    "index": "F117436",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近は彼から何の便りもない。",
+    "output": "I have heard nothing from him of late."
+  },
+  {
+    "index": "F117438",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近は日本で働いたり勉強したりする外国人が多くなった。",
+    "output": "Recently, the number of foreigners working or studying in Japan has increased."
+  },
+  {
+    "index": "F117440",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近は読書の時間がほとんどない。",
+    "output": "I've got little time for reading these days."
+  },
+  {
+    "index": "F117442",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近は誰も幽霊の存在など信じない。",
+    "output": "Nowadays nobody believes in ghosts."
+  },
+  {
+    "index": "F117444",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近は小家族化の傾向がある。",
+    "output": "There's a trend these days towards small families."
+  },
+  {
+    "index": "F117446",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近は車で旅行する人が多い。",
+    "output": "Nowadays many people travel by car."
+  },
+  {
+    "index": "F117448",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近は個人的メールのことを考える余裕もありませんでした。",
+    "output": "I have hardly had a minute lately to think about personal e-mails."
+  },
+  {
+    "index": "F117450",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近は寒い日が続く。",
+    "output": "Now we are having one cold day after another."
+  },
+  {
+    "index": "F117452",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近は学生でさえ、ずいぶん外国へ行くようになった。",
+    "output": "Recently even students have come to visit foreign countries quite often."
+  },
+  {
+    "index": "F117454",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近は何か変わったことがあるかい？",
+    "output": "What's happening?"
+  },
+  {
+    "index": "F117456",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近は何をやっても旨く行かないから、自信喪失だよ。",
+    "output": "Nothing I do lately seems to turn out right. I'm losing confidence in myself."
+  },
+  {
+    "index": "F117458",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近は異常気象がよくある。",
+    "output": "We often have unusual weather these days."
+  },
+  {
+    "index": "F117460",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近は安全地帯が必ずしも安全ではない。",
+    "output": "Nowadays, a safety zone is not always safe."
+  },
+  {
+    "index": "F117462",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近はみんなが幸せそうに見える。",
+    "output": "Everybody is happy nowadays."
+  },
+  {
+    "index": "F117464",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近はどんな物に凝っているの？",
+    "output": "What are you into these days?"
+  },
+  {
+    "index": "F117466",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近はどんな具合ですか。",
+    "output": "How are you getting along?"
+  },
+  {
+    "index": "F117468",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近はたくさんの建設が行われている。",
+    "output": "A lot of construction is going on these days."
+  },
+  {
+    "index": "F117470",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近パソコンを始めた。",
+    "output": "I started using PCs recently."
+  },
+  {
+    "index": "F117472",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近はいかがお過ごしですか。",
+    "output": "How are you getting along these days?"
+  },
+  {
+    "index": "F117474",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近はあまり父に会わない。",
+    "output": "I see little of my father these days."
+  },
+  {
+    "index": "F117476",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近はあまり彼と会っていない。",
+    "output": "I haven't seen much of him recently."
+  },
+  {
+    "index": "F117478",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近は１ドルではたいして物が買えない。",
+    "output": "A dollar does not go very far these days."
+  },
+  {
+    "index": "F117480",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近は、年下のくせにため口を聞く奴が多すぎる。",
+    "output": "These days more and more young people talk to their elders on even terms."
+  },
+  {
+    "index": "F117482",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近は、航空券の格安チケットも仕組みが複雑すぎて、わかりにくいことが多い。",
+    "output": "Lately the discount airline ticket system has gotten so complicated that there's a lot about it I can't figure out."
+  },
+  {
+    "index": "F117484",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近は、結婚しても自分の姓を変えたくないという女性が増えている。",
+    "output": "These days the number of women who don't want to change their family names even after they get married is increasing."
+  },
+  {
+    "index": "F117486",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近は、一本早い電車で来ているんだ。",
+    "output": "I've been coming to work one train earlier lately."
+  },
+  {
+    "index": "F117488",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近の猫はネズミを食べない。",
+    "output": "Modern cats don't eat rats."
+  },
+  {
+    "index": "F117490",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近の漫画は暴力や性の描写が多すぎる。",
+    "output": "Recent comics have too many violent and sexual scenes."
+  },
+  {
+    "index": "F117492",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近の日本の政治はよくない。",
+    "output": "The modern Japanese politics is bad."
+  },
+  {
+    "index": "F117494",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近の日本のレコードで一番売れているのは何だと思いますか。",
+    "output": "What do you think are the best sellers of the latest Japanese records?"
+  },
+  {
+    "index": "F117496",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近の調査は大都市の人口密度がていかしていることを示した。",
+    "output": "A recent survey revealed that the population density in the metropolis was decreasing."
+  },
+  {
+    "index": "F117498",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近の調査が大都市の人口密度の低下を示している。",
+    "output": "A recent survey reveals that the population density in the metropolis is decreasing."
+  },
+  {
+    "index": "F117500",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近の船は乗組員が少なくすむ。",
+    "output": "Modern ships only need a small crew."
+  },
+  {
+    "index": "F117502",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近の女子高生は、携帯でメールしているらしい。",
+    "output": "Lately high school girls are using their cell phones to exchange e-mail."
+  },
+  {
+    "index": "F117504",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近の若い夫の中には、妻の家事の手助けをする者が増えている。",
+    "output": "These days more young husbands help their wives with housework."
+  },
+  {
+    "index": "F117506",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近の若い子たちのファッションにはついていけないわ。",
+    "output": "I can't keep up with the fashions of young girls these days."
+  },
+  {
+    "index": "F117508",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近の若いやつらは足が長いよね。俺の倍はある。",
+    "output": "Some of these young people have legs twice as long as mine."
+  },
+  {
+    "index": "F117510",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近の原発事故に関して、大統領は特別に声明を出した。",
+    "output": "The president made special remarks with reference accident in the nuclear reactor."
+  },
+  {
+    "index": "F117512",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近の研究によれば、日本人の平均寿命はまだ伸びているそうだ。",
+    "output": "According to a recent study, the average life span of the Japanese is still increasing."
+  },
+  {
+    "index": "F117514",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近の研究が証明していることは、エメット理論を適用することが常に欠陥なしとはいえないということである。",
+    "output": "Recent investigations have demonstrated that the application of Emmet's theory is not always without defects."
+  },
+  {
+    "index": "F117516",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近の銀行員の態度はなんと慇懃無礼なことか。何様だと思ってるんだ。",
+    "output": "These bank employees seem so politely insolent lately. I wonder what's behind it."
+  },
+  {
+    "index": "F117518",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近の凶悪事件をニュースで見るたび、バーチャルな世界と生きる世界の区別がなくなった若者が急増していることに気付かされる。",
+    "output": "These days when I hear about these horrible incidents on the news I get the feeling that more and more young people are losing their ability to distinguish between real and virtual worlds."
+  },
+  {
+    "index": "F117520",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近の海外移転の動きを見てもわかるように、製造業の生産性改善も限界に近いところまで進んでいる。",
+    "output": "Recent overseas transfers show that productivity improvements in Japanese manufacturing industry have almost reached their limit."
+  },
+  {
+    "index": "F117522",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近のプロ野球はおもしろい。",
+    "output": "Pro baseball is interesting these days."
+  },
+  {
+    "index": "F117524",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近のハリケーンのために多くの人が家を失った。",
+    "output": "Due to the recent hurricane, a lot of people lost their homes."
+  },
+  {
+    "index": "F117526",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近のニュースは何ですか。",
+    "output": "What is the latest news?"
+  },
+  {
+    "index": "F117528",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近のテレビ番組のことは知らないんだ。",
+    "output": "I'm really not up on recent TV shows."
+  },
+  {
+    "index": "F117530",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近のコーヒーの不足は大きな問題をひきおこした。",
+    "output": "The recent shortage of coffee has given rise to a lot of problems."
+  },
+  {
+    "index": "F117532",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近のカタログを送ってくだされば幸いです。",
+    "output": "I'd appreciate it if you sent me your latest catalog."
+  },
+  {
+    "index": "F117534",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近のある調査によると喫煙者の数は減少しつつある。",
+    "output": "A recent survey shows that the number of smokers is decreasing."
+  },
+  {
+    "index": "F117536",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近のアメリカ人の暮らし振りはどうですか。",
+    "output": "How is livelihood in America these day?"
+  },
+  {
+    "index": "F117538",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近になって初めて彼女は考えを変えた。",
+    "output": "It was not until recently that she changed her mind."
+  },
+  {
+    "index": "F117540",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近になってようやく人々は自然保護の必要性を痛感するようになってきた。",
+    "output": "It is only recently that people have begun to realize the importance of nature conservation."
+  },
+  {
+    "index": "F117542",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近トムに会ってないな。",
+    "output": "I haven't seen Tom lately."
+  },
+  {
+    "index": "F117544",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近どうしてるの？",
+    "output": "How are you doing these days?"
+  },
+  {
+    "index": "F117546",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近では多くの老人が時勢に付いていけない。",
+    "output": "Many old people these days cannot keep up with the times."
+  },
+  {
+    "index": "F117548",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近では、女性が一人旅をするのは珍しいことではない。",
+    "output": "Nowadays it is not unusual for a woman to travel alone."
+  },
+  {
+    "index": "F117550",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近では国際問題ではほとんど一致することがない。",
+    "output": "There is little harmony in international affairs nowadays."
+  },
+  {
+    "index": "F117552",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近ではジョンは時々気分が晴れることがある。",
+    "output": "Recently John feels better on and off."
+  },
+  {
+    "index": "F117554",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近では、多くの老人が時勢についていけない。",
+    "output": "Many old people these days can't keep up with the times."
+  },
+  {
+    "index": "F117556",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近では、人々が移民していく場合、日光とか植物、あるいは召使いを求めていくというわけではない。",
+    "output": "These days, when people emigrate, it is not so much in search of sunshine, or food, or even servants."
+  },
+  {
+    "index": "F117558",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近では、海外旅行する日本人が増えてきた。",
+    "output": "More and more Japanese are traveling abroad these days."
+  },
+  {
+    "index": "F117560",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近ダイエットを始めた。",
+    "output": "Recently I started the diet."
+  },
+  {
+    "index": "F117562",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近この仕事にかかりきりです。",
+    "output": "I'm tied up with this job recently."
+  },
+  {
+    "index": "F117564",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近コンピューター用の新しい机を買いました。",
+    "output": "I just bought a new desk for my computer."
+  },
+  {
+    "index": "F117566",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近お姉さんから便りがありますか。",
+    "output": "Have you heard from your sister lately?"
+  },
+  {
+    "index": "F117568",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近エリザベスにちっともあってない。",
+    "output": "I have not seen anything of Elizabeth lately."
+  },
+  {
+    "index": "F117570",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近うちの会社新しいカメラ発売したんだけど、今までとはちょっと違ったデザインなんだ。",
+    "output": "The new camera our company has been marketing lately has a design different from any we've marketed before."
+  },
+  {
+    "index": "F117572",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近あまり会わない。",
+    "output": "We don't meet very often recently."
+  },
+  {
+    "index": "F117574",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近、僕は別のアパートに引っ越した。",
+    "output": "Recently I moved to another apartment."
+  },
+  {
+    "index": "F117576",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近、物価が下がった。",
+    "output": "Prices dropped recently."
+  },
+  {
+    "index": "F117578",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近、物忘れが激しくて。少しボケてきたのかな？",
+    "output": "Could I be going soft in the head? I forget things so easily these days."
+  },
+  {
+    "index": "F117580",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近、彼は私を非難している。",
+    "output": "Lately, he reproaches me."
+  },
+  {
+    "index": "F117582",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近、彼は私を困らせている。",
+    "output": "Recently he bothers me."
+  },
+  {
+    "index": "F117584",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近、彼のちょっとした言葉に苛々する。",
+    "output": "Recently I get annoyed at the slightest thing he says."
+  },
+  {
+    "index": "F117586",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近、彼のうわさを耳にしていない。",
+    "output": "We haven't heard of him lately."
+  },
+  {
+    "index": "F117588",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近、彼には全く会っていません。",
+    "output": "I haven't seen anything of him lately."
+  },
+  {
+    "index": "F117590",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近、肺結核を患う人はほとんどいない。",
+    "output": "These days few people suffer from tuberculosis."
+  },
+  {
+    "index": "F117592",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近、日本の父親の威厳と重要性は減少した。",
+    "output": "Recently, the dignity and importance of the Japanese father has diminished."
+  },
+  {
+    "index": "F117594",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近、体重が減りました。",
+    "output": "I've lost weight recently."
+  },
+  {
+    "index": "F117596",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近、太ってきました。",
+    "output": "I am putting on weight these days."
+  },
+  {
+    "index": "F117598",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近、寝不足だ。",
+    "output": "I haven't been getting enough sleep lately."
+  },
+  {
+    "index": "F117600",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近、出生率は低下し続けている。",
+    "output": "The birth rate has been decreasing recently."
+  },
+  {
+    "index": "F117602",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近、周りでも離婚が多いようだけど、子は鎹って事は、今は昔となったのかね。",
+    "output": "Lately I see a lot of parents getting divorced. I wonder if the idea of kids being a bond between their parents is just a thing of the past."
+  },
+  {
+    "index": "F117604",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近、社員の入れ替わりが激しくないですか。",
+    "output": "The turnover at my company is really speeding up lately."
+  },
+  {
+    "index": "F117606",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近、銀行の貸し渋りで倒産する会社が増えている。",
+    "output": "A lot of companies are going under lately because banks are so tight with their money."
+  },
+  {
+    "index": "F117608",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近、学校時代の旧友と接触がありましたか。",
+    "output": "Have you been in contact with one of your old school friends recently?"
+  },
+  {
+    "index": "F117610",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近、我が社の機器を最新のものにした。",
+    "output": "Recently we have brought our office equipment up to date."
+  },
+  {
+    "index": "F117612",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近、何かおもしろい本読んだ？",
+    "output": "Have you read any interesting books lately?"
+  },
+  {
+    "index": "F117614",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近、鉛筆を使う学生はほとんどいない。",
+    "output": "Few students use pencils these days."
+  },
+  {
+    "index": "F117616",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近、ロザリー・オコナーに会ったわ。",
+    "output": "I saw Rosalie O'Connor recently."
+  },
+  {
+    "index": "F117618",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近、ホワイトさんとは連絡を取っていますか。",
+    "output": "Have you been in contact with Mr White recently?"
+  },
+  {
+    "index": "F117620",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近、なぜ会社に顔を見せないの？",
+    "output": "Why haven't you been showing up to work lately?"
+  },
+  {
+    "index": "F117622",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近、この製品に対する需要が供給を上まわっている。",
+    "output": "Recently the demand for this product has increased faster than the supply."
+  },
+  {
+    "index": "F117624",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近、お腹の周りに肉がついてきたみたい。中年太りかな。",
+    "output": "I'm getting a spare tire around my waist. I guess it's middle age creeping up on me."
+  },
+  {
+    "index": "F117626",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近、いくら寝ても眠い。なんか、変な病気にでもかかったのかな。",
+    "output": "Lately it seems that no matter how much I sleep, I stay tired. I wonder if I've come down with something strange."
+  },
+  {
+    "index": "F117628",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最近、あらゆる所でカラスを見かける。",
+    "output": "Lately, we see crows everywhere."
+  },
+  {
+    "index": "F117630",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最寄りの郵便局へはどう行けばいいですか。",
+    "output": "How can I get to the nearest post office?"
+  },
+  {
+    "index": "F117632",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最寄りの電話はどこですか。",
+    "output": "Where is the nearest telephone?"
+  },
+  {
+    "index": "F117634",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最寄りの地下鉄の駅はどこにありますか。",
+    "output": "Where's the nearest subway station?"
+  },
+  {
+    "index": "F117636",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最寄りの地下鉄へ行く道を教えてくれませんか。",
+    "output": "Can you direct me to the nearest subway station?"
+  },
+  {
+    "index": "F117638",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最寄りの地下鉄の駅へ行く道を教えて下さいませんか。",
+    "output": "Can you direct me to the nearest subway station?"
+  },
+  {
+    "index": "F117640",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最寄りの警察署はどこですか。",
+    "output": "Where is the nearest police station?"
+  },
+  {
+    "index": "F117642",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最寄りの駅へ行く道を教えていただけますか。",
+    "output": "Can you tell me how to get to the nearest station?"
+  },
+  {
+    "index": "F117644",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最寄りの駅へはどう行ったらいいのですか。",
+    "output": "Could you tell me how to get to the nearest station?"
+  },
+  {
+    "index": "F117646",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最寄りの駅はどこにありますか。",
+    "output": "Where is the nearest station?"
+  },
+  {
+    "index": "F117648",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最寄りの駅から遠く離れた所にすんでいる。",
+    "output": "I live miles away from the nearest station."
+  },
+  {
+    "index": "F117650",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最寄の郵便局へ行く道をおしえてくれますか。",
+    "output": "Can you tell me the way to the nearest post office?"
+  },
+  {
+    "index": "F117652",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最悪を覚悟している。",
+    "output": "I am prepared for the worst."
+  },
+  {
+    "index": "F117654",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最悪の友と敵は死にほかならぬ。",
+    "output": "The worst friend and enemy is but Death."
+  },
+  {
+    "index": "F117656",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最悪の場合の覚悟はできていますか。",
+    "output": "Are you prepared for the worst?"
+  },
+  {
+    "index": "F117658",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最悪の場合でも彼女は２等賞を取れるだろう。",
+    "output": "She can get the second prize at worst."
+  },
+  {
+    "index": "F117660",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最悪の事態はもう終わった。",
+    "output": "The worst is over."
+  },
+  {
+    "index": "F117662",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最悪の事態はこれからくるはずだ。",
+    "output": "The worst is still to come."
+  },
+  {
+    "index": "F117664",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最悪の事態に備えることが必要です。",
+    "output": "It is necessary to prepare for the worst."
+  },
+  {
+    "index": "F117666",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最悪の事態に対して覚悟しなければならない。",
+    "output": "You must prepare for the worst."
+  },
+  {
+    "index": "F117668",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最悪の事態が生じた。",
+    "output": "The worst situation resulted."
+  },
+  {
+    "index": "F117670",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最悪に備える必要がある。",
+    "output": "It is necessary that we should prepare for the worst."
+  },
+  {
+    "index": "F117672",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最悪でも平均点は取れるだろう。",
+    "output": "At worst, I will get an average mark."
+  },
+  {
+    "index": "F117674",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最愛の友人たちにも分かれのときがくる。",
+    "output": "The best of friends must part."
+  },
+  {
+    "index": "F117676",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最も良い方法は１度に１つの事をすることだ。",
+    "output": "The best way is to do one thing at a time."
+  },
+  {
+    "index": "F117678",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最も良い価格で見積もって下さい。",
+    "output": "Would you kindly quote your best price?"
+  },
+  {
+    "index": "F117680",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最も利口な生徒でさえもばかげた間違いをすることがある。",
+    "output": "Even the cleverest students can make silly mistakes."
+  },
+  {
+    "index": "F117682",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最も野性的な子馬が最高の駿馬になる。",
+    "output": "The wildest colt makes the best horse."
+  },
+  {
+    "index": "F117684",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最も忙しい人こそもっとも暇が多い。",
+    "output": "The busiest people have the most leisure."
+  },
+  {
+    "index": "F117686",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最も美しい動物の中の一つは猫だ。",
+    "output": "One of the most beautiful animals is the cat."
+  },
+  {
+    "index": "F117688",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最も低い見積価格をご提示していることをご理解ください。",
+    "output": "Please note that we have quoted the lowest possible price."
+  },
+  {
+    "index": "F117690",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最も多くを制する者は、なるべくなりをひそめる。",
+    "output": "They that govern the most make the least noise."
+  },
+  {
+    "index": "F117692",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最も速い旅行の手段は飛行機に乗ることだ。",
+    "output": "The quickest means of travel is by plane."
+  },
+  {
+    "index": "F117694",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最も重要なのが住環境の快適性である。",
+    "output": "The most important thing is a pleasant living environment."
+  },
+  {
+    "index": "F117696",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最も重要なことは、その家で見つけることができる幸福がどんなものか、その石がわれわれに教えていないことだ。",
+    "output": "And, most important of all, the stone does not tell us what kind of happiness we should find in that house."
+  },
+  {
+    "index": "F117698",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最も自己中心的である人々でさえ、ふつうこの欠点をわすれがちなのです。",
+    "output": "Even the most self-centered people are usually forgetful of this fault."
+  },
+  {
+    "index": "F117700",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最も荒涼たる日は一日中笑わなかった日である。",
+    "output": "The most wasted day of all is that on which we have not laughed."
+  },
+  {
+    "index": "F117702",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最も広い意味では、意思伝達は、人々の間の考えや感情を伝達するあらゆる形を包括する。",
+    "output": "In its broadest sense communication includes all forms of transmitting thoughts or feelings between people."
+  },
+  {
+    "index": "F117704",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最も幸福な女性は最も幸福な国民のように歴史を持たない。",
+    "output": "The happiest women, like the happiest nations, have no history."
+  },
+  {
+    "index": "F117706",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最も効果的な防御は攻撃である。",
+    "output": "The most effective defense is offense."
+  },
+  {
+    "index": "F117708",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最も効果の高い頭痛薬はどれですか。",
+    "output": "What's your strongest type of headache pill?"
+  },
+  {
+    "index": "F117710",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最も効果の高いサンスクリーンはどれですか。",
+    "output": "What's your strongest type of sunscreen?"
+  },
+  {
+    "index": "F117712",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最も古い中国の箸の中には、紀元前1200年にもさかのぼるものもある。",
+    "output": "Some of the oldest Chinese chopsticks date from 1200 B.C."
+  },
+  {
+    "index": "F117714",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最も強大な帝国ですら崩壊する。",
+    "output": "Even the mightiest of empires comes to an end."
+  },
+  {
+    "index": "F117716",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最も強い人でさえ台風を止める事はできない。",
+    "output": "Even the strongest man can't stop a typhoon."
+  },
+  {
+    "index": "F117718",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最も急いで旅行する手段は飛行機だ。",
+    "output": "The quickest means of travel is by plane."
+  },
+  {
+    "index": "F117720",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最も安い価格をご提示するよう努力してまいりました。",
+    "output": "We have made an effort to quote our most competitive price."
+  },
+  {
+    "index": "F117722",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最も愛する人に対しては、最も少ししか語れないものだ。",
+    "output": "Whom we love best to them we can say least."
+  },
+  {
+    "index": "F117724",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最もよいのは真実を告げることです。",
+    "output": "The best thing is to tell the truth."
+  },
+  {
+    "index": "F117726",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最もすばらしい食事もブタにやる残飯のようになってしまう。",
+    "output": "Even the finest fete becomes mere hogs swill."
+  },
+  {
+    "index": "F117728",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "最もストレスの多い人たちは、２５歳から５４歳までの男女である。",
+    "output": "Men and women between the ages of 25 and 54 have the most stressful lives."
+  },
+  {
+    "index": "F117730",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "再来週の木曜日はどう。",
+    "output": "How about two weeks from Thursday?"
+  },
+  {
+    "index": "F117732",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "再来月は１２月だ。",
+    "output": "The month after next is December."
+  },
+  {
+    "index": "F117734",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "再発の可能性が少しあります。",
+    "output": "There's a slight possibility of a recurrence."
+  },
+  {
+    "index": "F117736",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "再発しますか。",
+    "output": "Is a recurrence likely?"
+  },
+  {
+    "index": "F117738",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "再考の余地はない。",
+    "output": "There is no room for reconsideration."
+  },
+  {
+    "index": "F117740",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "再三彼らを招待したが決してこなかった。",
+    "output": "Time after time I've invited them to come over and visit us but time and time again they've never come."
+  },
+  {
+    "index": "F117742",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "再開発によって地域に便益が生ずる。",
+    "output": "Benefits accrue to the community from reconstruction."
+  },
+  {
+    "index": "F117744",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "再び眠りに落ちていくと、同じ夢を全部で３回見た。",
+    "output": "Drifting off to sleep again, the same dream returned, three times in all."
+  },
+  {
+    "index": "F117746",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "再び薬局へ出向き、混合物をマシーンに入れ、１０ドルを支払う。",
+    "output": "He went back to the drug store, located the machine, poured in the sample and deposited the $10.00."
+  },
+  {
+    "index": "F117748",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "再び母に会えたのだから、マルコがわっと泣きだしたのももっともだ。",
+    "output": "Marco might well burst into tears to meet his mother again."
+  },
+  {
+    "index": "F117750",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "再び彼に会う望みはない。",
+    "output": "There is little chance of my meeting him again."
+  },
+  {
+    "index": "F117752",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "再び世界大戦が起こりませんように。",
+    "output": "May there never be another world war!"
+  },
+  {
+    "index": "F117754",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "再び惨めな現実に引き戻されました。",
+    "output": "It brought me down to earth."
+  },
+  {
+    "index": "F117756",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "今日もかなり冷え込んでいますが、明日は気温が高くなると予想されています。",
+    "output": "It is rather cold again today, but tomorrow we expect the temperature to rise."
+  },
+  {
+    "index": "F117758",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "再び故郷に帰れない運命だった。",
+    "output": "She was never to see her home again."
+  },
+  {
+    "index": "F117760",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "再びやってみるべきだという彼らの意見に賛成だ。",
+    "output": "I agree with them that we should try again."
+  },
+  {
+    "index": "F117762",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "再び、彼は放浪者となって、彼はある日、兄の家にたどり着いた。",
+    "output": "Again the younger brother became a wanderer, and he arrived one day at the house of the elder brother."
+  },
+  {
+    "index": "F117764",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "再び、リー夫人は昔のことを懐かしそうに語り出す。もう彼女を止めることは不可能だ。",
+    "output": "Once again, Mrs. Lee speaks fondly of the past, and it is impossible to stop her."
+  },
+  {
+    "index": "F117766",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "催促がましくて恐縮ですが、先日お貸ししたお金を返していただけませんか。",
+    "output": "I'm afraid this sounds like a demand, but could you return the money I lent you the other day?"
+  },
+  {
+    "index": "F117768",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "債権の利回りは６％。",
+    "output": "The yield on the bond is 6%."
+  },
+  {
+    "index": "F117770",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "債権の元利支払コストが予算のかなりの部分を占めるだろう。",
+    "output": "The debt-servicing cost on bonds will take up major portion of the budget."
+  },
+  {
+    "index": "F117772",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "債権と一緒にお金も盗まれた。",
+    "output": "Bonds together with some money was stolen."
+  },
+  {
+    "index": "F117774",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "債券発行による調達資金は予算の赤字を補填するのに使われる。",
+    "output": "The proceeds from the bond issue will be used to finance the budget deficit."
+  },
+  {
+    "index": "F117776",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "債券より株に投資するほうが安全だ。",
+    "output": "I feel secure when I invest in stocks but not bonds."
+  },
+  {
+    "index": "F117778",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "座席を予約しました。",
+    "output": "I booked a seat."
+  },
+  {
+    "index": "F117780",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "座席を譲ってあげたので、あなたは立派でした。",
+    "output": "It was good of you to give up your seat."
+  },
+  {
+    "index": "F117782",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "座席をとっておいてください。",
+    "output": "Please save my place."
+  },
+  {
+    "index": "F117784",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "座席をつめていただけませんか。",
+    "output": "Would you make room for me?"
+  },
+  {
+    "index": "F117786",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "座席へ戻ろう。",
+    "output": "Let's go back to our places."
+  },
+  {
+    "index": "F117788",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "座席ベルトをお絞めになり、タバコはご遠慮下さいませ。",
+    "output": "Please fasten your seat belts, and kindly refrain from smoking."
+  },
+  {
+    "index": "F117790",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "座席のベルトをお締めください。",
+    "output": "Fasten your seat belt."
+  },
+  {
+    "index": "F117792",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "座席は全部予約済みです。",
+    "output": "All seats are reserved."
+  },
+  {
+    "index": "F117794",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "座席の背を倒してもいいですか。",
+    "output": "May I put my seat back?"
+  },
+  {
+    "index": "F117796",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "座席が二つ、あいたままになっていた。",
+    "output": "Two seats remained vacant."
+  },
+  {
+    "index": "F117798",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "座席が倒れません。",
+    "output": "I can't fix the seat."
+  },
+  {
+    "index": "F117800",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "座るいすがないな。",
+    "output": "There's no chair to sit upon."
+  },
+  {
+    "index": "F117802",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "座り心地の良い椅子です。",
+    "output": "This is a comfortable chair."
+  },
+  {
+    "index": "F117804",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "座りませんか。",
+    "output": "Won't you take a chair?"
+  },
+  {
+    "index": "F117806",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "座りなよ。",
+    "output": "Take the weight off your feet."
+  },
+  {
+    "index": "F117808",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "座りなさい、ケート。",
+    "output": "Sit down, Kate."
+  },
+  {
+    "index": "F117810",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "座って本を読みながら私は寝入った。",
+    "output": "Sitting over my book, I fell asleep."
+  },
+  {
+    "index": "F117812",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "座って待つしかなかった。",
+    "output": "There was no choice but to sit and wait."
+  },
+  {
+    "index": "F117814",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "座って休める静かな場所だけで良いのです。",
+    "output": "A quiet place to sit and rest would be plenty."
+  },
+  {
+    "index": "F117816",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "座って下さい。",
+    "output": "Sit down, please."
+  },
+  {
+    "index": "F117818",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "座ってみるとその椅子が心地よいのがわかった。",
+    "output": "I found the chair was comfortable when I sat on it."
+  },
+  {
+    "index": "F117820",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "座ってひと休みしよう。",
+    "output": "Let's sit down and catch our breath."
+  },
+  {
+    "index": "F117822",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "座ってはいけないのかと思った。",
+    "output": "I thought I might not be supposed to sit down."
+  },
+  {
+    "index": "F117824",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "座ってしばらく休みなさい。",
+    "output": "Sit down and rest for a while."
+  },
+  {
+    "index": "F117826",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "座ってくつろぎませんか。",
+    "output": "Why don't you sit down and relax?"
+  },
+  {
+    "index": "F117828",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "座っていたので脚がうずく。",
+    "output": "My legs ache from sitting."
+  },
+  {
+    "index": "F117830",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "座って、一息いれましょう。",
+    "output": "Let's sit down and catch our breath."
+  },
+  {
+    "index": "F117832",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "座った方がいいんじゃないか。",
+    "output": "You'd better sit down, I suppose."
+  },
+  {
+    "index": "F117834",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "座がしらけないように話をした。",
+    "output": "I kept the ball rolling by talking."
+  },
+  {
+    "index": "F117836",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "鎖の強さはその環の一番弱いところに左右される。",
+    "output": "The strength of the chain is in the weakest link."
+  },
+  {
+    "index": "F117838",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "詐欺師は新たに人をだますまえに、目隠し、すなわち、人をだますテクニックを磨く。",
+    "output": "A confidence man polishes his \"hood winking\" or \"eye-washing\" techniques before bilking a new victim."
+  },
+  {
+    "index": "F117840",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "詐欺師はことば巧みにやすやすと、女性を信頼させることができる。",
+    "output": "A confidence man can talk his way into a girl's trust with ease."
+  },
+  {
+    "index": "F117842",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "詐欺師が捕まった。",
+    "output": "The imposter was caught."
+  },
+  {
+    "index": "F117844",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "詐欺、横領などの犯罪によりアメリカ人は以前より政府を信じなくなった。",
+    "output": "White collar crime has made American people trust the government less."
+  },
+  {
+    "index": "F117846",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂利をセメントで固める必要がある。",
+    "output": "We need to bind gravel with cement."
+  },
+  {
+    "index": "F117848",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂浜でいろんな貝を拾うのは実に楽しい。",
+    "output": "It is a lot of fun picking various shells on the sands."
+  },
+  {
+    "index": "F117850",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂漠の太陽が彼にじりじり照りつけた。",
+    "output": "The desert sun grilled him."
+  },
+  {
+    "index": "F117852",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂漠の生態学は新しい学問分野である。",
+    "output": "Desert ecology is a new field of study."
+  },
+  {
+    "index": "F117854",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂漠の真ん中で私たちの車はガス欠になった。",
+    "output": "We ran out of gas in the middle of the desert."
+  },
+  {
+    "index": "F117856",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂漠の砂は夜になると急速に冷える。",
+    "output": "Desert sand cools off rapidly at night."
+  },
+  {
+    "index": "F117858",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂漠に水を引くために運河が建設されている。",
+    "output": "Canals have been built to irrigate the desert."
+  },
+  {
+    "index": "F117860",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂漠でひとりで暮らすとは彼女も勇気があるね。",
+    "output": "She is brave to live alone in the desert."
+  },
+  {
+    "index": "F117862",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂漠ではらくだは移動の手段として車より重要だ。",
+    "output": "In the desert, camels are more important than cars for transportation."
+  },
+  {
+    "index": "F117864",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂糖を少し足して下さい。",
+    "output": "Add a bit of sugar, please."
+  },
+  {
+    "index": "F117866",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂糖を取って下さい。",
+    "output": "Pass the sugar, please."
+  },
+  {
+    "index": "F117868",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂糖をお湯で溶かしなさい。",
+    "output": "Dissolve sugar in hot water."
+  },
+  {
+    "index": "F117870",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂糖は熱いコーヒーに入れると溶ける。",
+    "output": "Sugar dissolves in hot coffee."
+  },
+  {
+    "index": "F117872",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂糖は入れますか。",
+    "output": "Would you like some sugar?"
+  },
+  {
+    "index": "F117874",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂糖は湯に入れると溶ける。",
+    "output": "Sugar dissolves in hot water."
+  },
+  {
+    "index": "F117876",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂糖は壷にほとんど残っていません。",
+    "output": "There is little sugar left in the pot."
+  },
+  {
+    "index": "F117878",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂糖は全て甘い。",
+    "output": "All sugar is sweet."
+  },
+  {
+    "index": "F117880",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂糖は水に溶ける。",
+    "output": "Sugar dissolves in water."
+  },
+  {
+    "index": "F117882",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂糖は食品として重要であるが、それを常食とはできない。",
+    "output": "Important as sugar is as article of food, we cannot live on it."
+  },
+  {
+    "index": "F117884",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂糖は残っていますか。",
+    "output": "Is there any sugar?"
+  },
+  {
+    "index": "F117886",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂糖はポンド単位で売っている。",
+    "output": "We sell sugar by the pound."
+  },
+  {
+    "index": "F117888",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂糖はポットにありますか。",
+    "output": "Is there any sugar in the pot?"
+  },
+  {
+    "index": "F117890",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂糖はバッグの中にある。",
+    "output": "There is some sugar in the bag."
+  },
+  {
+    "index": "F117892",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂糖はどれぐらい使いますか。",
+    "output": "How much sugar do you use?"
+  },
+  {
+    "index": "F117894",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂糖は、すぐにグラスの水の中で溶けるだろう。",
+    "output": "Sugar will dissolve in a glass of water quickly."
+  },
+  {
+    "index": "F117896",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂糖のかわりに塩をあげたら、母は怒った。",
+    "output": "I got my mother's goat when I gave her the salt instead of the sugar."
+  },
+  {
+    "index": "F117898",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂糖なしですまさなければならない。",
+    "output": "We have to do without sugar."
+  },
+  {
+    "index": "F117900",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂糖なしでうまくすまさなくてはなりません。きらしているのです。",
+    "output": "We have to do without sugar; we're short of it."
+  },
+  {
+    "index": "F117902",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂糖と塩を間違えるな。",
+    "output": "Don't confuse sugar with salt."
+  },
+  {
+    "index": "F117904",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂糖とミルクはどうされますか。",
+    "output": "Would you like sugar and milk?"
+  },
+  {
+    "index": "F117906",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂糖とクリームを少し入れてください。",
+    "output": "Add a little sugar and cream."
+  },
+  {
+    "index": "F117908",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂糖が欲しいのですが、ありますか。",
+    "output": "I need some sugar. Do you have any?"
+  },
+  {
+    "index": "F117910",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂糖がないよ。",
+    "output": "We have no sugar."
+  },
+  {
+    "index": "F117912",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂をかむように味気ないね。",
+    "output": "It's dry as dust."
+  },
+  {
+    "index": "F117914",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂から金を分離採集する方法をお見せしましょう。",
+    "output": "I'll show you how to separate gold from sand."
+  },
+  {
+    "index": "F117916",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "砂から金をより分けるのは難問だ。",
+    "output": "The separation of gold from sand is problematic."
+  },
+  {
+    "index": "F117918",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "差額はありますか。",
+    "output": "Is there a difference?"
+  },
+  {
+    "index": "F117920",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "差し迫った仕事のためにお会いできません。",
+    "output": "I can't see you due to the press of business."
+  },
+  {
+    "index": "F117922",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "差し当たり、あれで十分でしょう。",
+    "output": "That will be enough for now."
+  },
+  {
+    "index": "F117924",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "差し当たっては不足を心配する必要はありません。",
+    "output": "There is no need to worry about shortages for the moment."
+  },
+  {
+    "index": "F117926",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "差し出がましいようですが、私から意見を述べさせて頂きます。",
+    "output": "At the risk of sounding too forward, I'd like to make a comment."
+  },
+  {
+    "index": "F117928",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "差しあったて、私はその本屋で働きたいと思う。",
+    "output": "For the time being I want to work at that bookstore."
+  },
+  {
+    "index": "F117930",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "左腕に打撲傷を負った。",
+    "output": "I got my left arm bruised."
+  },
+  {
+    "index": "F117932",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "左目がチクチクします。",
+    "output": "I have a prickling sensation in my left eye."
+  },
+  {
+    "index": "F117934",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "左足のちょっとした手術をした。",
+    "output": "He had a little operation on his left leg."
+  },
+  {
+    "index": "F117936",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "左足がしびれた。",
+    "output": "My left foot is asleep."
+  },
+  {
+    "index": "F117938",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "左側通行を守れ。",
+    "output": "Keep to the left."
+  },
+  {
+    "index": "F117940",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "左側通行を守ってください。",
+    "output": "Keep to the left, please."
+  },
+  {
+    "index": "F117942",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "左側通行をしなさい。",
+    "output": "Keep to the left."
+  },
+  {
+    "index": "F117944",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "左側に郵便局があります。",
+    "output": "You will find the post office on your left."
+  },
+  {
+    "index": "F117946",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "左上の奥歯が痛みます。",
+    "output": "My upper left back tooth hurts."
+  },
+  {
+    "index": "F117948",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "左手を上げなさい。",
+    "output": "Raise your left hand."
+  },
+  {
+    "index": "F117950",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "左手の人物がその絵の統一性を壊している。",
+    "output": "The figure on the left spoils the unity of the painting."
+  },
+  {
+    "index": "F117952",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "左手に持っているものを見せろ。",
+    "output": "Show me what you have in your left hand."
+  },
+  {
+    "index": "F117954",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "左手で書いてみようとした。",
+    "output": "I tried to write with my left hand."
+  },
+  {
+    "index": "F117956",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "左手がしびれるんです。",
+    "output": "My left hand is numb."
+  },
+  {
+    "index": "F117958",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "左耳に何か入ってしまいました。",
+    "output": "I have a foreign object in my left ear."
+  },
+  {
+    "index": "F117960",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "左耳から耳だれが出ます。",
+    "output": "I have a discharge from my left ear."
+  },
+  {
+    "index": "F117962",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "左肩の関節が痛みます。",
+    "output": "The joint of my left shoulder aches."
+  },
+  {
+    "index": "F117964",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "左横腹を下にして下さい。",
+    "output": "Lie down on your left side."
+  },
+  {
+    "index": "F117966",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "左を向いてください。",
+    "output": "Turn to the left."
+  },
+  {
+    "index": "F117968",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "左へ曲がればバス停があります。",
+    "output": "Turning left you will find the bus stop."
+  },
+  {
+    "index": "F117970",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "左へ曲がれば、白い建物が目に入りますよ。",
+    "output": "If you turn to the left, you'll see a white building."
+  },
+  {
+    "index": "F117972",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "左へ曲がれば、喫茶店が見つかるでしょう。",
+    "output": "Turning to the left, you will find a coffee shop."
+  },
+  {
+    "index": "F117974",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "左へ曲がりなさい。",
+    "output": "Turn to the left."
+  },
+  {
+    "index": "F117976",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "左へ曲がったらいいか右へ曲がったらいいか分からない。",
+    "output": "I don't know whether to turn left or right."
+  },
+  {
+    "index": "F117978",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "左へ一杯に曲がれ。",
+    "output": "Turn hard left."
+  },
+  {
+    "index": "F117980",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "左の道を行って下さい。",
+    "output": "Take the road on the left."
+  },
+  {
+    "index": "F117982",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "左に曲がれば、郵便局が見える。",
+    "output": "Turning to the left, you will find the post office."
+  },
+  {
+    "index": "F117984",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "左に曲がれば、右手に教会があります。",
+    "output": "If you turn to the left, you will find the church on your right."
+  },
+  {
+    "index": "F117986",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "左に曲がれば、そのレストランは右手にあります。",
+    "output": "Turning to the left, you will find the restaurant on your right."
+  },
+  {
+    "index": "F117988",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "左に曲がるとガソリンスタンドがある。",
+    "output": "Turning to the left, you will find the gas station."
+  },
+  {
+    "index": "F117990",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "左から５人目の男にキスしなさい。",
+    "output": "Kiss the fifth man from the left."
+  },
+  {
+    "index": "F117992",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "佐和子はフランスに行きたい。",
+    "output": "Sawako wants to go to France."
+  },
+  {
+    "index": "F117994",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "佐野氏は、フランス語を非常に流暢に話す。",
+    "output": "Mr Sano speaks French with great fluency."
+  },
+  {
+    "index": "F117996",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "佐藤先生が私のクラスを担当しています。",
+    "output": "Miss Sato is in charge of my class."
+  },
+  {
+    "index": "F117998",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "佐藤氏を紹介しましょう。",
+    "output": "Let me introduce Mr Sato to you."
+  }
+]

@@ -1,0 +1,6002 @@
+[
+  {
+    "index": "F108000",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは午後９時シカゴ着の予定だった。",
+    "output": "We were arriving in Chicago at 9:00 p.m."
+  },
+  {
+    "index": "F108002",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは午後４時３０分に離陸するはずだったのだが。",
+    "output": "We were to have taken off at 4:30 p.m."
+  },
+  {
+    "index": "F108004",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは午後２時に会いました。",
+    "output": "We met at two in the afternoon."
+  },
+  {
+    "index": "F108006",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは互いに向き合って食事をはじめた。",
+    "output": "We sat down to dinner in opposition to each other."
+  },
+  {
+    "index": "F108008",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは互いに助け合った。",
+    "output": "We helped one another."
+  },
+  {
+    "index": "F108010",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは互いに固い友情の絆で結ばれている。",
+    "output": "We are bound to each other by a close friendship."
+  },
+  {
+    "index": "F108012",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは互いに何マイルも離れたところで住んでいる。",
+    "output": "We live many miles distant from each other."
+  },
+  {
+    "index": "F108014",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは互いに慰め合った。",
+    "output": "We consoled each other."
+  },
+  {
+    "index": "F108016",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは五時に駅に着いた。",
+    "output": "We arrived at the station at five."
+  },
+  {
+    "index": "F108018",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは五マイルほど歩いた。",
+    "output": "We walked about five miles."
+  },
+  {
+    "index": "F108020",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは狐を捕まえるためにわなをしかけた。",
+    "output": "We set a trap to catch a fox."
+  },
+  {
+    "index": "F108022",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは湖をぐるりと回ってきた。",
+    "output": "We have walked all around the lake."
+  },
+  {
+    "index": "F108024",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは湖へ釣りに行った。",
+    "output": "We went fishing in the lake."
+  },
+  {
+    "index": "F108026",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは湖へ着くとすぐに泳ぎはじめた。",
+    "output": "As soon as we got to the lake, we started swimming."
+  },
+  {
+    "index": "F108028",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは湖へ泳ぎに行った。",
+    "output": "We went swimming in the lake."
+  },
+  {
+    "index": "F108030",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは湖の見える所に来た。",
+    "output": "We came in view of the lake."
+  },
+  {
+    "index": "F108032",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは湖の岸に沿って歩いた。",
+    "output": "We walked along the shore of the lake."
+  },
+  {
+    "index": "F108034",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは湖で水泳を楽しんだ。",
+    "output": "We enjoyed swimming in the lake."
+  },
+  {
+    "index": "F108036",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは故郷を離れる考えは全くなかった。",
+    "output": "We had no notion of leaving our hometown."
+  },
+  {
+    "index": "F108038",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは古代ローマとギリシアについて学んでいる。",
+    "output": "We learn about ancient Rome and Greece."
+  },
+  {
+    "index": "F108040",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは古い電車を買いました。",
+    "output": "We bought a used train car."
+  },
+  {
+    "index": "F108042",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは古い習慣を廃止しようとしている。",
+    "output": "We are trying to do away with the old customs."
+  },
+  {
+    "index": "F108044",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは古い習慣に従ってそのようにしました。",
+    "output": "We did so after an old custom."
+  },
+  {
+    "index": "F108046",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは古い家が取り壊されるのを見ました。",
+    "output": "We saw some old houses pulled down."
+  },
+  {
+    "index": "F108048",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは個人の権利を尊重しなければならない。",
+    "output": "We must respect the rights of the individual."
+  },
+  {
+    "index": "F108050",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは言葉によって意志を伝える。",
+    "output": "We use words to communicate."
+  },
+  {
+    "index": "F108052",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは言語によって思想を表現する。",
+    "output": "We express our thoughts by means of languages."
+  },
+  {
+    "index": "F108054",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは原子力エネルギーを利用すべきだ。",
+    "output": "We should make use of atomic energy."
+  },
+  {
+    "index": "F108056",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは原子爆弾を二度と使うべきではない。",
+    "output": "We should never use an atomic bomb again."
+  },
+  {
+    "index": "F108058",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは険しい山を登った。",
+    "output": "We climbed up the steep mountain."
+  },
+  {
+    "index": "F108060",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは険しい坂を登った。",
+    "output": "We climbed the steep slope."
+  },
+  {
+    "index": "F108062",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは見えるだろうと思うものを見るのである。",
+    "output": "We see what we expect to see."
+  },
+  {
+    "index": "F108064",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは犬をポチと名づけた。",
+    "output": "We named the dog Pochi."
+  },
+  {
+    "index": "F108066",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは犬を３匹と猫を１匹飼っている。",
+    "output": "We keep three dogs and a cat."
+  },
+  {
+    "index": "F108068",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは健康に有害な食品を知らずに食べている事がよくある。",
+    "output": "We often eat foods which are harmful to our health without knowing it."
+  },
+  {
+    "index": "F108070",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは月が地球のまわりを回っていることを学んだ。",
+    "output": "We learned that the moon goes around the earth."
+  },
+  {
+    "index": "F108072",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは血がつながっている。",
+    "output": "We are related by blood."
+  },
+  {
+    "index": "F108074",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは結婚式と新婚旅行の準備で忙しい。",
+    "output": "We are busy preparing for our wedding and honeymoon."
+  },
+  {
+    "index": "F108076",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは結婚を前提として交際しています。",
+    "output": "We are dating with a view to marriage."
+  },
+  {
+    "index": "F108078",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは結婚してから３０年になります。",
+    "output": "It is thirty years since we married."
+  },
+  {
+    "index": "F108080",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは結局幸福になるでしょう。",
+    "output": "We will become happy in the long run."
+  },
+  {
+    "index": "F108082",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは決心しなければならない、しかもすぐにだ。",
+    "output": "We must make up our minds, and soon!"
+  },
+  {
+    "index": "F108084",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは劇場でブラウン夫人に会った。",
+    "output": "We met Mrs. Brown at the theater."
+  },
+  {
+    "index": "F108086",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "計画を変更するのは難しいと分かった。",
+    "output": "We found it hard to change the plan."
+  },
+  {
+    "index": "F108088",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは計画を変更するのは難しいと思った。",
+    "output": "We found it hard to change the plan."
+  },
+  {
+    "index": "F108090",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは計画を変更することはむずかしいと分かった。",
+    "output": "We found it hard to change the plan."
+  },
+  {
+    "index": "F108092",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは計画を変更しなければならない。",
+    "output": "We have to change our plan."
+  },
+  {
+    "index": "F108094",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは計画を変えない方がよい。",
+    "output": "We'd better not change the schedule."
+  },
+  {
+    "index": "F108096",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは兄弟です。",
+    "output": "We are brother and sister."
+  },
+  {
+    "index": "F108098",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは君の提案に賛成しよう。",
+    "output": "We'll go along with your suggestion."
+  },
+  {
+    "index": "F108100",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは君の試験での成功を切望している。",
+    "output": "We are anxious for your success in the examination."
+  },
+  {
+    "index": "F108102",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは君の援助を必要としている。",
+    "output": "We require your help."
+  },
+  {
+    "index": "F108104",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは君たちと同じような問題を抱えています。",
+    "output": "We have the same problems as you."
+  },
+  {
+    "index": "F108106",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは君に一つ忠告したい。",
+    "output": "Let us give you a piece of advice."
+  },
+  {
+    "index": "F108108",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは君がいなくてとても寂しくてたまらない。",
+    "output": "We cannot help missing you badly."
+  },
+  {
+    "index": "F108110",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは靴をはくのに慣れている。",
+    "output": "We are accustomed to wearing shoes."
+  },
+  {
+    "index": "F108112",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは偶然彼女に遭った。",
+    "output": "We met her by accident."
+  },
+  {
+    "index": "F108114",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは偶然、その店で彼女の弟に会った。",
+    "output": "We met her brother at the shop by chance."
+  },
+  {
+    "index": "F108116",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは空港まで急いだが、飛行機に乗り遅れてしまった。",
+    "output": "We hurried to the airport only to miss the plane."
+  },
+  {
+    "index": "F108118",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは空を見上げたが、星は一つも見えなかった。",
+    "output": "We looked at the sky, but couldn't see any stars."
+  },
+  {
+    "index": "F108120",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは銀行にお金を預けます。",
+    "output": "We deposit money in a bank."
+  },
+  {
+    "index": "F108122",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは金銭面で彼を頼りにできる。",
+    "output": "We can count on him for financial help."
+  },
+  {
+    "index": "F108124",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは金持ちも貧乏人も同じように扱われると主張した。",
+    "output": "We insisted on rich and poor being treated alike."
+  },
+  {
+    "index": "F108126",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは近くの公園でキャッチボールとした。",
+    "output": "We played catch in a park near by."
+  },
+  {
+    "index": "F108128",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは近い将来ピーターを日本に招待したい。",
+    "output": "We wish to invite Peter to Japan in the near future."
+  },
+  {
+    "index": "F108130",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは近い将来、この問題を話し合わなくてはならないでしょう。",
+    "output": "We'll have to talk this matter over in the near future."
+  },
+  {
+    "index": "F108132",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは狭い道を歩いていった。",
+    "output": "We walked along a narrow path."
+  },
+  {
+    "index": "F108134",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは教授の示した問題を解こうと試みたが、とても面倒な問いに思えた。",
+    "output": "We tried to figure out the problem our professor had given us, but it seemed confusing."
+  },
+  {
+    "index": "F108136",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは教室を掃除しなければならない。",
+    "output": "We must clean our classroom."
+  },
+  {
+    "index": "F108138",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは教室の掃除をすませた。",
+    "output": "We've finished cleaning our classroom."
+  },
+  {
+    "index": "F108140",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは恐怖の中で生きていて、苦しんでいるの。太陽も花も楽しめないし、私たちの子供時代も楽しめないのよ。",
+    "output": "We are living in fear, we are suffering, we are not enjoying the sun and flowers, we are not enjoying our childhood."
+  },
+  {
+    "index": "F108142",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは恐れています。",
+    "output": "We are afraid."
+  },
+  {
+    "index": "F108144",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは共同でその会社をやっていた。",
+    "output": "We were associated in the enterprise."
+  },
+  {
+    "index": "F108146",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは京都の町をぶらぶら歩いた。",
+    "output": "We walked up and down the streets of Kyoto."
+  },
+  {
+    "index": "F108148",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは居間の半分の場所を取るグランドピアノを買った。",
+    "output": "We bought a grand piano which took up half of our living room."
+  },
+  {
+    "index": "F108150",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは牛乳でバターを作ります。",
+    "output": "We make milk into butter."
+  },
+  {
+    "index": "F108152",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは給仕がドアを通って来るのを見た。",
+    "output": "We saw the waiter coming through the door."
+  },
+  {
+    "index": "F108154",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは泣かないわけにはいかなかった。",
+    "output": "We couldn't help weeping."
+  },
+  {
+    "index": "F108156",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは泣いているの。",
+    "output": "We are crying."
+  },
+  {
+    "index": "F108158",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは急斜面を上がった。",
+    "output": "We climbed a sharp slope."
+  },
+  {
+    "index": "F108160",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "急ぐ必要はなかったのに。",
+    "output": "We needn't have hurried."
+  },
+  {
+    "index": "F108162",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは急いで食事をすまし、すぐに出かけた。",
+    "output": "We ate a hasty meal and left immediately."
+  },
+  {
+    "index": "F108164",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは急いでいました。",
+    "output": "We were in a hurry."
+  },
+  {
+    "index": "F108166",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは休日にはよく海岸へ行ったものだった。",
+    "output": "We used to go on holiday to the seaside."
+  },
+  {
+    "index": "F108168",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは休日にそこでキャンプした。",
+    "output": "We camped there over the holiday."
+  },
+  {
+    "index": "F108170",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは休息をとるために木陰を探した。",
+    "output": "We sought the shade to rest."
+  },
+  {
+    "index": "F108172",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは休暇を思う存分楽しんだ。",
+    "output": "We enjoyed our holidays to the full."
+  },
+  {
+    "index": "F108174",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは休暇の計画を立てています。",
+    "output": "We are making plans for the holidays."
+  },
+  {
+    "index": "F108176",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは休暇が終わってまた学校に戻ってきた。",
+    "output": "We are back in school again after the holidays are over."
+  },
+  {
+    "index": "F108178",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは休みを利用してシンガポールへ旅行することに決めた。",
+    "output": "We decided on a trip to Singapore for our vacation."
+  },
+  {
+    "index": "F108180",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは丘へピクニックに行った。",
+    "output": "We went on a picnic to the hill."
+  },
+  {
+    "index": "F108182",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは喫茶店で昼食を食べた。",
+    "output": "We ate lunch in a coffee lounge."
+  },
+  {
+    "index": "F108184",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは丘のふもとにある池の方へ進んだ。",
+    "output": "We made for a pond at the foot of the hill."
+  },
+  {
+    "index": "F108186",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは喫茶店で昼食をとった。",
+    "output": "We ate lunch in a coffee lounge."
+  },
+  {
+    "index": "F108188",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは喫茶店で急いで昼食をとった。",
+    "output": "We ate a quick lunch in a coffee lounge."
+  },
+  {
+    "index": "F108190",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは喫茶店で楽しく時を過ごした。",
+    "output": "We had a good time at a coffee shop."
+  },
+  {
+    "index": "F108192",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは喫煙反対の運動を開始した。",
+    "output": "We started a campaign against smoking."
+  },
+  {
+    "index": "F108194",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは義務を果たします。",
+    "output": "We fulfill our obligations."
+  },
+  {
+    "index": "F108196",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは記憶するという能力をもっている。",
+    "output": "We have the ability to remember."
+  },
+  {
+    "index": "F108198",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは規則に従わなければならない。",
+    "output": "We must conform to the rules."
+  },
+  {
+    "index": "F108200",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは規則に従うべきだ。",
+    "output": "We should obey the rules."
+  },
+  {
+    "index": "F108202",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは規制に従うべきだ。",
+    "output": "We should obey the rules."
+  },
+  {
+    "index": "F108204",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの汽車は長いトンネルを通り抜けた。",
+    "output": "Our train went through a long tunnel."
+  },
+  {
+    "index": "F108206",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは期待に胸をふくらませて旅立った。",
+    "output": "We set out on our journey full of hope."
+  },
+  {
+    "index": "F108208",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは喜んでお助けします。",
+    "output": "We're willing to help you."
+  },
+  {
+    "index": "F108210",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは丸くなって座った。",
+    "output": "We sat in a ring."
+  },
+  {
+    "index": "F108212",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは丸いテーブルを買った。",
+    "output": "We bought a round table."
+  },
+  {
+    "index": "F108214",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは間違った方角に進んでいるのではないかと思う。",
+    "output": "I am afraid we are advancing in the wrong direction."
+  },
+  {
+    "index": "F108216",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは間違いをしたかもしれない。",
+    "output": "We may have made a mistake."
+  },
+  {
+    "index": "F108218",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは間違いをしがちです。",
+    "output": "We are apt to make mistakes."
+  },
+  {
+    "index": "F108220",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは間もなく一緒に暮らせるでしょう。",
+    "output": "It won't be long before we can live together."
+  },
+  {
+    "index": "F108222",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは簡単な内容を伝えるのにしばしば身振りを用いる。",
+    "output": "We often use gestures to convey simple messages."
+  },
+  {
+    "index": "F108224",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは監督によって１日３時間練習させられた。",
+    "output": "We were made to practice three hours a day by the manager."
+  },
+  {
+    "index": "F108226",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは環境を守るように努力しなければならない。",
+    "output": "We must try to protect the environment."
+  },
+  {
+    "index": "F108228",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは環境を守るように努力しなくてはならない。",
+    "output": "We must try to protect the environment."
+  },
+  {
+    "index": "F108230",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは環境を守るように努力しなくてはいけない。",
+    "output": "We must try to protect the environment."
+  },
+  {
+    "index": "F108232",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは寒い冬のための用意はほぼできている。",
+    "output": "We are all but ready for the cold winter."
+  },
+  {
+    "index": "F108234",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは鞄をどけて、老婦人が座れるように場所をあけた。",
+    "output": "We moved our bags to make room for the elderly lady to sit down."
+  },
+  {
+    "index": "F108236",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは活発な討論をした。",
+    "output": "We had a very vigorous debate."
+  },
+  {
+    "index": "F108238",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは割引率についての意見が一致した。",
+    "output": "We have agreed on the rate of discount."
+  },
+  {
+    "index": "F108240",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは楽しく一杯やりながらそのことを論じた。",
+    "output": "We cheerfully discussed the matter over a drink."
+  },
+  {
+    "index": "F108242",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは楽しい光景を目にした。",
+    "output": "We saw a joyful sight."
+  },
+  {
+    "index": "F108244",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは学生時代以来ずっとお互いに会っていない。",
+    "output": "We have not seen each other since our school days."
+  },
+  {
+    "index": "F108246",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは学生の成績の照合をした。",
+    "output": "We made a check of the student' records."
+  },
+  {
+    "index": "F108248",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは学生です。",
+    "output": "We are students."
+  },
+  {
+    "index": "F108250",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは学校へ行く途中にわか雨に会った。",
+    "output": "We were caught in a shower on the way to school."
+  },
+  {
+    "index": "F108252",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは学校へ行かなければなりません。",
+    "output": "We must go to school."
+  },
+  {
+    "index": "F108254",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは学校へバスで行った。",
+    "output": "We went to school by bus."
+  },
+  {
+    "index": "F108256",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは学校の勉強に多くの時間を当てた。",
+    "output": "We spent a lot of time on our lessons."
+  },
+  {
+    "index": "F108258",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは学校の前であった。",
+    "output": "We met in front of the school."
+  },
+  {
+    "index": "F108260",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは学校の近くに住んでいる。",
+    "output": "We live in the neighborhood of the school."
+  },
+  {
+    "index": "F108262",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは学校に遅れないように急いだ。",
+    "output": "We hurried for fear we should be late for school."
+  },
+  {
+    "index": "F108264",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは学校で早めに弁当を食べた。",
+    "output": "We had an early lunch at school."
+  },
+  {
+    "index": "F108266",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは学校で英語を習います。",
+    "output": "We learn English at school."
+  },
+  {
+    "index": "F108268",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは学校で英語を学ぶ。",
+    "output": "We learn English at school."
+  },
+  {
+    "index": "F108270",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは学校で英語の勉強をします。",
+    "output": "We study English at school."
+  },
+  {
+    "index": "F108272",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは学校では制服を着なければならない。",
+    "output": "We have to wear school uniforms at school."
+  },
+  {
+    "index": "F108274",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは学校でたくさんのことを学ぶ。",
+    "output": "We learn a good deal at school."
+  },
+  {
+    "index": "F108276",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは学校から帰る途中でにわか雨にあった。",
+    "output": "We were caught in a shower on our way from school."
+  },
+  {
+    "index": "F108278",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは学べば学ぶほどいかに少ししか知らないかがわかる。",
+    "output": "The more we learn, the more we realize how little we know."
+  },
+  {
+    "index": "F108280",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは学ぶために学校に行く。",
+    "output": "We go to school to learn."
+  },
+  {
+    "index": "F108282",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは外国について多くのことを学ばねばならない。",
+    "output": "We must learn a lot about foreign countries."
+  },
+  {
+    "index": "F108284",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは皆平和を願った。",
+    "output": "We all wished for peace."
+  },
+  {
+    "index": "F108286",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは皆彼をよく知っています。",
+    "output": "All of us know him well."
+  },
+  {
+    "index": "F108288",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは皆卒業を待ち望んでいる。",
+    "output": "We all long for our graduation."
+  },
+  {
+    "index": "F108290",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは皆世界平和を熱望している。",
+    "output": "We are all eager for world peace."
+  },
+  {
+    "index": "F108292",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは皆事故による死者に哀悼の意を表した。",
+    "output": "We all mourned for the people killed in the accident."
+  },
+  {
+    "index": "F108294",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは皆会に出席していた。",
+    "output": "We were all present at the meeting."
+  },
+  {
+    "index": "F108296",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは皆英語で話す。",
+    "output": "All of us talk in English."
+  },
+  {
+    "index": "F108298",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは皆できるだけ長く生きたいと思います。",
+    "output": "All of us want to live as long as possible."
+  },
+  {
+    "index": "F108300",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは皆さんの交渉をずっと見守ってまいりました。",
+    "output": "We have been watching your negotiations."
+  },
+  {
+    "index": "F108302",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは皆カンニングをするのは悪いことだと思っている。",
+    "output": "We all consider it wrong to cheat in the examination."
+  },
+  {
+    "index": "F108304",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは皆がやれるように順番にボール投げをした。",
+    "output": "We threw the ball in turn so that everyone could have a try."
+  },
+  {
+    "index": "F108306",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは皆あなたに賛成です。",
+    "output": "We all agree with you."
+  },
+  {
+    "index": "F108308",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは皆、生まれて来るときは気が狂っている。",
+    "output": "We are all born mad."
+  },
+  {
+    "index": "F108310",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは皆、試験でカンニングをすることは悪いと思う。",
+    "output": "We all consider it wrong to cheat in examination."
+  },
+  {
+    "index": "F108312",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは海岸に沿って歩いた。",
+    "output": "We walked along the beach."
+  },
+  {
+    "index": "F108314",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは海老やその他のシーフードで腹いっぱいになった。",
+    "output": "We glutted ourselves with lobsters and other seafood."
+  },
+  {
+    "index": "F108316",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは海で泳いだ。",
+    "output": "We swam in the sea."
+  },
+  {
+    "index": "F108318",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは会場の後ろに座った。",
+    "output": "We sat at the back of the hall."
+  },
+  {
+    "index": "F108320",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは会合を延期しなければならなかった。",
+    "output": "We had to put off the meeting."
+  },
+  {
+    "index": "F108322",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは会合は短時間で終わると思っていたが、実際にはほぼ３時間も続いた。",
+    "output": "We thought the meeting was going to be short, but it actually went on for almost three hours."
+  },
+  {
+    "index": "F108324",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは会議を一週間延ばした。",
+    "output": "We delayed the meeting for a week."
+  },
+  {
+    "index": "F108326",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは会議でこのテーマについて討論するだろう。",
+    "output": "We will debate this subject at the meeting."
+  },
+  {
+    "index": "F108328",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは会うやいなや互いに愛し合った。",
+    "output": "The moment we met, we fell in love with each other."
+  },
+  {
+    "index": "F108330",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは過去を後悔しがちである。",
+    "output": "We are given to regretting our past."
+  },
+  {
+    "index": "F108332",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは荷物を車に積み込んだ。",
+    "output": "We loaded our baggage into the car."
+  },
+  {
+    "index": "F108334",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは花子にピアノをひいてくれるようにたのみました。",
+    "output": "We asked Hanako to play the piano."
+  },
+  {
+    "index": "F108336",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは火事の方向に急いだ。",
+    "output": "We hurried in the direction of the fire."
+  },
+  {
+    "index": "F108338",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは火をずっとたいておいた。",
+    "output": "We kept the fire burning."
+  },
+  {
+    "index": "F108340",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは火の周りに円を描いて座った。",
+    "output": "We sat around the fire in a circle."
+  },
+  {
+    "index": "F108342",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは火の周りに円を作って座った。",
+    "output": "We sat around the fire in a circle."
+  },
+  {
+    "index": "F108344",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは家路についた。",
+    "output": "We set out for home."
+  },
+  {
+    "index": "F108346",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは家庭の伝統を維持しなければならない。",
+    "output": "We must keep up the family traditions."
+  },
+  {
+    "index": "F108348",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは家具を二つちょうど購入したところだ。",
+    "output": "We have just bought two pieces of furniture."
+  },
+  {
+    "index": "F108350",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは家が全部、次から次へと壊されるのをみた。",
+    "output": "We saw all the houses pulled down one after another."
+  },
+  {
+    "index": "F108352",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは夏休み中、ずっとそこでキャンプをした。",
+    "output": "We camped there through summer vacation."
+  },
+  {
+    "index": "F108354",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは夏休みを過ごしに海岸へ行った。",
+    "output": "We went to the coast for our summer vacation."
+  },
+  {
+    "index": "F108356",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは夏の間は田舎で暮らします。",
+    "output": "We live in the country during the summer."
+  },
+  {
+    "index": "F108358",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは何年も文通をつづけている。",
+    "output": "We have carried on a correspondence for years."
+  },
+  {
+    "index": "F108360",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは何人かの生徒が来るだろうと思っていたが、教室にはだれ一人いなかった。",
+    "output": "We hoped some students would come, but there were none in the classroom."
+  },
+  {
+    "index": "F108362",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは何時間も待った。",
+    "output": "We waited for hours and hours."
+  },
+  {
+    "index": "F108364",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは何をするか、そしてどこへ行くかについて議論した。",
+    "output": "We discussed what to do and where to go."
+  },
+  {
+    "index": "F108366",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは何をしてどこへいくべきかを論じた。",
+    "output": "We discussed what to do and where to go."
+  },
+  {
+    "index": "F108368",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは何ひとつ不自由していない。",
+    "output": "We lack nothing."
+  },
+  {
+    "index": "F108370",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは何としてでも彼を説得しなくてはならない。",
+    "output": "We have to use every means to persuade him."
+  },
+  {
+    "index": "F108372",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは何とか外国切手を数枚入手できた。",
+    "output": "We managed to get some foreign stamps."
+  },
+  {
+    "index": "F108374",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは何か生きていく目標をもたねばならない。",
+    "output": "We must have something to live for."
+  },
+  {
+    "index": "F108376",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは何か生きがいを持たなければならない。",
+    "output": "We must have something to live for."
+  },
+  {
+    "index": "F108378",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは何か食べるものが必要だ。",
+    "output": "We need something to eat."
+  },
+  {
+    "index": "F108380",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは何が起きつつあるか気づいていた。",
+    "output": "We were alive to what was going on."
+  },
+  {
+    "index": "F108382",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは音楽を聴くために話すのをやめた。",
+    "output": "We stopped talking so that we could hear the music."
+  },
+  {
+    "index": "F108384",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは音楽を聴いて楽しんだ。",
+    "output": "We enjoyed listening to the music."
+  },
+  {
+    "index": "F108386",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは温かい歓迎を受けた。",
+    "output": "We received a warm welcome."
+  },
+  {
+    "index": "F108388",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは横浜から神戸まで航行した。",
+    "output": "We sailed from Yokohama to Kobe."
+  },
+  {
+    "index": "F108390",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは遠征試合でほとんど負けてしまった。",
+    "output": "We lost almost all our away games."
+  },
+  {
+    "index": "F108392",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは駅前のホテルに泊まった。",
+    "output": "We stayed at a hotel in front of the station."
+  },
+  {
+    "index": "F108394",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは駅まで急いでいったが、結局は汽車に乗り遅れた。",
+    "output": "We hurried to the station only to miss the train."
+  },
+  {
+    "index": "F108396",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは駅の近くに住んでいます。",
+    "output": "We live close to the station."
+  },
+  {
+    "index": "F108398",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは駅に時間どおりに着いた。",
+    "output": "We reached the station on time."
+  },
+  {
+    "index": "F108400",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは駅で３時に解散した。",
+    "output": "We parted at the station at three."
+  },
+  {
+    "index": "F108402",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは英語を学びながら、楽しい時間を過ごした。",
+    "output": "We had good time, learning English."
+  },
+  {
+    "index": "F108404",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは英語を学ばなければならない。",
+    "output": "We must study English."
+  },
+  {
+    "index": "F108406",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは英語の読み方を学びました。",
+    "output": "We learned how to read English."
+  },
+  {
+    "index": "F108408",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは英語で少なからず誤りを犯します。",
+    "output": "We make not a few mistakes when speaking in English."
+  },
+  {
+    "index": "F108410",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは英語が国際語であることを知った。",
+    "output": "We learned that English is an international language."
+  },
+  {
+    "index": "F108412",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは泳ぐことを楽しんだ。",
+    "output": "We enjoyed swimming."
+  },
+  {
+    "index": "F108414",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは永遠にそこに住むことはできない。",
+    "output": "We cannot live on it forever."
+  },
+  {
+    "index": "F108416",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは映画に行くんですよ。一緒においでなさい。",
+    "output": "We are going to the movies. Come with us."
+  },
+  {
+    "index": "F108418",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは映画に行くところなんです。",
+    "output": "We're going to the movies."
+  },
+  {
+    "index": "F108420",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは雲より高く飛んでいます。",
+    "output": "We are flying above the clouds."
+  },
+  {
+    "index": "F108422",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは運命共同体だ。",
+    "output": "We're in the same boat."
+  },
+  {
+    "index": "F108424",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは運転それ自体に集中することでよい運転手になるのではない。",
+    "output": "We do not become good drivers by concentrating on driving as such."
+  },
+  {
+    "index": "F108426",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは雨降りにもかかわらず、外出した。",
+    "output": "We went out in spite of the rain."
+  },
+  {
+    "index": "F108428",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは雨の中を進んで行った。",
+    "output": "We were going along in the rain."
+  },
+  {
+    "index": "F108430",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは雨のために外出できなかった。",
+    "output": "We couldn't go out because of the rain."
+  },
+  {
+    "index": "F108432",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは雨が止み次第出発します。",
+    "output": "We'll start as soon as it stops raining."
+  },
+  {
+    "index": "F108434",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは雨が激しく降っているという理由だけで、今夜外へ食べに出かけなかった。",
+    "output": "We didn't eat out this evening only because it was raining hard."
+  },
+  {
+    "index": "F108436",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは飲料水の供給をその川に頼っている。",
+    "output": "We depend upon the river for the supply of water to drink."
+  },
+  {
+    "index": "F108438",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは一列にならんでバスを待った。",
+    "output": "We queued up for the bus."
+  },
+  {
+    "index": "F108440",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは一列に並ばされた。",
+    "output": "We were made to stand in line."
+  },
+  {
+    "index": "F108442",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは一番星が空に輝いているのを見た。",
+    "output": "We saw the first star shining in the sky."
+  },
+  {
+    "index": "F108444",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは一般に食後にお茶を飲む。",
+    "output": "We generally drink tea after a meal."
+  },
+  {
+    "index": "F108446",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは一日に三度食事をする。",
+    "output": "We have three meals a day."
+  },
+  {
+    "index": "F108448",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは一日に少なくとも８時間は眠らなければならない。",
+    "output": "We must sleep at least eight hours a day."
+  },
+  {
+    "index": "F108450",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは一日に７時間は寝なければならない。",
+    "output": "We must sleep at least seven hours a day."
+  },
+  {
+    "index": "F108452",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは一日でその仕事をしなければならない。",
+    "output": "We have to do the work in a day."
+  },
+  {
+    "index": "F108454",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは一生懸命働かなければならない。",
+    "output": "We must work hard."
+  },
+  {
+    "index": "F108456",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは一緒に昼食をとっていました。",
+    "output": "We were eating lunch together."
+  },
+  {
+    "index": "F108458",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは一緒に歌を歌って楽しんだ。",
+    "output": "We enjoyed singing songs together."
+  },
+  {
+    "index": "F108460",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは一緒に歌った。",
+    "output": "We joined in on the chorus."
+  },
+  {
+    "index": "F108462",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは一緒にいた。",
+    "output": "We had always been close."
+  },
+  {
+    "index": "F108464",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは一緒に、次の駅まで歩いた。",
+    "output": "We walked together as far as the next station."
+  },
+  {
+    "index": "F108466",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは一言も聞き漏らさないように注意深く聞いていた。",
+    "output": "We listened carefully in order not to miss a single word."
+  },
+  {
+    "index": "F108468",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは一休みしないともうこれ以上歩けません。",
+    "output": "We cannot go any farther without a rest."
+  },
+  {
+    "index": "F108470",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは医者を呼んだ方がいい。",
+    "output": "We'd better call the doctor."
+  },
+  {
+    "index": "F108472",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは意志疎通が上手だ。",
+    "output": "We are the great communicators."
+  },
+  {
+    "index": "F108474",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは委員会が詳しい答えを出すように望んでいます。",
+    "output": "We want the committee to work out the details."
+  },
+  {
+    "index": "F108476",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは委員会がこの問題を解決するよう望んでいます。",
+    "output": "We want the committee to work out this problem."
+  },
+  {
+    "index": "F108478",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは以前神戸に住んでいた。",
+    "output": "We used to live in Kobe."
+  },
+  {
+    "index": "F108480",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは以前より暮らし向きがよい。",
+    "output": "We are better off than we used to be."
+  },
+  {
+    "index": "F108482",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは以前パリにすんでいた。",
+    "output": "We lived in Paris before."
+  },
+  {
+    "index": "F108484",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは案内人の後から中へ入った。",
+    "output": "We went in after the guide."
+  },
+  {
+    "index": "F108486",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは暗闇の中に何か白いものを見ました。",
+    "output": "We saw something white in the dark."
+  },
+  {
+    "index": "F108488",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "暗くなる前に東京につくだろう。",
+    "output": "We will reach Tokyo before dark."
+  },
+  {
+    "index": "F108490",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは暗くなるとその火の周りで歌った。",
+    "output": "We sang around the fire when it got dark."
+  },
+  {
+    "index": "F108492",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは暗くならないうちにテントを張った。",
+    "output": "We set up our tents before dark."
+  },
+  {
+    "index": "F108494",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはワインは最優良品のみ使っている。",
+    "output": "We use only the best brand of wine."
+  },
+  {
+    "index": "F108496",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはロンドンに喜劇を見に行った。",
+    "output": "We went to see a comedy in London."
+  },
+  {
+    "index": "F108498",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはロンドンで知り合った。",
+    "output": "We got to know each other in London."
+  },
+  {
+    "index": "F108500",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはロンドンからニューヨークまで飛行機で行った。",
+    "output": "We flew from London to New York."
+  },
+  {
+    "index": "F108502",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはロバートをボブと呼んでいた。",
+    "output": "We called Robert \"Bob\"."
+  },
+  {
+    "index": "F108504",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはローマへ行って、そこに一週間滞在した。",
+    "output": "We went to Rome, where we stayed a week."
+  },
+  {
+    "index": "F108506",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはローマのホテルに到着した。",
+    "output": "We arrived at a hotel in Rome."
+  },
+  {
+    "index": "F108508",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはローマに行って、そこで１週間過ごした。",
+    "output": "We went to Rome, where we stayed a week."
+  },
+  {
+    "index": "F108510",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはローマで楽しく過ごしてます。",
+    "output": "We are having a nice time in Rome."
+  },
+  {
+    "index": "F108512",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはロープを切り落とした。",
+    "output": "We cut off the rope."
+  },
+  {
+    "index": "F108514",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはレポートを今月末までに提出しなければならない。",
+    "output": "We have to turn in our reports by the end of this month."
+  },
+  {
+    "index": "F108516",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはレストランに入り、夕食をとりながらエネルギー危機について論じた。",
+    "output": "We entered a restaurant and discussed the energy crisis over our dinner."
+  },
+  {
+    "index": "F108518",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはレストランに入って昼食を食べた。",
+    "output": "We entered the restaurant and had lunch."
+  },
+  {
+    "index": "F108520",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはレストランに行きました。",
+    "output": "We went to a restaurant."
+  },
+  {
+    "index": "F108522",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはレストランで夕食をとった。",
+    "output": "We had dinner at a restaurant."
+  },
+  {
+    "index": "F108524",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはリンゴを食べた。",
+    "output": "We ate some apples."
+  },
+  {
+    "index": "F108526",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはラジオを聞きます。",
+    "output": "We listen to the radio."
+  },
+  {
+    "index": "F108528",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはラジオをつけた。",
+    "output": "We turned on the radio."
+  },
+  {
+    "index": "F108530",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはライバルに価格競争で敗れた。",
+    "output": "We lost out to our rival in price competition."
+  },
+  {
+    "index": "F108532",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはよく眠った。",
+    "output": "We had a sound sleep."
+  },
+  {
+    "index": "F108534",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはよく未来について語り合ったものだ。",
+    "output": "We would often talk about our future."
+  },
+  {
+    "index": "F108536",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはよく日本と英国を比較する。",
+    "output": "We often compare Japan with Britain."
+  },
+  {
+    "index": "F108538",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはよく川へ釣りに行った。",
+    "output": "We often went fishing in the river."
+  },
+  {
+    "index": "F108540",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはよく川へ泳ぎに行ったものだった。",
+    "output": "We would often go swimming in the river."
+  },
+  {
+    "index": "F108542",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはよく将来のことについて話し合ったものだ。",
+    "output": "We used to talk about our future."
+  },
+  {
+    "index": "F108544",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはよく考えた末彼の申し出を受け入れた。",
+    "output": "After much consideration, we accepted his offer."
+  },
+  {
+    "index": "F108546",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはよく公園で遊んだものだ。",
+    "output": "We used to play in the park."
+  },
+  {
+    "index": "F108548",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはよく映画に行って楽しんだものだ。",
+    "output": "We often enjoyed going to the movies."
+  },
+  {
+    "index": "F108550",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはよく一緒に御昼を食べます。",
+    "output": "We often eat lunch together."
+  },
+  {
+    "index": "F108552",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはよくちょっとした贈り物をしあったものだった。",
+    "output": "We would often give each other little presents."
+  },
+  {
+    "index": "F108554",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはよい友達でいなければならない、と覚えておきなさい。",
+    "output": "Please keep in mind that we have to be with other students."
+  },
+  {
+    "index": "F108556",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはよい本と、悪い本とを見分けなければならない。",
+    "output": "We should distinguish a good book from a bad one."
+  },
+  {
+    "index": "F108558",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはよい人とは一緒につきあうけれど、悪い人とはつき合わないわ。",
+    "output": "We mix with the good, not with the bad."
+  },
+  {
+    "index": "F108560",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはゆったりと腰を下ろしていた。",
+    "output": "We were sitting comfortably."
+  },
+  {
+    "index": "F108562",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはやっと彼を説得して私たちの考えに同調させた。",
+    "output": "We managed to bring him around to our way of thinking."
+  },
+  {
+    "index": "F108564",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはやがてまたあなたにお目にかかるでしょう。",
+    "output": "We will be seeing you again before long."
+  },
+  {
+    "index": "F108566",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはものすごい雪のために遅れた。",
+    "output": "We were late because of the heavy snow."
+  },
+  {
+    "index": "F108568",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはもっと勉強する必要があります。",
+    "output": "We need to study more."
+  },
+  {
+    "index": "F108570",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはもっと早くそれを話し合うべきだったのに。",
+    "output": "We ought to have talked it over much earlier."
+  },
+  {
+    "index": "F108572",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、もっとおしゃべり好きにならなくてはいけないよ。",
+    "output": "We should be more talkative."
+  },
+  {
+    "index": "F108574",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはもう少し早く出発してもかまいませんか。",
+    "output": "Do you mind our leaving a little earlier?"
+  },
+  {
+    "index": "F108576",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはもう行った方がよくないですか。",
+    "output": "Hadn't we better go now?"
+  },
+  {
+    "index": "F108578",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはもう行ったほうがいいでしょう。",
+    "output": "It seems to me that we should go now."
+  },
+  {
+    "index": "F108580",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはもう危険を脱しました。",
+    "output": "We're in no danger now."
+  },
+  {
+    "index": "F108582",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはもう一度それをやってみたが、できなかった。",
+    "output": "We tried it again, but couldn't do it."
+  },
+  {
+    "index": "F108584",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはもうずいぶん長くここにいます。",
+    "output": "We've been here long enough."
+  },
+  {
+    "index": "F108586",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはもうじき幸福になるのですね。",
+    "output": "We'll soon be happy, won't we?"
+  },
+  {
+    "index": "F108588",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはもうおいとましなければならない。",
+    "output": "We ought to leave now."
+  },
+  {
+    "index": "F108590",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはもういちど彼に会おうと思います。",
+    "output": "I reckon we'll see him once more."
+  },
+  {
+    "index": "F108592",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはもう３年間英語を勉強しています。",
+    "output": "We have been studying English for three years now."
+  },
+  {
+    "index": "F108594",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはもう２、３日隠れていることに決めた。",
+    "output": "We decided to lie hidden for a few days."
+  },
+  {
+    "index": "F108596",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはもう１００ヤード歩いた。",
+    "output": "We walked another hundred yards."
+  },
+  {
+    "index": "F108598",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはメアリーに立派な誕生日の贈り物を選んだ。",
+    "output": "We chose Mary a good birthday present."
+  },
+  {
+    "index": "F108600",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみんな流感にかかり、先生もかかった。",
+    "output": "We all caught flu, and so did the teacher."
+  },
+  {
+    "index": "F108602",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみんな黙っていた。",
+    "output": "All of us were silent."
+  },
+  {
+    "index": "F108604",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみんな彼の成功を確信している。",
+    "output": "We are all convinced of his success."
+  },
+  {
+    "index": "F108606",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみんな彼の罪を確信している。",
+    "output": "We are all convinced that he's guilty."
+  },
+  {
+    "index": "F108608",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみんな彼の１０年ぶりの帰国を待ち望んでいた。",
+    "output": "We were all anxious for his first return in ten years."
+  },
+  {
+    "index": "F108610",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみんな地球に住んでいる。",
+    "output": "We all live on the earth."
+  },
+  {
+    "index": "F108612",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみんな恒久的な平和を願っている。",
+    "output": "We all wish for permanent world peace."
+  },
+  {
+    "index": "F108614",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみんな恒久的な世界平和を願っている。",
+    "output": "We all wish for permanent world peace."
+  },
+  {
+    "index": "F108616",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみんな君の健康を心配しています。",
+    "output": "We are all anxious about your health."
+  },
+  {
+    "index": "F108618",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみんな君の健康のことを心配していた。",
+    "output": "We are all anxious about your health."
+  },
+  {
+    "index": "F108620",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみんな君の健康のことを気にしている。",
+    "output": "We are all anxious about your health."
+  },
+  {
+    "index": "F108622",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみんな間違いをする。",
+    "output": "We all make mistakes."
+  },
+  {
+    "index": "F108624",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみんな楽しく食事をしていました。",
+    "output": "All of us were happy at the table."
+  },
+  {
+    "index": "F108626",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみな幸福を願う。",
+    "output": "We all wish for happiness."
+  },
+  {
+    "index": "F108628",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみな幸福を願う。",
+    "output": "We all wish for happiness."
+  },
+  {
+    "index": "F108630",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみんなときどき不注意になりがちだ。",
+    "output": "We are all apt to be careless at times."
+  },
+  {
+    "index": "F108632",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみんなで紛失した書類をくまなく探したがどうしてもみつからなかった。",
+    "output": "We all searched high and low for the missing documents, but they were never found."
+  },
+  {
+    "index": "F108634",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみんなその知らせに驚きました。",
+    "output": "All of us were surprised at the news."
+  },
+  {
+    "index": "F108636",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみんなその集まりの準備とした。",
+    "output": "We all made preparation for the meeting."
+  },
+  {
+    "index": "F108638",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみんなその映画を楽しんだ。",
+    "output": "We all enjoyed the film."
+  },
+  {
+    "index": "F108640",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみんないっしょに遊んだ。",
+    "output": "We played all together."
+  },
+  {
+    "index": "F108642",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみんないつかは死ななければならない。",
+    "output": "All of us must die some day."
+  },
+  {
+    "index": "F108644",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみんなあなたの健康を心配していますよ。",
+    "output": "We are all anxious about your health."
+  },
+  {
+    "index": "F108646",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみな立ち上がった。",
+    "output": "All of us stood up."
+  },
+  {
+    "index": "F108648",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみな平和を望みます。",
+    "output": "We all hope for peace."
+  },
+  {
+    "index": "F108650",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみな病気にかかりやすい。",
+    "output": "We are all liable to disease."
+  },
+  {
+    "index": "F108652",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみな彼女をじろじろみました。",
+    "output": "All of us stared at her."
+  },
+  {
+    "index": "F108654",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみな彼女をじろじろ見ました。ずいぶん彼女は変わったのです。",
+    "output": "All of us stared at her; she had changed so much."
+  },
+  {
+    "index": "F108656",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみな彼女の死の知らせに驚いた。",
+    "output": "We were all surprised at the news of her death."
+  },
+  {
+    "index": "F108658",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみな彼を立派な学者だと思った。",
+    "output": "We all took him to be a great scholar."
+  },
+  {
+    "index": "F108660",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみな彼の死の知らせに驚いた。",
+    "output": "We were all surprised at the news of his death."
+  },
+  {
+    "index": "F108662",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみな窓から見た。",
+    "output": "All of us looked through the window."
+  },
+  {
+    "index": "F108664",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみな真実を知りたがっています。",
+    "output": "We are all eager to know the truth."
+  },
+  {
+    "index": "F108666",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみな収穫の手伝いをした。",
+    "output": "We all helped with the harvest."
+  },
+  {
+    "index": "F108668",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみな試験でカンニングをすることは悪いと考えている。",
+    "output": "We all consider it wrong to cheat on the test."
+  },
+  {
+    "index": "F108670",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみな試験でカンニングすることは悪いと考えている。",
+    "output": "We all consider it wrong to cheat in exams."
+  },
+  {
+    "index": "F108672",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみな最後まであなたを支持するつもりです。",
+    "output": "We will all stand by you to the last."
+  },
+  {
+    "index": "F108674",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみな会議に出席していた。",
+    "output": "We were all present at the meeting."
+  },
+  {
+    "index": "F108676",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみなまるで月の光に魅せられたかのように、音楽に聞き入った。",
+    "output": "All of us listened to the music as if we were charmed by the moonlight."
+  },
+  {
+    "index": "F108678",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみなパーティーに出席していた。",
+    "output": "We were all present at the party."
+  },
+  {
+    "index": "F108680",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみなその音楽に合わせてハミングした。",
+    "output": "We all hummed to the music."
+  },
+  {
+    "index": "F108682",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみなあなたに会う事を楽しみにしている。",
+    "output": "We are all looking forward to seeing you."
+  },
+  {
+    "index": "F108684",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみな、実験の結果に興奮した。",
+    "output": "All of us were excited with the result of the experiment."
+  },
+  {
+    "index": "F108686",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみな、制服を着て登校する。",
+    "output": "We all wear uniforms to school."
+  },
+  {
+    "index": "F108688",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみな、トーマス・エジソンを偉大な発明家だと思っている。",
+    "output": "We all regard Thomas Edison as a great inventor."
+  },
+  {
+    "index": "F108690",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはみな、あなたが大好きなの。",
+    "output": "All of us like you very much."
+  },
+  {
+    "index": "F108692",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはまるでアリのように働いた。",
+    "output": "We worked like so many ants."
+  },
+  {
+    "index": "F108694",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはまもなく出発することに意見が一致した。",
+    "output": "We agreed to leave soon."
+  },
+  {
+    "index": "F108696",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはまた来るつもりです。",
+    "output": "We're going to come again."
+  },
+  {
+    "index": "F108698",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはまもなく事実を知るだろう。",
+    "output": "We will know the truth before long."
+  },
+  {
+    "index": "F108700",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはまた昨夜また口論をした。",
+    "output": "We had words again last night."
+  },
+  {
+    "index": "F108702",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはまだ真実がわかっていない。",
+    "output": "We have yet to know the truth."
+  },
+  {
+    "index": "F108704",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはまたあなたに会えることを楽しみにしています。",
+    "output": "We look forward to seeing you again."
+  },
+  {
+    "index": "F108706",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはまず第一に、健康に注意しなければならない。",
+    "output": "We must, first of all, be careful of our health."
+  },
+  {
+    "index": "F108708",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはまず、あなたの義理のお兄さんに手紙を書いて、もてなしていただいたお礼を言うべきでしょう。",
+    "output": "The first thing we should do is write and thank your brother-in-law for his hospitality."
+  },
+  {
+    "index": "F108710",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはまさかの時のために貯金しなければならない。",
+    "output": "We have to save money for a rainy day."
+  },
+  {
+    "index": "F108712",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはまさかの時に備えて貯金しなければならない。",
+    "output": "We have to save money for a rainy day."
+  },
+  {
+    "index": "F108714",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはまさかの時に備えて金を蓄えておくべきだ。",
+    "output": "We should save money for a rainy day."
+  },
+  {
+    "index": "F108716",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはホテルに午後５時にチェックインした。",
+    "output": "We checked in at the hotel at 5 p.m."
+  },
+  {
+    "index": "F108718",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはボストンまでは行きませんでした。",
+    "output": "We didn't go as far as Boston."
+  },
+  {
+    "index": "F108720",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはボストンに行き、そこに一週間滞在した。",
+    "output": "We went to Boston, where we stayed a week."
+  },
+  {
+    "index": "F108722",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはボートでその川を渡ります。",
+    "output": "We'll cross the river in a boat."
+  },
+  {
+    "index": "F108724",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはヘンリーをチームの主将に選んだ。",
+    "output": "We chose Henry captain of our team."
+  },
+  {
+    "index": "F108726",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはベニスは魅力的な町だと思う。",
+    "output": "We think Venice a fascinating city."
+  },
+  {
+    "index": "F108728",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはフランス語のかわりにロシア語を学んだ。",
+    "output": "We learned Russian instead of French."
+  },
+  {
+    "index": "F108730",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはブラジルからコーヒーを輸入しているんです。",
+    "output": "We import coffee from Brazil."
+  },
+  {
+    "index": "F108732",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはぶどうをたくさん手に入れた。",
+    "output": "We got many grapes."
+  },
+  {
+    "index": "F108734",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはふつう放課後にテニスをする。",
+    "output": "We usually play tennis after school."
+  },
+  {
+    "index": "F108736",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはふつう７時半に朝食を食べます。",
+    "output": "We usually have breakfast at 7:30."
+  },
+  {
+    "index": "F108738",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはひどく働かなくてはならない。",
+    "output": "We were forced to work hard."
+  },
+  {
+    "index": "F108740",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはひどく心配しながら知らせが届くのを待った。",
+    "output": "We waited for the news with a lot of anxiety."
+  },
+  {
+    "index": "F108742",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはひじょうに悲しいときに泣きます。",
+    "output": "We cry when we are very sad."
+  },
+  {
+    "index": "F108744",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはピザとビールをたらふく食べた。",
+    "output": "We pigged out on pizza and beer."
+  },
+  {
+    "index": "F108746",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはピクニックが大好きです。",
+    "output": "We adore picnics."
+  },
+  {
+    "index": "F108748",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはヒースロー空港にすぐ行ける所に住んでいる。",
+    "output": "We live within easy access of Heathrow."
+  },
+  {
+    "index": "F108750",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはピアノに合わせて歌った。",
+    "output": "We sang in chorus to the piano."
+  },
+  {
+    "index": "F108752",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはパンフレットを安く作った。",
+    "output": "We made brochures at small cost."
+  },
+  {
+    "index": "F108754",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはパンと米で暮らしています。",
+    "output": "We live on bread and rice."
+  },
+  {
+    "index": "F108756",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはハワイ経由でロサンゼルスに旅する予定だ。",
+    "output": "We will travel to Los Angeles by way of Hawaii."
+  },
+  {
+    "index": "F108758",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはパリに行っただけでなく、ローマも訪れた。",
+    "output": "Not only did we go to Paris, but we also visited Rome."
+  },
+  {
+    "index": "F108760",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはパリ周辺地方の道路地図を調べた。",
+    "output": "We studied the road map of the country around Paris."
+  },
+  {
+    "index": "F108762",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはパリ・オペラ座の踊りのレッスンを見ています。",
+    "output": "We are watching a class at the Paris Opera."
+  },
+  {
+    "index": "F108764",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはパトカーが全速力で走っているのを見た。",
+    "output": "We saw a patrol car running at full speed."
+  },
+  {
+    "index": "F108766",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはパティーを信頼しています。彼女は決して約束を破らないからです。",
+    "output": "We rely on Patty because she never breaks her promises."
+  },
+  {
+    "index": "F108768",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはバターを作るのに新しい工程を用いています。",
+    "output": "We are using a new process to make butter."
+  },
+  {
+    "index": "F108770",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはバスをチャーターした。",
+    "output": "We chartered a bus."
+  },
+  {
+    "index": "F108772",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはバスに乗るために急いだ。",
+    "output": "We hurried to catch the bus."
+  },
+  {
+    "index": "F108774",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "バスに乗り遅れたのかもしれないぞ。",
+    "output": "We may have missed the bus."
+  },
+  {
+    "index": "F108776",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはバスに間に合うように駅についた。",
+    "output": "We got to the station in time to catch the bus."
+  },
+  {
+    "index": "F108778",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはパイを２つに切った。",
+    "output": "We cut the pie in two."
+  },
+  {
+    "index": "F108780",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはバスで学校に行ってます。",
+    "output": "We go to school by bus."
+  },
+  {
+    "index": "F108782",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはバスで学校へ通う。",
+    "output": "We go to school by bus."
+  },
+  {
+    "index": "F108784",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはパーティーを開いて彼の誕生日を祝った。",
+    "output": "We celebrated his birthday with a party."
+  },
+  {
+    "index": "F108786",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはパーティーの計画を推し進めた。",
+    "output": "We went ahead with the plan for the party."
+  },
+  {
+    "index": "F108788",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはパーティーに招待されなかったんです。",
+    "output": "We were not invited to the party."
+  },
+  {
+    "index": "F108790",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはパーティーに行ってとても楽しかった。",
+    "output": "We went to the party and had a pleasant time."
+  },
+  {
+    "index": "F108792",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはパーティーで歌を歌って楽しんだ。",
+    "output": "We enjoyed singing songs at the party."
+  },
+  {
+    "index": "F108794",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはのどかに食事の席に座っていたが、その時急にあかりが消えた。",
+    "output": "We were sitting peacefully at dinner, when all of a sudden the lights went out."
+  },
+  {
+    "index": "F108796",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはにわか雨にあった。",
+    "output": "We were caught in a shower."
+  },
+  {
+    "index": "F108798",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはニュートンが万有引力の法則を発見したと習った。",
+    "output": "We learned that Newton discovered the law of gravitation."
+  },
+  {
+    "index": "F108800",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはニューヨークに暮らしていたときにアパートを借りていた。",
+    "output": "We rented an apartment when we lived in New York."
+  },
+  {
+    "index": "F108802",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはにぎやかな通りを通りぬけた。",
+    "output": "We came through a busy street."
+  },
+  {
+    "index": "F108804",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはなんとしてでも彼を説得しなければならない。",
+    "output": "We have to use every means to persuade him."
+  },
+  {
+    "index": "F108806",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはなんとか意志の疎通ができた。",
+    "output": "We managed to get through to each other."
+  },
+  {
+    "index": "F108808",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはなにをするのかそしてどこに行くのかについて議論した。",
+    "output": "We discussed what to do and where to go."
+  },
+  {
+    "index": "F108810",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはナイフとフォークの代わりに箸を使う。",
+    "output": "We use chopsticks in place of knives and forks."
+  },
+  {
+    "index": "F108812",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはどんな番組が行われるかに関係なく、テレビを見がちである。",
+    "output": "We are apt to watch television, irrespective of what program is on."
+  },
+  {
+    "index": "F108814",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはどんな犠牲を払っても国を守らなければならない。",
+    "output": "We have to defend our country at any cost."
+  },
+  {
+    "index": "F108816",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはトランプをしながら楽しい時間を過ごした。",
+    "output": "We had a good time playing cards."
+  },
+  {
+    "index": "F108818",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはトムをチームのキャプテンに選出した。",
+    "output": "We elected Tom captain of the team."
+  },
+  {
+    "index": "F108820",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはトムのために誕生会を開く予定だ。",
+    "output": "We are giving Tom a party on his birthday."
+  },
+  {
+    "index": "F108822",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはトムに塀を塗らせました。",
+    "output": "We had Tom paint the wall."
+  },
+  {
+    "index": "F108824",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはトムと親しくなった。",
+    "output": "We have made friends with Tom."
+  },
+  {
+    "index": "F108826",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはトムが正直者だと考える。",
+    "output": "We think of Tom as an honest man."
+  },
+  {
+    "index": "F108828",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはトムが正直だと考える。",
+    "output": "We consider Tom honest."
+  },
+  {
+    "index": "F108830",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはとても疲れていた。さらに悪い事には雨がふりだした。",
+    "output": "We were very tired, and to make matters worse, it began to rain."
+  },
+  {
+    "index": "F108832",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはとても疲れていた。",
+    "output": "We were very tired."
+  },
+  {
+    "index": "F108834",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはとても疲れていた、それで私たちは家にいた。",
+    "output": "We were very tired, so we stayed home."
+  },
+  {
+    "index": "F108836",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはとても高く上ったので、町を一望することが出来た。",
+    "output": "We went up so high that we could get the whole view of the city."
+  },
+  {
+    "index": "F108838",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはとても興奮していたので、じっと座っていることができませんでした。",
+    "output": "We were so excited that we couldn't sit still."
+  },
+  {
+    "index": "F108840",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはとても活発な討論をした。",
+    "output": "We had a very vigorous debate."
+  },
+  {
+    "index": "F108842",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはとても楽しく過ごしました。",
+    "output": "We enjoyed ourselves very much."
+  },
+  {
+    "index": "F108844",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはどちらのバスに乗るべきかわからなかった。",
+    "output": "We didn't know which bus to take."
+  },
+  {
+    "index": "F108846",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはどこで欲しいものが手に入れられますか。",
+    "output": "Where can we get what we want?"
+  },
+  {
+    "index": "F108848",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはときどき間違いをする。",
+    "output": "We sometimes make mistakes."
+  },
+  {
+    "index": "F108850",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはときどきその湖で泳ぎます。",
+    "output": "We sometimes swim in the lake."
+  },
+  {
+    "index": "F108852",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはときどきいっしょに映画を見に行く。",
+    "output": "We go to the movies together once in a while."
+  },
+  {
+    "index": "F108854",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはとかく怠惰になりがちである。",
+    "output": "We are liable to be lazy."
+  },
+  {
+    "index": "F108856",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはドーバーからカレーまで海峡横断フェリーに乗った。",
+    "output": "We took the cross-channel ferry from Dover to Calais."
+  },
+  {
+    "index": "F108858",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはとうとう頂上についた。",
+    "output": "We finally got to the summit."
+  },
+  {
+    "index": "F108860",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはとうとうミシシッピー川にたどり着いた。",
+    "output": "Finally, we got to the Mississippi."
+  },
+  {
+    "index": "F108862",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはどうしていいかわからなかった。",
+    "output": "We didn't know what to do."
+  },
+  {
+    "index": "F108864",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはドアを緑に塗った。",
+    "output": "We painted the door green."
+  },
+  {
+    "index": "F108866",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "ドアの閉まる音が聞こえた。",
+    "output": "We heard the door close."
+  },
+  {
+    "index": "F108868",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはテントのなかで眠りました。",
+    "output": "We slept in a tent."
+  },
+  {
+    "index": "F108870",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはテントで眠りました。",
+    "output": "We slept in a tent."
+  },
+  {
+    "index": "F108872",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはテレビを見て楽しみます。",
+    "output": "We enjoy watching TV."
+  },
+  {
+    "index": "F108874",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはテレビを見ています。",
+    "output": "We are watching TV."
+  },
+  {
+    "index": "F108876",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはテレビのない日常生活はほとんど想像もできない。",
+    "output": "We can hardly imagine our daily life without television."
+  },
+  {
+    "index": "F108878",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはテレビなしですまさなければならなかった。",
+    "output": "We had to do without a TV set."
+  },
+  {
+    "index": "F108880",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはテレビで新しい番組を見ました。",
+    "output": "We watched a new program on television."
+  },
+  {
+    "index": "F108882",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはテレビでサッカーの試合を見た。",
+    "output": "We watched the soccer game on TV."
+  },
+  {
+    "index": "F108884",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはテレビでおかしな番組を見ました。",
+    "output": "We saw a funny program on TV."
+  },
+  {
+    "index": "F108886",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはテニス部を作りたいと思っている。",
+    "output": "We hope to organize a tennis club."
+  },
+  {
+    "index": "F108888",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはテニスを楽しんだ。",
+    "output": "We enjoyed playing tennis."
+  },
+  {
+    "index": "F108890",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはテニスの試合に参加するだろう。",
+    "output": "We will take part in a tennis match."
+  },
+  {
+    "index": "F108892",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはできる限りのことをしたことは確実だ。",
+    "output": "Heaven knows we've done everything we can."
+  },
+  {
+    "index": "F108894",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはできるだけ早く出発したほうがよいと案内人は言った。",
+    "output": "The guide said that we had better set out as soon as possible."
+  },
+  {
+    "index": "F108896",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはテムズ川の土手を歩きました。",
+    "output": "We walked on the banks of the Thames."
+  },
+  {
+    "index": "F108898",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはテーブルの上に白いテーブルクロスを置いた。",
+    "output": "We placed a white tablecloth over the table."
+  },
+  {
+    "index": "F108900",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはディナーを十分に楽しんだ。",
+    "output": "We enjoyed the dinner to the full."
+  },
+  {
+    "index": "F108902",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはディスコ音楽に合わせて踊った。",
+    "output": "We danced to the disco music."
+  },
+  {
+    "index": "F108904",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはついに鍵を見つけた。",
+    "output": "We found the key at last."
+  },
+  {
+    "index": "F108906",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私はついにその問題の解答を見出した。",
+    "output": "I finally found the solution to the problem."
+  },
+  {
+    "index": "F108908",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはチャンピオンです。",
+    "output": "We are the champions."
+  },
+  {
+    "index": "F108910",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはチャンスをできるだけ有効に利用しようとした。",
+    "output": "We tried to make the most of our chances."
+  },
+  {
+    "index": "F108912",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはチェスをして楽しい時をすごした。",
+    "output": "We had a good time playing chess."
+  },
+  {
+    "index": "F108914",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはだれでも、他者との一体感を切望する何かをうちに秘めている。",
+    "output": "Each of us has something in us that longs for a sense of oneness with others."
+  },
+  {
+    "index": "F108916",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはたらふく食べた。",
+    "output": "We played a good knife and fork."
+  },
+  {
+    "index": "F108918",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはたまたま同じ電車に乗っていた。",
+    "output": "It happened that we were on the same train."
+  },
+  {
+    "index": "F108920",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはたまたま同じ誕生日だ。",
+    "output": "It happens that we have the same birthday."
+  },
+  {
+    "index": "F108922",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはたまたま「ライ麦畑でつかまえて」を２冊持っている。",
+    "output": "It happens that we have two copies of Catcher in the Rye."
+  },
+  {
+    "index": "F108924",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはたちまち仲良くなった。",
+    "output": "We immediately became friends."
+  },
+  {
+    "index": "F108926",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはたくさんの自動車をその国に輸出している。",
+    "output": "We export a lot of automobiles to that country."
+  },
+  {
+    "index": "F108928",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはたき火の周囲を踊って回った。",
+    "output": "We danced about the fire."
+  },
+  {
+    "index": "F108930",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはたいてい１日の主な食事を晩にとります。",
+    "output": "We usually have our main meal of the day in the evening."
+  },
+  {
+    "index": "F108932",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそれを防止する強硬な対策を講じた。",
+    "output": "We took strong measures to prevent it."
+  },
+  {
+    "index": "F108934",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそれを宵の明星と呼ぶ。",
+    "output": "We call it the Evening Star."
+  },
+  {
+    "index": "F108936",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそれを初めから知っていた。",
+    "output": "We knew it all along."
+  },
+  {
+    "index": "F108938",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそれを公にしようと思う。",
+    "output": "We will make it public."
+  },
+  {
+    "index": "F108940",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそれを見て大笑いします。",
+    "output": "We watch it and laugh a lot."
+  },
+  {
+    "index": "F108942",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "空飛ぶ円盤だと思った。",
+    "output": "We believed it to be a flying saucer."
+  },
+  {
+    "index": "F108944",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそれを楽しみに待っています。",
+    "output": "We anticipate it with much pleasure."
+  },
+  {
+    "index": "F108946",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちには、それをやるための多くの時間がある。",
+    "output": "We have plenty of time to do that."
+  },
+  {
+    "index": "F108948",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちには、それをやるための多くの時間がある。",
+    "output": "We have plenty of time to do that."
+  },
+  {
+    "index": "F108950",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそれをどうしたらよいかについて長い議論をした。",
+    "output": "We had a long discussion as to what to do about it."
+  },
+  {
+    "index": "F108952",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそれらの徴候を常に意識している。",
+    "output": "We are always conscious of the signs."
+  },
+  {
+    "index": "F108954",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそれらを売る独占権がある。",
+    "output": "We have the exclusive right to sell them."
+  },
+  {
+    "index": "F108956",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそれらの単語を全て暗記できるとは限らない。",
+    "output": "We won't be able to learn all of the words by heart."
+  },
+  {
+    "index": "F108958",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそれについて熱心に議論した。",
+    "output": "We had a heated discussion about it."
+  },
+  {
+    "index": "F108960",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそれぞれテーブルの端を持ち、テーブルを部屋の隅へ運んだ。",
+    "output": "Each of us took hold of one end of the table and carried it to a corner of the room."
+  },
+  {
+    "index": "F108962",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそれが自然なものとみなしているのです。",
+    "output": "We assume that it is natural."
+  },
+  {
+    "index": "F108964",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそれがよい計画であると思った。",
+    "output": "We thought it was a nice plan."
+  },
+  {
+    "index": "F108966",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその話を聞いたとき、畏敬の念に打たれてしまった。",
+    "output": "We were awed into silence when we heard the story."
+  },
+  {
+    "index": "F108968",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその老夫婦を気の毒に思った。",
+    "output": "We were sorry for the old couple."
+  },
+  {
+    "index": "F108970",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその野球試合を楽しく見た。",
+    "output": "We enjoyed watching the baseball game."
+  },
+  {
+    "index": "F108972",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその問題を調査するべきだ。",
+    "output": "We should look into the problem."
+  },
+  {
+    "index": "F108974",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその問題を子供の視点から考慮すべきである。",
+    "output": "We should consider the problem from a child's point of view."
+  },
+  {
+    "index": "F108976",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "この問題はすぐに取り上げたほうがいい。",
+    "output": "We'd better take up this issue immediately."
+  },
+  {
+    "index": "F108978",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその問題をあらゆる面から検討しなければならない。",
+    "output": "We must consider every aspect of the problem."
+  },
+  {
+    "index": "F108980",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその問題について討論した。",
+    "output": "We discussed the problem."
+  },
+  {
+    "index": "F108982",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその報道は嘘だと思った。",
+    "output": "We considered the report as false."
+  },
+  {
+    "index": "F108984",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその紛争を解決することができた。",
+    "output": "We succeeded in settling the dispute."
+  },
+  {
+    "index": "F108986",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその物事をきいて驚きました。",
+    "output": "We were surprised at the sound."
+  },
+  {
+    "index": "F108988",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその部屋の中央に座った。",
+    "output": "We sat in the center of the room."
+  },
+  {
+    "index": "F108990",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその番組が終わるとラジオを切った。",
+    "output": "When the program finished, we switched the radio off."
+  },
+  {
+    "index": "F108992",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその爆発にぎょっとした。",
+    "output": "We were startled at the explosion."
+  },
+  {
+    "index": "F108994",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその猫をミミと名付けた。",
+    "output": "We named the cat Mimi."
+  },
+  {
+    "index": "F108996",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその日１０マイル歩いた。",
+    "output": "We walked ten miles that day."
+  },
+  {
+    "index": "F108998",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその討論を争点となっている問題に限定すべきだ。",
+    "output": "We should confine the discussion to the question at issue."
+  },
+  {
+    "index": "F109000",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその土地を処分しなければならない。",
+    "output": "We have to dispose of the land."
+  },
+  {
+    "index": "F109002",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその都市を見物したい。",
+    "output": "We want to do the sights of the city."
+  },
+  {
+    "index": "F109004",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその店を共同で経営している。",
+    "output": "We run the store jointly."
+  },
+  {
+    "index": "F109006",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその店が木曜日には休みだということを知らなかった。",
+    "output": "We were ignorant that the store was closed on Thursdays."
+  },
+  {
+    "index": "F109008",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその店が開くまで、しばらく待つしかなかった。",
+    "output": "We had no choice but to wait for a while until the store opened."
+  },
+  {
+    "index": "F109010",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその鳥を飛ばした。",
+    "output": "We let the bird fly."
+  },
+  {
+    "index": "F109012",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその町に来て、１週間滞在した。",
+    "output": "We came to the town, where we stayed for a week."
+  },
+  {
+    "index": "F109014",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその町に到着し、そこに１週間滞在した。",
+    "output": "We arrived at the city, where we stayed for a week."
+  },
+  {
+    "index": "F109016",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその知らせを聞いて驚いた。",
+    "output": "We were surprised to hear the news."
+  },
+  {
+    "index": "F109018",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその知らせは本当だと思った。",
+    "output": "We thought that the message was true."
+  },
+  {
+    "index": "F109020",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその知らせを聞いてびっくりした。",
+    "output": "We were astonished at the news."
+  },
+  {
+    "index": "F109022",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその男を叩きのめした。",
+    "output": "We beat the man up."
+  },
+  {
+    "index": "F109024",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその男の家を買った。",
+    "output": "We bought the man's house."
+  },
+  {
+    "index": "F109026",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその村がある谷まで降りていった。",
+    "output": "We went down to the valley where the village is."
+  },
+  {
+    "index": "F109028",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその騒音に慣れた。",
+    "output": "We have got used to that noise."
+  },
+  {
+    "index": "F109030",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその船を半月と名付けた。",
+    "output": "We named the boat the Half Moon."
+  },
+  {
+    "index": "F109032",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその石を懸命に押してみたが無駄だった。",
+    "output": "We pushed the rock hard in vain."
+  },
+  {
+    "index": "F109034",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその人に大変感謝しています。",
+    "output": "We are very grateful to those people."
+  },
+  {
+    "index": "F109036",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその人たちに大変感謝しています。",
+    "output": "We are very grateful to those people."
+  },
+  {
+    "index": "F109038",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその紳士と親しく話した。",
+    "output": "We had a friendly talk with the gentleman."
+  },
+  {
+    "index": "F109040",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその場所へ２週間以内に到着できると予想した。",
+    "output": "We calculated that we could reach the place within two weeks."
+  },
+  {
+    "index": "F109042",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその少年のデッサンのすばらしさに驚嘆した。",
+    "output": "We were amazed at the excellence of the boy's drawings."
+  },
+  {
+    "index": "F109044",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその少年が窓を破るのを防いだ。",
+    "output": "We restrained the boy from breaking the window."
+  },
+  {
+    "index": "F109046",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその小鳥の生活については全く何も知らない。",
+    "output": "We know absolutely nothing about the bird's life whatever."
+  },
+  {
+    "index": "F109048",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその小説を日本語から英語に訳した。",
+    "output": "We translated the novel from Japanese into English."
+  },
+  {
+    "index": "F109050",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその重要性を主張した。",
+    "output": "We insisted on its importance."
+  },
+  {
+    "index": "F109052",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその実験を試みた。",
+    "output": "We attempted the experiment."
+  },
+  {
+    "index": "F109054",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその時以来、彼女から便りをもらっていない。",
+    "output": "We haven't heard from her since then."
+  },
+  {
+    "index": "F109056",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその事例にこの規則を適用できる。",
+    "output": "We can apply this rule to that case."
+  },
+  {
+    "index": "F109058",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその事故の目撃者であった。",
+    "output": "We were witnesses of the accident."
+  },
+  {
+    "index": "F109060",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその事業に多額の金を使った。",
+    "output": "We spent a good deal of money on the project."
+  },
+  {
+    "index": "F109062",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその試合を見て楽しんだ。",
+    "output": "We enjoyed watching the game."
+  },
+  {
+    "index": "F109064",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその試合を見てわくわくした。",
+    "output": "We were excited to see the game."
+  },
+  {
+    "index": "F109066",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその試合を延期しなければならないだろう。",
+    "output": "We will have to postpone the game."
+  },
+  {
+    "index": "F109068",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私はその試合に負けると思う。",
+    "output": "I'm afraid we'll lose the game."
+  },
+  {
+    "index": "F109070",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその試合に勝った。",
+    "output": "We won the match."
+  },
+  {
+    "index": "F109072",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその詩を暗記しなければならなかった。",
+    "output": "We had to learn the poem by heart."
+  },
+  {
+    "index": "F109074",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその詩をすべて暗記しなければならない。",
+    "output": "We have to learn the whole poem by heart."
+  },
+  {
+    "index": "F109076",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその子供を救うために献血をした。",
+    "output": "We gave blood to help the child."
+  },
+  {
+    "index": "F109078",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその子供がいたずらをするのをやめさせた。",
+    "output": "We stopped the child from getting into mischief."
+  },
+  {
+    "index": "F109080",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその子どもがバスに乗るのを見た。",
+    "output": "We saw the child get on the bus."
+  },
+  {
+    "index": "F109082",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその仕事を仕上げようと努力した。",
+    "output": "We exerted ourselves to finish the job."
+  },
+  {
+    "index": "F109084",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその好機を最大限利用した。",
+    "output": "We make the most of the opportunity."
+  },
+  {
+    "index": "F109086",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその好機を最大限に生かした。",
+    "output": "We made the most of the opportunity."
+  },
+  {
+    "index": "F109088",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその好機を最大に利用した。",
+    "output": "We made the most of the opportunity."
+  },
+  {
+    "index": "F109090",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその光景に驚いた。",
+    "output": "We were surprised at the sight."
+  },
+  {
+    "index": "F109092",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその湖で泳いだ。",
+    "output": "We swam in the lake."
+  },
+  {
+    "index": "F109094",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその古い建物が取り壊されるのを見た。",
+    "output": "We saw the old building pulled down."
+  },
+  {
+    "index": "F109096",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその原因を見つけて取り除かねばならない。",
+    "output": "We must find out the cause and get rid of it."
+  },
+  {
+    "index": "F109098",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその研究室を利用した。",
+    "output": "We have made use of the laboratory."
+  },
+  {
+    "index": "F109100",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその犬をホワイトと名付けた。",
+    "output": "We named the dog White."
+  },
+  {
+    "index": "F109102",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその件を詳細に検討した。",
+    "output": "We debated the matter at length."
+  },
+  {
+    "index": "F109104",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその件について世論に訴えていなければならない。",
+    "output": "We must appeal to public opinion about the matter."
+  },
+  {
+    "index": "F109106",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその結果に十分満足しているわけではない。",
+    "output": "We are not quite satisfied with the result."
+  },
+  {
+    "index": "F109108",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその結果に失望した。",
+    "output": "We are disappointed at the results."
+  },
+  {
+    "index": "F109110",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその結果に幻滅した。",
+    "output": "We were disillusioned with the result."
+  },
+  {
+    "index": "F109112",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその劇を見に行った晩に彼と会いました。",
+    "output": "We saw him the night that we went to see the play."
+  },
+  {
+    "index": "F109114",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその計画を良く考えてみなければならない。",
+    "output": "We have to think over the plan."
+  },
+  {
+    "index": "F109116",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその計画を実行することに決めた。",
+    "output": "We decided to carry out the plan."
+  },
+  {
+    "index": "F109118",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその計画をあきらめた。",
+    "output": "We gave up the plan."
+  },
+  {
+    "index": "F109120",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその計画に同意した。",
+    "output": "We agreed to the plan."
+  },
+  {
+    "index": "F109122",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその計画に賛成した。",
+    "output": "We agreed to the plan."
+  },
+  {
+    "index": "F109124",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその計画に関係している。",
+    "output": "We are in on the project."
+  },
+  {
+    "index": "F109126",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその曲にあわせて踊った。",
+    "output": "We danced to the music."
+  },
+  {
+    "index": "F109128",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその教授が昔から言っているしゃれにうんざりしている。",
+    "output": "We are tired of the professor's old joke."
+  },
+  {
+    "index": "F109130",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその議論に参加しました。",
+    "output": "We took part in the discussion."
+  },
+  {
+    "index": "F109132",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその機会を最大限に利用した。",
+    "output": "We made the most of the opportunity."
+  },
+  {
+    "index": "F109134",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその機を最大限に利用した。",
+    "output": "We made the most of the opportunity."
+  },
+  {
+    "index": "F109136",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその机をあの窓の側に置いた。",
+    "output": "We put the desk by that window."
+  },
+  {
+    "index": "F109138",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその基礎となっている前提を理解すべきだった。",
+    "output": "We should understand the underlying premises."
+  },
+  {
+    "index": "F109140",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその岩を懸命に押してみたがむだだった。",
+    "output": "We pushed the rock hard in vain."
+  },
+  {
+    "index": "F109142",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその絵をながめていた。",
+    "output": "We were looking at the picture."
+  },
+  {
+    "index": "F109144",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその会社と交渉を続行した。",
+    "output": "We continued negotiations with the company."
+  },
+  {
+    "index": "F109146",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその会合に出席しないほうがいい。",
+    "output": "We had better not attend the meeting."
+  },
+  {
+    "index": "F109148",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその画家が有名になる前から彼と知り合いだった。",
+    "output": "We had known the painter before he became famous."
+  },
+  {
+    "index": "F109150",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその家をみどり色に塗った。",
+    "output": "We painted the house green."
+  },
+  {
+    "index": "F109152",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその音で興奮した。",
+    "output": "We were excited by the sounds."
+  },
+  {
+    "index": "F109154",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその演奏者に拍手を送った。",
+    "output": "We applauded the performer."
+  },
+  {
+    "index": "F109156",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそのルールを当然知っていることになっている。",
+    "output": "We are supposed to know the rules."
+  },
+  {
+    "index": "F109158",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそのマラソンに参加するつもりだ。",
+    "output": "We will take part in the marathon."
+  },
+  {
+    "index": "F109160",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそのホテルを１０時に出た。",
+    "output": "We checked out of the hotel at ten."
+  },
+  {
+    "index": "F109162",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその双子を見わけることができなかった。",
+    "output": "We could not tell the twins one from the other."
+  },
+  {
+    "index": "F109164",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそのパーティーの招待状をすでに発送していた。",
+    "output": "We had already sent the letters of invitation to the party."
+  },
+  {
+    "index": "F109166",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそのパーティーに招待されて喜んでいます。",
+    "output": "We are delighted at having been invited."
+  },
+  {
+    "index": "F109168",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそのニュースを聞いて驚いた。",
+    "output": "We were surprised at the news."
+  },
+  {
+    "index": "F109170",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそのニュースに驚いています。",
+    "output": "We are surprised at the news."
+  },
+  {
+    "index": "F109172",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそのなぞのはっきりした説明を聞くことができなかった。",
+    "output": "We never got a clear explanation of the mystery."
+  },
+  {
+    "index": "F109174",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそのとき急いでいた。",
+    "output": "We were in a hurry then."
+  },
+  {
+    "index": "F109176",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそのテレビを見て楽しんだ。",
+    "output": "We enjoyed watching the TV."
+  },
+  {
+    "index": "F109178",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそのコンピューターを職場へ運んだ。",
+    "output": "We transported the computer to the office."
+  },
+  {
+    "index": "F109180",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそのことで意見が対立した。",
+    "output": "We clashed on that matter."
+  },
+  {
+    "index": "F109182",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそのおおきなライオンを見て驚いた。",
+    "output": "We were surprised at the big lion."
+  },
+  {
+    "index": "F109184",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその２人の少年をくまなく捜したが、２人とも見つからなかった。",
+    "output": "We searched for the two boys everywhere, but neither could be found."
+  },
+  {
+    "index": "F109186",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそこへ行く途中で彼に出会った。",
+    "output": "We met him on the way there."
+  },
+  {
+    "index": "F109188",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそこへ行くよりほかなかった。",
+    "output": "We had no choice but to go there."
+  },
+  {
+    "index": "F109190",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそこに行く途中に彼にであった。",
+    "output": "We met him on the way there."
+  },
+  {
+    "index": "F109192",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそこに３ヶ月滞在しました。",
+    "output": "We stayed there for three months."
+  },
+  {
+    "index": "F109194",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそこで何匹かの大きな魚を捕まえた。",
+    "output": "We caught some large fish there."
+  },
+  {
+    "index": "F109196",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそこでバスに乗りました。",
+    "output": "We got on the bus there."
+  },
+  {
+    "index": "F109198",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそこでその夏中楽しい日々をおくった。",
+    "output": "We spent happy days there all the summer."
+  },
+  {
+    "index": "F109200",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはそこで１週間休んだ。",
+    "output": "We rested there for an hour."
+  },
+  {
+    "index": "F109202",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはするべき仕事がたくさんある。",
+    "output": "We have a lot of work to do."
+  },
+  {
+    "index": "F109204",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはスミスさんがサインした領収書が必要です。",
+    "output": "We need the receipt Mr Smith signed."
+  },
+  {
+    "index": "F109206",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはスペリオル湖まで景色のよい自動車動をドライブした。",
+    "output": "We went for a scenic drive as far as Lake Superior."
+  },
+  {
+    "index": "F109208",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはすべての天然資源を使い果たしてしまっている。",
+    "output": "We have consumed all the natural resources."
+  },
+  {
+    "index": "F109210",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはすべての人を公平に扱うようにすべきだ。",
+    "output": "We should try to treat everybody with justice."
+  },
+  {
+    "index": "F109212",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはすべての人を公正に扱うようにすべきだ。",
+    "output": "We should try to treat everybody with justice."
+  },
+  {
+    "index": "F109214",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはすべての教科の中で英語が一番好きです。",
+    "output": "We like English the best of all our subjects."
+  },
+  {
+    "index": "F109216",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはスペインの歌を習いたいと思っている。",
+    "output": "We want to learn some Spanish songs."
+  },
+  {
+    "index": "F109218",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはずぶぬれになっていたが、とっても幸せだった。",
+    "output": "We were soaked to the skin but very happy."
+  },
+  {
+    "index": "F109220",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはスピーキングテストがあった。",
+    "output": "We had an oral exam."
+  },
+  {
+    "index": "F109222",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはすばらしい週末を過ごしました。",
+    "output": "We had a wonderful weekend."
+  },
+  {
+    "index": "F109224",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはすでに仕事をしてしまった。",
+    "output": "We've already done our work."
+  },
+  {
+    "index": "F109226",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはすでに家族ぐるみのお付き合いがあります。",
+    "output": "We've already had a family commitment."
+  },
+  {
+    "index": "F109228",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはすでに英語を学んでしまいました。",
+    "output": "We have already learned English."
+  },
+  {
+    "index": "F109230",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはステーキを食べてワインを飲んだ。",
+    "output": "We ate steak and drank wine."
+  },
+  {
+    "index": "F109232",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはスケートをするのを楽しんだ。",
+    "output": "We enjoyed skating."
+  },
+  {
+    "index": "F109234",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはすぐに彼女に電話しました。",
+    "output": "I telephoned her at once."
+  },
+  {
+    "index": "F109236",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはすぐに店を出た。",
+    "output": "We lost no time coming out of the shop."
+  },
+  {
+    "index": "F109238",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはすぐに彼らに追いついた。",
+    "output": "We soon caught up with them."
+  },
+  {
+    "index": "F109240",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはすぐに新しい先生を任命しなければならない。",
+    "output": "We must appoint a new teacher soon."
+  },
+  {
+    "index": "F109242",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはすぐに現場に急行した。",
+    "output": "We lost no time hurrying to the spot."
+  },
+  {
+    "index": "F109244",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはすぐに魚をとりはじめることができました。",
+    "output": "We were able to start catching fish soon."
+  },
+  {
+    "index": "F109246",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはスキー場で偶然に出会いました。",
+    "output": "Chance has thrown us together at a skiing resort."
+  },
+  {
+    "index": "F109248",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはスキーを車の屋根の上に乗せた。",
+    "output": "We put the skis on the top of our car."
+  },
+  {
+    "index": "F109250",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはスキーをしに山へ行きました。",
+    "output": "We went to the mountain to ski."
+  },
+  {
+    "index": "F109252",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはスキーの装備を整えた。",
+    "output": "We fitted ourselves out for skiing."
+  },
+  {
+    "index": "F109254",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはずいぶん長い間お互いに会っていません。",
+    "output": "We haven't seen each other for such a long time."
+  },
+  {
+    "index": "F109256",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはショッピングセンターをぶらぶら歩いた。",
+    "output": "We wandered round the shopping center."
+  },
+  {
+    "index": "F109258",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはジョーを除いて全員そのパーティーに行きました。",
+    "output": "We all went to the party except Joe."
+  },
+  {
+    "index": "F109260",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはジムを私達の野球チームの主将に選んだ。",
+    "output": "We elected Jim captain of our baseball team."
+  },
+  {
+    "index": "F109262",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはしばらく歩いた後で、湖に出た。",
+    "output": "Having walked for sometime, we came to the lake."
+  },
+  {
+    "index": "F109264",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはしばらく歩いた後、湖に出た。",
+    "output": "Having walked for some time, we came to the lake."
+  },
+  {
+    "index": "F109266",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはしばらく彼女の言うことを聴いた。",
+    "output": "We listened to her for some time."
+  },
+  {
+    "index": "F109268",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはしばらく肉を食べていない。",
+    "output": "We have eaten no meat for several days."
+  },
+  {
+    "index": "F109270",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはしばらく休憩をした。",
+    "output": "We took a rest for a while."
+  },
+  {
+    "index": "F109272",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはしばらく休んだ。",
+    "output": "We rested for a while."
+  },
+  {
+    "index": "F109274",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはしばらくの間話をした。",
+    "output": "We talked for some time."
+  },
+  {
+    "index": "F109276",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはしばらくの間チェスをするつもりだった。",
+    "output": "We were going to play chess for some time."
+  },
+  {
+    "index": "F109278",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはしばらくおしゃべりをした。",
+    "output": "We had a chat for a while."
+  },
+  {
+    "index": "F109280",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはしばしば日本の政治について話し合った。",
+    "output": "We often talked about Japanese politics."
+  },
+  {
+    "index": "F109282",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはしばしば誤りをおかす。",
+    "output": "We often make mistakes."
+  },
+  {
+    "index": "F109284",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはしばしば、アメリカを自由の国と呼ぶ。",
+    "output": "We often call America the land of liberty."
+  },
+  {
+    "index": "F109286",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは鹿の通ったあとをたどった。",
+    "output": "We followed the deer's tracks."
+  },
+  {
+    "index": "F109288",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはシカゴで途中下車した。",
+    "output": "We had a stopover in Chicago."
+  },
+  {
+    "index": "F109290",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはジェット機が空を横切って飛ぶのを見た。",
+    "output": "We saw a jet plane fly across the sky."
+  },
+  {
+    "index": "F109292",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはジェーンと友達になった。",
+    "output": "We made friends with Jane."
+  },
+  {
+    "index": "F109294",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはジェーンとエレンを招くつもりだ。",
+    "output": "We are going to invite Jane and Ellen."
+  },
+  {
+    "index": "F109296",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはジェーンが川を泳いで渡っているのを見た。",
+    "output": "We saw Jane swimming across the river."
+  },
+  {
+    "index": "F109298",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはシェイクスピアは１５６４年に生まれたということを学校で学んだ。",
+    "output": "We learned at school that Shakespeare was born in 1564."
+  },
+  {
+    "index": "F109300",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはサンドイッチやケーキなどを食べた。",
+    "output": "We ate sandwiches, cakes, and so on."
+  },
+  {
+    "index": "F109302",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはサッカー選手なんです。",
+    "output": "We are soccer players."
+  },
+  {
+    "index": "F109304",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはさまざまな困難を経験した。",
+    "output": "I went through a lot of trouble."
+  },
+  {
+    "index": "F109306",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはさじでスープを飲む。",
+    "output": "We eat soup with a spoon."
+  },
+  {
+    "index": "F109308",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはささやかな望みしかありません。",
+    "output": "We only have simple wants."
+  },
+  {
+    "index": "F109310",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはサインある領収書がいる。",
+    "output": "We need a signed receipt."
+  },
+  {
+    "index": "F109312",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはこんな風にしてアイスクリームを作ります。",
+    "output": "This is how we make ice cream."
+  },
+  {
+    "index": "F109314",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはこんな難しい問題を扱うことはできない。",
+    "output": "We cannot deal with such a difficult problem."
+  },
+  {
+    "index": "F109316",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはこんなに暖かい冬を経験したことがない。",
+    "output": "This is the mildest winter that we have ever experienced."
+  },
+  {
+    "index": "F109318",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはコンテストに参加した。",
+    "output": "We took part in the contest."
+  },
+  {
+    "index": "F109320",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはコロンブスの話を演じた。",
+    "output": "We acted the story of Columbus."
+  },
+  {
+    "index": "F109322",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはコロンブスが１４９２年にアメリカを訪れたことを知っていた。",
+    "output": "We knew that Columbus visited America in 1492."
+  },
+  {
+    "index": "F109324",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはこれ以上彼らの無礼にはがまんできない。",
+    "output": "We cannot put up with their rudeness any longer."
+  },
+  {
+    "index": "F109326",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはこれらの古い決まり事を排除しなければならない。",
+    "output": "We must do away with these old rules."
+  },
+  {
+    "index": "F109328",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはこれらの古いルールを排除しなければならない。",
+    "output": "We must do away with these old rules."
+  },
+  {
+    "index": "F109330",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはこれまでそれらの家族に食べ物をあげてきました。",
+    "output": "We have supplied those families with food."
+  },
+  {
+    "index": "F109332",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはこれからの厚かましい要求に屈してはならない。",
+    "output": "We mustn't give way to these impudent demands."
+  },
+  {
+    "index": "F109334",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはこれからの会社の事を考えていかなければならない。",
+    "output": "We must consider these matters as a whole."
+  },
+  {
+    "index": "F109336",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはこの問題を処理しなくてはならない。",
+    "output": "We must deal with this problem."
+  },
+  {
+    "index": "F109338",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはこの問題を考慮に入れなくてはならない。",
+    "output": "We have to take this problem into consideration."
+  },
+  {
+    "index": "F109340",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはこの問題に関して合意に達することが出来るだろうか。",
+    "output": "Can we reach a consensus on this issue?"
+  },
+  {
+    "index": "F109342",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはこの本を何度も何度も読まなければなりません。",
+    "output": "We must read this book again and again."
+  },
+  {
+    "index": "F109344",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはこの店と１６年間取り引きをしている。",
+    "output": "We have dealt with this store for 16 years."
+  },
+  {
+    "index": "F109346",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはこの町に５年間住んでいる。",
+    "output": "We have lived in this town for five years."
+  },
+  {
+    "index": "F109348",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはこの前の金曜日、ダンスパーティーに行った。",
+    "output": "We went to a dance last Friday."
+  },
+  {
+    "index": "F109350",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはこの川でよく泳いだものだ。",
+    "output": "We used to swim in this river a lot."
+  },
+  {
+    "index": "F109352",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはこの重要な事実を見落とした。",
+    "output": "We have overlooked this important fact."
+  },
+  {
+    "index": "F109354",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはこの事実を忘れがちである。",
+    "output": "We are inclined to forget this fact."
+  },
+  {
+    "index": "F109356",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはこの件を全体として考慮に入れなければならない。",
+    "output": "We must take this matter into account as a whole."
+  },
+  {
+    "index": "F109358",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはこの学校の生徒です。",
+    "output": "We are the students of this school."
+  },
+  {
+    "index": "F109360",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはこの家を壊さないといけない。",
+    "output": "We must tear down this house."
+  },
+  {
+    "index": "F109362",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはこの汚れた皿を全部洗わなければなりません。",
+    "output": "We must wash all these dirty plates."
+  },
+  {
+    "index": "F109364",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはこのように互いに助けあったことを決して忘れないだろう。",
+    "output": "We shall never forget helping each other like this."
+  },
+  {
+    "index": "F109366",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはこのままやっていくより仕方がない。",
+    "output": "We have no choice but to carry on."
+  },
+  {
+    "index": "F109368",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはこのかたの栄光を見た。",
+    "output": "I have seen his glory."
+  },
+  {
+    "index": "F109370",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはここを去ろうとしている。",
+    "output": "We are about to leave here."
+  },
+  {
+    "index": "F109372",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはここへ昨日の晩６時に到着した。",
+    "output": "We arrived here at six yesterday evening."
+  },
+  {
+    "index": "F109374",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはここに来る途中に小さな村をいくつか通り過ぎてきた。",
+    "output": "We came by several small villages on our way here."
+  },
+  {
+    "index": "F109376",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはここでテニスか野球かどちらかをすることができる。",
+    "output": "We can play either tennis or baseball here."
+  },
+  {
+    "index": "F109378",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはコーヒーを飲みながら彼を待っていた。",
+    "output": "We were waiting for him over a cup of coffee."
+  },
+  {
+    "index": "F109380",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはコーヒーを飲みながらその問題について話合った。",
+    "output": "We talked about the question over a cup of coffee."
+  },
+  {
+    "index": "F109382",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはコーヒーを飲みながらおしゃべりをした。",
+    "output": "We had a chat over a cup of coffee."
+  },
+  {
+    "index": "F109384",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはコーヒーを飲みながら、イタリア旅行の計画について話し合った。",
+    "output": "We discussed our plans for a trip to Italy over coffee."
+  },
+  {
+    "index": "F109386",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはコーヒーをのみながら話した。",
+    "output": "We talked over a cup of coffee."
+  },
+  {
+    "index": "F109388",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはゲームをして楽しんだ。",
+    "output": "We amused ourselves by playing games."
+  },
+  {
+    "index": "F109390",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはクリスマスには友人にクリスマスカードを送ります。",
+    "output": "At Christmas we send Christmas cards to our friends."
+  },
+  {
+    "index": "F109392",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはクラスメイトです。",
+    "output": "We're classmates."
+  },
+  {
+    "index": "F109394",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはきわめて慎重に調査を行なった。",
+    "output": "We conducted our investigation with the greatest care."
+  },
+  {
+    "index": "F109396",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはきょう授業がない。",
+    "output": "We have no school today."
+  },
+  {
+    "index": "F109398",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはきのう野球をしました。",
+    "output": "We played baseball yesterday."
+  },
+  {
+    "index": "F109400",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはきのう新しい計画について議論した。",
+    "output": "We discussed the new plan yesterday."
+  },
+  {
+    "index": "F109402",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはきのう教室をきれいにしました。",
+    "output": "We cleaned our classroom yesterday."
+  },
+  {
+    "index": "F109404",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはきのう海辺で楽しく過ごした。",
+    "output": "We had a good time at the beach yesterday."
+  },
+  {
+    "index": "F109406",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはきのうのテストについて話した。",
+    "output": "We talked about yesterday's test."
+  },
+  {
+    "index": "F109408",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはきのうサッカーをしました。",
+    "output": "We played soccer yesterday."
+  },
+  {
+    "index": "F109410",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはかろうじて爆発から逃れた。",
+    "output": "We had a narrow escape from the explosion."
+  },
+  {
+    "index": "F109412",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは彼を説得するのに失敗した。",
+    "output": "We failed to persuade him."
+  },
+  {
+    "index": "F109414",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはカヌーで川を下った。",
+    "output": "We went down a river by canoe."
+  },
+  {
+    "index": "F109416",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはかなりいろんな所を訪ねました。",
+    "output": "We visited quite a few places."
+  },
+  {
+    "index": "F109418",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはカナダへスキーに行った。",
+    "output": "We went skiing in Canada."
+  },
+  {
+    "index": "F109420",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはがけのふちに立った。",
+    "output": "We stood on the brink of a cliff."
+  },
+  {
+    "index": "F109422",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはお腹がすいています。",
+    "output": "We are hungry."
+  },
+  {
+    "index": "F109424",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはお昼までにシカゴに着かなければならない。",
+    "output": "We should get to Chicago by lunchtime."
+  },
+  {
+    "index": "F109426",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはお茶を飲みながら喋っていた。",
+    "output": "We were chatting over tea."
+  },
+  {
+    "index": "F109428",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私達はお茶を飲みケーキを食べながら、夜遅くまで話をした。",
+    "output": "We conversed until late at night while eating cake and drinking tea."
+  },
+  {
+    "index": "F109430",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはお互い理解し合えた。",
+    "output": "We could understand each other."
+  },
+  {
+    "index": "F109432",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはお互い同士親切にすべきだ。",
+    "output": "We should be kind to each other."
+  },
+  {
+    "index": "F109434",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはお互い少しあきてきた。",
+    "output": "We got a little bored with each other."
+  },
+  {
+    "index": "F109436",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはお互いを理解してみるべきだ。",
+    "output": "We should try to understand one another."
+  },
+  {
+    "index": "F109438",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはお互いに文通してきた。",
+    "output": "We have corresponded with each other."
+  },
+  {
+    "index": "F109440",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはお互いに腹を割った話し合いをした。",
+    "output": "We had a heart-to-heart talk with each other."
+  },
+  {
+    "index": "F109442",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはお互いに助け合わなくてはならない。",
+    "output": "We must help each other."
+  },
+  {
+    "index": "F109444",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはお互いに助け合うことが必要です。",
+    "output": "We need to help each other."
+  },
+  {
+    "index": "F109446",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはお互いに顔を見合わせた。",
+    "output": "We looked at each other."
+  },
+  {
+    "index": "F109448",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはお互いに楽しく語り合った。",
+    "output": "We enjoyed talking with each other."
+  },
+  {
+    "index": "F109450",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはお互いに愛し合っています。",
+    "output": "We love each other."
+  },
+  {
+    "index": "F109452",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはお互いに愛し合うべきです。",
+    "output": "We ought to love one another."
+  },
+  {
+    "index": "F109454",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはお金を得するために働く。",
+    "output": "We work to get money."
+  },
+  {
+    "index": "F109456",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはお金の紛失を調査するつもりだ。",
+    "output": "We are going to look into the disappearance of the money."
+  },
+  {
+    "index": "F109458",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはお金が足らない。",
+    "output": "We are short of money."
+  },
+  {
+    "index": "F109460",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはお金が少し必要だ。",
+    "output": "We need some money."
+  },
+  {
+    "index": "F109462",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはオゾンを破壊する化学物質の使用をただちにやめなければならないのです。",
+    "output": "We must stop using ozone-depleting chemicals immediately."
+  },
+  {
+    "index": "F109464",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはおそくなって家に着いた。",
+    "output": "We arrived home late."
+  },
+  {
+    "index": "F109466",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはおじさんの訪問を楽しみにまってます。",
+    "output": "We are looking forward to our uncle's visit."
+  },
+  {
+    "index": "F109468",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはオーストラリア人です。",
+    "output": "We are Australians."
+  },
+  {
+    "index": "F109470",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはオーストラリアの若者を代表してお話しします。",
+    "output": "We are speaking on behalf of the young people of Australia."
+  },
+  {
+    "index": "F109472",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはエレベーターで上がったり下がったりした。",
+    "output": "We went up and down in the elevator."
+  },
+  {
+    "index": "F109474",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはエネルギーの使用を減らすことができます。",
+    "output": "We can cut down on our use of energy."
+  },
+  {
+    "index": "F109476",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはエドガー・ドガに彼にふさわしいと思う声を与えてみた。",
+    "output": "We have given Edgar Degas a voice that we hope suits him."
+  },
+  {
+    "index": "F109478",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはエジプトといえばナイル川を思い出す。",
+    "output": "We associate Egypt with the Nile."
+  },
+  {
+    "index": "F109480",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはウッド氏を議長に任命した。",
+    "output": "We appointed Mr Wood chairman."
+  },
+  {
+    "index": "F109482",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはいろんなことを話しました。",
+    "output": "We talked about cabbages and kings."
+  },
+  {
+    "index": "F109484",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはいろりの周りに座りました。",
+    "output": "We sat round the fire."
+  },
+  {
+    "index": "F109486",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはいなくなった子犬を捜したが無駄だった。",
+    "output": "We looked for our lost puppy, but in vain."
+  },
+  {
+    "index": "F109488",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはいつ病気になるかも知れない。",
+    "output": "We may fall ill at any moment."
+  },
+  {
+    "index": "F109490",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはいつも彼を軽蔑した。",
+    "output": "We always looked down on him."
+  },
+  {
+    "index": "F109492",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはいつも地球とともに動いている。",
+    "output": "We are always moving with the earth."
+  },
+  {
+    "index": "F109494",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはいつも困難な問題から始まる。",
+    "output": "We always begin with the hardest problems."
+  },
+  {
+    "index": "F109496",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはいつも学校へ行く途中で待ち合わせた。",
+    "output": "We used to meet on our way to school."
+  },
+  {
+    "index": "F109498",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはいつも海のそばで休暇を過ごします。",
+    "output": "We always spend our vacation by the sea."
+  },
+  {
+    "index": "F109500",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはいつも英語で話した。",
+    "output": "We usually talked in English."
+  },
+  {
+    "index": "F109502",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはいつまでも友達同士でいましょう。",
+    "output": "We'll always be friends."
+  },
+  {
+    "index": "F109504",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはいつまでも一緒です。",
+    "output": "We will be together forever."
+  },
+  {
+    "index": "F109506",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはいつそこのたどり着くことになるだろうか。",
+    "output": "When will we get there?"
+  },
+  {
+    "index": "F109508",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはいつでもあなたを歓迎します。",
+    "output": "We'll welcome you at any time."
+  },
+  {
+    "index": "F109510",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはいたるところで歓迎された。",
+    "output": "We were welcomed at every turn."
+  },
+  {
+    "index": "F109512",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはいたるところでつらい目に会った。",
+    "output": "We found trouble everywhere."
+  },
+  {
+    "index": "F109514",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはいくつかの英単語を書き写させられました。",
+    "output": "We were made to copy some English words."
+  },
+  {
+    "index": "F109516",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはイエス・キリストとチャールズ王の名のもとにここにきました。",
+    "output": "We are here in the name of Jesus Christ and King Charles."
+  },
+  {
+    "index": "F109518",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはある事故のために２時間遅れた。",
+    "output": "We were held up for two hours on account of an accident."
+  },
+  {
+    "index": "F109520",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはある植物が役立つ事が分かればそれが成長するのを助ける。",
+    "output": "If we see any utility in a plant, we help it to grow."
+  },
+  {
+    "index": "F109522",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはある家具のない部屋の戸口の前を通った。",
+    "output": "We passed by the door of a certain unfurnished room."
+  },
+  {
+    "index": "F109524",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはあらゆる素材を利用して、この書類を書き上げた。",
+    "output": "We put all the resources to use in writing up this paper."
+  },
+  {
+    "index": "F109526",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはあらかじめスナックを用意しておいた。",
+    "output": "We prepared snacks beforehand."
+  },
+  {
+    "index": "F109528",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはアメリカ人ではありません。",
+    "output": "We are not Americans."
+  },
+  {
+    "index": "F109530",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはアメリカに住んでもう１０年になる。",
+    "output": "We have lived in the U.S. for ten years now."
+  },
+  {
+    "index": "F109532",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはアメリカにいたころ日曜日ごとに教会へ行った。",
+    "output": "We went to church every Sunday when we were in America."
+  },
+  {
+    "index": "F109534",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはアメリカから小麦粉を輸入している。",
+    "output": "We import flour from America."
+  },
+  {
+    "index": "F109536",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはアメリカから穀物を輸入している。",
+    "output": "We import grain from the United States."
+  },
+  {
+    "index": "F109538",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはあまりにも多くの授業がある。",
+    "output": "We have too many classes."
+  },
+  {
+    "index": "F109540",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはあまりにも速く走ったので美しい景色を味わう事も出来ないくらいだった。",
+    "output": "We drove too fast to enjoy the beautiful scenery."
+  },
+  {
+    "index": "F109542",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはアパートをさがしに行った。",
+    "output": "We went in search of an apartment."
+  },
+  {
+    "index": "F109544",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはあの男とこの人を信頼しています。",
+    "output": "We believe in that man."
+  },
+  {
+    "index": "F109546",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはあなたを最後まで支持します。",
+    "output": "We all stand by you to the last."
+  },
+  {
+    "index": "F109548",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはあなたを空港までお連れするようにとの指示を受けています。",
+    "output": "I have been instructed to take you to the airport."
+  },
+  {
+    "index": "F109550",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはあなたを一日中待っていました。",
+    "output": "We waited for you all day long."
+  },
+  {
+    "index": "F109552",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはあなたの成功を聞いてうれしかった。",
+    "output": "We were delighted to hear of your success."
+  },
+  {
+    "index": "F109554",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはあなたの親切に感謝している。",
+    "output": "We are thankful for your kindness."
+  },
+  {
+    "index": "F109556",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはあなたの計画に賛成している。",
+    "output": "We are in favor of your plan."
+  },
+  {
+    "index": "F109558",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはあなたの気持ちを考慮に入れるつもりです。",
+    "output": "We'll take your feelings into account."
+  },
+  {
+    "index": "F109560",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはあなたのご返事を待っています。",
+    "output": "We are awaiting your answer."
+  },
+  {
+    "index": "F109562",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはあなたのご親切に感謝しています。",
+    "output": "We are grateful to you for your kindness."
+  },
+  {
+    "index": "F109564",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはあなたにまたあえてうれしいです。",
+    "output": "We are happy to see you again."
+  },
+  {
+    "index": "F109566",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはあなたにどれだけ感謝してもしすぎではない。",
+    "output": "We cannot thank you enough."
+  },
+  {
+    "index": "F109568",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはあなたにご援助いただけるものと期待しておりますが。",
+    "output": "We're hoping you'll support us."
+  },
+  {
+    "index": "F109570",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはあなたにお目にかかるために伺いました。",
+    "output": "We have come to pay you a visit."
+  },
+  {
+    "index": "F109572",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはあなたに、ここ日本で起こることを今後も知らせてあげます。",
+    "output": "We will keep you informed of things that happen here in Japan."
+  },
+  {
+    "index": "F109574",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはあなたとあなたの家族と会うのを楽しみにしている。",
+    "output": "We are all looking forward to seeing you and your family."
+  },
+  {
+    "index": "F109576",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはあなたが無事に着いたという知らせを心待ちにしている。",
+    "output": "We are anxious for news of your safe arrival."
+  },
+  {
+    "index": "F109578",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはあなたがなさったことにとても感謝しています。",
+    "output": "We are very grateful for what you did."
+  },
+  {
+    "index": "F109580",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはあす出発するつもりです。",
+    "output": "We are going to leave tomorrow."
+  },
+  {
+    "index": "F109582",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはあす湖まで自転車で行きます。",
+    "output": "We are going to cycle to the lake tomorrow."
+  },
+  {
+    "index": "F109584",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはあいさつを交わし合った。",
+    "output": "We exchanged greetings."
+  },
+  {
+    "index": "F109586",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは明日の晩、パーティーを開きます。",
+    "output": "We have a party tomorrow evening."
+  },
+  {
+    "index": "F109588",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは９月にはサンフランシスコ大学で学ぶことになるでしょう。",
+    "output": "We will be studying at the University of San Francisco in September."
+  },
+  {
+    "index": "F109590",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは９時までに仕事に出ていなければならない。",
+    "output": "We have to be at work by nine."
+  },
+  {
+    "index": "F109592",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは８時半に学校に着きました。",
+    "output": "We reached school at eight-thirty."
+  },
+  {
+    "index": "F109594",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは８月にキャンプに行った。",
+    "output": "We went camping in August."
+  },
+  {
+    "index": "F109596",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは７日の朝到着した。",
+    "output": "We arrived on the morning of the seventh."
+  },
+  {
+    "index": "F109598",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは７時にちょうしょくをとった。",
+    "output": "We ate breakfast at seven."
+  },
+  {
+    "index": "F109600",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは７時にそこで会うことになっていたのですが。",
+    "output": "We were to have met there at seven."
+  },
+  {
+    "index": "F109602",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは６年間ずっと東京に住んでいます。",
+    "output": "We have lived in Tokyo for six years."
+  },
+  {
+    "index": "F109604",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは６時に食事することになっている。",
+    "output": "We are to eat at six."
+  },
+  {
+    "index": "F109606",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは６時に集まることになっています。",
+    "output": "We are to meet at six."
+  },
+  {
+    "index": "F109608",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは６月前に結婚する予定です。",
+    "output": "We are to get married in June."
+  },
+  {
+    "index": "F109610",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは６月に結婚するつもりです。",
+    "output": "We will get married in June."
+  },
+  {
+    "index": "F109612",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは６月に結婚することになっています。",
+    "output": "We are to get married in June."
+  },
+  {
+    "index": "F109614",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは５時間の旅でぐったりしてしまった。",
+    "output": "We felt dead from the five-hour trip."
+  },
+  {
+    "index": "F109616",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは５月に結婚することになっていたが、結婚を６月まで延期しなければならなかった。",
+    "output": "We were to be married in May but had to postpone the marriage until June."
+  },
+  {
+    "index": "F109618",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは５月にサッカーの大会があります。",
+    "output": "We have a soccer tournament in May."
+  },
+  {
+    "index": "F109620",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは４年間ルームメイトだった。",
+    "output": "We stayed roommates for four years."
+  },
+  {
+    "index": "F109622",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは４時に出発するつもりです。",
+    "output": "We're going to set off at four."
+  },
+  {
+    "index": "F109624",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは４月２日に大阪から帰ってきた。",
+    "output": "We returned to Osaka on April 2."
+  },
+  {
+    "index": "F109626",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは３年前ここに引っ越してきた。",
+    "output": "We moved here separately three years ago."
+  },
+  {
+    "index": "F109628",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは３対２で負けた。",
+    "output": "We lost the game 3-2."
+  },
+  {
+    "index": "F109630",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは３月１５日までに税金を払わなければならない。",
+    "output": "We have to pay taxes by March 15."
+  },
+  {
+    "index": "F109632",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは３０分立ち話をした。",
+    "output": "We stood talking for half an hour."
+  },
+  {
+    "index": "F109634",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは３―０で負けた。",
+    "output": "We lost the game 3-0."
+  },
+  {
+    "index": "F109636",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは２匹の犬と３匹の猫と６羽の鶏を飼っている。",
+    "output": "We have two dogs, three cats, and six chickens."
+  },
+  {
+    "index": "F109638",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは２匹のヤギを飼っています。",
+    "output": "We keep two goats."
+  },
+  {
+    "index": "F109640",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは２日前町かどで事故があったと信じている。",
+    "output": "We believe there was an accident at the corner two days ago."
+  },
+  {
+    "index": "F109642",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは２度と彼女に会えない運命だった。",
+    "output": "We were never to see her again."
+  },
+  {
+    "index": "F109644",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは２点差で負けた。",
+    "output": "We lost by two points."
+  },
+  {
+    "index": "F109646",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは２人とも同じクラスです。",
+    "output": "We are both in the same class."
+  },
+  {
+    "index": "F109648",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは２人ともタンパの出身です。",
+    "output": "Both of us are from Tampa."
+  },
+  {
+    "index": "F109650",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは２人ともその映画を見たい。",
+    "output": "Both of us want to see the movie."
+  },
+  {
+    "index": "F109652",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは２週間の休暇をとります。",
+    "output": "We are taking a fortnight's holiday."
+  },
+  {
+    "index": "F109654",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは２週間ぐらいそこに滞在するつもりです。",
+    "output": "We intended to stay there about two weeks."
+  },
+  {
+    "index": "F109656",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは２時間歩いた。",
+    "output": "We walked for two hours."
+  },
+  {
+    "index": "F109658",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは２時間の労働と１０分の休憩を交互にとった。",
+    "output": "We alternated two hours of work and ten minutes of rest."
+  },
+  {
+    "index": "F109660",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは２月に短い休暇をとった。",
+    "output": "We had a short vacation in February."
+  },
+  {
+    "index": "F109662",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは２０世紀の後半に生きている。",
+    "output": "We are living in the latter half of the twentieth century."
+  },
+  {
+    "index": "F109664",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは２、３年前にヨーロッパで出会った。",
+    "output": "We met in Europe a few years ago."
+  },
+  {
+    "index": "F109666",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは１匹の犬と１匹の猫を飼っている。",
+    "output": "We own a dog and a cat."
+  },
+  {
+    "index": "F109668",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは１日に最低７時間は寝なければならない。",
+    "output": "We must sleep at least seven hours a day."
+  },
+  {
+    "index": "F109670",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは１日いくらでレンタカーを借りた。",
+    "output": "We hired a rent-a-car by the day."
+  },
+  {
+    "index": "F109672",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは１等賞を日本の学生に授与するつもりです。",
+    "output": "We are giving the first prize to a Japanese student."
+  },
+  {
+    "index": "F109674",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは１千ドルの勘定を払った。",
+    "output": "We paid an account of 1000 dollars."
+  },
+  {
+    "index": "F109676",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは１週間そこでキャンプした。",
+    "output": "We camped there for a week."
+  },
+  {
+    "index": "F109678",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは１時間前にそのホテルに着いた。",
+    "output": "We arrived at the hotel an hour ago."
+  },
+  {
+    "index": "F109680",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは１９６０年以来この町に住んでいます。",
+    "output": "We have lived in this town since 1960."
+  },
+  {
+    "index": "F109682",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは１８世紀の衣装を着てそのパーティーに行きます。",
+    "output": "We're going to the party in eighteenth century costumes."
+  },
+  {
+    "index": "F109684",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは１８歳で高校を卒業する。",
+    "output": "We graduate from high school at eighteen."
+  },
+  {
+    "index": "F109686",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは１１時過ぎまで話した。",
+    "output": "We talked till after eleven o'clock."
+  },
+  {
+    "index": "F109688",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは１０年前から仲の良い友達です。",
+    "output": "We have been good friends for ten years."
+  },
+  {
+    "index": "F109690",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは１０対４の得点で試合に勝った。",
+    "output": "We won the match by 10 to 4."
+  },
+  {
+    "index": "F109692",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは１０時まで待っていたのだが、ビルは決して姿を現さなかった。",
+    "output": "Although we waited until ten o'clock, Bill never showed up."
+  },
+  {
+    "index": "F109694",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは１０時に乗り込んだ。",
+    "output": "We went on board at ten."
+  },
+  {
+    "index": "F109696",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは１００メートル競走をした。",
+    "output": "We ran a hundred-meter dash."
+  },
+  {
+    "index": "F109698",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、話すことができるという点で動物と異なる。",
+    "output": "We are different from animals in that we can speak."
+  },
+  {
+    "index": "F109700",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、油が水に浮くことを習った。",
+    "output": "We learned that oil floats on water."
+  },
+  {
+    "index": "F109702",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、野生動物を救わなくてはならない。",
+    "output": "We should save wild animals."
+  },
+  {
+    "index": "F109704",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、普通正午に昼食を食べます。",
+    "output": "We usually have lunch at noon."
+  },
+  {
+    "index": "F109706",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、悲しい知らせを聞いて涙を流さざるをえなかった。",
+    "output": "We could not but weep at the sad news."
+  },
+  {
+    "index": "F109708",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、彼女がカナダで生まれたという事実を知っている。",
+    "output": "We know the fact that she was born in Canada."
+  },
+  {
+    "index": "F109710",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、彼の息子です。",
+    "output": "We are his sons."
+  },
+  {
+    "index": "F109712",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、彼の仕事に完全に満足した。",
+    "output": "We were thoroughly satisfied with his work."
+  },
+  {
+    "index": "F109714",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私達は、彼がどこに住んでいるのかが分かった。",
+    "output": "We found out where he lives."
+  },
+  {
+    "index": "F109716",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、彼がそれを一人でやったのかどうか疑問をもっている。",
+    "output": "We have the question whether he did it by himself or not."
+  },
+  {
+    "index": "F109718",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、爆発の音を聞き、その家が急に炎に包まれるのを見た。",
+    "output": "We heard the explosion and saw the house burst into flames."
+  },
+  {
+    "index": "F109720",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、昼に休みをとる。",
+    "output": "We take a rest at noon."
+  },
+  {
+    "index": "F109722",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、地球が太陽のまわりを回っていることを学んだ。",
+    "output": "We learned that the earth goes around the sun."
+  },
+  {
+    "index": "F109724",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは男です。",
+    "output": "We are men."
+  },
+  {
+    "index": "F109726",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、赤ちゃんが目覚めないように低い声で話しました。",
+    "output": "We talked in low voices so as not to wake the baby."
+  },
+  {
+    "index": "F109728",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、赤い糸で結ばれていたのよ。なんてね。",
+    "output": "We were destined to get married from the time we were born - Not!"
+  },
+  {
+    "index": "F109730",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、昔の歌を歌いながら、にぎやか通りを歩いた。",
+    "output": "We walked along the busy street, singing old songs."
+  },
+  {
+    "index": "F109732",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、世界平和を願っている。",
+    "output": "We all wish for permanent world peace."
+  },
+  {
+    "index": "F109734",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、人間です。",
+    "output": "We are human."
+  },
+  {
+    "index": "F109736",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、深い雪の中を歩くのは困難だとわかった。",
+    "output": "We found it difficult to walk in the deep snow."
+  },
+  {
+    "index": "F109738",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、新しい本を何冊か海外に注文した。",
+    "output": "We ordered some new books from abroad."
+  },
+  {
+    "index": "F109740",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、乗組員全員が生きていることを知って、喜んだ。",
+    "output": "We found to our joy that all the crew were alive."
+  },
+  {
+    "index": "F109742",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、小田原城に行く。",
+    "output": "We go to Odawara castle."
+  },
+  {
+    "index": "F109744",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、書物から楽しみを得ることができる。",
+    "output": "We can derive pleasure from books."
+  },
+  {
+    "index": "F109746",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、失った時間を取り戻さなくてはならない。",
+    "output": "We must make up for lost time."
+  },
+  {
+    "index": "F109748",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、自分の意見を他に人に押し付けてはいけない。",
+    "output": "We should not impose our opinions on other people."
+  },
+  {
+    "index": "F109750",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、次に何をしたらよいかわかりませんでした。",
+    "output": "We didn't know what to do next."
+  },
+  {
+    "index": "F109752",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、試す。",
+    "output": "We try."
+  },
+  {
+    "index": "F109754",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、私たち皆が一つの世界の国民であることを知っている。",
+    "output": "We know that we are all people of one world."
+  },
+  {
+    "index": "F109756",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、私たちとこれからの世代のために安全な将来を要求する権利があります。",
+    "output": "We have a right to demand a safe future for ourselves and future generations."
+  },
+  {
+    "index": "F109758",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、子供たちがその部屋に入るのを見た。",
+    "output": "We saw the children enter the room."
+  },
+  {
+    "index": "F109760",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、子供が好きです。",
+    "output": "We like children."
+  },
+  {
+    "index": "F109762",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、仕事で横浜を訪れた。",
+    "output": "We visited Yokohama on business."
+  },
+  {
+    "index": "F109764",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、昨日渋谷に買い物に行きました。",
+    "output": "We went shopping in Shibuya yesterday."
+  },
+  {
+    "index": "F109766",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、昨日、森に行き、２頭の鹿を捕獲した。",
+    "output": "We went hunting in the forest and caught two deer yesterday."
+  },
+  {
+    "index": "F109768",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、好むと好まざるとに関らず、そこ行かねばなりません。",
+    "output": "We must go there whether we like it or not."
+  },
+  {
+    "index": "F109770",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、公園でボートを時間単位で借りた。",
+    "output": "We hired a boat by the hour in the park."
+  },
+  {
+    "index": "F109772",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、交通渋滞にあったんです。それで２０分遅れてしまいました。",
+    "output": "We got stuck in a traffic jam, which made us twenty minutes late."
+  },
+  {
+    "index": "F109774",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、言語という手段を使って意思の疎通をします。",
+    "output": "We communicate by means of language."
+  },
+  {
+    "index": "F109776",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは見知らぬ人が家に入るのを見た。",
+    "output": "We saw a stranger enter the house."
+  },
+  {
+    "index": "F109778",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、警察官が来るまで事故現場で待ちました。",
+    "output": "We waited at the scene of the accident till the police came."
+  },
+  {
+    "index": "F109780",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、経費を切りつめなければならない。",
+    "output": "We must cut down our expenses."
+  },
+  {
+    "index": "F109782",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、君が試験に合格したときいている。",
+    "output": "We have heard of your success in the exam."
+  },
+  {
+    "index": "F109784",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、教会のペンキを塗り直した。",
+    "output": "We repainted the church."
+  },
+  {
+    "index": "F109786",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私は去年の夏、その山に登った。",
+    "output": "I climbed the mountain last summer."
+  },
+  {
+    "index": "F109788",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは岐阜に行った。",
+    "output": "We went to Gifu."
+  },
+  {
+    "index": "F109790",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは学校を休みました。",
+    "output": "We absented ourselves from school."
+  },
+  {
+    "index": "F109792",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、夏の間ずっと彼らの家に滞在した。",
+    "output": "We stayed with them all through the summer."
+  },
+  {
+    "index": "F109794",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、音楽を勉強します。",
+    "output": "We study music."
+  },
+  {
+    "index": "F109796",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、音楽が好きです。",
+    "output": "We like music."
+  },
+  {
+    "index": "F109798",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、一杯のコーヒーを飲みながら、楽しく語らった。",
+    "output": "We talked cheerfully over a cup of coffee."
+  },
+  {
+    "index": "F109800",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは一日に三食とります。",
+    "output": "We have three meals a day."
+  },
+  {
+    "index": "F109802",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、医者です。",
+    "output": "We are doctors."
+  },
+  {
+    "index": "F109804",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、一人の患者を残りの患者から隔離した。",
+    "output": "We have isolated one patient from the rest."
+  },
+  {
+    "index": "F109806",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、暗くてボールが見えなくなるまで野球をやった。",
+    "output": "We played baseball until it was too dark to see the ball any more."
+  },
+  {
+    "index": "F109808",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、愛がどんなものかわからないほど若くはありません。",
+    "output": "We're not so young that we don't understand what love is."
+  },
+  {
+    "index": "F109810",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、より多くのゴミをリサイクルするようにもっと気を付けるべきです。",
+    "output": "We should be more careful to recycle more trash."
+  },
+  {
+    "index": "F109812",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、メシアにあった。",
+    "output": "We have found the Messiah."
+  },
+  {
+    "index": "F109814",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、ブラウン博士を合衆国で最高の心臓病の専門医とみなしている。",
+    "output": "We regard Dr. Brown as the best heart specialist in the United States."
+  },
+  {
+    "index": "F109816",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、パチンコをして時を過ごした。",
+    "output": "We passed the time playing pachinko."
+  },
+  {
+    "index": "F109818",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、バスケットの選手です。",
+    "output": "We are basketball players."
+  },
+  {
+    "index": "F109820",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、パーティーを開くための部屋を借りねばならない。",
+    "output": "We have to rent a room to hold the party in."
+  },
+  {
+    "index": "F109822",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、テニスをして楽しみました。",
+    "output": "We enjoyed playing tennis."
+  },
+  {
+    "index": "F109824",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、それまでに完成していれば、来月新しい家に引っ越すつもりだ。",
+    "output": "We will move into our new house next month if it is completed by then."
+  },
+  {
+    "index": "F109826",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、その問題を論じあうために会議を開いた。",
+    "output": "We held a meeting with a view to discussing the problem."
+  },
+  {
+    "index": "F109828",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私は、その学校に入学するためによく勉強した。",
+    "output": "I studied hard to enter the school."
+  },
+  {
+    "index": "F109830",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちはその会議に出席する必要はありません。",
+    "output": "We needn't attend the meeting."
+  },
+  {
+    "index": "F109832",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、すき焼きパーティーをして楽しんだ。",
+    "output": "We enjoyed ourselves at a sukiyaki party."
+  },
+  {
+    "index": "F109834",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、これまでささいなことを話し合ってきた。そろそろ、本題に入るころだ。",
+    "output": "We have been discussing minor matters; it's high time we began talking turkey."
+  },
+  {
+    "index": "F109836",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、これから３日の間に、皆さんがすべての人たちに公平で、環境問題に積極的な配慮を示す決定をするよう要求いたします。",
+    "output": "We insist that during the next three days you make decisions which are fair to all generations and which show an active concern for the environment."
+  },
+  {
+    "index": "F109838",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、この国を永遠に去ります。",
+    "output": "We are leaving this country for good."
+  },
+  {
+    "index": "F109840",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、このことを知っていて会議に来ているのです。しかし、皆さんはご存じでなかったようですね。",
+    "output": "We came to the conference knowing this, but it seems that you did not."
+  },
+  {
+    "index": "F109842",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、ここでバスを乗り降りします。",
+    "output": "We get on and off the bus here."
+  },
+  {
+    "index": "F109844",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、グリーン球場が好き。",
+    "output": "We like Green stadium."
+  },
+  {
+    "index": "F109846",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、いろんな人種の混ざり合った集団だから、私は、誰がセルビア人で、誰がクロアチア人で、誰がイスラム教徒かなんてちっとも知らなかったわ。",
+    "output": "We're a mixed group and I never knew who was a Serb, a Croat or a Muslim."
+  },
+  {
+    "index": "F109848",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、あなたの旅行の話を聞くのを楽しみにしています。",
+    "output": "We are looking forward to hearing about your trip."
+  },
+  {
+    "index": "F109850",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、あなたが現れるのを何時間も待っていました。",
+    "output": "We've been waiting for hours for you to show up!"
+  },
+  {
+    "index": "F109852",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、ＣＤを買います。",
+    "output": "We buy CDs."
+  },
+  {
+    "index": "F109854",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちは、６時間ほど飛んでいた。",
+    "output": "We were flying about six hours."
+  },
+  {
+    "index": "F109856",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの惑星は飛ぶ鳥の気軽さで宇宙を動いている。",
+    "output": "Our planet moves in space with the lightness of a bird in flight."
+  },
+  {
+    "index": "F109858",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの話す言葉は潜在的にあいまいである。",
+    "output": "Our words are potentially ambiguous."
+  },
+  {
+    "index": "F109860",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの恋は、しゃぼん玉のようにはかなかった。",
+    "output": "Our love affair was as short-lived as a soap-bubble."
+  },
+  {
+    "index": "F109862",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの列車は長いトンネルを通り抜けた。",
+    "output": "Our train went through a long tunnel."
+  },
+  {
+    "index": "F109864",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの列車は大雪のために一時間遅れた。",
+    "output": "Our train was an hour late because of the heavy snow."
+  },
+  {
+    "index": "F109866",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの列車は時間通りに到着しました。",
+    "output": "Our train arrived on time."
+  },
+  {
+    "index": "F109868",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの列車は８時半に出発する。",
+    "output": "Our train leaves at eight-thirty."
+  },
+  {
+    "index": "F109870",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの列車は２時に出発し、７時にそこに到着した。",
+    "output": "Our train left at two, arriving there at seven."
+  },
+  {
+    "index": "F109872",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの冷蔵庫は故障している。",
+    "output": "Our refrigerator is out of order."
+  },
+  {
+    "index": "F109874",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの隣人は家を売らざるをえなかった。",
+    "output": "Our neighbors were compelled to sell their houses."
+  },
+  {
+    "index": "F109876",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの隣に住んでいる男性は有名な俳優です。",
+    "output": "The man who lives next door to us is a famous actor."
+  },
+  {
+    "index": "F109878",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの猟犬は大きな鹿を追いかけた。",
+    "output": "Our pointer took off after a big deer."
+  },
+  {
+    "index": "F109880",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの料理はどうなっているのですか。",
+    "output": "What happened to our food?"
+  },
+  {
+    "index": "F109882",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの旅行は天候に恵まれた。",
+    "output": "The weather favored our travel."
+  },
+  {
+    "index": "F109884",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの留守中、泥棒が家に押し入った。",
+    "output": "A thief broke into the house while we were away."
+  },
+  {
+    "index": "F109886",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの留守の間、彼は犬の世話をした。",
+    "output": "He looked after our dog while we were out."
+  },
+  {
+    "index": "F109888",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの友人たちはシカゴに帰りたがっている。",
+    "output": "Our friends are anxious to return to Chicago."
+  },
+  {
+    "index": "F109890",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの友情が無ければ、私は惨めになるでしょう。",
+    "output": "If it weren't for our friendship I would be miserable."
+  },
+  {
+    "index": "F109892",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの野球部に入りませんか。",
+    "output": "Will you join our baseball club?"
+  },
+  {
+    "index": "F109894",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの野球チームは彼らに５対０で勝った。",
+    "output": "Our team defeated them by 5-0 at baseball."
+  },
+  {
+    "index": "F109896",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの野球チームはとても強い。",
+    "output": "Our baseball team is very strong."
+  },
+  {
+    "index": "F109898",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの野球チームには２人の背の高い選手がいる。",
+    "output": "We have two tall players in our baseball team."
+  },
+  {
+    "index": "F109900",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの問題なんて彼女のとは比べ物にならない。",
+    "output": "Our problems are nothing compared to hers."
+  },
+  {
+    "index": "F109902",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの目的は友人を訪問し、いくつかの観光名所を見て回ることです。",
+    "output": "The purpose of our trip is to visit friends and see some tourist spots."
+  },
+  {
+    "index": "F109904",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの目の前に吊り橋がある。",
+    "output": "There is a suspension bridge ahead of us."
+  },
+  {
+    "index": "F109906",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの夢がついに実現した。",
+    "output": "Our dream has come true, at last!"
+  },
+  {
+    "index": "F109908",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの毎月の収入は、食料、部屋代、衣料、交通費などをカバーできなければならない。",
+    "output": "Our monthly income has to cover food, rent, clothing, transportation, and so on."
+  },
+  {
+    "index": "F109910",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの訪れる場所を決めよう。",
+    "output": "Let's decide on the places we'll visit."
+  },
+  {
+    "index": "F109912",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの方向感覚はいつも当てになるとは限らないようだ。",
+    "output": "It seems that our sense of direction is not always reliable."
+  },
+  {
+    "index": "F109914",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの方であらゆることをした。",
+    "output": "We did everything for our part."
+  },
+  {
+    "index": "F109916",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの部屋をそうじしましょう。",
+    "output": "Let's clean our room."
+  },
+  {
+    "index": "F109918",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの飛行機は正午に出発し、１時半に沖縄に着きます。",
+    "output": "Our plane leaves at noon, arriving in Okinawa at 1:30."
+  },
+  {
+    "index": "F109920",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの飛行機は午後六時ちょうどに離陸した。",
+    "output": "Our plane took off exactly at 6 p.m."
+  },
+  {
+    "index": "F109922",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの飛行機は午後６時に離陸した。",
+    "output": "Our plane took off exactly at 6 p.m."
+  },
+  {
+    "index": "F109924",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの飛行機は午後６時ちょうどに離陸した。",
+    "output": "Our plane took off exactly at 6 p.m."
+  },
+  {
+    "index": "F109926",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの飛行機は雲の上を飛んでいます。",
+    "output": "Our plane is flying over the clouds."
+  },
+  {
+    "index": "F109928",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの飛行機は２時間遅れて成田を発ちましたので、香港での飛行機の便に乗れませんでした。",
+    "output": "Our plane took off from Narita two hours late, so we missed our flight in Hong Kong."
+  },
+  {
+    "index": "F109930",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの彼女に対する考えはかわっていない。",
+    "output": "We haven't changed how we think of her."
+  },
+  {
+    "index": "F109932",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの彼への信頼は失われてしまった。",
+    "output": "Our confidence in him is gone."
+  },
+  {
+    "index": "F109934",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの悩みはつきない。",
+    "output": "There is no end to our troubles."
+  },
+  {
+    "index": "F109936",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの年齢の差は重要ではない。",
+    "output": "The difference in our ages is not significant."
+  },
+  {
+    "index": "F109938",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの日常生活の多くは、精神的な努力をほとんど必要としないきまりきった仕事から成っているにちがいない。",
+    "output": "Much of our daily living must consist of routine that requires little or no mental effort."
+  },
+  {
+    "index": "F109940",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの内残りの者はあとに残ることになっている。",
+    "output": "The rest of us are to stay behind."
+  },
+  {
+    "index": "F109942",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの頭の上には黒雲があった。",
+    "output": "There were black clouds over our heads."
+  },
+  {
+    "index": "F109944",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの努力は水泡に帰した。",
+    "output": "Nothing has resulted from our efforts."
+  },
+  {
+    "index": "F109946",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの努力はまもなく実を結ぶ。",
+    "output": "Our efforts will soon bear fruit."
+  },
+  {
+    "index": "F109948",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの努力にもかかわらず事態はよくなっていない。",
+    "output": "For all our efforts, things have not turned out better."
+  },
+  {
+    "index": "F109950",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの電気ストーブはどこか故障している。",
+    "output": "Our electric heater did not work well."
+  },
+  {
+    "index": "F109952",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの店でこの漫画の本を買う人は、ほとんどが中学生です。",
+    "output": "Those who buy this comic book in our store are mostly junior high school students."
+  },
+  {
+    "index": "F109954",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの提案は彼の反対に合った。",
+    "output": "Our suggestions met with his opposition."
+  },
+  {
+    "index": "F109956",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの提案は実質にほとんど同じだった。",
+    "output": "Our suggestions were, in effect, almost the same."
+  },
+  {
+    "index": "F109958",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの提案に同意しますか。",
+    "output": "Do you agree to our proposal?"
+  },
+  {
+    "index": "F109960",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの庭にはたくさんの美しいバラがあります。",
+    "output": "There are a lot of beautiful roses in our garden."
+  },
+  {
+    "index": "F109962",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの庭には２本の桜の木があります。",
+    "output": "Our garden has two cherry trees."
+  },
+  {
+    "index": "F109964",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの町は泥んこ道で有名です。",
+    "output": "Our town is notorious for its muddy roads."
+  },
+  {
+    "index": "F109966",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの町はその川の東岸にある。",
+    "output": "Our town is on the East Side of the river."
+  },
+  {
+    "index": "F109968",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの町は、スモッグで覆われていた。",
+    "output": "Our city was covered with smog."
+  },
+  {
+    "index": "F109970",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの町の近くには大きな川がある。",
+    "output": "There is a large river near our town."
+  },
+  {
+    "index": "F109972",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの町の近くに大きな湖がある。",
+    "output": "There is a large lake near our town."
+  },
+  {
+    "index": "F109974",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの町には図書館があります。",
+    "output": "There is a library in our city."
+  },
+  {
+    "index": "F109976",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの町にはたくさんの公園がある。",
+    "output": "There are many parks in our town."
+  },
+  {
+    "index": "F109978",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの町にはきれいな川が流れていて、たくさんの鯉が泳いでいるのが見られます。",
+    "output": "A clean river flows through our town, and we can see many carp swimming in it."
+  },
+  {
+    "index": "F109980",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの町にこの冬雪が降るかしら。",
+    "output": "I wonder if it will snow in our town this winter."
+  },
+  {
+    "index": "F109982",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの注文はどうなっているのですか。",
+    "output": "What happened to our order?"
+  },
+  {
+    "index": "F109984",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの忠告どおりにしていたら、面倒なことにならなかったのに。",
+    "output": "If our advice had been acted upon, you would not have got into trouble."
+  },
+  {
+    "index": "F109986",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの仲間に入るのが有利だ。",
+    "output": "It is to your advantage to join us."
+  },
+  {
+    "index": "F109988",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの仲間に入りなさい。",
+    "output": "Why don't you join our party?"
+  },
+  {
+    "index": "F109990",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの中で彼女の考えに反対している者はいない。",
+    "output": "None of us are against her idea."
+  },
+  {
+    "index": "F109992",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの中で彼の考えに反対してる者はいない。",
+    "output": "None of us are against his idea."
+  },
+  {
+    "index": "F109994",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの中で１人としてあなたを助けたいと思わない者はありません。",
+    "output": "There is not one of us who does not want to help you."
+  },
+  {
+    "index": "F109996",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの中で、彼が本当のことを話していたと信じるほど愚かな者はいない。",
+    "output": "None of us is so foolish as to believe that he was telling the truth."
+  },
+  {
+    "index": "F109998",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "私たちの知る限りでは、地球は海を持っている唯一の惑星である。",
+    "output": "As far as we know, the earth is the only planet to have oceans."
+  }
+]

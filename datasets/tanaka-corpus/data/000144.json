@@ -1,0 +1,6002 @@
+[
+  {
+    "index": "F288000",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には手持ちの金がない。",
+    "output": "She has no money about her."
+  },
+  {
+    "index": "F288002",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には七人もの息子がいる。",
+    "output": "She has no less than seven sons."
+  },
+  {
+    "index": "F288004",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には自分の世話をしてくれる友人も親戚もいない。",
+    "output": "She doesn't have any friends or relatives to take care of her."
+  },
+  {
+    "index": "F288006",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には自分の気持ちをわかってくれる人が必要だった。",
+    "output": "She needed someone who would understand her."
+  },
+  {
+    "index": "F288008",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には事の善し悪しがわからない。",
+    "output": "She can't tell the good from the bad."
+  },
+  {
+    "index": "F288010",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には詩人らしいところは少しもない。",
+    "output": "She is nothing of a poet."
+  },
+  {
+    "index": "F288012",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には私の言った事がわからなかった。",
+    "output": "She had no idea what I said."
+  },
+  {
+    "index": "F288014",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には私とほとんど同じぐらいチャンスがある。",
+    "output": "She has no less chance than I do."
+  },
+  {
+    "index": "F288016",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には子供が十二人もいる。",
+    "output": "She has no less than twelve children."
+  },
+  {
+    "index": "F288018",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には子供がいないのですね。",
+    "output": "She has no children, does she?"
+  },
+  {
+    "index": "F288020",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には五人の兄がいる。",
+    "output": "She has five older brothers."
+  },
+  {
+    "index": "F288022",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には姉妹が３人あり、１人は看護婦で残る２人は先生です。",
+    "output": "She has three sisters: one is a nurse and the others are teachers."
+  },
+  {
+    "index": "F288024",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には誇張癖があるようだ。",
+    "output": "It seems to me that she has a tendency to exaggerate."
+  },
+  {
+    "index": "F288026",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には古い手紙をとっておく癖があります。",
+    "output": "She has a way of keeping old letters."
+  },
+  {
+    "index": "F288028",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には決してヨーロッパを訪ねるまたの機会はないであろう。",
+    "output": "She will never have a second chance to visit Europe."
+  },
+  {
+    "index": "F288030",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には欠点もある。",
+    "output": "She has faults, too."
+  },
+  {
+    "index": "F288032",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には欠点が多いが、それでも皆から好かれる。",
+    "output": "She has a lot of faults; even so, she is liked by everybody."
+  },
+  {
+    "index": "F288034",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には欠点がたくさんあるが、それでも、私は彼女が好きだ。",
+    "output": "She has a lot of faults. Still, I like her."
+  },
+  {
+    "index": "F288036",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には欠点がいくつかあるけど、そのため一層ぼくは彼女が好きなのだ。",
+    "output": "She has some faults, but I love her all the more because of them."
+  },
+  {
+    "index": "F288038",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には欠点があるにもかかわらず、彼らは彼女を愛した。",
+    "output": "For all her fault, they loved her."
+  },
+  {
+    "index": "F288040",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には欠点があるけど、私は彼女が好きだ。",
+    "output": "With all her faults, I still like her."
+  },
+  {
+    "index": "F288042",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には欠点があるから僕はより一層彼女が好きだ。",
+    "output": "I love her all the more for her faults."
+  },
+  {
+    "index": "F288044",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には欠点があるからこそ僕は一層彼女が好きだ。",
+    "output": "I love her all the more for her faults."
+  },
+  {
+    "index": "F288046",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には欠点があるから、私はそれだけいっそう彼女が好きだ。",
+    "output": "I like her the better for her faults."
+  },
+  {
+    "index": "F288048",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には欠点があるがやはり好きだ。",
+    "output": "She has faults, but I love her none the less."
+  },
+  {
+    "index": "F288050",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には欠点があるが、彼女が好きだ。",
+    "output": "I love her all the more for her faults."
+  },
+  {
+    "index": "F288052",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には欠点があるが、それでもやはり彼女が好きだ。",
+    "output": "I like her none the less for her faults."
+  },
+  {
+    "index": "F288054",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には兄弟はいない。",
+    "output": "She has no brothers."
+  },
+  {
+    "index": "F288056",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には銀行に勤めている叔父がいます。",
+    "output": "She has an uncle who works in a bank."
+  },
+  {
+    "index": "F288058",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には恐くて話しかけたことがない。",
+    "output": "I have never dared to speak to her."
+  },
+  {
+    "index": "F288060",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には義務の観念が無い。",
+    "output": "She has no sense of duty."
+  },
+  {
+    "index": "F288062",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には輝かしい将来がある。",
+    "output": "She has a brilliant future."
+  },
+  {
+    "index": "F288064",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には貴婦人の風格がある。",
+    "output": "She has the air of being a lady."
+  },
+  {
+    "index": "F288066",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女は関わり合いになりたくなかった。",
+    "output": "She didn't want to get involved."
+  },
+  {
+    "index": "F288068",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には感情を抑えることがとてもむずかしかった。",
+    "output": "It was very difficult for her to control her emotions."
+  },
+  {
+    "index": "F288070",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には何年も会っていない。",
+    "output": "I haven't seen her in years."
+  },
+  {
+    "index": "F288072",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には何処かで会った覚えがある。",
+    "output": "I remember meeting her somewhere."
+  },
+  {
+    "index": "F288074",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には何か磁力のようなものがある。",
+    "output": "She has something of a magnetic force."
+  },
+  {
+    "index": "F288076",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には何か奇妙なところがあった。",
+    "output": "There was something strange about her."
+  },
+  {
+    "index": "F288078",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には音楽に対する生まれつきの才能がある。",
+    "output": "She has a natural talent for music."
+  },
+  {
+    "index": "F288080",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には一抹の罪悪感があった。",
+    "output": "She had a vague feeling of guilt."
+  },
+  {
+    "index": "F288082",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には一組のイヤリングはすてきな贈り物だ。",
+    "output": "A pair of earrings is a nice present for her."
+  },
+  {
+    "index": "F288084",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には医者である息子がいる。",
+    "output": "She has a son who is a doctor."
+  },
+  {
+    "index": "F288086",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には威張った様子がある。",
+    "output": "She has an important air about her."
+  },
+  {
+    "index": "F288088",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には以前会ったことがあるが、誰だか思い出せない。",
+    "output": "I've met her before, but I can't place her."
+  },
+  {
+    "index": "F288090",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には哀れみの心がまるでない。",
+    "output": "She is dead to pity."
+  },
+  {
+    "index": "F288092",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にはよくある事だが、約束を破った。",
+    "output": "As is often the case with her, she broke her promise."
+  },
+  {
+    "index": "F288094",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にはよくあることだが今も不在だ。",
+    "output": "She is out now, as is often the case with her."
+  },
+  {
+    "index": "F288096",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にはやる仕事がたくさんある。",
+    "output": "She has a lot of work to do."
+  },
+  {
+    "index": "F288098",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にはメアリーという名前の娘がいる。",
+    "output": "She has a daughter whose name is Mary."
+  },
+  {
+    "index": "F288100",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にはみんなに愛されている息子がいる。",
+    "output": "She has a son everybody loves."
+  },
+  {
+    "index": "F288102",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にはまだ未練がある。",
+    "output": "I still have some feelings for her."
+  },
+  {
+    "index": "F288104",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にはひどくしゃくにさわった。",
+    "output": "I was much annoyed with her."
+  },
+  {
+    "index": "F288106",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にはピアニストをしている娘がいる。",
+    "output": "She has a daughter who is a pianist."
+  },
+  {
+    "index": "F288108",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にははげましの言葉をかけてあげたらどうですか。",
+    "output": "Why don't you see if you can't give her a pep talk?"
+  },
+  {
+    "index": "F288110",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にはパーティーに着てゆくドレスがなかった。",
+    "output": "She had no dress to attend the party in."
+  },
+  {
+    "index": "F288112",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にはなにかとりえがありますか。",
+    "output": "Does she have any merit?"
+  },
+  {
+    "index": "F288114",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にはどことなく品がある。",
+    "output": "She is somewhat refined."
+  },
+  {
+    "index": "F288116",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にはどことなく神秘的なところがある。",
+    "output": "There's something mysterious about her."
+  },
+  {
+    "index": "F288118",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にはどこか不思議なところがある。",
+    "output": "There's something mysterious about her."
+  },
+  {
+    "index": "F288120",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にばっちりキスされちゃったよ。",
+    "output": "She kissed me full on the lips."
+  },
+  {
+    "index": "F288122",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にはどうしてもその金が必要だった。",
+    "output": "She badly needed the money."
+  },
+  {
+    "index": "F288124",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にはたくさんの友達がいるようだ。",
+    "output": "She appears to have many friends."
+  },
+  {
+    "index": "F288126",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にはダンスの才能がある。",
+    "output": "She has a talent for dance."
+  },
+  {
+    "index": "F288128",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にはついていけないよ。",
+    "output": "I can't really read her."
+  },
+  {
+    "index": "F288130",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にはその話がしみじみ感じられた。",
+    "output": "The story came home to her."
+  },
+  {
+    "index": "F288132",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にはその夜は退屈でおもしろくなかった。早い話が、時間の浪費であった。",
+    "output": "She found the evening boring and uninteresting, in short, a waste of time."
+  },
+  {
+    "index": "F288134",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にはその場を切り抜けるだけの力がある。",
+    "output": "She is equal to the occasion."
+  },
+  {
+    "index": "F288136",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にはそうする理由がなかったと私は思った。",
+    "output": "She had, I thought, no reason to do what she did."
+  },
+  {
+    "index": "F288138",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にはすばらしい魅力がある。",
+    "output": "She has great charm."
+  },
+  {
+    "index": "F288140",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にはすばらしい夫がいたと言われています。",
+    "output": "She is said to have had a nice husband."
+  },
+  {
+    "index": "F288142",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にはかなり分別があると思う。",
+    "output": "I think she has a fair amount of sense."
+  },
+  {
+    "index": "F288144",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にはおべっかは通用しない。",
+    "output": "She is proof against flattery."
+  },
+  {
+    "index": "F288146",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にはおじが二人いる。一人は京都に、もう一人は大阪に住んでいる。",
+    "output": "She has two uncles; one lives in Kyoto and the other in Osaka."
+  },
+  {
+    "index": "F288148",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にはうんざりだ。",
+    "output": "I'm fed up with her."
+  },
+  {
+    "index": "F288150",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にはいろいろ欠点もあるがそれでも私は彼女を愛している。",
+    "output": "She has some faults, but I love her none the less."
+  },
+  {
+    "index": "F288152",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にはいつも母親が同伴している。",
+    "output": "Her mother always accompanies her."
+  },
+  {
+    "index": "F288154",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にはいたずらっぽいところがあってますます好きだ。",
+    "output": "I like her all the better for her naughtiness."
+  },
+  {
+    "index": "F288156",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にはあまり友人がいないようだ。",
+    "output": "She appears to have few friends."
+  },
+  {
+    "index": "F288158",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には７人の息子がいる。",
+    "output": "She has no fewer than seven sons."
+  },
+  {
+    "index": "F288160",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には３人の息子がいたが、その３人の息子は船乗りになった。",
+    "output": "She has three sons, who became sailors."
+  },
+  {
+    "index": "F288162",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には２人の姉妹があり、２人は京都に住んでいる。",
+    "output": "She has two sisters, who live in Kyoto."
+  },
+  {
+    "index": "F288164",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には２人の兄弟がいて、コンピューター業界で働いている。",
+    "output": "She has two brothers, who work in the computer industry."
+  },
+  {
+    "index": "F288166",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女には、収入のなかでやりくりすることができなかった。",
+    "output": "She could not make both ends meet on her income."
+  },
+  {
+    "index": "F288168",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女ににらみつけられてぞくっとした。",
+    "output": "She froze me in her stare."
+  },
+  {
+    "index": "F288170",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にどのくらいスープが欲しいかきいてごらん。",
+    "output": "Ask her how much soup she wants."
+  },
+  {
+    "index": "F288172",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にとって町に住むか田舎に住むかは重要ではない。",
+    "output": "It makes no difference to her whether she lives in a city or in the country."
+  },
+  {
+    "index": "F288174",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にとって息子の成長は何にも勝る喜びだった。",
+    "output": "Nothing gave her greater pleasure than to watch her son growing up."
+  },
+  {
+    "index": "F288176",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にとって、新しい学校でうまくやっていくのは難しいようだ。",
+    "output": "It seems to be difficult for her to get along with students in the new school."
+  },
+  {
+    "index": "F288178",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にとって歌うのは鳥が空を飛ぶのと同じくらい楽なことだ。",
+    "output": "Singing comes as naturally to her as flying does to birds."
+  },
+  {
+    "index": "F288180",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にとっては富よりも健康のほうが大事だ。",
+    "output": "She values health above wealth."
+  },
+  {
+    "index": "F288182",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にとってそのブローチほど大切なものはない。",
+    "output": "Nothing is more precious to her than the brooch."
+  },
+  {
+    "index": "F288184",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にとってうれしいことに、客はみな食事をほめた。",
+    "output": "To her joy, all the guest praised the meal."
+  },
+  {
+    "index": "F288186",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にどこで会ったのか。",
+    "output": "Where did you see her?"
+  },
+  {
+    "index": "F288188",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女については何も知りません。",
+    "output": "I know nothing about her."
+  },
+  {
+    "index": "F288190",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女については、ピアニストという以外何も知らない。",
+    "output": "I know nothing about her except that she is a pianist."
+  },
+  {
+    "index": "F288192",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女についてあらゆるうわさが広まった。",
+    "output": "All sorts of rumors were floating around about her."
+  },
+  {
+    "index": "F288194",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にだまされてその金を渡した。",
+    "output": "She fooled me into giving her the money."
+  },
+  {
+    "index": "F288196",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にたくさんの借りがあるという事実を君は忘れてはいけない。",
+    "output": "You must remember the fact that you owe her a lot."
+  },
+  {
+    "index": "F288198",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にそんな質問をするなんて失礼ですよ。",
+    "output": "It's rude of you to ask her that question."
+  },
+  {
+    "index": "F288200",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にそんなことは言うべきではなかった。",
+    "output": "You shouldn't have told her such a thing."
+  },
+  {
+    "index": "F288202",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にそれを言うのは気が引ける。",
+    "output": "I don't feel like telling her about it."
+  },
+  {
+    "index": "F288204",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にその理論を理解させるのは不可能だ。",
+    "output": "It is impossible to make her understand the theory."
+  },
+  {
+    "index": "F288206",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にその本を送ってくれと頼みましょうか。",
+    "output": "Shall I ask her to send the book to us?"
+  },
+  {
+    "index": "F288208",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にその知らせを伝える役だけはごめんだ。",
+    "output": "I don't want to be the one who breaks the news to her."
+  },
+  {
+    "index": "F288210",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にご協力いただけますことについて、あらかじめお礼を申し上げます。",
+    "output": "I would like to thank you in advance for any help that you are able to give her."
+  },
+  {
+    "index": "F288212",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にこのバラをあげなさい、そうすれば喜ぶでしょう。",
+    "output": "Give her these roses, and she will be pleased."
+  },
+  {
+    "index": "F288214",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にくれぐれも御礼を言っておいてください。",
+    "output": "Please give my best thanks to her."
+  },
+  {
+    "index": "F288216",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にくびったけだったのは本当だ。",
+    "output": "It is true that I was head over heels in love with her."
+  },
+  {
+    "index": "F288218",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女に喫煙しないように合図した。",
+    "output": "I motioned to her not to smoke."
+  },
+  {
+    "index": "F288220",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にキスをすることと彼女を愛してることとは別のことだ。",
+    "output": "To kiss her is one thing, and to love is another."
+  },
+  {
+    "index": "F288222",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にお目にかかりたい。",
+    "output": "I'd like to see her."
+  },
+  {
+    "index": "F288224",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にお茶を出させよう。",
+    "output": "She shall serve tea."
+  },
+  {
+    "index": "F288226",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にお金をいくらか渡そうとしたが、どうしても受け取ろうとしなかった。",
+    "output": "I tried to give her some money, but she wouldn't take any."
+  },
+  {
+    "index": "F288228",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にお会いしたいのですが。",
+    "output": "I'd like to see her."
+  },
+  {
+    "index": "F288230",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にいつ会ったのですか。",
+    "output": "When did you meet her?"
+  },
+  {
+    "index": "F288232",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にいくら手紙を書いても、彼女は君のことを何とも思わないだろう。",
+    "output": "No matter how often you write to her, she will not take notice of you."
+  },
+  {
+    "index": "F288234",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にいい人ができたらしい。",
+    "output": "She seems to have found a boyfriend."
+  },
+  {
+    "index": "F288236",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にあのニュースを話したことを覚えている。",
+    "output": "I remember telling her that news."
+  },
+  {
+    "index": "F288238",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にあったのはつい一週間前のことだ。",
+    "output": "I saw her only a week ago."
+  },
+  {
+    "index": "F288240",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女に会うたびに胸がどきどきする。",
+    "output": "My heart beats fast each time I see her."
+  },
+  {
+    "index": "F288242",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女に３回会ったことがある。",
+    "output": "I have seen her three times."
+  },
+  {
+    "index": "F288244",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女に２年前会ったと確信しています。",
+    "output": "I am sure I saw her two years ago."
+  },
+  {
+    "index": "F288246",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女に２、３の本を送りましょうか。",
+    "output": "Shall I send a few books for her?"
+  },
+  {
+    "index": "F288248",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女に１０ドル借りている。",
+    "output": "I owe ten dollars to her."
+  },
+  {
+    "index": "F288250",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女なら面識があります。",
+    "output": "I have an acquaintance with her."
+  },
+  {
+    "index": "F288252",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女なら当然選びそうな人と彼女は結婚した。",
+    "output": "She married to the kind of man you would expect her to pick."
+  },
+  {
+    "index": "F288254",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女なら成功してもおかしくない。",
+    "output": "She deserves to succeed."
+  },
+  {
+    "index": "F288256",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女なら仕事をすべて上手くやるだろう。",
+    "output": "She will cope with all the work."
+  },
+  {
+    "index": "F288258",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女ならカナダからの留学生で、僕の伯父のところに滞在しているんだ。",
+    "output": "She is a student from Canada, staying with my uncle."
+  },
+  {
+    "index": "F288260",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と話をするのはうんざりだ。",
+    "output": "I am fed up with talking to her."
+  },
+  {
+    "index": "F288262",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と話をするとき言葉づかいに気をつけたほうがいいですよ。",
+    "output": "You should watch your language when you talk to her."
+  },
+  {
+    "index": "F288264",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と別れるなんて耐えられない。",
+    "output": "I can't stand losing her."
+  },
+  {
+    "index": "F288266",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と付き合うきっかけになったのは、なんとなくフィーリングが合ったからだ。",
+    "output": "I got together with her mainly because we seemed to share the same feelings about things."
+  },
+  {
+    "index": "F288268",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と同じくらい私もフランス語が話せる。",
+    "output": "I speak French as well as she does."
+  },
+  {
+    "index": "F288270",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と彼女の姉を見分けられますか。",
+    "output": "Can you distinguish her from her sister?"
+  },
+  {
+    "index": "F288272",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と町で偶然あった。",
+    "output": "I met up with her on the street."
+  },
+  {
+    "index": "F288274",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と仲良くしようとやってみたが無駄だった。",
+    "output": "I tried to keep in with her in vain."
+  },
+  {
+    "index": "F288276",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と仲直りした。",
+    "output": "I made up with her."
+  },
+  {
+    "index": "F288278",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と仲がよい。",
+    "output": "I am friendly with her."
+  },
+  {
+    "index": "F288280",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と知り合ってからどれくらいになりますか。",
+    "output": "How long have you known her?"
+  },
+  {
+    "index": "F288282",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と知り合いになれたのは全くの偶然だった。",
+    "output": "It was pure accident that I came to know her."
+  },
+  {
+    "index": "F288284",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と知り合いになった。",
+    "output": "I struck up an acquaintance with her."
+  },
+  {
+    "index": "F288286",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と席をかわった。",
+    "output": "I exchanged seats with her."
+  },
+  {
+    "index": "F288288",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と私は仲がよい。",
+    "output": "She and I get on well."
+  },
+  {
+    "index": "F288290",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と私はたまたま同じ種類の音楽が好きだった。",
+    "output": "It happened that she and I liked the same kind of music."
+  },
+  {
+    "index": "F288292",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と私は、同級生です。",
+    "output": "She and I are in the same class."
+  },
+  {
+    "index": "F288294",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と私には共通点が何もない。",
+    "output": "I have nothing in common with her."
+  },
+  {
+    "index": "F288296",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と言う人がぜんぜん分からなかった。",
+    "output": "I couldn't make her out at all."
+  },
+  {
+    "index": "F288298",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と結婚できるだろう。",
+    "output": "I will be able to marry her."
+  },
+  {
+    "index": "F288300",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と結婚していたらよかったのになあ。",
+    "output": "I wish I had got married to her."
+  },
+  {
+    "index": "F288302",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と結婚した理由を話してください。",
+    "output": "Tell me the reason why you married her."
+  },
+  {
+    "index": "F288304",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と結婚した時、私は彼女と知り合って１０年たったところだった。",
+    "output": "I had known her for ten years when I married her."
+  },
+  {
+    "index": "F288306",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と結婚したとき、私は彼女と知り合って１０年経っていた。",
+    "output": "I had known her for ten years when I married her."
+  },
+  {
+    "index": "F288308",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と結婚したい人は誰でもまず彼女の父親を説得しなければならない。",
+    "output": "Whoever wants to marry her must first convince her father."
+  },
+  {
+    "index": "F288310",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と結婚したいんだ。",
+    "output": "I hope to marry her."
+  },
+  {
+    "index": "F288312",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と結婚したいと思っています。",
+    "output": "I hope to marry her."
+  },
+  {
+    "index": "F288314",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と偶然出会う。",
+    "output": "I bump into her."
+  },
+  {
+    "index": "F288316",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と議論しても無駄だ。",
+    "output": "It is no use arguing with her."
+  },
+  {
+    "index": "F288318",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と会うつもりですか。",
+    "output": "Will you meet her?"
+  },
+  {
+    "index": "F288320",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と一緒に行けなかったのは残念だ。",
+    "output": "I am sorry that I could not go with her."
+  },
+  {
+    "index": "F288322",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と一緒にいると絶対退屈しないよ。",
+    "output": "You will never get bored in her company."
+  },
+  {
+    "index": "F288324",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と一緒にいると気詰まりだ。",
+    "output": "I feel ill at ease in her company."
+  },
+  {
+    "index": "F288326",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と一緒にいると楽しい。",
+    "output": "She is amusing to be with."
+  },
+  {
+    "index": "F288328",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と一緒にいるとくつろげない。",
+    "output": "I don't feel at home in her company."
+  },
+  {
+    "index": "F288330",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と一緒だと気が楽なの。",
+    "output": "I feel comfortable in her company."
+  },
+  {
+    "index": "F288332",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女とは友達というより知り合いの仲です。",
+    "output": "She is more an acquaintance than a friend."
+  },
+  {
+    "index": "F288334",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女とは数年前から口をきく間柄ではない。",
+    "output": "I have not been on speaking terms with her for a few years."
+  },
+  {
+    "index": "F288336",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女とは行き来する間柄です。",
+    "output": "I am on visiting terms with her."
+  },
+  {
+    "index": "F288338",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女とは気が合わない。",
+    "output": "I hit it off badly with her."
+  },
+  {
+    "index": "F288340",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女とは気が合う。",
+    "output": "I hit it off well with her."
+  },
+  {
+    "index": "F288342",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女とは会っていない。",
+    "output": "I haven't met her."
+  },
+  {
+    "index": "F288344",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女とはよく会いますか。",
+    "output": "Do you see her often?"
+  },
+  {
+    "index": "F288346",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女とはどんな間柄ですか。",
+    "output": "What relation is she to you?"
+  },
+  {
+    "index": "F288348",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女とはときおり美容院で会います。",
+    "output": "I meet her on occasion at a beauty shop."
+  },
+  {
+    "index": "F288350",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女とはたいてい意見が一致する。",
+    "output": "She and I usually agree."
+  },
+  {
+    "index": "F288352",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女との出会いが始まった。",
+    "output": "I began a meeting with her."
+  },
+  {
+    "index": "F288354",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女とのおしゃべりを楽しんだ。",
+    "output": "I enjoyed talking with her."
+  },
+  {
+    "index": "F288356",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女とデートすることはありますか。",
+    "output": "Do you ever date her?"
+  },
+  {
+    "index": "F288358",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女とっても機嫌がいいですよ。",
+    "output": "She's as good as pie."
+  },
+  {
+    "index": "F288360",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女とだいたい同じ意見です。",
+    "output": "I generally agree with her."
+  },
+  {
+    "index": "F288362",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女とその映画を見るのを楽しみにしています。",
+    "output": "I'm looking forward to seeing the film with her."
+  },
+  {
+    "index": "F288364",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女とお姉さんを間違えてしまった。",
+    "output": "I took her for her sister."
+  },
+  {
+    "index": "F288366",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女といっしょに芝居をすることは素晴らしいことだ。",
+    "output": "It's a marvelous thing to do a play with her."
+  },
+  {
+    "index": "F288368",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女はドアを開けた。",
+    "output": "She opened the door."
+  },
+  {
+    "index": "F288370",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女と６月に結婚する事になったんだ。",
+    "output": "I'm getting married to her in June."
+  },
+  {
+    "index": "F288372",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女ってまめだね。",
+    "output": "She doesn't have a lazy bone in her body."
+  },
+  {
+    "index": "F288374",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女って、一生懸命なんだけど、どこか空回りしてるのよね。",
+    "output": "She tries so hard, but she's just spinning her wheels."
+  },
+  {
+    "index": "F288376",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女たちは長崎がとても気に入ったので１週間滞在した。",
+    "output": "They loved Nagasaki so much that they stayed there for a week."
+  },
+  {
+    "index": "F288378",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女たちは選挙権を勝ち取るための運動を指揮した。",
+    "output": "The women led the movement to obtain female suffrage."
+  },
+  {
+    "index": "F288380",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女たちは先生です。",
+    "output": "They are teachers."
+  },
+  {
+    "index": "F288382",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女たちは私たちに食べるものをたくさんくれた。",
+    "output": "The women gave us a lot to eat."
+  },
+  {
+    "index": "F288384",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女たちは昨日家にいなかった。",
+    "output": "They weren't at home yesterday."
+  },
+  {
+    "index": "F288386",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女たちは雇い主から軽蔑されることにうんざりしてきている。",
+    "output": "Women have grown tired of being looked down on by employers."
+  },
+  {
+    "index": "F288388",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女たちは一緒に歌った。",
+    "output": "They sang in chorus."
+  },
+  {
+    "index": "F288390",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女たちはたった今下校した。",
+    "output": "They have left school now."
+  },
+  {
+    "index": "F288392",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女たちはあなたの美しさがうらやましいと思っています。",
+    "output": "They envy you your beauty."
+  },
+  {
+    "index": "F288394",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女たちの演説はすばらしかった。",
+    "output": "Her speech was excellent."
+  },
+  {
+    "index": "F288396",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女たちが庭ではしゃいでいる。",
+    "output": "The girls are making merry in the yard."
+  },
+  {
+    "index": "F288398",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女だけでなく彼女の両親もパーティーに招待された。",
+    "output": "Not only she but also her parents were invited to the party."
+  },
+  {
+    "index": "F288400",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女だけでなく君もまちがっています。",
+    "output": "Not only she is wrong, but you are as well."
+  },
+  {
+    "index": "F288402",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女だけでなく、彼女の息子たちも満足していた。",
+    "output": "Not only she, but her sons have been satisfied."
+  },
+  {
+    "index": "F288404",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女しゃれた格好してるね。",
+    "output": "She's smartly dressed."
+  },
+  {
+    "index": "F288406",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女その瞬間にカッとなったんだね。",
+    "output": "She saw red at that moment."
+  },
+  {
+    "index": "F288408",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女じきに新しい学校に慣れた。",
+    "output": "She soon adjusted herself to the new school."
+  },
+  {
+    "index": "F288410",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女さりげなく否定しましたよ。",
+    "output": "She just blew it off."
+  },
+  {
+    "index": "F288412",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女ぐらいの年齢の子供に善悪の区別がつくであろうか。",
+    "output": "Can a child of her age distinguish good from bad?"
+  },
+  {
+    "index": "F288414",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女ぐらいの年齢になれば親に多くの期待しすぎるような馬鹿な事はしないだろう。",
+    "output": "She is old enough to know better than to expect too much of her parents."
+  },
+  {
+    "index": "F288416",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が腕によりをかけてこの料理を作りました。",
+    "output": "She used all her skills making this dish."
+  },
+  {
+    "index": "F288418",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が話をしている人はアレンさんです。",
+    "output": "The man with whom she is talking is Mr Allen."
+  },
+  {
+    "index": "F288420",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が話せば話すほど、私はますます退屈になった。",
+    "output": "The more she talked, the more bored I got."
+  },
+  {
+    "index": "F288422",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が話している人はアレンさんです。",
+    "output": "The man whom she is talking with is Mr Allen."
+  },
+  {
+    "index": "F288424",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が話している時に彼は彼女の邪魔をした。",
+    "output": "He interrupted her while she was speaking."
+  },
+  {
+    "index": "F288426",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が連れてきた少年はとてもハンサムだった。",
+    "output": "The boy who she brought with her was very handsome."
+  },
+  {
+    "index": "F288428",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が列の先頭です。",
+    "output": "She is first in line."
+  },
+  {
+    "index": "F288430",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が緑の帽子をかぶっていたのを覚えています。",
+    "output": "I remember that she wore a green hat."
+  },
+  {
+    "index": "F288432",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が留守の間に泥棒は宝石を持って逃げた。",
+    "output": "While she was out the thief got away with her jewels."
+  },
+  {
+    "index": "F288434",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が離婚したという知らせは、大変思いがけないことだった。",
+    "output": "The news that she got divorced was a big surprise."
+  },
+  {
+    "index": "F288436",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が落ちないようにつかんでいなければならなかった。",
+    "output": "I had to grab her to keep her from falling."
+  },
+  {
+    "index": "F288438",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が来月フランスへ行くと言ううわさでもちきりだ。",
+    "output": "There is much talk that she is going to France next month."
+  },
+  {
+    "index": "F288440",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が来月結婚するのは本当だ。",
+    "output": "It is true that she'll get married next month."
+  },
+  {
+    "index": "F288442",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が来る必要はなかった。",
+    "output": "She didn't need to come."
+  },
+  {
+    "index": "F288444",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が来るまで待つつもりだ。",
+    "output": "I will wait until she comes."
+  },
+  {
+    "index": "F288446",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が来るのなら私も行きます。",
+    "output": "I will go provided that she comes."
+  },
+  {
+    "index": "F288448",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が来るのが聞こえた。",
+    "output": "I heard her come here."
+  },
+  {
+    "index": "F288450",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が来るという知らせは受けてない。",
+    "output": "I have no information she is coming."
+  },
+  {
+    "index": "F288452",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が来るかどうか疑う。",
+    "output": "I don't know whether she will come."
+  },
+  {
+    "index": "F288454",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が来るかどうかわからない。",
+    "output": "I don't know if she will come."
+  },
+  {
+    "index": "F288456",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が来るかどうかは疑わしい。",
+    "output": "It is doubtful whether she will come."
+  },
+  {
+    "index": "F288458",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が来られなかった理由を知っていますか。",
+    "output": "Do you know the reason which prevented her from coming?"
+  },
+  {
+    "index": "F288460",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が来られないなんて、なんて残念なんだ。",
+    "output": "What a pity she can't come!"
+  },
+  {
+    "index": "F288462",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が来ようとは私は全然思いもしなかった。",
+    "output": "I little imagined that she would come."
+  },
+  {
+    "index": "F288464",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が来なくてとてもがっかりした。",
+    "output": "Much to my disappointment, she did not come."
+  },
+  {
+    "index": "F288466",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が来ない理由が解らない。",
+    "output": "I don't know the reason why she isn't coming."
+  },
+  {
+    "index": "F288468",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が来なかったので、楽しみがなくなってしまった。",
+    "output": "Her absence robbed us of our pleasure."
+  },
+  {
+    "index": "F288470",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が来た時仕事はほとんど終わっていた。",
+    "output": "I had almost finished my work when she came."
+  },
+  {
+    "index": "F288472",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が来た時、彼はちょうど家を出ようとしていた。",
+    "output": "He was going to leave the house when she came."
+  },
+  {
+    "index": "F288474",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が来たらすぐに始めよう。",
+    "output": "As soon as she comes, we will begin."
+  },
+  {
+    "index": "F288476",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が来たらこの手紙を渡してください。",
+    "output": "Give her this letter when she comes."
+  },
+  {
+    "index": "F288478",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が来たときパーティーは終わった。",
+    "output": "When she turned up, the party was over."
+  },
+  {
+    "index": "F288480",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が欲しいって言ってたコート、目の玉が飛び出るほど高かったんだ。",
+    "output": "The coat she wanted was eye-poppingly expensive."
+  },
+  {
+    "index": "F288482",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が約束を破ったはずがない。",
+    "output": "She cannot have broken her promise."
+  },
+  {
+    "index": "F288484",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が優勝すると予想を彼はした。",
+    "output": "He predicted she would win."
+  },
+  {
+    "index": "F288486",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が約束をまもらなかったので私は腹を立てている。",
+    "output": "I am angry that she didn't keep her promise."
+  },
+  {
+    "index": "F288488",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が夜中に公園で散歩しているのを見た。",
+    "output": "I saw her taking a walk in the park at midnight."
+  },
+  {
+    "index": "F288490",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が戻るまでここで待っていましょう。",
+    "output": "Let's wait here until she comes back."
+  },
+  {
+    "index": "F288492",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が戻ってきたら、出発します。",
+    "output": "I'll leave when she comes back."
+  },
+  {
+    "index": "F288494",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が戻ったら君に電話をかけさせるよ。",
+    "output": "I'll have her call you when she gets back."
+  },
+  {
+    "index": "F288496",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が戻ったら、すぐそちらへ電話をかけさせます。",
+    "output": "I will have her call you as soon as she comes back."
+  },
+  {
+    "index": "F288498",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が目に涙を浮かべて階段を駆け上がるのを見た。",
+    "output": "She was seen to run up the stairs with tears in her eyes."
+  },
+  {
+    "index": "F288500",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が明日ここに来るかどうか請け合えない。",
+    "output": "I can't ensure that she will be here tomorrow."
+  },
+  {
+    "index": "F288502",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が娘自慢なのももっともだ。",
+    "output": "She may well be proud of her daughter."
+  },
+  {
+    "index": "F288504",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が無事に帰宅したかどうか確かめなさい。",
+    "output": "Make certain that she returned home safely."
+  },
+  {
+    "index": "F288506",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が無事に帰国しますように。",
+    "output": "May she return home safely."
+  },
+  {
+    "index": "F288508",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が眠っている事を知っている。",
+    "output": "I know she is sleeping."
+  },
+  {
+    "index": "F288510",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が妙な帽子をかぶっているので少年たちは彼女をからかった。",
+    "output": "They made fun of her because she had a funny hat on."
+  },
+  {
+    "index": "F288512",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が味方してくれてとてもうれしかった。",
+    "output": "I was very glad that she took my side."
+  },
+  {
+    "index": "F288514",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が僕を狂わせる。",
+    "output": "She drives me mad."
+  },
+  {
+    "index": "F288516",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が僕より数学が得意なのを僕は知った。",
+    "output": "I discovered that she was better at math than I."
+  },
+  {
+    "index": "F288518",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が僕の申込を受諾してくれるように切望していた。",
+    "output": "I was anxious that she accept my offer."
+  },
+  {
+    "index": "F288520",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が僕の手をつかんだ。",
+    "output": "She got me by the hand."
+  },
+  {
+    "index": "F288522",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が僕のこと好きだなんて思いもしなかった。",
+    "output": "It never occurred to me that she loved me."
+  },
+  {
+    "index": "F288524",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が僕にプレゼントをくれた。",
+    "output": "She gave me a present."
+  },
+  {
+    "index": "F288526",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が訪ねた医者は有名だ。",
+    "output": "The doctor she visited is famous."
+  },
+  {
+    "index": "F288528",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が壁にかかっている絵を描いた。",
+    "output": "She painted the picture which is on the wall."
+  },
+  {
+    "index": "F288530",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が物事をてきぱきできないのを驚いた。",
+    "output": "I was surprised at her inability to do things promptly."
+  },
+  {
+    "index": "F288532",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が腹を立てるなんて彼は思いもしなかった。",
+    "output": "It never occurred to him that she would get angry."
+  },
+  {
+    "index": "F288534",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が部屋に入ると彼はベッドで上半身を起こした。",
+    "output": "As she entered the room, he sat up in his bed."
+  },
+  {
+    "index": "F288536",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が部屋に入ると彼は立ち上がった。",
+    "output": "When she entered the room, he got to his feet."
+  },
+  {
+    "index": "F288538",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が腹を立てたのはいったいなぜだろう。",
+    "output": "Why was it that she got angry?"
+  },
+  {
+    "index": "F288540",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が部屋に入ると私はすぐに立ち上がり、深々と頭を下げた。",
+    "output": "As soon as she entered the room, I rose to my feet and made a deep bow."
+  },
+  {
+    "index": "F288542",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が部屋に入ってきた。",
+    "output": "She came into the room."
+  },
+  {
+    "index": "F288544",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が部屋に帰ってみると、ダイヤの指輪は消えていた。",
+    "output": "When she returned to her room, the diamond ring was gone."
+  },
+  {
+    "index": "F288546",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が部屋にはいるのを見た。",
+    "output": "I saw her enter the room."
+  },
+  {
+    "index": "F288548",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が部屋にはいったとき、ささやきが聞こえた。",
+    "output": "There was a murmur when she entered the room."
+  },
+  {
+    "index": "F288550",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が部屋ですすり泣くのが聞こえた。",
+    "output": "I could hear her sobbing in her bedroom."
+  },
+  {
+    "index": "F288552",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が部屋から出て行くのを見た。",
+    "output": "I saw her leaving the room."
+  },
+  {
+    "index": "F288554",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が父親を尊敬するのはごく当然だ。",
+    "output": "Well may she admire her father."
+  },
+  {
+    "index": "F288556",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が父親の死の悲しみから立ち直るには長い時間がかかるだろう。",
+    "output": "It'll be a long time before she gets over her father's death."
+  },
+  {
+    "index": "F288558",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が不誠実であるという事実は隠せない。",
+    "output": "There's no disguising the fact that she is dishonest."
+  },
+  {
+    "index": "F288560",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が貧しいからと言って不正直だと言う事にはならない。",
+    "output": "Just because she is poor, it does not follow that she is dishonest."
+  },
+  {
+    "index": "F288562",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が病気なのをどうして知りましたか。",
+    "output": "How did you get to know she was ill?"
+  },
+  {
+    "index": "F288564",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が病気になってから３週間だ。",
+    "output": "She has been ill for three weeks."
+  },
+  {
+    "index": "F288566",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が病気になってから１週間になります。",
+    "output": "She has been sick for a week."
+  },
+  {
+    "index": "F288568",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が病気で入院しているということに思いつかなかった。",
+    "output": "It never occurred to me that she was ill in hospital."
+  },
+  {
+    "index": "F288570",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が病気であったはずがない。",
+    "output": "She cannot have been ill."
+  },
+  {
+    "index": "F288572",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が病気だと言う可能性を残念ながら捨て切れない。",
+    "output": "I'm afraid we can't rule out the possibility that she may have the disease."
+  },
+  {
+    "index": "F288574",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が病気だと言うことを考慮に入れるべきです。",
+    "output": "You should take her illness into consideration."
+  },
+  {
+    "index": "F288576",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が病気だとは気の毒です。",
+    "output": "It's too bad she's ill."
+  },
+  {
+    "index": "F288578",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が病気だという事実は私をとても心配させる。",
+    "output": "The fact that she is ill worries me a lot."
+  },
+  {
+    "index": "F288580",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が病気だということは明らかだ。",
+    "output": "That she is ill is obvious."
+  },
+  {
+    "index": "F288582",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が病院までついて来てくれた。",
+    "output": "She accompanied me to the hospital."
+  },
+  {
+    "index": "F288584",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が美人だと思っているのは私たちだけだ。",
+    "output": "We are alone in believing that she is a beautiful woman."
+  },
+  {
+    "index": "F288586",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が美しいので彼は感嘆の声をあげた。",
+    "output": "He exclaimed that she was beautiful."
+  },
+  {
+    "index": "F288588",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が美しいからといって彼女を好きなわけではない。",
+    "output": "It is not because she is beautiful that I like her."
+  },
+  {
+    "index": "F288590",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が非常に有能であることは否定できない。",
+    "output": "There is no denying that she is very efficient."
+  },
+  {
+    "index": "F288592",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が疲れているのは見て明らかだった。",
+    "output": "That she was tired was plain to see."
+  },
+  {
+    "index": "F288594",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が疲れているので、私たちはしばらく休んだ方がよい。",
+    "output": "Seeing that she is tired, we had better stop for a while."
+  },
+  {
+    "index": "F288596",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が彼を怒るのも当然である。",
+    "output": "It is quite natural that she should get angry with him."
+  },
+  {
+    "index": "F288598",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が彼を助ける巡り合わせになった。",
+    "output": "The lot fell to her to help him."
+  },
+  {
+    "index": "F288600",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が彼を見てどうしてしかめつらをしたのか分からなかった。",
+    "output": "I couldn't understand why she frowned at him."
+  },
+  {
+    "index": "F288602",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が彼を悪く言うのももっともだ。",
+    "output": "She may well speak ill of him."
+  },
+  {
+    "index": "F288604",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が彼の名前を言ったのでピンと来た。",
+    "output": "Her mention of his name rang a bell."
+  },
+  {
+    "index": "F288606",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が彼の申し出を断るのは当然だと思う。",
+    "output": "I think it natural for her to decline his offer."
+  },
+  {
+    "index": "F288608",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が彼の申し込みを拒絶したはずがない。",
+    "output": "She cannot have turned down his offer."
+  },
+  {
+    "index": "F288610",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が彼の現在の奥さんだ。",
+    "output": "She is his present wife."
+  },
+  {
+    "index": "F288612",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が彼を見送りにこなかったのも不思議ではない。二人は別れたんだ。",
+    "output": "No wonder she didn't show up to see him off. They broke up."
+  },
+  {
+    "index": "F288614",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が彼と結婚してからもう十年になる。",
+    "output": "She has been married to him for a decade now."
+  },
+  {
+    "index": "F288616",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が彼と結婚したと聞いて私達は失望した。",
+    "output": "We were disappointed to hear that she had married him."
+  },
+  {
+    "index": "F288618",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が彼との出会いを面白く話してくれた。",
+    "output": "She gave me a humorous account of her encounter with him."
+  },
+  {
+    "index": "F288620",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が髪を切ったのは短い髪型が好きだからで、失恋したからではない。",
+    "output": "She had her hair cut because she liked shorter hair, not because she had lost her love."
+  },
+  {
+    "index": "F288622",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が発ったその日に彼は到着した。",
+    "output": "He arrived the day she left."
+  },
+  {
+    "index": "F288624",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が買ったものはとても高価だった。",
+    "output": "What she bought was very expensive."
+  },
+  {
+    "index": "F288626",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が破滅するのを黙って見ていられない。",
+    "output": "I can't see her ruin her whole life."
+  },
+  {
+    "index": "F288628",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が入院して一ヶ月になる。",
+    "output": "She has been in hospital for a month."
+  },
+  {
+    "index": "F288630",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が入院してもう二ヶ月になる。",
+    "output": "She has been hospitalized for 2 months already."
+  },
+  {
+    "index": "F288632",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が入ってきた時、私たちは食事を終えていました。",
+    "output": "When she came inside, we had finished eating dinner."
+  },
+  {
+    "index": "F288634",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が二度結婚したことは本当だった。",
+    "output": "It was true that she had got married twice."
+  },
+  {
+    "index": "F288636",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が二度と口をきいてくれないとしても、それは自業自得さ。",
+    "output": "It will serve you right if she never speaks to you again."
+  },
+  {
+    "index": "F288638",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が二メートルリードしている。",
+    "output": "She is leading by two meters."
+  },
+  {
+    "index": "F288640",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が突然来たので彼は外出することができなかった。",
+    "output": "Her sudden arrival prevented him from going out."
+  },
+  {
+    "index": "F288642",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が突然死んだという知らせが青天のへきれきのように訪れた。",
+    "output": "The news of her sudden death came like a bolt from the blue."
+  },
+  {
+    "index": "F288644",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が突然玄関に姿を見せたので我々はびっくりした。",
+    "output": "Her sudden appearance in the doorway surprised us."
+  },
+  {
+    "index": "F288646",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が独身だとはうれしいね。",
+    "output": "I'm glad to hear that she is unmarried."
+  },
+  {
+    "index": "F288648",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が働く必要はない。",
+    "output": "There is no need for her to work."
+  },
+  {
+    "index": "F288650",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が頭の良い息子を自慢するのも無理はない。",
+    "output": "She may well be proud of her smart son."
+  },
+  {
+    "index": "F288652",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が到着したら、お知らせします。",
+    "output": "I'll let you know when she arrives."
+  },
+  {
+    "index": "F288654",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が到着したことを彼に知らせた。",
+    "output": "I informed him of her arrival."
+  },
+  {
+    "index": "F288656",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が当惑したことに赤ん坊はとうとう泣きやまなかった。",
+    "output": "To her embarrassment, her baby never stopped crying."
+  },
+  {
+    "index": "F288658",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が怒るのも当然だ。",
+    "output": "It is quite natural for her to get angry."
+  },
+  {
+    "index": "F288660",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が怒るのは極めて当然だ。",
+    "output": "It is quite natural for her to get angry."
+  },
+  {
+    "index": "F288662",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が怒るのももっともだ。",
+    "output": "She may well get angry."
+  },
+  {
+    "index": "F288664",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が怒った理由を教えて下さい。",
+    "output": "Please tell me the reason why she got angry."
+  },
+  {
+    "index": "F288666",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が都市に住んでいるか、それとも田舎に住んでいるかということは、どうでも良いことだ。",
+    "output": "It makes no difference to me whether she lives in the city or in the country."
+  },
+  {
+    "index": "F288668",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が電話をしている間にふろ桶があふれた。",
+    "output": "The tub ran over while she was on the phone."
+  },
+  {
+    "index": "F288670",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が電話してきたときに、私はたまたま居合わせた。",
+    "output": "It happened that I was present when she called."
+  },
+  {
+    "index": "F288672",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が電車に乗り遅れた可能性はあるでしょうか。",
+    "output": "Might she have missed her train?"
+  },
+  {
+    "index": "F288674",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が田舎道を車で走って行った。",
+    "output": "She drove a car down a country road."
+  },
+  {
+    "index": "F288676",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が通れるように彼は横へ退いてあげた。",
+    "output": "He stepped aside for her to pass."
+  },
+  {
+    "index": "F288678",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が通れるように私は脇に退いた。",
+    "output": "I stepped aside for her to pass by."
+  },
+  {
+    "index": "F288680",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が通りを横切っているのが見えた。",
+    "output": "I saw her coming across the street."
+  },
+  {
+    "index": "F288682",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が町から出ることはめったにない。",
+    "output": "She rarely, if ever, goes out of town."
+  },
+  {
+    "index": "F288684",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が遅刻したので私は叱りたかったが、何も言わなかった。",
+    "output": "When she was late, I felt like scolding her, but I held my tongue."
+  },
+  {
+    "index": "F288686",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が遅刻したため、計画を変更した。",
+    "output": "We changed our plans because of her late arrival."
+  },
+  {
+    "index": "F288688",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が恥ずかしがりやなので、なおいっそう好きです。",
+    "output": "I like her all the better for her shyness."
+  },
+  {
+    "index": "F288690",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が誰なのか、私にはさっぱりわからない。",
+    "output": "Who she is I have no idea."
+  },
+  {
+    "index": "F288692",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が大変興奮していたのに気づかなかったのか。",
+    "output": "Didn't you notice that she was very excited?"
+  },
+  {
+    "index": "F288694",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が台所に入ってみると、そこには誰もいなかった。",
+    "output": "When she entered the kitchen, no one was there."
+  },
+  {
+    "index": "F288696",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が台所から呼んでいるのが聞こえた。",
+    "output": "I heard her calling from the kitchen."
+  },
+  {
+    "index": "F288698",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が逮捕された理由を説明して下さい。",
+    "output": "Please explain the reason why she was arrested."
+  },
+  {
+    "index": "F288700",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が体が弱い事を考慮に入れなければならない。",
+    "output": "We must allow for her poor health."
+  },
+  {
+    "index": "F288702",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が他人の悪口を言うのを聞いたことがない。",
+    "output": "I've never heard her speak ill of others."
+  },
+  {
+    "index": "F288704",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が他人の悪口を言っているのを聞いた事が無い。",
+    "output": "I've never heard her speak ill of others."
+  },
+  {
+    "index": "F288706",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が他の人よりも抜きん出ていることを私は認めている。",
+    "output": "I admit her superiority to others."
+  },
+  {
+    "index": "F288708",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が損失を補うようわれわれは要求した。",
+    "output": "We demanded that she should make up for the loss."
+  },
+  {
+    "index": "F288710",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が損失を補うように我々は提案した。",
+    "output": "We suggested that she should make up for the loss."
+  },
+  {
+    "index": "F288712",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が息子を自慢するのも当然である。",
+    "output": "She may well be proud of her son."
+  },
+  {
+    "index": "F288714",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が息子を自慢するのももっともだ。",
+    "output": "She may well be proud of her son."
+  },
+  {
+    "index": "F288716",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が息子を誇りに思うのももっともだ。",
+    "output": "She may well be proud of her son."
+  },
+  {
+    "index": "F288718",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が息子の自慢をするのももっともだ。",
+    "output": "She may well be proud of her son."
+  },
+  {
+    "index": "F288720",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が息子のことを自慢するのももっともだ。",
+    "output": "She may well be proud of her son."
+  },
+  {
+    "index": "F288722",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が息子に助言しなかったら、息子は成功していなかっただろう。",
+    "output": "If she had not advised her son, he would not have succeeded."
+  },
+  {
+    "index": "F288724",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が早く回復するのを望みます。",
+    "output": "I hope that she will get well soon."
+  },
+  {
+    "index": "F288726",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が早く家を出たのは賢明だった。",
+    "output": "It was wise of her to leave home early."
+  },
+  {
+    "index": "F288728",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が素晴らしいピアニストであるということは言うまでもない。",
+    "output": "It goes without saying that she is an excellent pianist."
+  },
+  {
+    "index": "F288730",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が前の列に座っているのに気づいた。",
+    "output": "I noticed that she sat in the front row."
+  },
+  {
+    "index": "F288732",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が前の列に座っているのに気がついた。",
+    "output": "I noticed that she sat in the front row."
+  },
+  {
+    "index": "F288734",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が選ばれる可能性はほとんどない。",
+    "output": "There is little possibility that she will be elected."
+  },
+  {
+    "index": "F288736",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が船室に入るやいなや明かりが消えた。",
+    "output": "She had hardly entered the cabin when the light went out."
+  },
+  {
+    "index": "F288738",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が絶えず不満をもらすことに彼はがっかりした。",
+    "output": "Her constant complaints frustrated him deeply."
+  },
+  {
+    "index": "F288740",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が責任者になる人だ。",
+    "output": "She's going to be in charge."
+  },
+  {
+    "index": "F288742",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が青い顔色をしていたのが気になった。",
+    "output": "It worried me that she looked pale."
+  },
+  {
+    "index": "F288744",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が誠実だなんてとんでもない。",
+    "output": "She is by no means honest."
+  },
+  {
+    "index": "F288746",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が生態学に興味を示すようになったのは彼の影響である。",
+    "output": "It was through his influence that she became interested in ecology."
+  },
+  {
+    "index": "F288748",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が生きていればなあ。",
+    "output": "I wish she were alive now."
+  },
+  {
+    "index": "F288750",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が正しいというのが私の意見です。",
+    "output": "I am of the opinion that she is right."
+  },
+  {
+    "index": "F288752",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が成年になったら、二人は結婚することにしている。",
+    "output": "When she comes of age, they are going to get married."
+  },
+  {
+    "index": "F288754",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が親切にしてくれたお返しに花を差し上げなさい。",
+    "output": "Give her some flowers in return for her kindness."
+  },
+  {
+    "index": "F288756",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が親切なのでそれだけますます彼女が好きだ。",
+    "output": "I like her all the more for her kindness."
+  },
+  {
+    "index": "F288758",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が新たに教授陣に加わった人です。",
+    "output": "She is a new addition to the teaching staff."
+  },
+  {
+    "index": "F288760",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が新しい職についたという噂が流布している。",
+    "output": "There's a rumor abroad that she has got a new job."
+  },
+  {
+    "index": "F288762",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が新しい金持ちの彼氏が出来たと知らせてきた時、彼はほっとしました。",
+    "output": "He was relieved when she informed him that she had a rich new boyfriend."
+  },
+  {
+    "index": "F288764",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が振り向くと、誰かが彼女のあとをつけてきているのがわかった。",
+    "output": "She turned around and saw someone was following her."
+  },
+  {
+    "index": "F288766",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が心配しているのは誰の目にも明らかだった。",
+    "output": "Her anxiety was apparent to everyone."
+  },
+  {
+    "index": "F288768",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が心に描いていた幸せのすべてが一瞬のうちに消えてしまった。",
+    "output": "All her imaginary happiness vanished in a moment."
+  },
+  {
+    "index": "F288770",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が寝てしまったはずがない。",
+    "output": "She cannot have gone to bed yet."
+  },
+  {
+    "index": "F288772",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が信頼できるのは彼だけだ。",
+    "output": "She can only trust him."
+  },
+  {
+    "index": "F288774",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が賞を取りそうだ。",
+    "output": "She is apt to win the prize."
+  },
+  {
+    "index": "F288776",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が乗るとすぐに、列車は駅を出発した。",
+    "output": "As soon as she got on the train, it pulled out of the station."
+  },
+  {
+    "index": "F288778",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が笑ったのはわたしを許したしるしだ。",
+    "output": "Her smile indicates that she has forgiven me."
+  },
+  {
+    "index": "F288780",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が笑うのを聞けば、彼女を少女と思うでしょう。",
+    "output": "To hear her laugh, you'd take her for a young girl."
+  },
+  {
+    "index": "F288782",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が少しも申し訳ないと思っていなかったので、かれはいっそう怒った。",
+    "output": "He was all the more angry because she wasn't in the least sorry."
+  },
+  {
+    "index": "F288784",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が助けに来てくれた。",
+    "output": "She came to my aid."
+  },
+  {
+    "index": "F288786",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が助けを求めて叫ぶのが聞こえた。",
+    "output": "She was heard to cry for help."
+  },
+  {
+    "index": "F288788",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が助けてくれるのをいつも当てに出来る。",
+    "output": "You can always depend upon her to help."
+  },
+  {
+    "index": "F288790",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が書いたことはある意味真実です。",
+    "output": "What she wrote is true in a sense."
+  },
+  {
+    "index": "F288792",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が書いたことはある意味では本当です。",
+    "output": "What she wrote is true in a sense."
+  },
+  {
+    "index": "F288794",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が初舞台を踏んだのは1969年であった。",
+    "output": "Her first appearance on the stage was in 1969."
+  },
+  {
+    "index": "F288796",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が出席するものと予想してパーティーにでかけた。",
+    "output": "I went to the party on the presumption that she would be there."
+  },
+  {
+    "index": "F288798",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が出席してくれて私たちは大喜びです。",
+    "output": "We are delighted with her presence."
+  },
+  {
+    "index": "F288800",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が出席したのでパーティーは活気づいた。",
+    "output": "The party was animated by her presence."
+  },
+  {
+    "index": "F288802",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が出す指示はいつも正確だ。",
+    "output": "She is exact in all the instructions she gives."
+  },
+  {
+    "index": "F288804",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が出かけないうちに連絡をとらなければなりません。",
+    "output": "We had to get in touch with her before she went out."
+  },
+  {
+    "index": "F288806",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が熟睡しているのを確かめて、彼はこっそり部屋を抜け出して行った。",
+    "output": "After making sure she was sound asleep, he crept out of the room and set off."
+  },
+  {
+    "index": "F288808",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が淑女であるように、彼は紳士だ。",
+    "output": "As she is a lady, so he is a gentleman."
+  },
+  {
+    "index": "F288810",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が授賞する見込みは十分にある。",
+    "output": "She stands a good chance of winning the prize."
+  },
+  {
+    "index": "F288812",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が手伝ってくれれば、もっと仕事を早くすませられるのに。",
+    "output": "If only she were to help, the job would be finished sooner."
+  },
+  {
+    "index": "F288814",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が手紙をくれたので、彼女の家を訪ねる手間が省けた。",
+    "output": "Her letter saved me the trouble of visiting her house."
+  },
+  {
+    "index": "F288816",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が手を差し出したので、私はそれを握った。",
+    "output": "She held out her hand and I shook it."
+  },
+  {
+    "index": "F288818",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女は弱すぎる。",
+    "output": "She is no match for me."
+  },
+  {
+    "index": "F288820",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が自分の話の中で触れた場所に私は行ったことがある。",
+    "output": "I have been to the place that she spoke about in her talk."
+  },
+  {
+    "index": "F288822",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が自分の才能を自慢するのももっともだ。",
+    "output": "She may well take pride in her talent."
+  },
+  {
+    "index": "F288824",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が自分の古い服を恥ずかしがるのももっともだ。",
+    "output": "She may well be ashamed of her old clothes."
+  },
+  {
+    "index": "F288826",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が自分の言ったことを後悔するときが来るだろう。",
+    "output": "The time will come when she will regret what she has said."
+  },
+  {
+    "index": "F288828",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が自分で彼に謝ることが望ましい。",
+    "output": "It is desirable that she should apologize to him herself."
+  },
+  {
+    "index": "F288830",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が自分で書いたはずはない。",
+    "output": "She can't have written it herself."
+  },
+  {
+    "index": "F288832",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が自分で自分を嘲笑うのがわたしには魅力的だ。",
+    "output": "It's the way that she laughs at herself that endears her to me."
+  },
+  {
+    "index": "F288834",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が自分で行くことが必要です。",
+    "output": "It is necessary that she should go herself."
+  },
+  {
+    "index": "F288836",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が自発的に止めるまで、放っておくことに私達は決めた。",
+    "output": "We decided to let her alone until she stopped of her own accord."
+  },
+  {
+    "index": "F288838",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が自殺したというのは本当か。",
+    "output": "Can it be true that she committed suicide?"
+  },
+  {
+    "index": "F288840",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が自殺したということなどあり得ない。",
+    "output": "It is impossible that she should have killed herself."
+  },
+  {
+    "index": "F288842",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が時間通りに来るのは確かですか。",
+    "output": "Are you sure of her coming on time?"
+  },
+  {
+    "index": "F288844",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が時間どおりに来るかどうかは疑わしい。",
+    "output": "It is doubtful whether she will come on time."
+  },
+  {
+    "index": "F288846",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が時間どおりにやってくる望みはほとんどない。",
+    "output": "There is little hope that she will come on time."
+  },
+  {
+    "index": "F288848",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が試験に落ちたのは残念だ。",
+    "output": "I feel bad that she failed the examination."
+  },
+  {
+    "index": "F288850",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が試験に合格するのは間違いない。",
+    "output": "Her passing the exam is a sure thing."
+  },
+  {
+    "index": "F288852",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が私達の先生かもしれない。",
+    "output": "She may be our teacher."
+  },
+  {
+    "index": "F288854",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が私達に加わるなんて、思ってもいなかった。",
+    "output": "I never expected that she would join us."
+  },
+  {
+    "index": "F288856",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が私を愛していると考えるなんて何と愚かなことなんだろう。",
+    "output": "What a fool I am to think that she loves me!"
+  },
+  {
+    "index": "F288858",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が私をだますなんてとても考えられない。",
+    "output": "I can't conceive of her deceiving me."
+  },
+  {
+    "index": "F288860",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が私の隣に座ってくれるといいのだが。",
+    "output": "I'd rather she sat next to me."
+  },
+  {
+    "index": "F288862",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が私の友達だったら、私はそうしないようにと彼女に忠告したのに。",
+    "output": "Had she been a friend of mine, I would have advised her not to do that."
+  },
+  {
+    "index": "F288864",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が私の母より年上だなんて信じられません。",
+    "output": "I can't believe that she is older than my mother."
+  },
+  {
+    "index": "F288866",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が私の勉強を妨げた。",
+    "output": "She hindered me in my study."
+  },
+  {
+    "index": "F288868",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が私の部屋を掃除する。",
+    "output": "I had her sweep my room."
+  },
+  {
+    "index": "F288870",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が私の代役をしてくれるものと当てにしていた。",
+    "output": "I reckoned on her to take my place."
+  },
+  {
+    "index": "F288872",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が私の住所を忘れたはずがない。",
+    "output": "She cannot have forgotten my address."
+  },
+  {
+    "index": "F288874",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が私のとなりに座ってくれればいいのだが。",
+    "output": "I'd rather she sat next to me."
+  },
+  {
+    "index": "F288876",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が私に話し掛けてきたとき彼女が誰であるか想像することができなかった。",
+    "output": "I couldn't think who she was when she spoke to me."
+  },
+  {
+    "index": "F288878",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が私に微笑んだ。",
+    "output": "She smiled at me."
+  },
+  {
+    "index": "F288880",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が私に同意するのは当然だと私はみなした。",
+    "output": "I took it for granted that she would agree with me."
+  },
+  {
+    "index": "F288882",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が私に送ってきてくれた葉書には、動物のにおいが大嫌いだと書かれていました。",
+    "output": "She sent me a postcard that said she hates the smell of animals."
+  },
+  {
+    "index": "F288884",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が私に会いに来るかどうかは疑わしい。",
+    "output": "It is doubtful whether she will come to see me."
+  },
+  {
+    "index": "F288886",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が私にホームページのつくりかたを教えてくれた。",
+    "output": "She taught me how to make a web site."
+  },
+  {
+    "index": "F288888",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が私にその本をくれたのか、それとも私が自分でそれを買ったのか、と彼は私に尋ねた。",
+    "output": "He asked me whether she had given me the book, or if I had bought it myself."
+  },
+  {
+    "index": "F288890",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が私にこのＣＤをくれた。",
+    "output": "She gave me this compact disc."
+  },
+  {
+    "index": "F288892",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が私といっしょに行きたがっているかどうか私は知りません。",
+    "output": "I don't know if she wants to go with me."
+  },
+  {
+    "index": "F288894",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が私たちにフランス語を教えてくれる。",
+    "output": "French is taught us by her."
+  },
+  {
+    "index": "F288896",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が死人のように顔色が悪いのは長患いのせいだ。",
+    "output": "Her deathly paleness is due to long illness."
+  },
+  {
+    "index": "F288898",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が死んでから１０年になる。",
+    "output": "She has been dead for ten years."
+  },
+  {
+    "index": "F288900",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が死んで５年たちます。",
+    "output": "She has been dead five years."
+  },
+  {
+    "index": "F288902",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が死んだと言う知らせはうそだ。",
+    "output": "The news that she died is false."
+  },
+  {
+    "index": "F288904",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が死んだといううわさは結局誤りであることがわかった。",
+    "output": "The rumor of her death turned out false."
+  },
+  {
+    "index": "F288906",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が死んだことを誰があなたに知らせたのですか。",
+    "output": "Who broke the news of her death to you?"
+  },
+  {
+    "index": "F288908",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が思いやりのあることは誰でも分かる。",
+    "output": "Everyone can tell she is thoughtful."
+  },
+  {
+    "index": "F288910",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が子供の頃のことを言うのをよく耳にする。",
+    "output": "I often hear her refer to her childhood."
+  },
+  {
+    "index": "F288912",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が子供の頃から良く知っている。",
+    "output": "I have known her since she was a little girl."
+  },
+  {
+    "index": "F288914",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が子供に関心があることを考慮すると、きっと教職が彼女にはふさわしい。",
+    "output": "Given her interest in children, I am sure teaching is the right career for her."
+  },
+  {
+    "index": "F288916",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が子供だったときから私は彼女を知っている。",
+    "output": "I have known her since she was a little girl."
+  },
+  {
+    "index": "F288918",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が姿を見せることは確実だ。",
+    "output": "She is certain to turn up."
+  },
+  {
+    "index": "F288920",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が賛成するかどうかが問題だ。",
+    "output": "Whether she agrees or not is the question."
+  },
+  {
+    "index": "F288922",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が賛成するかどうか、明らかではない。",
+    "output": "Whether she will agree or not is not clear."
+  },
+  {
+    "index": "F288924",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が散々してやった挙げ句の果てが忘恩だった。",
+    "output": "All she got for her pains was ingratitude."
+  },
+  {
+    "index": "F288926",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が昨夜来ていたら良かったのに。",
+    "output": "I wish she had come last night."
+  },
+  {
+    "index": "F288928",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が昨日話してくれたことは、罪のない嘘だった。",
+    "output": "What she told me yesterday is a white lie."
+  },
+  {
+    "index": "F288930",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が作ったケーキを試食した。",
+    "output": "I tasted the cake she cooked."
+  },
+  {
+    "index": "F288932",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が財産を築けたのは勤勉と幸運のおかげである。",
+    "output": "Her ability to amass a fortune is due to luck and hard work."
+  },
+  {
+    "index": "F288934",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が罪を認めるか否かは問題ではない。",
+    "output": "It doesn't matter whether she admits her guilt or not."
+  },
+  {
+    "index": "F288936",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が歳取っていることを考慮に入れなければならない。",
+    "output": "We must take into account the fact that she is old."
+  },
+  {
+    "index": "F288938",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が最初に来たのにはびっくりした。",
+    "output": "To my amazement she came first."
+  },
+  {
+    "index": "F288940",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が最後に祖国へ帰ってから１０年以上になる。",
+    "output": "It is over ten years since she last went back to her country."
+  },
+  {
+    "index": "F288942",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が最後にゴールした人です。",
+    "output": "She was the last to cross the finishing line."
+  },
+  {
+    "index": "F288944",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が最も気に入ったのは数の子でした。",
+    "output": "What she liked best was herring roe."
+  },
+  {
+    "index": "F288946",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が困っていることが私には一目でわかった。",
+    "output": "I could tell at a glance that she was in trouble."
+  },
+  {
+    "index": "F288948",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が今度来るときには、家にいます。",
+    "output": "I will stay at home when she comes next."
+  },
+  {
+    "index": "F288950",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が今生きていればなあ。",
+    "output": "I wish she were alive now."
+  },
+  {
+    "index": "F288952",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が今の名声を得るに至ったいきさつは劇的である。",
+    "output": "The events that led up to her present fame are quite dramatic."
+  },
+  {
+    "index": "F288954",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が国会議員になったなんて驚きだよ。",
+    "output": "I am very surprised that she became a Diet member."
+  },
+  {
+    "index": "F288956",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が行ってしまってからは、私はもう誰とも話などしたくない。",
+    "output": "Since she's been gone, I want no one to talk to me."
+  },
+  {
+    "index": "F288958",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が行けて私が行けないのは不公平だ。",
+    "output": "It's not fair that she can go and I can't."
+  },
+  {
+    "index": "F288960",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が行きたがらなかったのも不思議ではない。",
+    "output": "It is no wonder that she didn't want to go."
+  },
+  {
+    "index": "F288962",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が広島にいるときに戦争が起こった。",
+    "output": "The war broke out when she was in Hiroshima."
+  },
+  {
+    "index": "F288964",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が幸せなのは言うまでもないことだ。",
+    "output": "It goes without saying that she is happy."
+  },
+  {
+    "index": "F288966",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が好きなことは彼女の目をみてわかる。",
+    "output": "Her look says that she loves you."
+  },
+  {
+    "index": "F288968",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が好きでたまらない。",
+    "output": "I just love her to death."
+  },
+  {
+    "index": "F288970",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が呼びかけてきたとき、私は飛び上がった。",
+    "output": "When she called, I jumped up."
+  },
+  {
+    "index": "F288972",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が言ってる事がわからない。",
+    "output": "I can't make out what she is saying."
+  },
+  {
+    "index": "F288974",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が言っている事を理解するのにずいぶんと時間がかかった。",
+    "output": "It took a long time to take in what she was saying."
+  },
+  {
+    "index": "F288976",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が言っていたことを理解するのは困難であった。",
+    "output": "I found it difficult to make out what she was saying."
+  },
+  {
+    "index": "F288978",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が言ったことを覚えてる？",
+    "output": "Do you remember what she said?"
+  },
+  {
+    "index": "F288980",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が言ったことは真実ではなかった。",
+    "output": "What she said wasn't true."
+  },
+  {
+    "index": "F288982",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が言ったことが嘘であることがわかった。",
+    "output": "What she said turned out to be false."
+  },
+  {
+    "index": "F288984",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が言おうとしていることが解りますか。",
+    "output": "Can you make out what she is driving at?"
+  },
+  {
+    "index": "F288986",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が言うことは本当かもしれない。",
+    "output": "What she says may be true."
+  },
+  {
+    "index": "F288988",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が現れるかどうかはわからない。",
+    "output": "I don't know whether she will show up."
+  },
+  {
+    "index": "F288990",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が元気になったと聞いてうれしく思う。",
+    "output": "I feel grateful to hear that she has got well."
+  },
+  {
+    "index": "F288992",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が見つけた箱はからだった。",
+    "output": "The box she found was empty."
+  },
+  {
+    "index": "F288994",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が結婚するといううわさが町に広まっている。",
+    "output": "The rumor that she's getting married is spreading around town."
+  },
+  {
+    "index": "F288996",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が結婚しようとしてる人は、宇宙飛行士です。",
+    "output": "The man whom she is going to marry is an astronaut."
+  },
+  {
+    "index": "F288998",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が結婚しているとは知らなかった。",
+    "output": "I didn't know she was married."
+  },
+  {
+    "index": "F289000",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が結婚していることを僕は信じて疑わない。",
+    "output": "I don't doubt that she is married."
+  },
+  {
+    "index": "F289002",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が結婚したのはいくつの時ですか。",
+    "output": "What age was she when she got married?"
+  },
+  {
+    "index": "F289004",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が結婚したときには、３０歳を過ぎていたに違いない。",
+    "output": "She must have been over thirty when she got married."
+  },
+  {
+    "index": "F289006",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が結婚したという知らせは彼にとって大きなショックだった。",
+    "output": "The news that she had married was a great shock to him."
+  },
+  {
+    "index": "F289008",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が結婚したということを風の便りに聞いた。",
+    "output": "I heard from someone that she got married."
+  },
+  {
+    "index": "F289010",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が結婚したといううわさがある。",
+    "output": "There is a rumor that she got married."
+  },
+  {
+    "index": "F289012",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が潔白であると信じて疑いません。",
+    "output": "I believe beyond doubt that she is innocent."
+  },
+  {
+    "index": "F289014",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が欠席しているのを僕は知らなかった。",
+    "output": "I was not aware of her absence."
+  },
+  {
+    "index": "F289016",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が君を好きなのは彼女の目を見れば分かる。",
+    "output": "Her look says that she loves you."
+  },
+  {
+    "index": "F289018",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が君を好きなことは彼女の目つきでわかる。",
+    "output": "Her look says that she loves you."
+  },
+  {
+    "index": "F289020",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が君は元気かと尋ねたらどう答えようか。",
+    "output": "How should I answer if she inquires after you?"
+  },
+  {
+    "index": "F289022",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が君の健康をとても心配しているよ。",
+    "output": "She is very anxious about your health."
+  },
+  {
+    "index": "F289024",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が君に腹を立てるのは全く当然だ。",
+    "output": "It is quite natural for her to be angry with you."
+  },
+  {
+    "index": "F289026",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が君にそんなことを言ったはずが無い。",
+    "output": "She can't have said a thing like that to you."
+  },
+  {
+    "index": "F289028",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が金持ちであるかどうかは私には関係ない。",
+    "output": "It makes no difference to me whether she is rich or not."
+  },
+  {
+    "index": "F289030",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が叫ぶのを聞いた。",
+    "output": "We heard her cry."
+  },
+  {
+    "index": "F289032",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が叫ぶのが聞かれた。",
+    "output": "She was heard to cry."
+  },
+  {
+    "index": "F289034",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が許してくれるまでそっとしておいたほうがいいかもね。",
+    "output": "I think you'd better lie low until she forgives you."
+  },
+  {
+    "index": "F289036",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が泣き出すのも当然だと彼は私に言った。",
+    "output": "He told me that she might well burst into tears."
+  },
+  {
+    "index": "F289038",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が泣いている理由を教えてください。",
+    "output": "Tell me why she is crying."
+  },
+  {
+    "index": "F289040",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が泣いたので彼は困った。",
+    "output": "Her tears perplexed him."
+  },
+  {
+    "index": "F289042",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が泣いたことで、この話にはそれだけ信憑性が加わった。",
+    "output": "Her tears gave more credence to the story."
+  },
+  {
+    "index": "F289044",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が急に現れて彼は当惑した。",
+    "output": "She was embarrassed by his sudden appearance."
+  },
+  {
+    "index": "F289046",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が汽車に乗り遅れたとしても不思議ではない。",
+    "output": "I shouldn't wonder if she hasn't missed the train."
+  },
+  {
+    "index": "F289048",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が気を失ったので、私は彼女が倒れないように支えなければならなかった。",
+    "output": "She fainted, and I had to hold her to keep her from falling."
+  },
+  {
+    "index": "F289050",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が気の毒だ。",
+    "output": "I feel sorry for her."
+  },
+  {
+    "index": "F289052",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が帰ってくるまでには、私はここを去ります。",
+    "output": "I will be gone by the time she comes back."
+  },
+  {
+    "index": "F289054",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が帰ってくるのを待つべきですか。",
+    "output": "Should I wait for her to come back?"
+  },
+  {
+    "index": "F289056",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が帰ってきたときに、彼はそれについて話すでしょう。",
+    "output": "He will tell her about it when she comes back."
+  },
+  {
+    "index": "F289058",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が間違っているように思われはじめた。",
+    "output": "It began to appear that she was wrong."
+  },
+  {
+    "index": "F289060",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が監督を非難するのが聞かれた。",
+    "output": "She was heard to criticize the manager."
+  },
+  {
+    "index": "F289062",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が歓迎のあいさつを述べた。",
+    "output": "She gave an address of welcome."
+  },
+  {
+    "index": "F289064",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が学校を休んだのは変だと思う。",
+    "output": "I think it's strange that she was absent from school."
+  },
+  {
+    "index": "F289066",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が学校でフランス語を教えているのは本当だ。",
+    "output": "It is true that she teaches French at school."
+  },
+  {
+    "index": "F289068",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が角を曲がるとき私は彼女を見かけた。",
+    "output": "I caught sight of her as she turned the corner."
+  },
+  {
+    "index": "F289070",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が外出している間に泥棒が宝石を持ち逃げした。",
+    "output": "While she was out, the thief got away with her jewels."
+  },
+  {
+    "index": "F289072",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が外国に行くのは止められない。",
+    "output": "There is no stopping her going abroad."
+  },
+  {
+    "index": "F289074",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が回復する望みはほとんどない。",
+    "output": "There is little hope of her recovery."
+  },
+  {
+    "index": "F289076",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が会議に欠席なので残念だ。",
+    "output": "I am sorry that she is absent from the conference."
+  },
+  {
+    "index": "F289078",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が会いにくるだろうと思ったのは彼の勘違いだった。",
+    "output": "He was in error in assuming that she would come to see him."
+  },
+  {
+    "index": "F289080",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が我々の申し出を断ったというのではない。",
+    "output": "It is not that she has rejected our offer."
+  },
+  {
+    "index": "F289082",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が我々の計画に参加した。",
+    "output": "She took part in our project."
+  },
+  {
+    "index": "F289084",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が我が子に手をかけた。",
+    "output": "She laid hands on her own child."
+  },
+  {
+    "index": "F289086",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が歌手だなんてとんでもない。",
+    "output": "She is anything but a singer."
+  },
+  {
+    "index": "F289088",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が歌っているのが聞こえた。",
+    "output": "I heard her singing."
+  },
+  {
+    "index": "F289090",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が歌っているのが、聞こえますか。",
+    "output": "Can you hear her singing?"
+  },
+  {
+    "index": "F289092",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が歌い始め、僕達もいっしょに歌った。",
+    "output": "She began to sing, and we chimed in."
+  },
+  {
+    "index": "F289094",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が家具を動かすのを手伝った。",
+    "output": "I assisted her in moving the furniture."
+  },
+  {
+    "index": "F289096",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が家にいるかいないか彼に尋ねて下さい。",
+    "output": "Ask him whether she is at home or not."
+  },
+  {
+    "index": "F289098",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女は可哀想に思って、その子達の面倒をみた。",
+    "output": "She cared for the children out of charity."
+  },
+  {
+    "index": "F289100",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が何処にいるかが解った。",
+    "output": "I found out where she was."
+  },
+  {
+    "index": "F289102",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が何を買ったかきいてみなさい。",
+    "output": "Ask her what she bought."
+  },
+  {
+    "index": "F289104",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が何を考えているかは彼にも分からなかった。",
+    "output": "He had no idea as to what she had in mind."
+  },
+  {
+    "index": "F289106",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が何を言ったって構わない。",
+    "output": "It makes no difference what she said."
+  },
+  {
+    "index": "F289108",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が何を言おうと落ちついていなさい。",
+    "output": "Don't lose your head whatever she says."
+  },
+  {
+    "index": "F289110",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が何を言おうとしていたのかははっきりしなかった。",
+    "output": "It wasn't clear what she meant."
+  },
+  {
+    "index": "F289112",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が何を計画しているかは全然知らなかった。",
+    "output": "I had no idea of what she intended to do."
+  },
+  {
+    "index": "F289114",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が何を計画しているか知らなかった。",
+    "output": "I had no idea of what she intended to do."
+  },
+  {
+    "index": "F289116",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が何をするつもりなのかはっきりとは知らない。",
+    "output": "I don't know for certain what she is going to do."
+  },
+  {
+    "index": "F289118",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が何をしようとしているのかはっきりとは知りません。",
+    "output": "I do not know for certain what she is going to do."
+  },
+  {
+    "index": "F289120",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が何をしたかを尋ねなさい。",
+    "output": "Ask her what she has done."
+  },
+  {
+    "index": "F289122",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が何も言わなかったのは変だと思う。",
+    "output": "I think it strange that she didn't say anything."
+  },
+  {
+    "index": "F289124",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が何と言ったのかははっきりしなかった。",
+    "output": "It was not clear what she said."
+  },
+  {
+    "index": "F289126",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が何と言ったか知っていますか。",
+    "output": "Do you know what she said?"
+  },
+  {
+    "index": "F289128",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が屋根の修理を手伝いましょうかと言った時、彼は大喜びしました。",
+    "output": "He was very glad when she offered to help him fix his roof."
+  },
+  {
+    "index": "F289130",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が押し入れの中を覗き込んだ時、彼がドアを閉め、彼女を真っ暗な押し入れに閉じ込めてしまったのでした。",
+    "output": "When she looked, he shut the door and locked her into the totally dark closet."
+  },
+  {
+    "index": "F289132",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が英語を話せるかどうか知っていますか。",
+    "output": "Do you know whether she can speak English?"
+  },
+  {
+    "index": "F289134",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が英語を話すのを聞くと、アメリカ人と間違えるでしょう。",
+    "output": "If you heard her speak English, you would take her for an American."
+  },
+  {
+    "index": "F289136",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が英語を話すのを聞いたら、彼女をイギリス人だと思うだろう。",
+    "output": "To hear her speak English, you would take her for an Englishwoman."
+  },
+  {
+    "index": "F289138",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が英語を話すのを聞いたことがありますか。",
+    "output": "Have you heard her speaking English?"
+  },
+  {
+    "index": "F289140",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が英語を上手に話せるということをみんな知っています。",
+    "output": "Everybody knows she can speak English well."
+  },
+  {
+    "index": "F289142",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が英語をやすやすと使えることはすばらしい。",
+    "output": "Her facility with English is wonderful."
+  },
+  {
+    "index": "F289144",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が嘘をついたのは明らかだ。",
+    "output": "It became clear that she had told a lie."
+  },
+  {
+    "index": "F289146",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が一等賞を取ったのは決して偶然ではない。",
+    "output": "It is no accident that she won the first prize."
+  },
+  {
+    "index": "F289148",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が一人息子を自慢するのはもっともだ。",
+    "output": "She may well be proud of her only son."
+  },
+  {
+    "index": "F289150",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が一人で暮らすのはよくない。",
+    "output": "It is not good for her to live alone."
+  },
+  {
+    "index": "F289152",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が一人で行くことを思うと、私は不安だった。",
+    "output": "The thought of her going alone left me uneasy."
+  },
+  {
+    "index": "F289154",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が一つ目のグラスを持ち上げたら、水がそこらじゅうにこぼれて店長を呼ぶことになったわ。",
+    "output": "After she picked up the first glass and water went all over the place, she called the boss out."
+  },
+  {
+    "index": "F289156",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が案内役をした。",
+    "output": "She acted as a guide."
+  },
+  {
+    "index": "F289158",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が愛しているのは僕じゃない、君だ。",
+    "output": "It's you that she loves, not me."
+  },
+  {
+    "index": "F289160",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が愛しているのはトムであって、私でない。",
+    "output": "She loves Tom, not me."
+  },
+  {
+    "index": "F289162",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がわっと泣き出した。",
+    "output": "She broke into tears."
+  },
+  {
+    "index": "F289164",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がんばっているから、いい結果が出せるよ。",
+    "output": "She works so hard that she can get good results."
+  },
+  {
+    "index": "F289166",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がわからないことは珍しい事だ。",
+    "output": "It is remarkable for her not to understand."
+  },
+  {
+    "index": "F289168",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がワインをからにしたのにはたまげた。",
+    "output": "I was amazed that she had drunk all of the wine."
+  },
+  {
+    "index": "F289170",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がレポートを書くのに長い時間かかった。",
+    "output": "It took a long time for her to write the report."
+  },
+  {
+    "index": "F289172",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がリンゴやミカンなどを持ってきた。",
+    "output": "She brought apples, oranges, and so on."
+  },
+  {
+    "index": "F289174",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女から来た手紙を見たとき、彼は何だか胸騒ぎがした。",
+    "output": "When he saw her letter, he felt somewhat uneasy."
+  },
+  {
+    "index": "F289176",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女から便りはありましたか。",
+    "output": "Have you heard from her?"
+  },
+  {
+    "index": "F289178",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女から便りがあればとてもうれしいのだが。",
+    "output": "I would be very happy to hear from her."
+  },
+  {
+    "index": "F289180",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女から電話を受けたとき私は読書の最中であった。",
+    "output": "I was in the middle of reading when I had a call from her."
+  },
+  {
+    "index": "F289182",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女から電話があった。",
+    "output": "I had a telephone call from her."
+  },
+  {
+    "index": "F289184",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女から手紙をもらった。",
+    "output": "I received a letter from her."
+  },
+  {
+    "index": "F289186",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女から結婚できませんという旨の手紙が届いた。",
+    "output": "I received a letter from her to the effect that she couldn't accept my marriage proposal."
+  },
+  {
+    "index": "F289188",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女から久しぶりに電話があった。",
+    "output": "I had a call from her for the first time in a long time."
+  },
+  {
+    "index": "F289190",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女から一ヶ月も便りがありません。",
+    "output": "I have not heard from her for a month."
+  },
+  {
+    "index": "F289192",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女からよろしくとのことです。",
+    "output": "She sent you her best wishes."
+  },
+  {
+    "index": "F289194",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女からめったに手紙をもらったことがない。",
+    "output": "I have seldom heard from her."
+  },
+  {
+    "index": "F289196",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女からの便りがあればとてもうれしいのだが。",
+    "output": "I would be very happy to hear from her."
+  },
+  {
+    "index": "F289198",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女からの返事は納得できないものだった。",
+    "output": "Her answer couldn't be understood."
+  },
+  {
+    "index": "F289200",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女からの手紙を待っている。",
+    "output": "I am expecting a letter from her."
+  },
+  {
+    "index": "F289202",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女からの手紙が郵便受けにはいっていた。",
+    "output": "I found her letter in the mailbox."
+  },
+  {
+    "index": "F289204",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女からの財政的支援が私たちのこの計画には不可欠である。",
+    "output": "Her financial support is indispensable to this project of ours."
+  },
+  {
+    "index": "F289206",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女からときどき便りがある。",
+    "output": "I hear from her once in a while."
+  },
+  {
+    "index": "F289208",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女からその本をとりもどしたい。",
+    "output": "I want to get the book back from her."
+  },
+  {
+    "index": "F289210",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女からすばらしい刺繍品をもらった。",
+    "output": "She gave me charming embroideries."
+  },
+  {
+    "index": "F289212",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がライバル会社に転職しそうだったからね。",
+    "output": "She was ready to jump ship."
+  },
+  {
+    "index": "F289214",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がやってくるのかどうか彼は私に尋ねた。",
+    "output": "He asked me whether she was coming."
+  },
+  {
+    "index": "F289216",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がまもなく結婚するという噂を聞いた。",
+    "output": "I have heard say that she will get married before long."
+  },
+  {
+    "index": "F289218",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がまだ来ていないのは変だと思います。",
+    "output": "I find it strange that she hasn't arrived yet."
+  },
+  {
+    "index": "F289220",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がまだ到着していないのは変だと思います。",
+    "output": "I find it strange that she hasn't arrived yet."
+  },
+  {
+    "index": "F289222",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がまだ寝ているのには頭にきた。",
+    "output": "I was annoyed that she was still asleep."
+  },
+  {
+    "index": "F289224",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がまだ若いという点を配慮しなければいけない。",
+    "output": "We must make allowances for her youth."
+  },
+  {
+    "index": "F289226",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がまさにその店を去ろうとしたとき、ショーウィンドーの美しいドレスが目に入った。",
+    "output": "Just as she was about to leave the store, she saw a beautiful dress in the window."
+  },
+  {
+    "index": "F289228",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がほのめかしていることを彼はほとんど理解できなかった。",
+    "output": "He could hardly comprehend what she was implying."
+  },
+  {
+    "index": "F289230",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が僕のことを好きだなんて思いもしなかった。",
+    "output": "It never occurred to me that she loved me."
+  },
+  {
+    "index": "F289232",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が僕といっしょにそこへ行くかどうかわからない。",
+    "output": "I don't know if she will go there with me."
+  },
+  {
+    "index": "F289234",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がべらべらしゃべりまくるのには参ってしまう。",
+    "output": "Her continuous chatter vexes me."
+  },
+  {
+    "index": "F289236",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がベッドで寝返りばかりうっている。",
+    "output": "She is tossing and turning in bed."
+  },
+  {
+    "index": "F289238",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がフランス語を教えているのは本当だ。",
+    "output": "It is true that she teaches French."
+  },
+  {
+    "index": "F289240",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がブラックコーヒーが好きかどうか、わかりません。",
+    "output": "I don't know whether she likes her coffee black."
+  },
+  {
+    "index": "F289242",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がひとりで映画に行くことは、たとえあってもまれである。",
+    "output": "She seldom, if ever, goes to movies by herself."
+  },
+  {
+    "index": "F289244",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がピアノを弾く音が聞こえることがよくある。",
+    "output": "I often hear her play the piano."
+  },
+  {
+    "index": "F289246",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がピアノを弾くのを聞いたことがありますか。",
+    "output": "Have you ever heard her play the piano?"
+  },
+  {
+    "index": "F289248",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がピアノを弾くのが聞こえることがよくあります。",
+    "output": "I often hear her play the piano."
+  },
+  {
+    "index": "F289250",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がピアノを弾いている時、客がやってきた。",
+    "output": "She was playing the piano when the guests arrived."
+  },
+  {
+    "index": "F289252",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がピアノをひくのが見えた。",
+    "output": "I saw her play the piano."
+  },
+  {
+    "index": "F289254",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がピアノをひいている姿など想像できない。",
+    "output": "I can't picture her playing the piano."
+  },
+  {
+    "index": "F289256",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がピアノに合わせて歌うのが聞こえた。",
+    "output": "She was heard to sing to the piano."
+  },
+  {
+    "index": "F289258",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がピアノで伴奏してくれます。",
+    "output": "She will accompany me on the piano."
+  },
+  {
+    "index": "F289260",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がパリに発った日は雨だった。",
+    "output": "The day she started for Paris was rainy."
+  },
+  {
+    "index": "F289262",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がバスを降りた瞬間に私は彼女に気づいた。",
+    "output": "I noticed her the moment she got off the bus."
+  },
+  {
+    "index": "F289264",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がはじめて社交界に登場した事はその時期の社交界最大の出来事だった。",
+    "output": "Her debut was the biggest social event of the season."
+  },
+  {
+    "index": "F289266",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がパーティーに来られないのは残念だ。",
+    "output": "It's too bad she can't come to the party."
+  },
+  {
+    "index": "F289268",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がパーティーにきていないことにほとんど誰も気が付かなかった。",
+    "output": "Few people noticed her absence from the party."
+  },
+  {
+    "index": "F289270",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がパーティーで私を見かけたはずがない。",
+    "output": "She cannot have seen me at the party."
+  },
+  {
+    "index": "F289272",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女は何て言ったんだ？",
+    "output": "What did she say?"
+  },
+  {
+    "index": "F289274",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がなんと言おうとも私はその会合には出席しない。",
+    "output": "Whatever she may say, I will not attend the meeting."
+  },
+  {
+    "index": "F289276",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がなぜ怒ったのか彼には完全には理解できなかった。",
+    "output": "He completely failed to understand why she got angry."
+  },
+  {
+    "index": "F289278",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がなぜ自殺したのかは今なお謎である。",
+    "output": "It is still a mystery why she killed herself."
+  },
+  {
+    "index": "F289280",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がなぜ仕事を辞めたのか、僕は知っています。",
+    "output": "I know the reason that she quit her job."
+  },
+  {
+    "index": "F289282",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女はなぜそんなに心配しているのかしら。",
+    "output": "I wonder why she is so worried."
+  },
+  {
+    "index": "F289284",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がどんなに彼を喜ばそうとしても彼は喜ばなかった。",
+    "output": "Try as she may, she will not be able to please him."
+  },
+  {
+    "index": "F289286",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がどんなに思い悩んだか君にはわからない。",
+    "output": "You have no idea how distressed she was."
+  },
+  {
+    "index": "F289288",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がどんなに幸福であったか想像できまい。",
+    "output": "You cannot imagine how happy she was."
+  },
+  {
+    "index": "F289290",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がどんなに喜んでいるのか分からなかった。",
+    "output": "I did not notice how glad she was."
+  },
+  {
+    "index": "F289292",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がどんなに一生懸命やってみても、彼を喜ばすことは出来なかった。",
+    "output": "However hard she tried, she was unable to please him."
+  },
+  {
+    "index": "F289294",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がとても好きです。",
+    "output": "I feel a strong affinity for her."
+  },
+  {
+    "index": "F289296",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がとてもがっかりした事には、ピクニックの日は雨だった。",
+    "output": "To her great disappointment, it rained on the day of the picnic."
+  },
+  {
+    "index": "F289298",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がとてもおかしな帽子をかぶっていたので、人々は彼女をからかった。",
+    "output": "Since she was wearing the very strange hat, people teased her."
+  },
+  {
+    "index": "F289300",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がどちらかの道を進むべきか決められないでいると、偶然彼が現れた。",
+    "output": "It happened that he appeared when she couldn't decide which way to go."
+  },
+  {
+    "index": "F289302",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がどこへ行っても彼女の子供はつきまとう。",
+    "output": "Wherever she goes, her child follows her."
+  },
+  {
+    "index": "F289304",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がどこへ行ったのかさっぱりわからない。",
+    "output": "It beats me where she's gone."
+  },
+  {
+    "index": "F289306",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がどこに住んでいるのか、もしやご存知ですか。",
+    "output": "Do you happen to know where she lives?"
+  },
+  {
+    "index": "F289308",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がどこに住んでいるか知っていますか。",
+    "output": "Do you know where she lives?"
+  },
+  {
+    "index": "F289310",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がどこに住んでいるかを教えてください。",
+    "output": "Tell me where she lives."
+  },
+  {
+    "index": "F289312",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がどこにいるのか知っていますか。",
+    "output": "Do you know where she is?"
+  },
+  {
+    "index": "F289314",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がどこにいるのか、わかる者はいなかった。",
+    "output": "No one could tell where she was."
+  },
+  {
+    "index": "F289316",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がどこにいるか知っていますか。",
+    "output": "Do you know where she is?"
+  },
+  {
+    "index": "F289318",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がどこにいるか私は知っている。",
+    "output": "I know where she is."
+  },
+  {
+    "index": "F289320",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼がどこで生まれたか知っていますか。",
+    "output": "Do you know his birthplace?"
+  },
+  {
+    "index": "F289322",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がどうして病気だと知りましたか。",
+    "output": "How did you get to know she was ill?"
+  },
+  {
+    "index": "F289324",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がどうして泣き出したのか私にはわからなかった。",
+    "output": "I didn't know the reason why she began to cry."
+  },
+  {
+    "index": "F289326",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がどういう事を思っているのか、彼にはさっぱり分からなかった。",
+    "output": "He had no idea as to what she had in mind."
+  },
+  {
+    "index": "F289328",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がドアを開けるやいなや猫が走り出た。",
+    "output": "No sooner had she opened the door than a cat ran out."
+  },
+  {
+    "index": "F289330",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がドアを開けるとすぐに、白い犬が家から飛び出してきた。",
+    "output": "She had hardly opened the door when a white dog rushed out of the house."
+  },
+  {
+    "index": "F289332",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がテストに失敗したとは気の毒だ。",
+    "output": "I feel badly that she failed her test."
+  },
+  {
+    "index": "F289334",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がテーブルから皿をかたづけるでしょう。",
+    "output": "She will clear the table of the dishes."
+  },
+  {
+    "index": "F289336",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がちょうど風呂へ入ろうとしていたときにベルが鳴った。",
+    "output": "She was just about to take a bath when the bell rang."
+  },
+  {
+    "index": "F289338",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がだれか知っていますか。",
+    "output": "Do you know who she is?"
+  },
+  {
+    "index": "F289340",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がたばこをやめてくれたらなぁ。",
+    "output": "I wish that she would stop smoking."
+  },
+  {
+    "index": "F289342",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がそんな事を言ったはずがない。",
+    "output": "She can't have said such a thing."
+  },
+  {
+    "index": "F289344",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がそんな事を言うとは不思議だ。",
+    "output": "It is strange that she should say such a thing."
+  },
+  {
+    "index": "F289346",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がそんな間違いをするとは不注意なことだ。",
+    "output": "It is careless of her to make such a mistake."
+  },
+  {
+    "index": "F289348",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がそんなに良い申しでを断ったことに私は驚いています。",
+    "output": "I am surprised that she refused such a good offer."
+  },
+  {
+    "index": "F289350",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がそんなに早く家に帰るなんて変だ。",
+    "output": "It is strange that she should go home so early."
+  },
+  {
+    "index": "F289352",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がそんなに苦しむのを私は見ていられない。",
+    "output": "I can't bear that she should suffer so."
+  },
+  {
+    "index": "F289354",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女があんなに急いでいたのは変だと思わないかい？",
+    "output": "Don't you think it odd that she was in such a hurry?"
+  },
+  {
+    "index": "F289356",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がそんなこと言ったはずがない。",
+    "output": "She cannot have said that."
+  },
+  {
+    "index": "F289358",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がそんなことを言うとは驚きだ。",
+    "output": "It is surprising that she should say so."
+  },
+  {
+    "index": "F289360",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がそんなことをしたはずがない。",
+    "output": "She cannot have done such a thing."
+  },
+  {
+    "index": "F289362",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がそんなことをあなたにたずねたなんて妙なことだ。",
+    "output": "It is curious that she should have asked you such a thing."
+  },
+  {
+    "index": "F289364",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がそんなことするなんて奇妙だ。",
+    "output": "It is strange that she should do such a thing."
+  },
+  {
+    "index": "F289366",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がそれを後悔する時が来るだろう。",
+    "output": "The time will come when she will repent of it."
+  },
+  {
+    "index": "F289368",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がそれをしたはずがない。",
+    "output": "She cannot have done it."
+  },
+  {
+    "index": "F289370",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がそれに関わっていたという事実は否定できない。",
+    "output": "You can't deny the fact that she had a hand in it."
+  },
+  {
+    "index": "F289372",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がそれについて何も知らないとは驚きだ。",
+    "output": "It's surprising that she doesn't know anything about it."
+  },
+  {
+    "index": "F289374",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がその秘密情報をどうして手に入れたのかどうしても分からない。",
+    "output": "It beats me how she could have gotten that secret information."
+  },
+  {
+    "index": "F289376",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がその犯罪に関係しているのは明らかだ。",
+    "output": "Her implication in the crime was obvious."
+  },
+  {
+    "index": "F289378",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がその店で本を買った。",
+    "output": "She bought a book at the shop."
+  },
+  {
+    "index": "F289380",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がその地位に就く資格を得るのに、少なくとも２年はかかるであろう。",
+    "output": "It will take her at least two years to be qualified for that post."
+  },
+  {
+    "index": "F289382",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がその地位にふさわしいということは、だれも疑っていない。",
+    "output": "No one doubts her fitness for the post."
+  },
+  {
+    "index": "F289384",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がその知らせを聞いて狂喜しているのも無理はない。",
+    "output": "She may well be beside herself with joy at the news."
+  },
+  {
+    "index": "F289386",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がその知らせを耳にしたとき驚いたかもしれない。",
+    "output": "She may have been surprised when she heard the news."
+  },
+  {
+    "index": "F289388",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がその知らせに興奮しないところを見ると、それを知っていたに違いない。",
+    "output": "Seeing that she was not excited at the news, she must have known it."
+  },
+  {
+    "index": "F289390",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がその切符を手にいれるのは難しいと私は思った。",
+    "output": "I thought it difficult for her to get the ticket."
+  },
+  {
+    "index": "F289392",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がその赤ちゃんを見つけたとき、赤ちゃんはもう１時間も泣きっぱなしだった。",
+    "output": "The baby had been crying for an hour when she found it."
+  },
+  {
+    "index": "F289394",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がその成功を喜ぶものももっともだ。",
+    "output": "She may well be pleased with the success."
+  },
+  {
+    "index": "F289396",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がその賞を受賞したのは少しも不思議ではない。",
+    "output": "It is no wonder that she was given the prize."
+  },
+  {
+    "index": "F289398",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がその事実を知った時の驚きは大きかった。",
+    "output": "Great was her surprise when she knew the fact."
+  },
+  {
+    "index": "F289400",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がその子供の世話をした。",
+    "output": "She looked after the child."
+  },
+  {
+    "index": "F289402",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がその後どうなったか、誰も知りません。",
+    "output": "Nobody knows what has become of her."
+  },
+  {
+    "index": "F289404",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がその絵を描くのに、まる一日かかった。",
+    "output": "It took a whole day to paint the picture."
+  },
+  {
+    "index": "F289406",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がその歌を歌うのがよく聞こえた。",
+    "output": "I often heard her sing that song."
+  },
+  {
+    "index": "F289408",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がそのようなことを言ったはずがない。",
+    "output": "She can not have said such a thing."
+  },
+  {
+    "index": "F289410",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がそのようなことをしたはずはない。",
+    "output": "She can't have done such a thing."
+  },
+  {
+    "index": "F289412",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がそのニュースを報じた。",
+    "output": "She reported the news."
+  },
+  {
+    "index": "F289414",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がそのテレビ番組に出られるようにしていただけませんか。",
+    "output": "Can you make it so she can get on that TV program?"
+  },
+  {
+    "index": "F289416",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がそこに到着する時までに、ほとんど暗くなっているだろう。",
+    "output": "By the time she gets there, it will be nearly dark."
+  },
+  {
+    "index": "F289418",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がそこに着く頃には、ほとんど暗くなっているだろう。",
+    "output": "By the time she gets there, it will be nearly dark."
+  },
+  {
+    "index": "F289420",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がそこにいたのは確かだ。",
+    "output": "That she was there is certain."
+  },
+  {
+    "index": "F289422",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がそこで買ったのは、カメラだった。",
+    "output": "It was a camera that she bought there."
+  },
+  {
+    "index": "F289424",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がそこからが出てきた。",
+    "output": "She came out of there."
+  },
+  {
+    "index": "F289426",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がそう言ったはずはない。",
+    "output": "She can't have said so."
+  },
+  {
+    "index": "F289428",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がそう言ったのももっともです。",
+    "output": "She may well say so."
+  },
+  {
+    "index": "F289430",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がそう言ったのは意外だ。",
+    "output": "It was surprising that she said that."
+  },
+  {
+    "index": "F289432",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がそう言うのも当然だ。",
+    "output": "She may well say so."
+  },
+  {
+    "index": "F289434",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がそう言うのはまったく疑問だ。",
+    "output": "It is quite strange that she should say so."
+  },
+  {
+    "index": "F289436",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がそうしたのは全く妥当であった。",
+    "output": "It was quite right of her to do that."
+  },
+  {
+    "index": "F289438",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がそういうのももっともだ。",
+    "output": "She may well say so."
+  },
+  {
+    "index": "F289440",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がすばらしいピアニストであることは言うまでもない。",
+    "output": "It goes without saying that she is an excellent pianist."
+  },
+  {
+    "index": "F289442",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がすぐ良くなるといいですね。",
+    "output": "I hope that she'll get well soon."
+  },
+  {
+    "index": "F289444",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がすぐに良くなる見込みはほとんどない。",
+    "output": "There is little hope of her getting well soon."
+  },
+  {
+    "index": "F289446",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がすぐに元気になるといいのだが。",
+    "output": "We hope she will take heart soon."
+  },
+  {
+    "index": "F289448",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がすぐにこれらの食器を片付けてくれるでしょう。",
+    "output": "She will soon clear away these dishes."
+  },
+  {
+    "index": "F289450",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がずうずうしく振舞っていることをみなが知っていた。",
+    "output": "Everybody knew that she was being pushy."
+  },
+  {
+    "index": "F289452",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がジョンと結婚したのは彼を愛していたからではなく、ジョンが金持ちだったからです。",
+    "output": "She married John, not because she loved him, but because he was a rich man."
+  },
+  {
+    "index": "F289454",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼がジーンズをはいているのを見たことがない。",
+    "output": "I never saw him in jeans."
+  },
+  {
+    "index": "F289456",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がこんな風に振る舞うとは奇妙だ。",
+    "output": "That she behaves this way is odd."
+  },
+  {
+    "index": "F289458",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がこんなに早く来るはずない。",
+    "output": "She cannot be here so early."
+  },
+  {
+    "index": "F289460",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がこんなにおびえたことは１度もなかった。",
+    "output": "Never was she so frightened."
+  },
+  {
+    "index": "F289462",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がこれまでになったのは母のおかげです。",
+    "output": "Her mother has made her what she is."
+  },
+  {
+    "index": "F289464",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がこれほど自分勝手なのは嘆かわしい。",
+    "output": "It is deplorable that she is so selfish."
+  },
+  {
+    "index": "F289466",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がこの町をあちこちご案内します。",
+    "output": "She will show you around this town."
+  },
+  {
+    "index": "F289468",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がこちらへやって来るのを見た。",
+    "output": "I saw her coming up the road."
+  },
+  {
+    "index": "F289470",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がここへ来てから１年が経つ。",
+    "output": "A year has passed since she came here."
+  },
+  {
+    "index": "F289472",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がここに来ても来なくても私には関係ない。",
+    "output": "It doesn't matter to me whether she comes here or not."
+  },
+  {
+    "index": "F289474",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がここにいれば、何をすべきか教えてくれるだろうに。",
+    "output": "If only she were here, she would tell me what to do."
+  },
+  {
+    "index": "F289476",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がここにいないのが残念だ。",
+    "output": "I'm sorry she's not here."
+  },
+  {
+    "index": "F289478",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がここにいると仮定してみよう。",
+    "output": "Let's suppose that she is here."
+  },
+  {
+    "index": "F289480",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がゴキブリを追いかけるのを見ていると面白い。",
+    "output": "It's exciting to watch her run after a cockroach."
+  },
+  {
+    "index": "F289482",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がコーヒーを入れるのを上手なのを君は知っているか。",
+    "output": "Did you know she is good at making coffee?"
+  },
+  {
+    "index": "F289484",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がきた時、彼は２時間本を読んでいた。",
+    "output": "He had been reading for two hours when she came in."
+  },
+  {
+    "index": "F289486",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がきたと、きいた。",
+    "output": "I heard that she came here."
+  },
+  {
+    "index": "F289488",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がギターを弾いて、彼が歌を歌った。",
+    "output": "She played the guitar and he sang."
+  },
+  {
+    "index": "F289490",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がガスをつけたとき、大きな爆発がおこった。",
+    "output": "When she lit the gas, there was a loud explosion."
+  },
+  {
+    "index": "F289492",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がかさを忘れるのは珍しいことではない。",
+    "output": "It is not rare that she leaves her umbrella behind."
+  },
+  {
+    "index": "F289494",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女ががけから落ちないように気をつけないといけませんよ。",
+    "output": "You must be careful that she doesn't fall over the cliff."
+  },
+  {
+    "index": "F289496",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がお風呂に入ったとたんに郵便屋さんが小包みをもってドアをノックした。",
+    "output": "Hardly had she got in the bath when the postman knocked on the door with a parcel."
+  },
+  {
+    "index": "F289498",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がお化粧をしたとたんに彼が到着した。",
+    "output": "Scarcely had she put on her makeup before he arrived."
+  },
+  {
+    "index": "F289500",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がお化粧してないときは見ものだった。",
+    "output": "She was a sight when she didn't wear makeup."
+  },
+  {
+    "index": "F289502",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がおまえを捨てて英語学校で出逢ったアメリカ人の男性に乗り換えたことを認めてはっきり言ったらどうだい？",
+    "output": "Why don't you just call a spade a spade and admit that she dumped you for that American guy she met at the English school?"
+  },
+  {
+    "index": "F289504",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がうれしくないと思うのももっともだ。",
+    "output": "She may well feel unhappy."
+  },
+  {
+    "index": "F289506",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がうちの子供たちを騙したので腹が立った。",
+    "output": "I was angry that she had deceived my children."
+  },
+  {
+    "index": "F289508",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がうそを言うはずがない。",
+    "output": "She cannot have told a lie."
+  },
+  {
+    "index": "F289510",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がうそをついていたことが明らかになった。",
+    "output": "It became clear that she'd told a lie."
+  },
+  {
+    "index": "F289512",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がうそをついたことを知ったら彼は怒るだろう。",
+    "output": "He will be angry to learn that she told a lie."
+  },
+  {
+    "index": "F289514",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がいなくなったら世界が終わる訳じゃあるまいし。",
+    "output": "It's not as though the world is going to end if she leaves."
+  },
+  {
+    "index": "F289516",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がいなくてとても寂しい。",
+    "output": "I miss her so much."
+  },
+  {
+    "index": "F289518",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がいつ来るのか誰にもわからない。",
+    "output": "It's anybody's guess when she'll come."
+  },
+  {
+    "index": "F289520",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がいつ来るか知っていますか。",
+    "output": "Do you know when she will come?"
+  },
+  {
+    "index": "F289522",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がいつ来ても、私は喜んで迎えるつもりです。",
+    "output": "Whenever she may come, I am ready to welcome her."
+  },
+  {
+    "index": "F289524",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がいつ結婚しようとかまうものか。",
+    "output": "Who cares when she will marry?"
+  },
+  {
+    "index": "F289526",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がいつロンドンへ出発するのか私は知りません。",
+    "output": "I don't know when she will leave for London."
+  },
+  {
+    "index": "F289528",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がいつどこで生まれたかははっきりしていない。",
+    "output": "It is not clear when and where she was born."
+  },
+  {
+    "index": "F289530",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がいったいどうなってしまったのか、私にはわからない。",
+    "output": "I really don't understand what's up with her."
+  },
+  {
+    "index": "F289532",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がいかに努力しようと、彼には勝てない。",
+    "output": "Try as she may, she is unable to beat him."
+  },
+  {
+    "index": "F289534",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がいかに世間を知らないか驚くほどだ。",
+    "output": "It is surprising how little she knows of the world."
+  },
+  {
+    "index": "F289536",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がいいアドバイスをしてくれた。",
+    "output": "She gave me some good advice."
+  },
+  {
+    "index": "F289538",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女があんまり速く話したので、理解できませんでした。",
+    "output": "She spoke too quickly, so I couldn't understand."
+  },
+  {
+    "index": "F289540",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女があんなに夜遅く帰宅したとは不思議だ。",
+    "output": "It's strange that she should have come home so late at night."
+  },
+  {
+    "index": "F289542",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女があんなに怒っている理由がわかりますか。",
+    "output": "Do you know the reason why she is so angry?"
+  },
+  {
+    "index": "F289544",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女があんなにかわってしまって驚いている。",
+    "output": "I am surprised that she should have changed so much."
+  },
+  {
+    "index": "F289546",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がアメリカ人のように流暢に英語を話しているのを聞きました。",
+    "output": "I heard her speaking English as fluently as an American."
+  },
+  {
+    "index": "F289548",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がアメリカ人だとばかり思った。",
+    "output": "I took her for an American."
+  },
+  {
+    "index": "F289550",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女がアメリカで成長したというのは有名だ。",
+    "output": "That she grew up in America is well-known."
+  },
+  {
+    "index": "F289552",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女があの友人のなすがままになったのはどうしてですか。",
+    "output": "Why is it that she was at the mercy of that friend of hers?"
+  },
+  {
+    "index": "F289554",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女があの事件と無関係であることはあきらかだ。",
+    "output": "It was clear that she was not concerned with the matter."
+  },
+  {
+    "index": "F289556",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女があのピンクのドレスを着た姿はまさに絶品だった。",
+    "output": "In that pink dress, she was it."
+  },
+  {
+    "index": "F289558",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女があなたを叱るような理由は１つもない。",
+    "output": "There is no reason for her to scold you."
+  },
+  {
+    "index": "F289560",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女があなたの先生ですか。",
+    "output": "Is she your teacher?"
+  },
+  {
+    "index": "F289562",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女があなたに話しかけるのを拒否するのも当然だ。なぜなら彼女はとても機嫌が悪いからだ。",
+    "output": "She may well refuse to speak to you because she's in a very bad mood."
+  },
+  {
+    "index": "F289564",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が３０歳以上であるはずがない。まだ２０代であるにちがいない。",
+    "output": "She can't be over thirty; she must still be in her twenties."
+  },
+  {
+    "index": "F289566",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が３０歳をこえているはずがない。",
+    "output": "She cannot be over thirty."
+  },
+  {
+    "index": "F289568",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が２ｍリードしている。",
+    "output": "She is leading by two meters."
+  },
+  {
+    "index": "F289570",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が１日の始め方を述べる時に使うその言葉が聞き取れるかどうか、試してみてください。",
+    "output": "See if you can catch the word she uses as she describes how she begins her day."
+  },
+  {
+    "index": "F289572",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が１０カ国語を話せるのには驚いた。",
+    "output": "I was astounded that she can speak 10 languages."
+  },
+  {
+    "index": "F289574",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が、自殺した理由は知られていない。",
+    "output": "The reason she killed herself is unknown."
+  },
+  {
+    "index": "F289576",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女が、佐藤君と結婚するなんてありえないよ。",
+    "output": "There's no way she'll ever marry Sato."
+  },
+  {
+    "index": "F289578",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女にいくら手紙を書いても、彼女は何とも思わないだろう。",
+    "output": "No matter how often you write to her, she will not take notice of you."
+  },
+  {
+    "index": "F289580",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女、法律の学位は取れますか。",
+    "output": "Can she get the law degree?"
+  },
+  {
+    "index": "F289582",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女、方向音痴だから、すぐに道に迷っちゃうんだ。",
+    "output": "She gets lost really easily. She's got no sense of direction."
+  },
+  {
+    "index": "F289584",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女、美しいのなんのって・・・！",
+    "output": "She is beautiful and how!"
+  },
+  {
+    "index": "F289586",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女、誰だと思う？",
+    "output": "Who do you think she is?"
+  },
+  {
+    "index": "F289588",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女、小粋な服装してるよね。",
+    "output": "Her dress has an understated charm."
+  },
+  {
+    "index": "F289590",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女、最近まいっているみたいだ。",
+    "output": "She seems down lately."
+  },
+  {
+    "index": "F289592",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女、結婚して女の子が二人いるのよ。",
+    "output": "She has a husband and two daughters."
+  },
+  {
+    "index": "F289594",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女、まるで何もなかったような顔をしている。",
+    "output": "She looks as if nothing had happened to her."
+  },
+  {
+    "index": "F289596",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女、どうしたの？ちょっとブルー入ってるけど。",
+    "output": "What's wrong with her? She's looking kind of blue."
+  },
+  {
+    "index": "F289598",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼女は彼の態度に騙された。",
+    "output": "She was taken in by his manners."
+  },
+  {
+    "index": "F289600",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼自身そうした。",
+    "output": "He himself did it."
+  },
+  {
+    "index": "F289602",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼自身がそこへ行った。",
+    "output": "He himself went there."
+  },
+  {
+    "index": "F289604",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼自身がそういったのだ。",
+    "output": "He himself said so."
+  },
+  {
+    "index": "F289606",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼は最愛の息子をなくした。",
+    "output": "He lost his beloved son."
+  },
+  {
+    "index": "F289608",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼の力強い演説は聴衆をぐいぐいひっぱっていった。",
+    "output": "His powerful speech carried the audience with him."
+  },
+  {
+    "index": "F289610",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼は外交官として長年人生を送ってきた。",
+    "output": "He has spent most of his working life as a diplomat."
+  },
+  {
+    "index": "F289612",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼一人だけ余る、だから審判させよう。",
+    "output": "He's an odd man; so we'll have him referee."
+  },
+  {
+    "index": "F289614",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼一介の詩人にすぎない。",
+    "output": "He is nothing but a poet."
+  },
+  {
+    "index": "F289616",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼以外は皆ここにいる。",
+    "output": "All but for he are here."
+  },
+  {
+    "index": "F289618",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼以外の皆はその批評家に率直な意見を感謝した。",
+    "output": "Everybody except him thanked the critic for her honest opinion."
+  },
+  {
+    "index": "F289620",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼以外にいったい誰がそんなことを書くだろう。",
+    "output": "Who should write it but himself?"
+  },
+  {
+    "index": "F289622",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を理解することはなかなか難しい。",
+    "output": "It's very difficult to understand him."
+  },
+  {
+    "index": "F289624",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を養うのは君の責任だ。",
+    "output": "It is up to you to support him."
+  },
+  {
+    "index": "F289626",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を誉める者など誰もいない。",
+    "output": "Nobody ever praises him."
+  },
+  {
+    "index": "F289628",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を誘惑から引き離すべきだ。",
+    "output": "You should seclude him from temptation."
+  },
+  {
+    "index": "F289630",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を有罪とするのに十分な証拠がなかった。",
+    "output": "There wasn't enough evidence to convict him of the crime."
+  },
+  {
+    "index": "F289632",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を目撃したことを詳細に警察に報告した。",
+    "output": "He reported fully what he had seen to the police."
+  },
+  {
+    "index": "F289634",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を眠りからさますな。",
+    "output": "Don't arouse him from his sleep!"
+  },
+  {
+    "index": "F289636",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を満足させるのは難しい。",
+    "output": "It's hard to please him."
+  },
+  {
+    "index": "F289638",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を訪問するつもりでいたができなかった。",
+    "output": "I expected that I would visit him, but I couldn't."
+  },
+  {
+    "index": "F289640",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を訪れるたびに私は歓迎された。",
+    "output": "I was welcomed whenever I visited him."
+  },
+  {
+    "index": "F289642",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を訪れたとき、彼は家にいなかった。",
+    "output": "When I called on him, he was not at home."
+  },
+  {
+    "index": "F289644",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を訪ねてみる気にはなれなかった。",
+    "output": "I couldn't bring myself to call on him."
+  },
+  {
+    "index": "F289646",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を訪ねたとき、彼は忙しく働いていた。",
+    "output": "When I called on him, he was hard at work."
+  },
+  {
+    "index": "F289648",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を放って置くことはできない。",
+    "output": "I can't let him alone."
+  },
+  {
+    "index": "F289650",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を墓に埋めた。",
+    "output": "They buried him in his grave."
+  },
+  {
+    "index": "F289652",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を弁護士でないと思う。",
+    "output": "I doubt if he is a lawyer."
+  },
+  {
+    "index": "F289654",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を怖がらせないように、私は彼にやさしく話しかけた。",
+    "output": "I spoke to him kindly so as not to frighten him."
+  },
+  {
+    "index": "F289656",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を病院まで乗せていっていただけないでしょうか。",
+    "output": "Could I ask you to drive him to the hospital?"
+  },
+  {
+    "index": "F289658",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を病院に連れて行く。",
+    "output": "I'll take him with me to the hospital."
+  },
+  {
+    "index": "F289660",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を非難するつもりでないことを急いでつけ加えなければならない。",
+    "output": "I must hasten to add that I do not mean to blame him."
+  },
+  {
+    "index": "F289662",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を非難することはできない。",
+    "output": "I cannot find fault with him."
+  },
+  {
+    "index": "F289664",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を非難しても仕方のないことだ。",
+    "output": "It is inevitable even if he is criticized."
+  },
+  {
+    "index": "F289666",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を非難しているどころではない。",
+    "output": "I am far from blaming him."
+  },
+  {
+    "index": "F289668",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼は非行を繰り返した結果法廷に立たされた。",
+    "output": "His repeated delinquencies brought him to court."
+  },
+  {
+    "index": "F289670",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を避けていたのは賢明でしたね。",
+    "output": "It was wise of you to keep away from him."
+  },
+  {
+    "index": "F289672",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を批判する前に彼の立場をよく考えなければならない。",
+    "output": "You ought to walk a mile in his shoes before you criticize him."
+  },
+  {
+    "index": "F289674",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を批判する人は、もしあってもごくわずかさ。",
+    "output": "Few, if any, will criticize him."
+  },
+  {
+    "index": "F289676",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を彼の弟と間違えっこない。",
+    "output": "You can't mistake him for his younger brother."
+  },
+  {
+    "index": "F289678",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を犯罪者と呼んではいけない。",
+    "output": "Don't call him the criminal."
+  },
+  {
+    "index": "F289680",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を馬鹿にするな。",
+    "output": "Don't make a fool of him."
+  },
+  {
+    "index": "F289682",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を破滅させたのは彼の病気というよりも、むしろ彼の怠惰である。",
+    "output": "It is not his illness that ruined him so much as his idleness."
+  },
+  {
+    "index": "F289684",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を破滅させたのはばくちであった。",
+    "output": "It was gambling that brought about his ruin."
+  },
+  {
+    "index": "F289686",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を納得させるには十分に謝るしかなかった。",
+    "output": "Nothing but a full apology would satisfy him."
+  },
+  {
+    "index": "F289688",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を入れて６人います。",
+    "output": "There are six people including him."
+  },
+  {
+    "index": "F289690",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を当惑させてはと思い私は答えなかった。",
+    "output": "I gave no answer for fear I should confuse him."
+  },
+  {
+    "index": "F289692",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を当てにして大丈夫です。",
+    "output": "You can rely upon him."
+  },
+  {
+    "index": "F289694",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を怒鳴りつけてはいけない。",
+    "output": "You must not shout at him."
+  },
+  {
+    "index": "F289696",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を怒らせるといけないので、私は一言も言いませんでした。",
+    "output": "I didn't say a word for fear I should annoy him."
+  },
+  {
+    "index": "F289698",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を怒らせないようにしてください。",
+    "output": "Try not to make him angry."
+  },
+  {
+    "index": "F289700",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を電話口に呼び出した。",
+    "output": "I called him to the telephone."
+  },
+  {
+    "index": "F289702",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を電話口にお呼びいただけませんか。",
+    "output": "Would you mind calling him to the phone?"
+  },
+  {
+    "index": "F289704",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を天才と呼んでも誇張ではない。",
+    "output": "It is no exaggeration to call him a genius."
+  },
+  {
+    "index": "F289706",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を敵に回すな。",
+    "output": "Don't make an enemy of him."
+  },
+  {
+    "index": "F289708",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を通して私は町の有力者と知り合いになった。",
+    "output": "Through him I got acquainted with the big names of the town."
+  },
+  {
+    "index": "F289710",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を追いかけたけれど、人込みの中で見失った。",
+    "output": "I went after him, but I lost him in the crowd."
+  },
+  {
+    "index": "F289712",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を長い目で見てやりなさい。",
+    "output": "Give him time."
+  },
+  {
+    "index": "F289714",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を中に入れなさい。",
+    "output": "Bring him in."
+  },
+  {
+    "index": "F289716",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を中に御案内しなさい。",
+    "output": "Show him in."
+  },
+  {
+    "index": "F289718",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を知れば知るほど、私は彼が好きになる。",
+    "output": "The more I know him, the more I like him."
+  },
+  {
+    "index": "F289720",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を知らなかったので、私は妹に彼の仕事について尋ねた。",
+    "output": "Not knowing him, I asked my sister about his job."
+  },
+  {
+    "index": "F289722",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を知っている誰がそれを信じるだろうか。",
+    "output": "Who that knows him will believe it?"
+  },
+  {
+    "index": "F289724",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を知っている人々は、彼のことを良く言います。",
+    "output": "Those who know him speak well of him."
+  },
+  {
+    "index": "F289726",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を知っているものは皆彼を称賛した。",
+    "output": "All who knew him admired him."
+  },
+  {
+    "index": "F289728",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を知っているかって？",
+    "output": "Do I know him?"
+  },
+  {
+    "index": "F289730",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を知っていてもいなくても、あなたは彼の意見を支持しなければなりません。",
+    "output": "Whether you know him or not, you have to support his opinion."
+  },
+  {
+    "index": "F289732",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を探し出す可能性はない。",
+    "output": "There is no possibility of our finding him."
+  },
+  {
+    "index": "F289734",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を誰と思いますか。",
+    "output": "Who do you think he is?"
+  },
+  {
+    "index": "F289736",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を待つより仕方がない。",
+    "output": "All we can do is to wait for him."
+  },
+  {
+    "index": "F289738",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を待つよりほか仕方がない。",
+    "output": "All we can do is wait for him."
+  },
+  {
+    "index": "F289740",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を待つほかに手はなかった。",
+    "output": "There was nothing that I could do but wait for him."
+  },
+  {
+    "index": "F289742",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を待ってから出発したい。",
+    "output": "I am inclined to wait for him and start."
+  },
+  {
+    "index": "F289744",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を待たずにすぐ出発したい。",
+    "output": "He is inclined to start at once, without waiting for him."
+  },
+  {
+    "index": "F289746",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を打ち負かすのは不可能だ。",
+    "output": "He is impossible to beat."
+  },
+  {
+    "index": "F289748",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を尊敬する生徒もいたし、軽蔑する生徒もいた。",
+    "output": "Some of his students admired him, and others despised him."
+  },
+  {
+    "index": "F289750",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を全然信用していない。",
+    "output": "We have no trust in him."
+  },
+  {
+    "index": "F289752",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を説得できるのは君しかいません。",
+    "output": "You're the only person that can persuade him."
+  },
+  {
+    "index": "F289754",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を説得するのは不可能だった。",
+    "output": "We found it impossible to persuade him."
+  },
+  {
+    "index": "F289756",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を説得することは不可能でないにしても、困難だ。",
+    "output": "It is difficult, if not impossible, to persuade him."
+  },
+  {
+    "index": "F289758",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を説得することが出来るのは君しかいません。",
+    "output": "You're the only person that can persuade him."
+  },
+  {
+    "index": "F289760",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を説得しようとするのはばかげたことだ。",
+    "output": "It is absurd trying to persuade him."
+  },
+  {
+    "index": "F289762",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を説得しようとしても無駄なことだ。",
+    "output": "There's no use trying to persuade him."
+  },
+  {
+    "index": "F289764",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を説得しようとしても無駄だ。",
+    "output": "It is no use trying to persuade him."
+  },
+  {
+    "index": "F289766",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を説得して旅行を中止させるのに苦労しました。",
+    "output": "I had a hard time trying to talk him out of taking the trip."
+  },
+  {
+    "index": "F289768",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を説得して私達の見解に引き入れるには、相当な時間がかかった。",
+    "output": "It took a long time to bring him around to our point of view."
+  },
+  {
+    "index": "F289770",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を説得して我々に加わらせることができなかったのが残念だ。",
+    "output": "I wish I could have persuaded him to join us."
+  },
+  {
+    "index": "F289772",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を説得しても無駄だと思う。",
+    "output": "I figure that there is no point in trying to persuade him."
+  },
+  {
+    "index": "F289774",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を説得しても無駄だ。",
+    "output": "I don't see any point in persuading him."
+  },
+  {
+    "index": "F289776",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を説得させようとしたが全然だめだった。",
+    "output": "We couldn't get anywhere in our attempt to convince him."
+  },
+  {
+    "index": "F289778",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を説きさとして非を認めた。",
+    "output": "I convinced him of his fault."
+  },
+  {
+    "index": "F289780",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を説いてその計画をやめさせようとしたが無駄だった。",
+    "output": "I tried to talk him out of the project, but in vain."
+  },
+  {
+    "index": "F289782",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を正直者だと信じたのは大間違いだった。",
+    "output": "In believing him to be an honest man, I was seriously in error."
+  },
+  {
+    "index": "F289784",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を信頼できる男だと考えたのはどうも見当違いだった。",
+    "output": "I was mistaken in thinking that he was a trustworthy man."
+  },
+  {
+    "index": "F289786",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を信用するな。",
+    "output": "Don't trust him."
+  },
+  {
+    "index": "F289788",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を信頼するなんて君はなんて馬鹿だ。",
+    "output": "You are very silly to trust him."
+  },
+  {
+    "index": "F289790",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を信用してはいけない。",
+    "output": "You should not trust him."
+  },
+  {
+    "index": "F289792",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を信用していい。",
+    "output": "You can trust him."
+  },
+  {
+    "index": "F289794",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を信用しちゃいけない。",
+    "output": "You can't trust him."
+  },
+  {
+    "index": "F289796",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を信じるべきでない。",
+    "output": "You ought not to believe him."
+  },
+  {
+    "index": "F289798",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を信じるとはばかなことをしたもんだな、君も。",
+    "output": "You should have known better than to trust him."
+  },
+  {
+    "index": "F289800",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を信じている。",
+    "output": "I believe in him."
+  },
+  {
+    "index": "F289802",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を信じたあなたがどうかしてたのかよ。",
+    "output": "It is stupid of you to believe in him."
+  },
+  {
+    "index": "F289804",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を信じたあなたがどうかしていたのよ。",
+    "output": "It was stupid of you to believe in him."
+  },
+  {
+    "index": "F289806",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を笑ってはいけない。",
+    "output": "Don't laugh at him."
+  },
+  {
+    "index": "F289808",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を笑い者にする。",
+    "output": "It makes him a laughingstock."
+  },
+  {
+    "index": "F289810",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を称賛しない人は一人もいなかった。",
+    "output": "There was no one who did not admire him."
+  },
+  {
+    "index": "F289812",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を招待するべきだったのにしなかった。",
+    "output": "You ought to have invited him, but you didn't."
+  },
+  {
+    "index": "F289814",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を少し気の毒に感じます。",
+    "output": "I feel kind of sorry for him."
+  },
+  {
+    "index": "F289816",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を除けば、ほかの誰もパーティーに来なかった。",
+    "output": "Outside of him, no one else came to the party."
+  },
+  {
+    "index": "F289818",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を重視しているのですか。",
+    "output": "Do you hold him in great account?"
+  },
+  {
+    "index": "F289820",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を首にしてやる。",
+    "output": "He shall be fired."
+  },
+  {
+    "index": "F289822",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を首にすべきだと言う結論に達した。",
+    "output": "We came to the conclusion that he should be fired."
+  },
+  {
+    "index": "F289824",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を手本にしなさい。",
+    "output": "Follow his example."
+  },
+  {
+    "index": "F289826",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を私たちの代表として選ぶ。",
+    "output": "We adopt him as our representative."
+  },
+  {
+    "index": "F289828",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を止めることは出来ないと思った。",
+    "output": "We thought it impossible to stop him."
+  },
+  {
+    "index": "F289830",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を支持するふりをした。",
+    "output": "I made believe that I supported him."
+  },
+  {
+    "index": "F289832",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を指導者として歓呼で迎えた。",
+    "output": "They acclaimed him their leader."
+  },
+  {
+    "index": "F289834",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を困らせないように気をつけないといけないよ。",
+    "output": "You should be careful not to bother him."
+  },
+  {
+    "index": "F289836",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を告訴する理由は何ですか。",
+    "output": "What's the accusation against him?"
+  },
+  {
+    "index": "F289838",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を好きになる女の子がいるだろうか。",
+    "output": "Can any girl like him?"
+  },
+  {
+    "index": "F289840",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を好きにならずにいられなかった。",
+    "output": "I could hardly keep from liking him."
+  },
+  {
+    "index": "F289842",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を好きな人もいればそうでない人もいる。",
+    "output": "Some people like him and other people don't."
+  },
+  {
+    "index": "F289844",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を好きな人がいないのは当然だ。本当に卑劣な奴だから。",
+    "output": "It stands to reason that nobody likes him. He's too mean."
+  },
+  {
+    "index": "F289846",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を好きというより、ただあこがれているだけなの。",
+    "output": "It's not that I seriously like him. I just find him very attractive."
+  },
+  {
+    "index": "F289848",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を公平に評価すれば愚かではない。",
+    "output": "To do him justice, he is not stupid."
+  },
+  {
+    "index": "F289850",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を公平に評すれば、彼はいい奴だ。",
+    "output": "To do him justice, he is a nice guy."
+  },
+  {
+    "index": "F289852",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を公平に扱いなさい、そうすれば彼はあなたに公平になるでしょう。",
+    "output": "If you treat him fairly, he will be fair with you."
+  },
+  {
+    "index": "F289854",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を雇わないことに決めた際彼の年齢は考慮に入らなかった。",
+    "output": "His age didn't enter into our decision not to employ him."
+  },
+  {
+    "index": "F289856",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を雇うときは、彼が若いのだということを酌量してやらねばならない。",
+    "output": "When you employ him, you must make allowances for his youth."
+  },
+  {
+    "index": "F289858",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を雇うことは誰も雇わないことに等しい。",
+    "output": "Employing him would amount to employing nobody."
+  },
+  {
+    "index": "F289860",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を見舞った。",
+    "output": "I inquired after him."
+  },
+  {
+    "index": "F289862",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を見張れ。",
+    "output": "Keep watch on him."
+  },
+  {
+    "index": "F289864",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を見送りに空港に行ってきたところだ。",
+    "output": "I have been to the airport to see him off."
+  },
+  {
+    "index": "F289866",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を見送りに空港に行った。",
+    "output": "I went to the airport to see him off."
+  },
+  {
+    "index": "F289868",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を見送りに駅まで行ってきたところです。",
+    "output": "I have been to the station to see him off."
+  },
+  {
+    "index": "F289870",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を見送りに駅に行ってきたところだ。",
+    "output": "I have been to the station to see him off."
+  },
+  {
+    "index": "F289872",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を見れば、君はそれをほとんど信じられないだろうに。",
+    "output": "To look at him, you could hardly believe it."
+  },
+  {
+    "index": "F289874",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を見るやいなや私は彼が怒っているのがわかった。",
+    "output": "The instant I saw him I knew he was angry."
+  },
+  {
+    "index": "F289876",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を見るまでは私は強かった。",
+    "output": "Able was I ere I saw him."
+  },
+  {
+    "index": "F289878",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を見るのさえ嫌なのに、デートするなんてとんでもないことです。",
+    "output": "I don't want to see him, let alone go out with him."
+  },
+  {
+    "index": "F289880",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を見ると必ず兄を思い出す。",
+    "output": "I cannot see him without thinking of my brother."
+  },
+  {
+    "index": "F289882",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を見ると祖父を思い出します。",
+    "output": "He reminds me of my grandfather."
+  },
+  {
+    "index": "F289884",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を見るとすぐに私には病気だとわかった。",
+    "output": "The instant I saw him, I knew he was ill."
+  },
+  {
+    "index": "F289886",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を見るとすぐに、彼が怒っていることがわかった。",
+    "output": "The moment I saw him, I knew he was angry."
+  },
+  {
+    "index": "F289888",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を見るといつも自分の息子のことを思い出す。",
+    "output": "I never see him without thinking of my son."
+  },
+  {
+    "index": "F289890",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を見るといつでもつい同情してしまうんです。",
+    "output": "I cannot help but sympathize with him any time I see him."
+  },
+  {
+    "index": "F289892",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を見ると、笑わないではいられないだろう。",
+    "output": "To look at him, you couldn't help laughing."
+  },
+  {
+    "index": "F289894",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を見るたびに彼はあくびをしていた。",
+    "output": "Every time I looked at him, he was yawning."
+  },
+  {
+    "index": "F289896",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を見てご覧、また酔っ払っているよ。",
+    "output": "Look at him. He's drunk again."
+  },
+  {
+    "index": "F289898",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を見ていない。",
+    "output": "I don't see him."
+  },
+  {
+    "index": "F289900",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を見た即座に、怒っているとわかった。",
+    "output": "The instant I saw him I knew he was angry."
+  },
+  {
+    "index": "F289902",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を見たとたん私は吹き出した。",
+    "output": "As soon as I saw him, I burst into laughter."
+  },
+  {
+    "index": "F289904",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を見たとき、私は笑わずにはいられなかった。",
+    "output": "I could not help laughing when I saw him."
+  },
+  {
+    "index": "F289906",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を迎えに行って、ついでにこの手紙をポストに入れておいて。",
+    "output": "Go and meet him, and while you're about it mail this letter."
+  },
+  {
+    "index": "F289908",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を軽く見ないほうがいいよ。",
+    "output": "You'd better not make light of him."
+  },
+  {
+    "index": "F289910",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を空港で盛大に見送った。",
+    "output": "We gave him a royal send-off at the airport."
+  },
+  {
+    "index": "F289912",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を空港で見送りました。",
+    "output": "I saw him off at the airport."
+  },
+  {
+    "index": "F289914",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を愚か者と言えても臆病とは言えない。",
+    "output": "You may call him a fool, but you cannot call him a coward."
+  },
+  {
+    "index": "F289916",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を疑うなんて私には思いもよらなかった。",
+    "output": "It never occurred to me to doubt him."
+  },
+  {
+    "index": "F289918",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を起こすといけないから、私たちは動かなかった。",
+    "output": "We did not move for fear we should wake him up."
+  },
+  {
+    "index": "F289920",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を気持ちよく迎えてあげようよ。",
+    "output": "Let's receive him with a happy smile."
+  },
+  {
+    "index": "F289922",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を気の毒に思わずにはいられなかった。",
+    "output": "I couldn't help feeling sorry for him."
+  },
+  {
+    "index": "F289924",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を気に入っているふりなどできない。",
+    "output": "I can't pretend to like him."
+  },
+  {
+    "index": "F289926",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を喜ばせるのは難しい。",
+    "output": "He is hard to please."
+  },
+  {
+    "index": "F289928",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を解雇するもっともな理由がある。",
+    "output": "There is a good argument for dismissing him."
+  },
+  {
+    "index": "F289930",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を我々の案に賛成させることができなかった。",
+    "output": "We failed to bring him to agree to our plan."
+  },
+  {
+    "index": "F289932",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を何とか説得して私の考え方に従わせた。",
+    "output": "I managed to bring him around to my way of thinking."
+  },
+  {
+    "index": "F289934",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を殴ったことであなたを責めはしない。",
+    "output": "I don't blame you for hitting him."
+  },
+  {
+    "index": "F289936",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を援護するのが義務だ。",
+    "output": "It is incumbent on us to support him."
+  },
+  {
+    "index": "F289938",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を駅に見送りに行ってきたところです。",
+    "output": "I have been to the station to see him off."
+  },
+  {
+    "index": "F289940",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を一晩泊めてやった。",
+    "output": "I accommodated him with a night's lodging."
+  },
+  {
+    "index": "F289942",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を一人にしておいてやりなさい。",
+    "output": "Leave him alone."
+  },
+  {
+    "index": "F289944",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を愛しているふりはしない。",
+    "output": "I don't pretend to love him."
+  },
+  {
+    "index": "F289946",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼をよく知っている人は誰でも彼を尊敬している。",
+    "output": "Whoever knows him well respects him."
+  },
+  {
+    "index": "F289948",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼をよく思うのはそれだけの理由がある。",
+    "output": "All the more so to think well of him."
+  },
+  {
+    "index": "F289950",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼をよく見張れよ。",
+    "output": "Keep a close eye on him."
+  },
+  {
+    "index": "F289952",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼をよく見て同じようにしなさい。",
+    "output": "Watch him and do likewise."
+  },
+  {
+    "index": "F289954",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼をやり込めるくらい、赤子の手を捻るより簡単だよ。",
+    "output": "Cornering him in an argument is easy―like taking candy from a baby."
+  },
+  {
+    "index": "F289956",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼をほめない人など誰もいなかった。",
+    "output": "There was no one but admired him."
+  },
+  {
+    "index": "F289958",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼をベアトリスに紹介しようと思った。",
+    "output": "I planned to introduce him to Beatrice."
+  },
+  {
+    "index": "F289960",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼をはるばる訪ねて行ったがあいにく不在だった。",
+    "output": "I went all the way to see him only to find him not at home."
+  },
+  {
+    "index": "F289962",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼をパーティーに招待しなかったのは気が引ける。",
+    "output": "I didn't invite him to the party. I feel guilty about it."
+  },
+  {
+    "index": "F289964",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼をなだめてくれませんか。",
+    "output": "Quiet him down, will you?"
+  },
+  {
+    "index": "F289966",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼をなぐったことで君を責めはしない。",
+    "output": "I don't blame you for hitting him."
+  },
+  {
+    "index": "F289968",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼をどんなに誉めても誉めたりない。",
+    "output": "We cannot praise him too much."
+  },
+  {
+    "index": "F289970",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼をトレードに出してたら、スターズは自分の首を絞めることになっていたね。",
+    "output": "The Stars must be kicking themselves for giving him the boot."
+  },
+  {
+    "index": "F289972",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼をとめるな。",
+    "output": "Don't stop him."
+  },
+  {
+    "index": "F289974",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼をどう思っているか話してみたい気がする。",
+    "output": "I feel like telling him what I think of him."
+  },
+  {
+    "index": "F289976",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼をどう思いますか。",
+    "output": "What do you make of him?"
+  },
+  {
+    "index": "F289978",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼を手伝ってあげなければ。",
+    "output": "I must help him."
+  },
+  {
+    "index": "F289980",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼をちらっと見た。",
+    "output": "I caught a glimpse of him."
+  },
+  {
+    "index": "F289982",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼をちょっと待たせておいて下さい。",
+    "output": "Have him wait a moment."
+  },
+  {
+    "index": "F289984",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼をそんなに悩ませているのが一体何なのか誰も知らない。",
+    "output": "Nobody knows what it is that has been bothering him so much."
+  },
+  {
+    "index": "F289986",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼をその地位からはずせ。",
+    "output": "Dismiss him from that post."
+  },
+  {
+    "index": "F289988",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼をその夜は泊めてやった。",
+    "output": "I accommodated him for the night."
+  },
+  {
+    "index": "F289990",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼をその職に任ずる必要はない。",
+    "output": "We have no call to appoint him to the post."
+  },
+  {
+    "index": "F289992",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼をその仕事の最適任者だと思う。",
+    "output": "I regard him as the best person for the job."
+  },
+  {
+    "index": "F289994",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼をその過失で責めるな。",
+    "output": "Don't blame him for the error."
+  },
+  {
+    "index": "F289996",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼をそこへ行かせないつもりだ。",
+    "output": "He shan't go there."
+  },
+  {
+    "index": "F289998",
+    "instruction": "次の日本語を英語に翻訳してください。",
+    "input": "彼をスヌーピーと呼ぼう。",
+    "output": "Let's call him Snoopy."
+  }
+]

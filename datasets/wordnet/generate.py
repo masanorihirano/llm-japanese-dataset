@@ -26,6 +26,7 @@ df_example_merged = pd.merge(df_word, df_example, on="index", how="outer").dropn
 df_definition_merged["instruction"] = "「" + df_definition_merged["word"] + "」" + "の意味を教えてください。"
 df_definition_merged["input"] = ""
 df_definition_merged["output"] = df_definition_merged["definition_ja"]
+df_definition_merged = df_definition_merged[df_definition_merged.apply(lambda x: x["word"] not in x["definition_ja"], axis=1)]
 
 n_total = 0
 data_list = df_definition_merged[["instruction", "input", "output"]].to_dict(orient="records")
@@ -40,11 +41,11 @@ for i in range(forward_n):
 n_total += forward_n
 
 
-df_definition_merged["instruction"] = "次の文を日本語に翻訳してください。"
-df_definition_merged["input"] = df_definition_merged["definition_en"]
-df_definition_merged["output"] = df_definition_merged["definition_ja"]
+df_definition["instruction"] = "次の文を日本語に翻訳してください。"
+df_definition["input"] = df_definition["definition_en"]
+df_definition["output"] = df_definition["definition_ja"]
 
-data_list = df_definition_merged[["instruction", "input", "output"]].to_dict(orient="records")
+data_list = df_definition[["instruction", "input", "output"]].to_dict(orient="records")
 forward_n = len(data_list) // 1000 + 1
 for i in range(forward_n):
     file_name = os.path.join(file_dir, "data", f"{i + n_total:0>6}.json")
@@ -56,11 +57,11 @@ for i in range(forward_n):
 n_total += forward_n
 
 
-df_definition_merged["instruction"] = "次の文を英語に翻訳してください。"
-df_definition_merged["input"] = df_definition_merged["definition_ja"]
-df_definition_merged["output"] = df_definition_merged["definition_en"]
+df_definition["instruction"] = "次の文を英語に翻訳してください。"
+df_definition["input"] = df_definition["definition_ja"]
+df_definition["output"] = df_definition["definition_en"]
 
-data_list = df_definition_merged[["instruction", "input", "output"]].to_dict(orient="records")
+data_list = df_definition[["instruction", "input", "output"]].to_dict(orient="records")
 forward_n = len(data_list) // 1000 + 1
 for i in range(forward_n):
     file_name = os.path.join(file_dir, "data", f"{i + n_total:0>6}.json")
@@ -87,11 +88,11 @@ n_total += forward_n
 #     )
 # n_total += forward_n
 
-df_example_merged["instruction"] = "次の文を日本語に翻訳してください。"
-df_example_merged["input"] = df_example_merged["example_en"]
-df_example_merged["output"] = df_example_merged["example_ja"]
+df_example["instruction"] = "次の文を日本語に翻訳してください。"
+df_example["input"] = df_example["example_en"]
+df_example["output"] = df_example["example_ja"]
 
-data_list = df_example_merged[["instruction", "input", "output"]].to_dict(orient="records")
+data_list = df_example[["instruction", "input", "output"]].to_dict(orient="records")
 forward_n = len(data_list) // 1000 + 1
 for i in range(forward_n):
     file_name = os.path.join(file_dir, "data", f"{i + n_total:0>6}.json")
@@ -102,11 +103,11 @@ for i in range(forward_n):
     )
 n_total += forward_n
 
-df_example_merged["instruction"] = "次の文を英語に翻訳してください。"
-df_example_merged["input"] = df_example_merged["example_ja"]
-df_example_merged["output"] = df_example_merged["example_en"]
+df_example["instruction"] = "次の文を英語に翻訳してください。"
+df_example["input"] = df_example["example_ja"]
+df_example["output"] = df_example["example_en"]
 
-data_list = df_example_merged[["instruction", "input", "output"]].to_dict(orient="records")
+data_list = df_example[["instruction", "input", "output"]].to_dict(orient="records")
 forward_n = len(data_list) // 1000 + 1
 for i in range(forward_n):
     file_name = os.path.join(file_dir, "data", f"{i + n_total:0>6}.json")

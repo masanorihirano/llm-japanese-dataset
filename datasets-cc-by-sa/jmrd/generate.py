@@ -19,6 +19,8 @@ data_list = [{
         f'【あらすじ】\n{"".join(x["knowledge"]["あらすじ"])}'
     )
 }for x in data]
+data_list_dict = dict([(x["instruction"], x) for x in data_list])
+data_list = list(data_list_dict.values())
 forward_n = len(data_list) // 1000 + 1
 for i in range(forward_n):
     file_name = os.path.join(file_dir, "data", f"{i:0>6}.json")

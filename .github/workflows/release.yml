@@ -48,8 +48,8 @@ jobs:
       run: |
         mkdir release-${{ steps.get_version.outputs.TAG }}-cc-by-sa
         mkdir release-${{ steps.get_version.outputs.TAG }}-mit
-        cp data.json release-${{ steps.get_version.outputs.TAG }}-mit
-        cp data-cc-by-sa.json release-${{ steps.get_version.outputs.TAG }}-cc-by-sa
+        cp data.jsonl release-${{ steps.get_version.outputs.TAG }}-mit
+        cp data-cc-by-sa.jsonl release-${{ steps.get_version.outputs.TAG }}-cc-by-sa
         cp datasets/LICENSE release-${{ steps.get_version.outputs.TAG }}-mit
         cp datasets/NOTICE.md release-${{ steps.get_version.outputs.TAG }}-mit
         cp datasets-cc-by-sa/LICENSE release-${{ steps.get_version.outputs.TAG }}-cc-by-sa
@@ -121,14 +121,14 @@ jobs:
       run: |
         huggingface-cli login --token ${{ secrets.HUGGING_FACE_SECRET }}
         git clone https://git:${{ secrets.HUGGING_FACE_SECRET }}@huggingface.co/datasets/izumi-lab/llm-japanese-dataset
-        cp data-cc-by-sa.json llm-japanese-dataset
+        cp data-cc-by-sa.jsonl llm-japanese-dataset
         cp datasets-cc-by-sa/LICENSE llm-japanese-dataset
         cp datasets-cc-by-sa/NOTICE.md llm-japanese-dataset
         cp datasets/NOTICE.md llm-japanese-dataset/NOTICE2.md
         cp version.py llm-japanese-dataset
         cd llm-japanese-dataset
-        git lfs track *.json
-        git add data-cc-by-sa.json LICENSE NOTICE.md NOTICE2.md version.py
+        git lfs track *.jsonl
+        git add data-cc-by-sa.jsonl LICENSE NOTICE.md NOTICE2.md version.py
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git config --global user.name "github-actions[bot]"
         git commit -m "Release ${{ steps.get_version.outputs.TAG }}"

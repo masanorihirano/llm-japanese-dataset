@@ -7,5 +7,5 @@ poetry run python generate.py
 ```
 
 ## ライセンス
-CC-BY-SA 4.0
+CC-BY 4.0
 

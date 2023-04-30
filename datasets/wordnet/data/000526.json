@@ -1,0 +1,5002 @@
+[
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "裁判官は、厳かにそこに座った",
+    "output": "the judge sat there solemnly"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "セルビア人は、夜に村を攻撃した",
+    "output": "The Serbs attacked the village at night"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "遠征隊は攻撃し始めた",
+    "output": "The visiting team started to attack"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は、混雑したビーチは嫌いだった",
+    "output": "he didn't like the crowding on the beach"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "科学者は衝撃波を起こした",
+    "output": "The scientists set up a shock wave"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "モーターボートの航跡でカヌーが転覆した",
+    "output": "the motorboat's wake capsized the canoe"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "この大学の学生はほぼ中産階級の出身である",
+    "output": "the students at this college are homogeneously middle-class"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "少年のような笑顔",
+    "output": "a boyish grin"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "男子生徒的冗談",
+    "output": "schoolboyish pranks"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "不満を抱いた従業員は論理爆弾を仕掛けた",
+    "output": "a disgruntled employee planted a logic bomb"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "故郷",
+    "output": "my home town"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "宝くじに当たることはうれしい出来事であった",
+    "output": "winning the lottery was a happy accident"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "妊娠は運の悪い出来事であった",
+    "output": "the pregnancy was a stroke of bad luck"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "それは事故か偶然が原因だった",
+    "output": "it was due to an accident or fortuity"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "象形エジプト文字",
+    "output": "hieratic Egyptian script"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "反対にされた襟は新品同様であった",
+    "output": "the reversed collar looked as good as new"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は相手を単にじっと見つめた",
+    "output": "He simply stared down his opponent"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "堅いヘッドサポート",
+    "output": "an unyielding head support"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女が恐怖を覚えた時に私の腕をつかんだ",
+    "output": "She clutched my arm when she got scared"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "私たちのために用意してあった興奮させるもののヒントを私たちに与えた",
+    "output": "gave us a hint of the excitement that was in store for us"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は幽霊にでも会ったような顔をしていた",
+    "output": "he looked like he had seen a ghost"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "それは彼の過去の心の奥底の恐怖を呼び覚ました",
+    "output": "it aroused specters from his past"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "その株は1株当たり20ドルで取引された",
+    "output": "The stock traded around $20 a share"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は善と悪という均衡した二極論でそれを見た",
+    "output": "he viewed it as a balanced polarity between good and evil"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼の力が失敗するような奇妙で他の基軸―ランス・モロー",
+    "output": "a strange, other dimension...where his powers seemed to fail- Lance Morrow"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "疲労のため彼は体力を消耗した",
+    "output": "fatigue sapped his strength"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ニンニクをすりつぶして下さい",
+    "output": "pestle the garlic"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "地区検事が彼を法的対象とすると警告された",
+    "output": "He was warned that the district attorney would process him"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女は差別のために会社を訴えた",
+    "output": "She actioned the company for discrimination"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "すっかり成長して、生長しきった、十分に生長した",
+    "output": "fully grown"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は、完全にはわからなかった",
+    "output": "he didn't fully understand"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "よく知っていた",
+    "output": "knew full well"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "完全に成長した",
+    "output": "full-grown"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "成熟した",
+    "output": "full-fledged"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "戦争が彼女の2人子供に間に入った",
+    "output": "the war intervened between the birth of her two children"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "痩せこけた牛の手",
+    "output": "a rawboned cow hand"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "島礁国戦争",
+    "output": "an archipelagic war"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "直角三角形の斜辺は、いつも一番長い辺である",
+    "output": "the hypotenuse of a right triangle is always the longest side"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は棚1杯の本を買った",
+    "output": "he bought a shelfful of books"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女は怒りでいっぱいになった",
+    "output": "She felt resentful"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は後悔した",
+    "output": "He felt regret"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼はこぎ方を失敗して、レースに負けた",
+    "output": "he caught a crab and lost the race"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "コーサ語を話す人は舌うちをする",
+    "output": "Xhosa speakers click"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女は、死んだ自分の子供を悼んでいる",
+    "output": "She is mourning her dead child"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "その銀行が新しい家に関してわれわれの抵当財産を受け入れたときにその銀行は抵当権者となった",
+    "output": "the bank became our mortgagee when it accepted our mortgage on our new home"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "新生児医療",
+    "output": "neonatal care"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "新生児期",
+    "output": "the neonatal period"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "すべてのセルには、細胞膜がある",
+    "output": "all cells have a cell membrane"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "もう少しクリームを入れてスープを増やす",
+    "output": "stretch the soup by adding some more cream"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "少しの米でキャセロールを多くする",
+    "output": "extend the casserole with a little rice"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "批判への無気力な返答",
+    "output": "a spiritless reply to criticism"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ボイス　オブ　アメリカを妨害する",
+    "output": "Jam the Voice of America"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "この局から出される信号をブロックする",
+    "output": "block the signals emitted by this station"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "全地域を捜し回ったが何も発見しなかった",
+    "output": "scouring the entire area revealed nothing"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "部屋は滑稽にアレンジされていた",
+    "output": "the room was quaintly furnished"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "イエスははりつけにされた",
+    "output": "Jesus Christ was crucified"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は木の枝を落とすのになたを使用した",
+    "output": "he used a bill to prune branches off of the tree"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "プラスチックの瓶が壁に押しつぶされた",
+    "output": "The plastic bottle crushed against the wall"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "方程式を解く",
+    "output": "solve an equation"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "xを求める",
+    "output": "solve for x"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "未完の仕事",
+    "output": "unfinished business"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "建物はまだ未完成である",
+    "output": "the building is still unfinished"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ローマのワシ",
+    "output": "the Roman eagle"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "子供を十分に気遣った",
+    "output": "well-cared-for children"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "享楽主義の宴会",
+    "output": "an epicurean banquet"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "水晶のシャンデリアと厚い東洋の絨毯のある豪華スイートルームを楽しんだ",
+    "output": "enjoyed a luxurious suite with a crystal chandelier and thick oriental rugs"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ルクルスは官能的に豪勢に残りの時間を過ごした",
+    "output": "Lucullus spent the remainder of his days in voluptuous magnificence"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "享楽的で豪華なチンチラのローブ",
+    "output": "a chinchilla robe of sybaritic lavishness"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "成熟した心",
+    "output": "a ripe mind"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "戦争の間、人口に食料を供給した",
+    "output": "The population was victualed during the war"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は砲丸を投げる練習をした",
+    "output": "he trained at putting the shot"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "純血のアメリカ先住民",
+    "output": "full-blooded Native American"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "流血したジャージー",
+    "output": "blooded Jersies"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "飛行機は失速して私は制御できなかった",
+    "output": "the plane went into a stall and I couldn't control it"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "人の最も内側の勘定",
+    "output": "one's innermost feelings"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "私に市販の服",
+    "output": "my boughten clothes"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "市販のドレス",
+    "output": "a store-bought dress"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "権威の不信に関して同意する",
+    "output": "agreed in their distrust of authority"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "南アフリカの非出身者の人口",
+    "output": "the nonnative population of South Africa"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "著者は、歴史的な出来事を小説化した",
+    "output": "The author novelized the historical event"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は2階桟敷の最後部席からの不平を無視した",
+    "output": "he ignored complaints from the peanut gallery"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "これはどうやって動くのか",
+    "output": "how does this thing work?"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女は思い切り踊った",
+    "output": "she danced with abandon"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ニューヨーク湾の水は油まみれで、汚く、バイ菌だらけである",
+    "output": "the water in New York harbor is oily and dirty and germy"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は、血液が彼の裂けた頭皮から粘つきながら移動し、彼の額をつたうのを感じた",
+    "output": "he felt the blood move stickily from his split scalp and trickle down his forehead"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "脳出血",
+    "output": "bleeding cerebrally"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "二流の詩人",
+    "output": "a minor poet"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "劇で脇役を演じる",
+    "output": "had a minor part in the play"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "二流の職員",
+    "output": "a minor official"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "これらの頑健な冒険家の多くは二流の貴族であった",
+    "output": "many of these hardy adventurers were minor noblemen"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "人気のない裏通り",
+    "output": "minor back roads"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "バターパン",
+    "output": "butter bread"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は組合へ押し入った",
+    "output": "He muscled into the union"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "アパラチア山脈の高い場所の窪地に小屋を彼は自ら建設した",
+    "output": "he built himself a cabin in a hollow high up in the Appalachians"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "死という終局",
+    "output": "the finality of death"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "新生児",
+    "output": "a newborn infant"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "以下の形態で機能を構築する",
+    "output": "Develop the function in the following form"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ダマスク象眼の刀",
+    "output": "a damascened sword"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "左手でジャプを入れる",
+    "output": "jab with your left"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女がわれわれに示した親切を認めるべきだ",
+    "output": "We must acknowledge the kindness she showed towards us"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は、長年海外に住んでいた",
+    "output": "He lived overseas for many years"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "『I will have finished』は未来完了形の1例である",
+    "output": "`I will have finished' is an example of the future perfect"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "科学者は、彼女自身の研究に関連する問題について学ぶために、同僚と共同する",
+    "output": "the scientist corresponds with colleagues in order to learn about matters relevant to her own research"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "気持ちを高ぶらせる個人的な野心",
+    "output": "a driving personal ambition"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "原動力は彼の生まれながらの熱意であった",
+    "output": "the driving force was his innate enthusiasm"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "推進力",
+    "output": "an impulsive force"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "フィレンツェの芸術",
+    "output": "Florentine art"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "能力主義の社会",
+    "output": "meritocratic society"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "良心的でないプロデューサーは見かけ上ごまかされるような束を送った",
+    "output": "less scrupulous producers sent bundles that were deceptive in appearance"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "このカートリッジは装填量が50グレインだ",
+    "output": "this cartridge has a powder charge of 50 grains"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は自分の買い物について再考した",
+    "output": "he had second thoughts about his purchase"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "肉眼で確認できる",
+    "output": "visible to the naked eye"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "下手な作品",
+    "output": "a botchy piece of work"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "それは不器用な試みであった",
+    "output": "it was an unskillful attempt"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "句動詞",
+    "output": "phrasal verb"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "馬に乗った男たちの縦列が通り過ぎた",
+    "output": "a file of men ahorseback passed by"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "これらの施策は経済を再膨張させる",
+    "output": "These measures reflated the economy"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "正式な法的過程の扱いにくさを避ける",
+    "output": "avoiding the unwieldiness of formal legal processes"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "大きな機関での扱いにくさと官僚主義の負担",
+    "output": "the onset of unwieldiness and bureaucracy in large organizations"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼の顔色の黄褐色",
+    "output": "the tawniness of his complexion"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼らはまだ検知されていない毒を恐れた",
+    "output": "they feared some undetected trace of poison"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女は、自分の過失が気付かれていないことを確信するためにあたりを見まわした",
+    "output": "she looked around to be sure her faux pas was undetected"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は独房監禁された",
+    "output": "he was held in solitary"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "子音の音",
+    "output": "consonantal sounds"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "子音のヘブライ語文字",
+    "output": "a consonantal Hebrew text"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "子音の頭韻",
+    "output": "consonantal alliteration"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "子音の連続音",
+    "output": "a consonantal cluster"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "レストランをフランス化してもっと高価にしよう",
+    "output": "let's Frenchify the restaurant and charge more money"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "`restful'は`fluster'のアンチグラムである",
+    "output": "`restful' is the antigram of `fluster'"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は、少し興味を持っていた",
+    "output": "he was mildly interested"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "もう少し豪華さを控え、それでいて、ちょうど、ピーター・ウィムシー卿のように上品に",
+    "output": "a little less posh but every bit as stylish as Lord Peter Wimsey"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "グシュタードの粋なリゾート",
+    "output": "the stylish resort of Gstadd"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は無言で彼女の隣にすわった",
+    "output": "he sat mutely next to her"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "パンの厚切れ",
+    "output": "a hunk of bread"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "石炭の塊",
+    "output": "a lump of coal"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ジャーナリストは事実の冷静なレポーターであるべきである",
+    "output": "a journalist should be a dispassionate reporter of fact"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "事故のため、道路は数時間閉鎖されなければならなかった",
+    "output": "Due to the accident, the road had to be closed for several hours"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "われわれは敵の倍加した攻撃に直面した",
+    "output": "we faced redoubled attacks from the enemy"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "われわれの倍加した努力にかかわらず",
+    "output": "despite our redoubled efforts"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "無表情のユーモア",
+    "output": "deadpan humor"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "判決が読まれるときに彼の顔は無表情のままであった",
+    "output": "his face remained expressionless as the verdict was read"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "学問は教育の二次的なものではない",
+    "output": "instruction is not an educational sideshow"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女は服装がよく似合っていた",
+    "output": "she was becomingly dressed"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "保証できる事実",
+    "output": "a certifiable fact"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "警察の残忍な行為に対して沈黙の申し合わせがあった",
+    "output": "there was a conspiracy of silence about police brutality"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "解決できない疑い",
+    "output": "an insoluble doubt"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "画像がその文を理解することを容易にした",
+    "output": "pictures made the text easier to understand"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "軍は戦場におり、敵の侵攻を防いだ",
+    "output": "the armies were afield, challenging the enemy's advance"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "季節が到来するまで猟銃を外に持ち出すことは不法である",
+    "output": "unlawful to carry hunting rifles afield until the season opens"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女はスキャンダルとは無縁であった",
+    "output": "not a breath of scandal ever touched her"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "新しい切手の発行",
+    "output": "a new issue of stamps"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ペニシリンの最近の発給は1か月以上前であった",
+    "output": "the last issue of penicillin was over a month ago"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "見識の高い編集者",
+    "output": "a discerning editor"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "思慮ある沈黙",
+    "output": "a discreet silence"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼はハーバードに居座った",
+    "output": "He nailed down a spot at Harvard"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "歴史上の人物の見かけ上の漫画",
+    "output": "cardboard caricatures of historical figures"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "魚、両生類、爬虫類、鳥と哺乳類は脊椎動物である",
+    "output": "fishes and amphibians and reptiles and birds and mammals are verbetrate animals"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は彼女の胸で圧迫された",
+    "output": "he felt a constriction in her chest"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女は胸に注意すべき締め付けを感じた",
+    "output": "she felt an alarming tightness in her chest"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "情緒が彼の喉の圧迫感を引き起こした",
+    "output": "emotion caused a constriction of his throat"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "風がまとまった葉を吹いてめちゃめちゃの塊にした",
+    "output": "winds whipped the piled leaves into churning masses"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ドロドロの泥の中にはまった車",
+    "output": "a car stuck in the churned-up mud"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "制御不能の子供たち",
+    "output": "uncontrollable children"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "直すことの出来ない癖",
+    "output": "an uncorrectable habit"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "学生の組織は反逆者によって浸透された",
+    "output": "The student organization was infiltrated by a traitor"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は彼の古いたまり場への私の慌ただしい訪問についてすべて聞きたがっていた",
+    "output": "he wanted to hear all about my flying visit to his old stamping grounds"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "迷った羊を見つけた",
+    "output": "found the straying sheep"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "オックスフォードの教育",
+    "output": "Oxonian education"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "1時間待って、私の怒りが沸騰した",
+    "output": "after an hour of waiting I was at the boiling point"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "竜巻は海岸を通過した",
+    "output": "The tornado ripped along the coast"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "誰が予約したのかしらと思った",
+    "output": "wondered who had made the booking"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "あの眺望のきく地点からなら、彼は谷全体を見晴らすことができた",
+    "output": "from that vantage point he could survey the whole valley"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "日が経過した",
+    "output": "The day wore on"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "シートベルトの留め金を外して下さい",
+    "output": "Unbuckle your seat belt"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "生意気な慎みがない自慢",
+    "output": "brash immodest boasting"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "その機関は、政策を履行するために創設された",
+    "output": "the agency was created for the implementation of the policy"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "住人は浜辺を砂袋でふさいだ",
+    "output": "The residents sandbagged the beach front"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "自筆遺言",
+    "output": "a holographic will"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女のタッチの優美さ",
+    "output": "the daintiness of her touch"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女の容貌の見事さ",
+    "output": "the fineness of her features"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "左官と部長の間には多すぎる門番がいる",
+    "output": "there are too many gatekeepers between the field officers and the chief"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "腰椎",
+    "output": "lumbar vertebrae"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "高齢の人々",
+    "output": "old people"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "少なくとも200人の聴衆がいた",
+    "output": "there were at least 200 people in the audience"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は多くの科学論文を書いた",
+    "output": "he has written many scientific papers"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "きさくな生徒を引き付ける能力",
+    "output": "an ability to interest casual students"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "寒い天気に対するちょっとした無関心を示す",
+    "output": "showed a casual disregard for cold weather"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "全くのんきな財政方針",
+    "output": "an utterly insouciant financial policy"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "典雅に無頓着な方法",
+    "output": "an elegantly insouciant manner"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "勝手気ままに車を運転する",
+    "output": "drove his car with nonchalant abandon"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "からかうようなさりげなさで礼儀正しかった",
+    "output": "was polite in a teasing nonchalant manner"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "燃えているゴムの悪臭",
+    "output": "a strong odor of burning rubber"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼が言ったことは可笑しいが引用できない",
+    "output": "what he said was funny but unquotable"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "各コアはそれを通過している3つのワイヤーを有し、各ビットの内容を選択し、見つける手段を提供する",
+    "output": "each core has three wires passing through it, providing the means to select and detect the contents of each bit"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は操縦がうまかった",
+    "output": "he made a great maneuver"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ランナーはショートによってアウトにされた",
+    "output": "the runner was out on a play by the shortstop"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "波の絶え間ない轟音",
+    "output": "the ceaseless thunder of surf"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "恒常的な痛みで",
+    "output": "in constant pain"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "昼夜を問わず私たちは町の絶え間ない騒音とともに生きている",
+    "output": "night and day we live with the incessant noise of the city"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "幸福の果てしない追求",
+    "output": "the never-ending search for happiness"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "民主主義の基準を維持するように恒久的に努力をする",
+    "output": "the perpetual struggle to maintain standards in a democracy"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "欠乏と孤立との人間の絶え間ない戦い",
+    "output": "man's unceasing warfare with drought and isolation"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "絶え間ない空腹の欲求",
+    "output": "unremitting demands of hunger"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は完全なルーレット必勝法を知っている",
+    "output": "he has a perfect gambling system at roulette"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "訴訟の偏った弁明",
+    "output": "a biased account of the trial"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "被告に対して偏った決定",
+    "output": "a decision that was partial to the defendant"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "偏見のない好奇心",
+    "output": "an open-minded curiosity"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "偏見のない公平さ",
+    "output": "open-minded impartiality"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "金で数千を使う",
+    "output": "lay out thousands on gold"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "巨額の利益を作ることを期待して彼は財産を投資した",
+    "output": "he laid out a fortune in the hope of making a huge profit"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ハンバーガーとコーラに対し、水ギセルとトルココーヒーがある両極端な世界",
+    "output": "a bipolar world with the hookah and Turkish coffee versus hamburgers and Coca Cola"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "中国はロシアに言い寄っている",
+    "output": "China is wooing Russia"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "Cシャープ",
+    "output": "C sharp"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "アフリカの準王室の支配者の一人",
+    "output": "one of the quasi-royal rulers of Africa"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女は型にショールを集めた",
+    "output": "she gathered her shawl around her shoulders"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼らは都市の城壁を襲撃した",
+    "output": "they stormed the ramparts of the city"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼らがほらを吹くとその壁が崩れ落ちてきた",
+    "output": "they blew the trumpet and the walls came tumbling down"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "洗礼盤",
+    "output": "baptismal font"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女の目は涙でいっぱいであった",
+    "output": "Her eyes were tearing"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は大の字に寝るので自分自身のベットが必要である",
+    "output": "he is such a sprawler he needs a bed to himself"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "その小説は死と腐敗の毒気を紡いだ",
+    "output": "the novel spun a miasma of death and decay"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "成人の血圧は120/80が正常と考えられていて、最初の数字は心収縮期の血圧、2番目の数字は拡張期の血圧である",
+    "output": "adult blood pressure is considered normal at 120/80 where the first number is the systolic pressure and the second is the diastolic pressure"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "議論の余地がない事実",
+    "output": "unchallengeable facts"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "議論の余地がない最高の位置",
+    "output": "a position of unchallengeable supremacy"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "看護士は彼にインフルエンザの注射をした",
+    "output": "the nurse gave him a flu shot"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "われわれはこれらの薬品をジェネリックで売りだす",
+    "output": "we market these drugs generically"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼の震えは恐れていることの証拠だった",
+    "output": "his trembling was evidence of his fear"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "私はこの説法を皮肉ととらえる",
+    "output": "I read this address as a satire"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "このメッセージをどのようにとればいいか",
+    "output": "How should I take this message?"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "あなたはこれを自分の手柄にすることができません！",
+    "output": "You can't take credit for this!"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "古代ゴール語の方言",
+    "output": "Ancient Gallic dialects"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ゴール人の移動",
+    "output": "Gallic migrations"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ガリア戦争",
+    "output": "the Gallic Wars"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "大統領はリムジンで急に場所を離れた",
+    "output": "The President was whisked away in his limo"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "不正に価格の値段交渉をする",
+    "output": "tortuously haggling over the price"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "不十分な収入",
+    "output": "an inadequate income"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "貧しい給料",
+    "output": "a poor salary"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "金が不足している",
+    "output": "money is short"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "不十分な配給で",
+    "output": "on short rations"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "食物は不足している",
+    "output": "food is in short supply"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "経験不足",
+    "output": "short on experience"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "家を燃やす",
+    "output": "set the house afire"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "先生がテストを配った",
+    "output": "The teacher handed out the exams"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "中年のロマンス作家がまともな結婚をしてその映画は終わる",
+    "output": "the film ends with the middle-aged romancers respectably married"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "強い四肢",
+    "output": "strong-limbed "
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "唐草浮き彫り模様の尖塔",
+    "output": "a crocketed spire"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "私は異にすることを主張する",
+    "output": "I beg to differ!"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女は多くの問題に関して夫と意見を異にする",
+    "output": "She disagrees with her husband on many questions"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "「戦いが激しければ激しいほど、勝利は輝かしいものとなる」―トマス・ペイン",
+    "output": "the harder the conflict the more glorious the triumph--Thomas Paine"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "警察は暴徒と化した妊娠中絶擁護派と反対派の暴徒たちを収めようとした",
+    "output": "police tried to control the battle between the pro- and anti-abortion mobs"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "私は振り向きました、数百フィート離れたそこには、我々の政府の世話をする、我々に向かって怒鳴りつけ、息を切らしているリ・ウォン・スがいた",
+    "output": "I turned around and there, a few hundred feet away, was our government minder, Li Wong Su, huffing and puffing toward us"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "案の定、彼は再び彼女にお金を要求した",
+    "output": "sure enough, he asked her for money again"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女は、誇らしげに叫んだ",
+    "output": "she shouted triumphantly"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "謝恩晩餐会",
+    "output": "testimonial dinner"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女はまるごと買った",
+    "output": "she bought the whole caboodle"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "低下温度",
+    "output": "falling temperature"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "被告人によって窒息させられたという証拠はない",
+    "output": "no evidence that the choking was done by the accused"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "それは機材部に行けばある",
+    "output": "you'll find it in the hardware department"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女は財務省の史料部に仕事を見つけた",
+    "output": "she got a job in the historical section of the Treasury"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "直線のフィート当たりの木材の費用",
+    "output": "cost of lumber per running foot"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "有効需要の衰退",
+    "output": "a decline in the effective demand"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "効果的に行われた仕事の量と、増大した設備と出費を取り違える",
+    "output": "confused increased equipment and expenditure with the quantity of effective work done"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "キューバ人が飛行機を乗っ取り、マイアミへとんだ",
+    "output": "The Cubans commandeered the plane and flew it to Miami"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ボールを捕らえてください！",
+    "output": "Catch the ball!"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "エレベーターの扉をつかんでください！",
+    "output": "Grab the elevator door!"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "建物全体が騒音について不満を漏らした",
+    "output": "the entire building complained about the noise"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "前もって警告した",
+    "output": "gave advance warning"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "あらかじめレポートとともにあった",
+    "output": "was beforehand with her report"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "私は教室でのコンピュータの使用を促進している",
+    "output": "I am promoting the use of computers in the classroom"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は年の割に若い",
+    "output": "he is young for his age"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼はズボンにはっきりとした折り目をつけていた",
+    "output": "he had a sharp crease in his trousers"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "安全な旅行",
+    "output": "a safe trip"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "あなたはここでは安全である",
+    "output": "you will be safe here"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "安全な場所",
+    "output": "a safe place"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "安全策",
+    "output": "a safe bet"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ドゥビューは言語感覚がない",
+    "output": "Dubyuh has no sprachgefuhl"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "この首輪は猫の首を絞めている",
+    "output": "This neckband is choking the cat"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ツアーのやま場はヴァテイカンを訪れたことだった",
+    "output": "the highlight of the tour was our visit to the Vatican"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "パスカルは単に実行されるルーチンの名前を与えることによってコールを行う",
+    "output": "Pascal performs calls by simply giving the name of the routine to be executed"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ガチャリとなる鎖",
+    "output": "clanking chains"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼の傍の兵隊のガチャリと鳴る武器",
+    "output": "the clanking arms of the soldiers near him"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "燐光体が蛍光を発する",
+    "output": "the phosphor fluoresced"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "島には多くの興味深い固有種がいる",
+    "output": "the islands have a number of interesting endemic species"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "それらは幾重にも誤りをチェックされる",
+    "output": "they were multiply checked for errors"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼らは密造酒を水で薄めた",
+    "output": "They watered down the moonshine"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼の絵は芸術界へ導かれた",
+    "output": "His paintings commend him to the artistic world"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "部門間競争",
+    "output": "interdepartmental competition"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "光の供給",
+    "output": "optical supplies"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女は椅子に倒れこんだ",
+    "output": "She fell back in her chair"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼はひざまずいた",
+    "output": "He fell to his knees"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "星がクリスマスツリーを飾った",
+    "output": "stars ornamented the Christmas tree"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "私の論文の批評を指摘してくれますか",
+    "output": "Could you please specify your criticism of my paper?"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "最も歓迎された救援",
+    "output": "a most welcome relief"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "続けざまの水滴の落ちる音が彼をいらだたせた",
+    "output": "the constant sound of dripping irritated him"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "工科大のゲームにジョージアは大揺れであった",
+    "output": "Georgia was shaken up in the Tech game"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "不飽和の食塩水",
+    "output": "an unsaturated salt solution"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "薬物を投与された男は、混沌と話していた",
+    "output": "the drugged man was talking chaotically"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "それは金と同じくらい良かった",
+    "output": "it was as good as gold"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "命令に等しかった願望",
+    "output": "a wish that was equivalent to a command"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼の声明は罪の自白と等しかった",
+    "output": "his statement was tantamount to an admission of guilt"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "所持品をみんなもったか",
+    "output": "did you take all your clobber?"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "足底疣贅は非常に苦痛である場合がある",
+    "output": "plantar warts can be very painful"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "黒い革のジャケット",
+    "output": "black leather jackets"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "石炭のように黒い",
+    "output": "as black as coal"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "豊かな黒色土",
+    "output": "rich black soil"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "テレビ番組の間に入り込ませる",
+    "output": "slot a television program"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "平和な国家",
+    "output": "a peaceful nation"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "平和な時",
+    "output": "peaceful times"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "全く平和でないクリスマス",
+    "output": "a far from peaceful Christmas"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "穏やかな眠り",
+    "output": "peaceful sleep"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "正三角形を造ってください",
+    "output": "construct an equilateral triangle"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "戦術上有益な周は反乱軍の手にしっかりとある",
+    "output": "the tactically useful province is still firmly in the rebels' hands"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "わずかの可能性",
+    "output": "an outside chance"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ありそうもないこと",
+    "output": "a remote possibility"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ありえないこと",
+    "output": "a remote contingency"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "金貨",
+    "output": "gold coins"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "米国連邦議会議事堂の金のドーム",
+    "output": "the gold dome of the Capitol"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "金の子牛",
+    "output": "the golden calf"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "金メッキされたイコン",
+    "output": "gilded icons"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "悲しい霧雨の日",
+    "output": "a sad drizzly day"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "湿った雨の降る日",
+    "output": "a wet drippy day"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は魅力的だったのですぐに好感と人気を得た",
+    "output": "his charm soon won him affection and popularity"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "アメリカ映画の普遍的な人気",
+    "output": "the universal popularity of American movies"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "医師が糖尿病と言えば通常、成人発症型糖尿病をさす",
+    "output": "when doctors say `diabetes' they usually mean `diabetes mellitus'"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼がテキストの行を読みとばしたので、その文章は不可解だった",
+    "output": "He skipped a row in the text and so the sentence was incomprehensible"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "私たちは神を信じることができる",
+    "output": "We can trust in God"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "友人に頼ってください",
+    "output": "Rely on your friends"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "良い教育をあてにする",
+    "output": "bank on your good education"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "私はおばあさんのレシピをおおいに頼る",
+    "output": "I swear by my grandmother's recipes"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "許されない振舞い",
+    "output": "impermissible behavior"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は退役軍人だ",
+    "output": "he's a retired army officer"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "母に電話をかけるよう知らせてください",
+    "output": "Remind me to call Mother"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "手直しできる服",
+    "output": "alterable clothing"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "変更できる雇用条件",
+    "output": "alterable conditions of employment"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "これは経験的にテストできる",
+    "output": "this can be empirically tested"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "独房はベットがなかった",
+    "output": "the cell was bedless"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ボタンや針は小間物である",
+    "output": "buttons and needles are notions"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ユダヤ教とキリスト教の伝統",
+    "output": "the Judeo-Christian tradition"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "軟骨のスタイル",
+    "output": "a cartilaginous style"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "細い針金",
+    "output": "thin wire"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "薄手のシフォンブラウス",
+    "output": "a thin chiffon blouse"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "薄い本",
+    "output": "a thin book"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "薄く塗ったペンキ",
+    "output": "a thin layer of paint"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "列車の動画は同じ主題の静止した写真よりもドラマチックだ",
+    "output": "a moving picture of a train is more dramatic than a still picture of the same subject"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は、彼のファンレターに返事を書く人を雇った",
+    "output": "he hired someone to answer his fan mail"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "電動車椅子",
+    "output": "a motorized wheelchair"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "シャーリアはイスラム教徒のみに適応される",
+    "output": "sharia is only applicable to Muslims"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "イスラム法の下では、政教分離が全くない",
+    "output": "under Islamic law there is no separation of church and state"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "別れの言葉を告げる",
+    "output": "a valedictory address"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "一様に男らしい道への別れの称賛",
+    "output": "valedictory praise for his uniformly manly course"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "適当な別れのしぐさ",
+    "output": "a suitable valedictory gesture"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "短期的な計画",
+    "output": "short-run planning"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "短期リース",
+    "output": "a short-term lease"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "短期信用",
+    "output": "short-term credit"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "光の速度は一定である",
+    "output": "the velocity of light is a constant"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "祈る人を吹く",
+    "output": "whiff out a prayer"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "カバーページの若干の部分が赤インクで印刷されるので、予備案内は時々燻製ニシンと呼ばれている",
+    "output": "because some portions of the cover page are printed in red ink a preliminary prospectus is sometimes called a red herring"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼はほんの少しためらっただけなのだが、それで好機を逃してしまった",
+    "output": "his indecision was only momentary but the opportunity was lost"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "シャクシギの反りえって曲がった嘴",
+    "output": "the decurved bill of a curlew"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "謹厳で教訓めいた振り付け",
+    "output": "choreography that was sobersided and sententious"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "まじめな社会的メッセージのある演劇",
+    "output": "a play with a sobersided social message"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "歯医者は、抽出の前に局部麻酔薬を彼女に投与した",
+    "output": "the dentist gave her a local anesthetic prior to the extraction"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "役に立つ台所道具",
+    "output": "a serviceable kitchen gadget"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "私たちは理性的に行動しなければならない",
+    "output": "we must act rationally"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "コンピュータ・プログラムを最適化してください",
+    "output": "optimize a computer program"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "たばこをはぐ",
+    "output": "strip tobacco"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "織物を押し込む",
+    "output": "tuck the fabric"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "シーツに折こむ",
+    "output": "tuck in the sheet"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "大袈裟でない男",
+    "output": "an unexpansive man"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "条件付きの義務",
+    "output": "stipulatory obligations"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "公共建築物は祭日に花飾りがされた",
+    "output": "The public buildings were festooned for the holiday"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "裸の窓",
+    "output": "undraped windows"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "強いにおい",
+    "output": "a hot scent"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は姉妹への愛情をあけっぴろげに見せびらかした",
+    "output": "he openly flaunted his affection for his sister"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "神経質に耽る人",
+    "output": "a nervous addict"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "神経質なサラブレッド",
+    "output": "a nervous thoroughbred"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "仕出し施設",
+    "output": "catering facilities"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "トイレ設備",
+    "output": "toilet facilities"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "教育施設",
+    "output": "educational facilities"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "私は彼を無感覚に見つめた",
+    "output": "I stared at him numbly"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "銀の付いたプレートスプーン",
+    "output": "plate spoons with silver"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼はこれ以上敵意を抑えられなかった",
+    "output": "he could no longer contain his hostility"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "系統発生の開発",
+    "output": "phylogenetic development"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "不愉快な老人",
+    "output": "a disagreeable old man"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "家族が減っていくことほど大きな悲しみはない",
+    "output": "there is no greater sadness that the dwindling away of a family"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "優美なふるまい",
+    "output": "gainly conduct"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "黒い毛と目を持つ優美な若者",
+    "output": "a gainly youth with dark hair and eyes"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "手足を切断してください",
+    "output": "amputate limbs"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女の神経を安定させる効果のあった",
+    "output": "had a steadying effect on her nerves"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "獲物を追いたてる",
+    "output": "drive the game"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "源を併せる",
+    "output": "combine resources"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "友人を作ってください",
+    "output": "make friends"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "敵を作りなさい",
+    "output": "make enemies"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "それは一括取引だった",
+    "output": "it was a package deal"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "私は彼とはそれ以降取引しなかった",
+    "output": "I had no further trade with him"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は商業取引の達人だ",
+    "output": "he's a master of the business deal"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "助けられた光栄である",
+    "output": "glad to help"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "私はそれをしくじりました！",
+    "output": "I bungled it!"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼の不在のでっち上げの口実",
+    "output": "a fabricated excuse for his absence"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "想像した間違い",
+    "output": "a fancied wrong"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "架空の人物",
+    "output": "a fictional character"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ジョンは昇進しようと躍起になっている",
+    "output": "John is bucking for a promotion"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "これらの2つの化学物質の反応を観測してみてください",
+    "output": "Please observe the reaction of these two chemicals"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "膿んだ歯",
+    "output": "an abscessed tooth"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "その治療は初年のニキビを治した",
+    "output": "The treatment cured the boy's acne"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "そのやぶ医者は患者を治すふりをしたが決して治そうとはしなかった",
+    "output": "The quack pretended to heal patients but never managed to"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "発音可能な文字の一群",
+    "output": "a pronounceable group of letters"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "内回り線",
+    "output": "the inbound train"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "首都の内部洪水",
+    "output": "inward flood of capital"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "これは量的に表すことができる",
+    "output": "this can be expressed quantitatively"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "公爵の宮殿",
+    "output": "ducal palace"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は彼女の精神的落ち込みに責任がある",
+    "output": "he felt responsible for her lowness of spirits"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼らはついにしわを伸ばした",
+    "output": "they finally have the wrinkles pretty well ironed out"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "堤防に面する",
+    "output": "face an embankment"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "貨物は安全で能率的出荷のためにコンテナに積まれた",
+    "output": "The cargo was containerized for safe and efficient shipping"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "帝国の衰退期に",
+    "output": "in the twilight of the empire"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "文の構成",
+    "output": "the formation of sentences"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "記憶の形成",
+    "output": "the formation of memories"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は自動車の手入れに関するマニュアルを書いた",
+    "output": "he wrote the manual on car care"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼らの熱意は衰えている",
+    "output": "Their enthusiasm is faltering"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "小さいダイニングルーム",
+    "output": "a little dining room"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "小さい家",
+    "output": "a little house"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "小型車",
+    "output": "a small car"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "少ない（小さい）グループ",
+    "output": "a little (or small) group"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "抵抗不可能な人質",
+    "output": "resistless hostages"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "他のいかなる植民地も、自身の境界市民が無慈悲も苦しめられていることを許容することに対して、そのような無関心で、利己的な無力さを示さなかった−セオドア・ルーズベルト",
+    "output": "No other colony showed such supine, selfish helplessness in allowing her own border citizens to be mercilessly harried- Theodore Roosevelt"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼らは形式上の手紙に答えた",
+    "output": "they answered my letter pro forma"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼はおざなりに彼女のほおにキスした",
+    "output": "he kissed her cheek perfunctorily"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "6世紀のキリスト教エジプトの特有のコプト芸術",
+    "output": "the distinctive Coptic art of 6th-century Christian Egypt"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "スラング用語の流布",
+    "output": "the currency of a slang term"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "一時間の大半論争する",
+    "output": "argued for the better part of an hour"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "給食施設は主に無賃のヘルパーによって賄われる",
+    "output": "the soup kitchen was run primarily by unpaid helpers"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "有志の消防署",
+    "output": "a volunteer fire department"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "相乗効果",
+    "output": "a synergistic effect"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "不行儀の最近の露呈",
+    "output": "the recent irruption of bad manners"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "上流社会の人",
+    "output": "a man of quality"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ペロポンネソス戦争",
+    "output": "Peloponnesian War"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "そのコインはリンカーンの肖像がついている",
+    "output": "the coin bears an effigy of Lincoln"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "皇帝の墓には彼の肖像が墓石に彫られていた",
+    "output": "the emperor's tomb had his image carved in stone"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "反乱のまれな例",
+    "output": "isolated instances of rebellion"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "いくつかの散らばった断片",
+    "output": "a few stray crumbs"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ガソリンの価格は過去2年間4倍に上がっている",
+    "output": "the price of gasoline has increased fourfold over the past two years"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "もっと爆弾が爆発する警告",
+    "output": "a warning that still more bombs could explode"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "凶器を使った強盗",
+    "output": "armed robbery"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "煮え切らない恋人",
+    "output": "a backward lover"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼はチャートに線を引いた",
+    "output": "He drew a line on the chart"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "十分な金のないことを継続的に不平をいう",
+    "output": "complained continually that there wasn't enough money"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "石油ストーブを運ぶか",
+    "output": "Do you carry kerosene heaters?"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "焦点",
+    "output": "focal point"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "病巣感染",
+    "output": "focal infection"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "もっと外へ針を動かしてください！",
+    "output": "move the needle further outward!"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼のしゃべりの混濁からするとひどく飲んだようだ",
+    "output": "judging from the thickness of his speech he had been drinking heavily"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼によろしく",
+    "output": "give him my kind regards"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "よろしく",
+    "output": "my best wishes"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "オーケストラを指揮する；バレンボイムは、長い間シカゴ・シンフォニーを指揮した",
+    "output": "conduct an orchestra; Barenboim conducted the Chicago symphony for years"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ハンターは、鹿を追って森に入った",
+    "output": "The hunters traced the deer into the woods"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "探偵は、見つけるまで容疑者を追跡した",
+    "output": "the detectives hounded the suspect until they found him"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼はイタリアへの途中でイタリア語の集中講座をとった",
+    "output": "he took a crash course in Italian on his way to Italy"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼の最初の仕事は、サバイバルと人々とやっていく方法の学習の特訓コースでった",
+    "output": "his first job was a crash course in survival and in learning how to get along with people"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "新しい仕事を作るためには、突貫計画が必要である",
+    "output": "a crash programme is needed to create new jobs"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "極端な保守主義者",
+    "output": "an extreme conservative"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "極端な自由主義者",
+    "output": "an extreme liberal"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "統合への極端な意見",
+    "output": "extreme views on integration"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "極端な意見",
+    "output": "extreme opinions"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "花を加えたことで心地よい効果が出た",
+    "output": "the addition of flowers created a pleasing effect"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "4年ごとにうるう日を加えること",
+    "output": "the addition of a leap day every four years"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "わなにはまる",
+    "output": "fall into a trap"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女は病気になった",
+    "output": "She fell ill"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼らは愛想をつかされた",
+    "output": "They fell out of favor"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "恋に落ちる",
+    "output": "fall in love"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "眠りに落ちる",
+    "output": "fall asleep"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "詐欺師の犠牲となる",
+    "output": "fall prey to an imposter"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "奇妙な考えにはまる",
+    "output": "fall into a strange way of thinking"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "仕事を失った後で彼女はひどく落ち込んだ",
+    "output": "she fell to pieces after she lost her work"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "無条件反射",
+    "output": "an unconditioned reflex"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼の衰弱は監獄での年月を示した",
+    "output": "his etiolation signaled years in prison"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "花がそこいらじゅうのテーブルをかざった",
+    "output": "Flowers adorned the tables everywhere"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "パイプの内側はダメになっている",
+    "output": "the inside of the pipe has gummed up"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女はフルタイムで働く",
+    "output": "she works full-time"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "熱帯の雨は悪名高く変化する",
+    "output": "rainfall in the tropics is notoriously variable"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "変わりやすい風",
+    "output": "variable winds"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "変動費",
+    "output": "variable expenses"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "皮膚病は、永久に、彼の顔に傷跡を残した",
+    "output": "The skin disease scarred his face permanently"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "怒った目をした動物をトラックに押し込む",
+    "output": "crowded the wild-eyed animals into a truck"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "感染は左の目に集中していた",
+    "output": "The infection has localized in the left eye"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "私は怒りを感じ、彼もまた感じた",
+    "output": "I was offended and so was he"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "一生懸命働き彼女もまた働いた",
+    "output": "worked hard and so did she"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は彼に役を不器用にこなした",
+    "output": "he performed his functions ineptly"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "革命家は組織を穴だらけにした",
+    "output": "the revolutionaries honeycombed the organization"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "研究はデータの不備によって批評されましたが、それは更なる研究を刺激した",
+    "output": "the study was criticized for incompleteness of data but it stimulated further research"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼の日誌が生のままなので発刊できない",
+    "output": "the rawness of his diary made it unpublishable"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "過ぎ越しの小羊",
+    "output": "paschal lamb"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は裏庭で野菜を作る",
+    "output": "He grows vegetables in his backyard"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "もっぱら彼らの言語では、このごろ上流階級が識別される−ナンシー・ミットフォード",
+    "output": "it is solely by their language that the upper classes nowadays are distinguished- Nancy Mitford"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "われわれは町ではもはや馬車をほとんど見かけない",
+    "output": "we now rarely see horse-drawn vehicles on city streets"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "今日、ほとんどすべての家にテレビがある",
+    "output": "today almost every home has television"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "イブニングドレスで10個のデニールストッキングをはく",
+    "output": "with an evening dress one wears 10 denier stockings"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "有機栽培はより自然である",
+    "output": "organic gardening is more natural"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "非合成の肥料",
+    "output": "nonsynthetic fertilizer"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "都市の降伏のニュースは、兵士をぞっとさせた",
+    "output": "The news of the city's surrender chilled the soldiers"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "折よくあなたの手紙が届いた",
+    "output": "your letter arrived apropos"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "より良いワイン",
+    "output": "a finer wine"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "より素晴らしい音楽家",
+    "output": "a finer musician"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "嵐が棒と残骸を車よせに残した",
+    "output": "the storm left the drivewaylittered with sticks nd debris"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼の書室はそれぞれのいすに本が積まれた、ちらかった部屋だった",
+    "output": "his library was a cluttered room with piles of books on every chair"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "熱波のハイウエイがゆがめられた",
+    "output": "The highway buckled during the heat wave"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "私がそこにいたのは幸運だった",
+    "output": "it was my good luck to be there"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "幸運をもたらすものは女神だといわれている",
+    "output": "they say luck is a lady"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "まるで幸運が彼の手を引いて導いたかのようだった",
+    "output": "it was as if fortune guided his hand"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "スツールには背もたれがなく肘掛もない",
+    "output": "a stool is a backless and armless seat"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "そういう事情で、私は家を買うことができない",
+    "output": "under the circumstances I cannot buy the house"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ばかげた恐怖",
+    "output": "irrational fears"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "理性のない動物",
+    "output": "irrational animals"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "あなたはそれらの1つを見つけに遠い田舎まで行かなければならないだろう",
+    "output": "you'd have to go to the back of beyond to find one of those"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "腹部の中は考えがあるがまだ生まれていないを意味する法的用語である",
+    "output": "`in venter' is legal terminology for `conceived but not yet born'"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "吸着している油の固まり",
+    "output": "the sorbed oil mass"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "パラジウムの閉塞された水素の多い量",
+    "output": "large volumes of occluded hydrogen in palladium"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "宇宙旅行の最新技術",
+    "output": "the state of the art in space travel"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "われわれは法的に結婚している",
+    "output": "we are lawfully wedded now"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "記憶を助ける工夫",
+    "output": "mnemonic device"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "非競争的な位置",
+    "output": "noncompetitive positions"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ゲームへの非競争的な関心",
+    "output": "noncompetitive interest in games"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼らはある規準において快適であり豊かでもある",
+    "output": "they were comfortable or even wealthy by some standards"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "安易な生き方",
+    "output": "easy living"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "富裕な家族",
+    "output": "a prosperous family"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼の家族は金銭的に恵まれている",
+    "output": "his family is well-situated financially"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "コミュニティの裕福なメンバー",
+    "output": "well-to-do members of the community"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は治癒的クローニングのためにチアリーダーになった",
+    "output": "he has become a cheerleader for therapeutic cloning"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "原子時計によって、科学者ははるかに高精度で時間を測定することができた",
+    "output": "the atomic clock enabled scientists to measure time with much greater accuracy"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "大統領はモデルになる時間がなかったので芸術家が写真から作った",
+    "output": "the president didn't have time to be a model so the artist worked from photos"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女は彼らの苦境のことを考えた",
+    "output": "She bethought her of their predicament"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ある大学の運動選手は最近ビールを若い人たちのドラッグの始まりであるといった",
+    "output": "one college athlete recently called beer a gateway drug for young people"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼はスロットルをファイアーウォールの動かした",
+    "output": "he moved the throttle to the firewall"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は直観で、何か問違いがあったと思った",
+    "output": "he had an intuition that something had gone wrong"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "偶然に頭越しの言葉によって裏切られる",
+    "output": "betrayed by a word haply overheard"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "冬が始まった",
+    "output": "winter has set in"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "メトロポリタン美術館は、今月、ゴヤの作品を展示ている",
+    "output": "The Metropolitan Museum is exhibiting Goya's works this month"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "きれいな足を見せて短いスカートを履いたらどう",
+    "output": "Why don't you show your nice legs and wear shorter skirts?"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "国民的リーダーは、政治的手腕の最高の技術を示さなけれならないだろう",
+    "output": "National leaders will have to display the highest skills of statesmanship"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "野外学習は野外活動におけるトレーニングに関する教員教育の分野である",
+    "output": "outdoor education is the area of teacher training concerned with training for outdoor activities"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女は素早く動いた",
+    "output": "she moved swiftly"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "希望のない状況で生きる人の声の出ないこと",
+    "output": "the voicelessness of those who live in situations of hopelessness"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は病気ではなかった、それは単なる口実だった",
+    "output": "he wasn't sick--it was just a subterfuge"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "その持株会社は単なる隠れみのだった",
+    "output": "the holding company was just a blind"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "とてもおろかで不器用な仲間",
+    "output": "a big stupid lubberly fellow"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "飢えのために、彼らの頬にはくぼみができた",
+    "output": "hunger had caused the hollows in their cheeks"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は良い取引のために鼻が利く",
+    "output": "he has a nose for good deals"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "あなたは困難をすべて克服しなければならない",
+    "output": "You must overcome all difficulties"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "敵を破ってください",
+    "output": "defeat your enemies"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は内気を克服した",
+    "output": "He overcame his shyness"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は弱さを克服した",
+    "output": "He overcame his infirmity"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女の怒りは彼女を勝り我慢が出来なくなった",
+    "output": "Her anger got the better of her and she blew up"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "牛は線路に立っていたので列車が脱線した",
+    "output": "the train derailed because a cow was standing on the tracks"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "肋膜筋肉",
+    "output": "pleural muscles"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "兵隊は夜じゅう密に這っていた",
+    "output": "the soldiers were furtively crawling through the night"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女はかび臭いパンをゴミ箱へ捨てた",
+    "output": "she tossed the moldy bread into the garbage"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "心を推定する能力",
+    "output": "the illative faculty of the mind"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "その会社は核産業の廃棄物処理政策に対し、非常に信用の置ける期待できる会社である",
+    "output": "this company is the great white hope of the nuclear industry's waste management policy"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "行商人",
+    "output": "itinerant traders"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "マーチン・ルーサー・キングは人種差別を打ち破ろうとした",
+    "output": "Martin Luther King tried to break down racial discrimination"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女は、彼女の一番末の息子が大好きだった",
+    "output": "she had a soft spot for her youngest son"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は、ひどく興奮して話していた",
+    "output": "he was talking deliriously"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "子供は母から子宮内で感染した",
+    "output": "the child was infected in utero from the mother"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "縄張り行動",
+    "output": "territorial behavior"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "強く縄張り意識のある鳥",
+    "output": "strongly territorial birds"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼はシーフードにはうるさい",
+    "output": "he has a thing about seafood"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女は彼をとても気にしている",
+    "output": "she has a thing about him"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "政府は政治活動家を圧迫する",
+    "output": "The government oppresses political activists"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "敵を苦しめる",
+    "output": "harass the enemy"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "直線で10マイルである",
+    "output": "it's 10 miles as the crow flies"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "広い港",
+    "output": "a commodious harbor"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "会議に適当な広い建物",
+    "output": "a commodious building suitable for conventions"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "馬が気難しく振舞いジャンプすることを拒んだ",
+    "output": "the horse was behaving fractiously and refused to jump"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "そのように洗練された少女がどうしてそのような洗練されていない男に引きつけられるか",
+    "output": "how can a refined girl be drawn to such an unrefined man?"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "会社は合併から利益を得ていない",
+    "output": "The company has not profited from the merger"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女はカバーの下に下方にもっと曲がり入った",
+    "output": "She curled farther down under the covers"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女は転んで引っ張られた",
+    "output": "She fell and drew in"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "黒っぽい雲",
+    "output": "blackish clouds"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "風通しがよいガーゼのカーテン",
+    "output": "airy gauze curtains"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "その出会いは涙あふれる抱擁に終わった",
+    "output": "The meeting culminated in a tearful embrace"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "我々は毎朝大学まで車で行った",
+    "output": "We drove to the university every morning"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼らは劇場へ行くためにロンドンまで車で行った",
+    "output": "They motored to London for the theater"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼の言葉は絶対の真理だった",
+    "output": "his word was gospel"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "蛋白質は2、3時間で消化する",
+    "output": "Protein digests in a few hours"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "汝いかなる偶像も作るなかれ",
+    "output": "thou shalt not make unto thee any graven image"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "金は彼の神である",
+    "output": "money was his god"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "警察はその犯罪は、内部犯罪であると断定した",
+    "output": "the police decided that the crime was an inside job"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "不ぞろいな歩き",
+    "output": "an uneven gait"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "不ぞろいなスペース",
+    "output": "uneven spacing"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "この機会は欠陥をもって動くにすぎない",
+    "output": "this machine functions only defectively"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "高速の通勤列車のみに立ち専用客車がある",
+    "output": "there is standing room only on the high-speed commute"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "税控除を箇条書きにする",
+    "output": "itemize one's tax deductions"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼の好きな科目は物理学だった",
+    "output": "his favorite subject was physics"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "女性による経営の上層部への浸透",
+    "output": "the penetration of upper management by women"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "有名大学の高名な教授",
+    "output": "a prestigious professor at a prestigious university"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "地主への賃借人の家賃未払いや、器物は損に対する救済手段であったが、現在は地主は地主の抵当権を与えられる",
+    "output": "Originally distress was a landlord's remedy against a tenant for unpaid rents or property damage but now the landlord is given a landlord's lien"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "料理しながら、彼女は歌っていた",
+    "output": "She was singing while she was cooking"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "私の兄弟は非常に歌がうまい",
+    "output": "My brother sings very well"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "第2楽章はゆっくりとして旋律が美しい",
+    "output": "the second movement is slow and melodic"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "記念の額",
+    "output": "a commemorative plaque"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "1000年にわたって、ローマカトリック教会はキリスト教世界の第一の教会だった",
+    "output": "for a thousand years the Roman Catholic Church was the principal church of Christendom"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "一目見る",
+    "output": "shoot a glance"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は転んだところで無神経に横たわっていた",
+    "output": "he lay insensible where he had fallen"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "薬品を投与され無感覚になる",
+    "output": "drugged and senseless"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "大袈裟で得意げな態度",
+    "output": "a grandiloquent and boastful manner"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "大袈裟な雄弁さ",
+    "output": "overblown oratory"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "もったいぶったスピーチ",
+    "output": "a pompous speech"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "擬似科学のわかりにくい表現と教皇のばかげた話−ニューズウィーク",
+    "output": "pseudo-scientific gobbledygook and pontifical hooey- Newsweek"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "侵攻可能な防御",
+    "output": "penetrable defenses"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "あっさりしたバニラアイスクリーム",
+    "output": "the plainness of vanilla ice cream"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "米国の人口は多く雑多である",
+    "output": "the population of the United States is vast and heterogeneous"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "テーブルから破片を掃きとる",
+    "output": "Sweep the crumbs off the table"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ベッドの下を掃除してください",
+    "output": "Sweep under the bed"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "取るに足らぬ産業",
+    "output": "marginal industries"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "馬が雌馬と交尾をする",
+    "output": "The horse covers the mare"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "きれいな空気と水",
+    "output": "pure air and water"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "純金",
+    "output": "pure gold"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "純粋な原色",
+    "output": "pure primary colors"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "バイオリンの純粋でいとしい歌",
+    "output": "the violin's pure and lovely song"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "純音",
+    "output": "pure tones"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "純酸素",
+    "output": "pure oxygen"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼らは旅行者のためにキリマンジャロの上へ食物を運んだ",
+    "output": "They portered the food up Mount Kilimanjaro for the tourists"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女のスターとしての寿命",
+    "output": "her longevity as a star"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "会社に並外れて長く勤めた",
+    "output": "had unusual longevity in the company"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "屋根が崩壊の危険にさらされている",
+    "output": "the roof is in danger of collapse"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "自身の重力のもとでの古い星の崩壊",
+    "output": "the collapse of the old star under its own gravity"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "パプアの固有の工芸",
+    "output": "Papuan native crafts"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "パプアの母音",
+    "output": "Papuan vowels"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "判事の判断が最終である",
+    "output": "the judge's decision is final"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "仲裁人は最後のものに言わせる",
+    "output": "the arbiter will have the last say"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "5月の中旬の急激な寒波",
+    "output": "a cold snap in the middle of May"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼らはわれわれの政策の得策に疑問を投げた",
+    "output": "they questioned the advisability of our policy"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "重いふたのあるマグの中のミルク",
+    "output": "milk in a heavy lidded mug"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ニュースを要約してください",
+    "output": "capsulize the news"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "陽気に振る舞う",
+    "output": "make merry"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ありふれたボクシング",
+    "output": "run-of-the-mill boxing"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "あなたの並の大学卒",
+    "output": "your run-of-the-mine college graduate"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "法律家として経験上で見られる中で例外的な出来事である",
+    "output": "a unexceptional an incident as can be found in a lawyer's career"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "病気の子供は痛ましく泣いた",
+    "output": "the sick child cried pathetically"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "残されたものはいつも世話が必要であるわけではない",
+    "output": "the bereaved do not always need to be taken care of"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼らは彼に発言の機会を与えずに批判した",
+    "output": "they condemned him without a hearing"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は自分が意見発表の場を失ったことを知った",
+    "output": "he saw that he had lost his audience"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼らは最近、非常に無愛想である",
+    "output": "they are extremely inhospitable these days"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女の挨拶は冷たくて無愛想だった",
+    "output": "her greeting was cold and inhospitable"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "それは時代の印であった",
+    "output": "it was a sign of the times"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "好戦的で毒舌をもった老婆―ドロシー・セイヤーズ",
+    "output": "a cantankerous and venomous-tongued old lady- Dorothy Sayers"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "思いつきの言葉",
+    "output": "a casual remark"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "無計画な方法でそして空いた時間に集められた情報",
+    "output": "information collected by casual methods and in their spare time"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "熊がドアに手をかけた",
+    "output": "The bear pawed the door"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼のもう一方の腕は、まるで目的のために故意にそこに置かれるかのように、彼の胸の向こう側に不自然に横たわった",
+    "output": "his other arm lay across his chest, unnaturally, as if placed there deliberately, for a purpose"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "コンピュータのハードディスクは磁気記憶装置である",
+    "output": "the hard disk in you computer is magnetic storage"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼が夜遅く通りを歩いていたとき、暴漢は、彼を打ちのめした",
+    "output": "Thugs beat him up when he walked down the street late at night"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "先生が生徒に体罰を与えていたものである",
+    "output": "The teacher used to beat the students"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "食物に関してうるさすぎるのでキャンプに連れて行けない",
+    "output": "too nice about his food to take to camp cooking"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "神経質すぎてひじでトイレのハンドルを触ることしかできない",
+    "output": "so squeamish he would only touch the toilet handle with his elbow"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ボールを打ってください",
+    "output": "bat the ball"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "激しやすい人",
+    "output": "a person of hot blood"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "簡略化した検査では家の構造的欠陥を発見できなかった",
+    "output": "a casual (or cursory) inspection failed to reveal the house's structural flaws"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "一瞥",
+    "output": "a passing glance"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "おざなりな礼儀",
+    "output": "perfunctory courtesy"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "レース馬を買収してください",
+    "output": "nobble the race horses"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "大きいベルはゴーンと鳴った",
+    "output": "the big bell bonged"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "道路はまっすぐに走る",
+    "output": "the road runs straight"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼はボール箱の上部を取り除いた",
+    "output": "he removed the top of the carton"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は瓶のふたを取ることができなかった",
+    "output": "he couldn't get the top off of the bottle"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "やかんの蓋を元通り閉める",
+    "output": "put the cover back on the kettle"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "その飛行機は2度目の通過を行うべく向きを変えた",
+    "output": "the plane turned to make a second pass"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "スポーツカーは、すべてのトラックを追い越した",
+    "output": "The sports car passed all the trucks"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "樟脳様のにおい",
+    "output": "camphoraceous odor"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "社交界の名士たちは、そこに行く",
+    "output": "the smart set goes there"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "連中は怒っていた",
+    "output": "they were an angry lot"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "毎日歩いて通勤するのは、ちょっとした節約だった",
+    "output": "it was a small economy to walk to work every day"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "50セントの節約だった",
+    "output": "there was a saving of 50 cents"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "テニスの名手にとってカットはなんでもない",
+    "output": "cuts do not bother a good tennis player"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "有権者の一般的な姿勢に対する行動に重要な役割を果たす",
+    "output": "key one's actions to the voters' prevailing attitude"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "見当違いのコメント",
+    "output": "an irrelevant comment"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "無関係な申し立て",
+    "output": "irrelevant allegations"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "カロリーベースにおける食物の比較",
+    "output": "comparison of foods on a caloric basis"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "食品のカロリー含有量",
+    "output": "the caloric content of foods"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "hat（帽子）とcat（猫）の韻",
+    "output": "hat and cat rhyme"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "酸化ヘモグロビンは体の細胞に酸素を送る",
+    "output": "oxyhemoglobin transports oxygen to the cells of the body"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "茶に香りがよい白い花がある",
+    "output": "tea has fragrant white flowers"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "口腔衛生",
+    "output": "oral hygiene"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "口で測定する温度計",
+    "output": "an oral thermometer"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "経口ワクチン",
+    "output": "an oral vaccine"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "パトカーを見たとき、彼は凍りついた",
+    "output": "When he saw the police car he froze"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "イタリアにいる私たちの親類は、1週間私たちにワインでもてなし、御馳走した",
+    "output": "Our relatives in Italy wined and dined us for a week"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "反乱軍は宮殿を急襲し、大統領を窓から放り出した",
+    "output": "The rebels stormed the palace and defenestrated the President"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "フロリダワシは、獰猛で恐ろしい姿をしている",
+    "output": "the Florida eagles have a fierce baleful look"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "砂利は珪質砂岩である",
+    "output": "gritrock is siliceous sandstone"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼はポーチで足音を聞いた",
+    "output": "he heard footsteps on the porch"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ゴルフボールにはおよそ336の小さいくぼみがある",
+    "output": "there are approximately 336 dimples on a golf ball"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "私たちは危険ではなかった",
+    "output": "we were clear of the danger"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "船は暗礁から離れた",
+    "output": "the ship was clear of the reef"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼のかぶっていた帽子は似合っていなかった",
+    "output": "He was unsuitably hatted"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "もっともらしい嘘つき",
+    "output": "a plausible liar"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "駆け出しの企業",
+    "output": "a fledgling enterprise"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "駆け出しのスキーヤー",
+    "output": "a fledgling skier"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "未熟な弁護士",
+    "output": "an unfledged lawyer"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "入院を受け入れられることで、早期の死をもたらすべきでない",
+    "output": "an amenable hospitalization should not result in untimely death"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "腫瘍は手術が出来る状態ではなった",
+    "output": "the tumor was not amenable to surgical treatment"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女はこの男性に会うまで非の打ちどころがない人生を送っていた",
+    "output": "she had lived blamelessly until she met this man"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "長居をしてはいけない",
+    "output": "don't outstay your welcome"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "突然変異遺伝子",
+    "output": "a mutant gene"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼はとても背が高かったので私は竹馬に乗っているのかと思った",
+    "output": "he was so tall I thought he was on stilts"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "それぞれの候補の間に少し時間を持てるよう、インタビューを区切ってください",
+    "output": "Space the interviews so that you have some time between the different candidates"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼らはミーティング日付を後に動かした",
+    "output": "they moved the meeting date up"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "子供の時からずっと",
+    "output": "from childhood upward"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "このような現代に",
+    "output": "in modern times like these"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "10ヤード行進する",
+    "output": "step off ten yards"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "区分されたセル",
+    "output": "The cells segmented"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "教師の役目",
+    "output": "the function of a teacher"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "政府はその役割を果たさなければならない",
+    "output": "the government must do its part"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "役割を演じる",
+    "output": "play its role"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "私たちの所有地は川に向かって下る",
+    "output": "Our property dips towards the river"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "奇妙な混合物を作る",
+    "output": "concoct a strange mixture"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "薄暗い森林",
+    "output": "the gloomy forest"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "古い旅館の陰気な内装",
+    "output": "the glooming interior of an old inn"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "『gloomful（陰気さ）』は古語である",
+    "output": "`gloomful' is archaic"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は二塁で、あと少しのところでアウトになった",
+    "output": "he was tagged out at second on a close play"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は3振を取った",
+    "output": "he fanned out"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は試験でよくやった",
+    "output": "he did splendidly in the exam"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "私たちは大いに意気投合した",
+    "output": "we got along famously"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "人種に関する古臭い理論",
+    "output": "moth-eaten theories about race"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "聞き古したニュース",
+    "output": "stale news"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "広幅織りの敷物",
+    "output": "a broadloom rug"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "落葉は林床を覆った",
+    "output": "fallen leaves covered the forest floor"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "倒れた木の幹に座った",
+    "output": "sat on a fallen tree trunk"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "壊れているホースから芝生に水がしたたった",
+    "output": "water trickled onto the lawn from the broken hose"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "噂がもれ始めた",
+    "output": "reports began to dribble in"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼らの怨恨は政治上の乱闘にさかのぼった",
+    "output": "their rancor dated from a political dogfight between them"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "3位入賞への本当の激戦",
+    "output": "a real dogfight for third place"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "契約のための競争相手の入札をめぐる長期の争い",
+    "output": "a prolonged dogfight over their rival bids for the contract"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "風の方向の変化",
+    "output": "the turning of the wind"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ユニフォームは、博物館の収集品の一部のように見えた",
+    "output": "the uniform looks like it belonged to a museum collection"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "これらのページは付属していない",
+    "output": "These pages don't belong"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ビバーチュでこの部分を演奏する",
+    "output": "play this section vivace!"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "そのドアは打ち壊し棒で繰り返したたかれて壊れた",
+    "output": "The door yielded to repeated blows with a battering ram"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "メートル法",
+    "output": "the metric system"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "韻律の相当語句",
+    "output": "metrical equivalents"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "15年後一緒にいた後、彼らは離婚に向かう",
+    "output": "after 15 years together they are headed for splitsville"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼らは人種関係の偏った報道でその新聞を訴えた",
+    "output": "they accused the paper of biased coverage of race relations"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "恐怖を示す行動",
+    "output": "actions indicative of fear"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "静動脈バイパス",
+    "output": "an arteriovenus shunt"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女が何回もそのスカートをはいた後に、スカートの裾の縫い目がほつれた",
+    "output": "The stitches of the hem worked loose after she wore the skirt many times"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "おせっかいな老婦人",
+    "output": "an interfering old woman"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "おせっかいな迷惑行為をして忙しそうにもったいぶっている",
+    "output": "bustling about self-importantly making an officious nuisance of himself"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "他人に対するおせっかいで忙しい",
+    "output": "busy about other people's business"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "金属の非常に薄い板",
+    "output": "wafer-thin sheets of metal"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "AUCは1年で800回を超える暗殺を実施した",
+    "output": "the AUC conducted over 800 assassinations in one year"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "その映画は、夏の予想外のヒット作だった",
+    "output": "that movie was the sleeper of the summer"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "学期の終わりに向かって減少する宿題の量",
+    "output": "The amount of homework decreased towards the end of the semester"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "客室の与圧は劇的に下った",
+    "output": "The cabin pressure fell dramatically"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女の体重が100ポンド未満に落ちた",
+    "output": "her weight fell to under a hundred pounds"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は声をひそめた",
+    "output": "his voice fell to a whisper"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "好意的な微笑み",
+    "output": "a welcoming smile"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "アガシはテニス選手権でベッカーを負かした",
+    "output": "Agassi beat Becker in the tennis championship"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "私たちは競争相手に勝つ",
+    "output": "We beat the competition"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ハーバードは最後のフットボールの試合でエールを破った",
+    "output": "Harvard defeated Yale in the last football game"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女は踊りがうまい",
+    "output": "she dances well"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は上手に書く",
+    "output": "he writes well"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "さや豆",
+    "output": "string beans"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "別の非常に高い超高層ビル",
+    "output": "another super skyscraper"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "示唆的なうなずき",
+    "output": "a suggestive nod"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "思わせ振りの態度",
+    "output": "suggestive poses"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "盛んな港",
+    "output": "an active seaport"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "活発な債券市場",
+    "output": "an active bond market"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "活動勘定",
+    "output": "an active account"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "小立像はギリシアでの彫刻の出現の前兆となる",
+    "output": "figurines presage the emergence of sculpture in Greece"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "我が国を苦しめているのは何の弊害か",
+    "output": "what maladies afflict our nation?"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "いたんでいない木材",
+    "output": "a sound timber"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "その壁は安全だ",
+    "output": "the wall is sound"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "しっかりした土台",
+    "output": "a sound foundation"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ゆでたアプリコット",
+    "output": "poached apricots"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼はほとんど誰もが好む人物だ",
+    "output": "he is quite the crowd pleaser"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼らは、在庫として多くのストーンウォッシュ加工したジーンズを持っている",
+    "output": "they have plenty of stonewashed jeans in stock"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女の願望に対しての彼の敬意は喜ばれた",
+    "output": "his deference to her wishes was very flattering"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "私の伝言を学部長に必ず伝えてください",
+    "output": "be sure to give my respects to the dean"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は最も明るい光と、最も暗い闇を描くことができた",
+    "output": "he could paint the lightest light and the darkest dark"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "肉は非衛生的に木製のテーブルで加工処理される",
+    "output": "the meat is unhygienically processed on wooden tables"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "目撃者は出来事を関係づけた",
+    "output": "The witness related the events"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "小縮尺地図",
+    "output": "small-scale maps"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "小規模のモデル",
+    "output": "a small-scale model"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "枝がない幹をもつ木",
+    "output": "a tree with an unbranched trunk"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "規則を強化してください",
+    "output": "Tighten the rules"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "規則を強化してください",
+    "output": "stiffen the regulations"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "大理石像の完全な不動性",
+    "output": "the utter motionlessness of a marble statue"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "新しい経済においては、私たちは皆、財布の紐を締めることを学ばなければいけない",
+    "output": "In the new economy, we all have to learn to tighten our belts"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼の完璧主義は彼の学生にとって過度に見えた",
+    "output": "his perfectionism seemed excessive to his students"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "けんかのあと、両者とも頭を冷やす必要がある",
+    "output": "After the fight both men need to cool off."
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "赤ん坊が生まれてから、再び落ち着くのにしばらくかかった",
+    "output": "It took a while after the baby was born for things to settle down again."
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "家内工業は大きな労働力を要する",
+    "output": "cottage industries are labor intensive"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼の責任を完全に理解してないだけだ",
+    "output": "had only an imperfect understanding of his responsibilities"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "欠点のある人間",
+    "output": "imperfect mortals"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ここの排水は不完全である",
+    "output": "drainage here is imperfect"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "シリルとメソッドはスラヴ言語をアルファベットで表した",
+    "output": "Cyril and Method alphabetized the Slavic languages"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "次の話者は、彼女の議論を繰り返した",
+    "output": "The next speaker dittoed her argument"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "乾燥重量",
+    "output": "dry weight"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "騷がしい都市",
+    "output": "a bustling city"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "合理主義者の哲学",
+    "output": "rationalist philosophy"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "オペラを見に行く前に、着替えてください",
+    "output": "Change before you go to the opera"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ミュージシャンはリハーサルの間、5分間休憩した",
+    "output": "The musicians took five during the rehearsal"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "革ひものような葉",
+    "output": "straplike leaves"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼らの秘密の信号は、ウィンクだった",
+    "output": "their secret signal was a wink"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "秘密のメッセージ",
+    "output": "secret messages"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "正直者だという、当然の報いとして勝ち得た評判",
+    "output": "a well-earned reputation for honesty"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "稼いだ収入",
+    "output": "earned income"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "野球の自責点",
+    "output": "an earned run in baseball"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "1/4ポンドのやわらかくなったマーガリンまたは調理油をかなり厚めに表面全体にぬってください",
+    "output": "spread 1/4 lb softened margarine or cooking fat fairly thickly all over the surface"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "私たちは郊外をうろうろしていたとき、小さくて厚い壁で囲まれたすてきな町を訪れた",
+    "output": "we were visiting a small, thickly walled and lovely town with straggling outskirt"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼はマシンの出力と吸入口を同期化するよう調整した",
+    "output": "he phased the intake with the output of the machine"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "体を不自由にさせるような負傷",
+    "output": "a crippling injury"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "不遠慮な田舎の医者",
+    "output": "a plainspoken country doctor"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "横手投げ",
+    "output": "a sidearm pitch"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "それは、紛れもなく明らかだった",
+    "output": "it was glaringly obvious"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "明確にさせる",
+    "output": "a clarifying example"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ロープに刻み目をつける",
+    "output": "notch the rope"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "駐車場から車を回収する",
+    "output": "retrieve the car from the parking garage"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "意思は薬の市販製剤を調合した",
+    "output": "the physician prescribed a commercial preparation of the medicine"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "運送屋はその大きなピアノの扱いにくいことを恨んだ",
+    "output": "the movers cursed the unwieldiness of the big piano"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は政治家に対する辛辣な言葉による攻撃で彼の論説を活気づけた",
+    "output": "he enlivened his editorials with barbed thrusts at politicians"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "邪悪な行為",
+    "output": "black deeds"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "質の悪い嘘",
+    "output": "a black lie"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼の黒い心はさらに別の黒い行為をでっち上げた",
+    "output": "his black heart has concocted yet another black deed"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "暗黒面のダース・ベイダー",
+    "output": "Darth Vader of the dark side"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "秘密の目的",
+    "output": "a dark purpose"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "民族の敵意の暗い底流",
+    "output": "dark undercurrents of ethnic hostility"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "何らかの不吉な情報におけるたくらみで彼を制裁した−トマス・ハーディ",
+    "output": "the scheme of some sinister intelligence bent on punishing him-Thomas Hardy"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "リハーサルもない、台本もない現地インタビュー",
+    "output": "unrehearsed and unscript spot interviews"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "即興のトークショー",
+    "output": "unscripted talk shows"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "私のためにお祈りしてください",
+    "output": "remember me in your prayers"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "火山岩は火山ガラス黒曜石を含んでいる",
+    "output": "volcanic rock includes the volcanic glass obsidian"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "喧嘩について気をもんでいたので、彼はほぼ一晩中眠れなかった",
+    "output": "his stewing over the fight kept him awake most of the night"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "警察がデモ隊を痛めつけていたとき、彼はただ立ち尽くしていた",
+    "output": "He just stood by when the police beat up the demonstrators"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "私たちは、20年交信が途絶えた後、旧交を再び深めた",
+    "output": "We renewed our friendship after a hiatus of twenty years"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼らは会員登録を更新した",
+    "output": "They renewed their membership"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "英語用法",
+    "output": "English usage"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "フランス語から借りてきた用法",
+    "output": "a usage borrowed from French"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "雑誌の創刊号",
+    "output": "the magazine's inaugural issue"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "交渉の初めの段階",
+    "output": "the initiative phase in the negotiations"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "条約のための第一段階",
+    "output": "an initiatory step toward a treaty"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "議会における彼の最初の（処女）スピーチ",
+    "output": "his first (or maiden) speech in Congress"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "定期船の処女航海",
+    "output": "the liner's maiden voyage"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "本当に",
+    "output": "in sooth"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼らは、家と彼の日記を燃やした",
+    "output": "They burned the house and his diaries"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "聖職者は、祈りのために膝まづいた",
+    "output": "the priest sank to his knees in prayer"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "高年者用の家",
+    "output": "a home for the elderly"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ボールは籠を縁取った",
+    "output": "the ball rimmed the basket"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "その約束をきれいさっぱり忘れていた",
+    "output": "clean forgot the appointment"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "私はすっかり疲れ切っていた",
+    "output": "I'm plumb (or plum) tuckered out"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は集合場所で彼らを待った",
+    "output": "he was waiting for them at the rendezvous"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "これは私の主張を納得させる",
+    "output": "This brings home my point"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "宗派間の違い",
+    "output": "sectarian differences"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "じっとしている目標物",
+    "output": "a sitting target"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "肉食動物の裂肉歯",
+    "output": "the carnassial teeth of carnivores"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "その企画は、最もだまされやすい人以外は誰も納得しないだろう",
+    "output": "the gimmick would convince none but the most credulous"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "これらのパズルは、コツがいることで有名だ",
+    "output": "these puzzles are famous for their trickiness"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "それらは特許発明品である",
+    "output": "they are patented inventions"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "願望というものは、気に入った結果と一致するときのみに満足されものである",
+    "output": "Desires are to be satisfied only so far as consists with an approved end"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "パキスタン政府は、彼らの学生に軍事教練を提供したマドラサを閉鎖すると決めた",
+    "output": "the Pakistan government decided to close down madrasas that provided military training for their students"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "バングラデシュの多くのマドラサがサウジアラビアからのお金で支援されている",
+    "output": "many madrasas in Bangladesh are supported with money from Saudi Arabia"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "3者協議",
+    "output": "trilateral talks"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "アメリカの産業は生産を管理するために、ますますコンピュータを使用するようになっている",
+    "output": "American industry is making increased use of computers to control production"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "不誠実な公務員が彼らの公務を果たすために必要なお金を吹っ掛ける",
+    "output": "the extortion by dishonest officials of fees for performing their sworn duty"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "盲目の憎しみによって煽られた暴徒",
+    "output": "mobs goaded by blind hatred"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "デトロイトはファミリーカーの耐久性を高めた",
+    "output": "Detroit ruggedized the family car"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は、男たちでゴルフをするのが好きだ",
+    "output": "he likes to play golf with the boys"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "アパルトヘイトは、恐怖であったことは明白である−マリオ・バルガス・リョサ",
+    "output": "As a horror, apartheid...is absolutely unambiguous- Mario Vargas Llosa"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彗星は9月11日に通過する",
+    "output": "The comet will transit on September 11"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "園芸用具はどこに置かれていますか？",
+    "output": "Where do you keep your gardening tools?"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "キングは以前はこれらの森林を伐採していた",
+    "output": "The King used to hunt these forests"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "契約を書き上げる",
+    "output": "write out a contract"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "壮大に木材で建てられた古い納屋",
+    "output": "a magnificently timbered old barn"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は彼の預金口座を管理している幹部社員に会わせてくれるよう頼んだ",
+    "output": "he asked to see the executive who handled his account"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "上水",
+    "output": "clean water"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "さわやかな空気",
+    "output": "fresh air"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "新たに塗装された庭の家具",
+    "output": "freshly painted lawn furniture"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "すべての非難から、解放される",
+    "output": "is absolved from all blame"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "今や、卑怯者というレッテルがはがされた",
+    "output": "was now clear of the charge of cowardice"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼の公式の名誉は立証された",
+    "output": "his official honor is vindicated"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "子供は習慣で、見られるが聞かれないものとして思われている",
+    "output": "children are custosby-the-waymarily expected to be seen but not heard"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "川岸の土地",
+    "output": "riparian land"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "日本からの輸入品の規定数量が取り決められた",
+    "output": "the quota for Japanese imports was negotiated"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼はほんの少しの間ここにいた",
+    "output": "he was here for a little while"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "私は、少し休息する必要がある",
+    "output": "I need to rest for a piece"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "いい天気続き",
+    "output": "a spell of good weather"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "悪天候のある期間",
+    "output": "a patch of bad weather"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "所望の速度に達したのち、駆動力は断ち切られる",
+    "output": "after reaching the desired velocity the drive is cut off"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "急ぎの仕事",
+    "output": "a rush job"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "楽しいニュース",
+    "output": "a pleasing piece of news"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "行儀も見た目も好ましい",
+    "output": "pleasing in manner and appearance"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は運転のレッスンを受けた",
+    "output": "he took driving lessons"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "私のすべての努力は水泡に帰した",
+    "output": "all my efforts led to naught"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "研究資金の深刻な不足",
+    "output": "an acute (or critical) lack of research funds"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "教師は学生の努力を非難するべきでない",
+    "output": "The teacher should not deprecate his student's efforts"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "振られた恋人は、すぐ元気になり、新しい友人を見つけた",
+    "output": "The jilted lover soon rallied and found new friends"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "株式市場は回復した",
+    "output": "The stock market rallied"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "陸地が見えなくなる",
+    "output": "out of sight of land"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "私たちは、社長がスキャンダルの後に辞職しなければならないかどうか推測していたところだ",
+    "output": "We were speculating whether the President had to resign after the scandal"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "運転免許を取る手順",
+    "output": "the procedure of obtaining a driver's license"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "それは試行錯誤の繰り返しだった",
+    "output": "it was a process of trial and error"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼らの役割は私たちの役割と類似する",
+    "output": "Their roles are paralleled by ours"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "学生の随筆はいくつかの重要な引用を用いなかった",
+    "output": "the student's essay failed to list several important citations"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "通常、謝辞は本の表紙に印刷される",
+    "output": "the acknowledgments are usually printed at the front of a book"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "その記事は同様の臨床例の記載を含む",
+    "output": "the article includes mention of similar clinical cases"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ボクシングのキャリア",
+    "output": "a pugilistic career"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "結婚前の同意書",
+    "output": "prenuptial agreement"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼の皮膚はかゆかった",
+    "output": "his skin itched"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "同じ子午線上の点はすべて同じ経度である",
+    "output": "all points on the same meridian have the same longitude"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "議会の合同会議",
+    "output": "a joint session of Congress"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ボブ・ディランは、数週間1位を占めた",
+    "output": "Bob Dylan occupied the top slot for several weeks"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女は厳しい相手を打ち負かし1番の地位を手に入れた",
+    "output": "she beat some tough competition for the number one slot"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "医師は健康証明書を彼に与えた",
+    "output": "the doctor gave him a clean bill of health"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "戦いは、決着がつかずに終わった；どちらの側もはっきりとは勝たなかったが、どちらの側も敗北を認めなかった",
+    "output": "the battle ended indecisively; neither side had clearly won but neither side admitted defeat"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "いくぶん散文的に、繰り返し説明された",
+    "output": "somewhat prosily and repetitively expounded"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "自動車のセールスマンは念のため、ラジオをサービスにつけてくれた",
+    "output": "the car salesman threw in the radio, for good measure"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "小金を大事にする人",
+    "output": "a great nurser of pennies"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "馬を引いてください",
+    "output": "pull a horse"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は、驚いて私を見た",
+    "output": "he looked at me in astonishment"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "説得にも応じない",
+    "output": "immune to persuasion"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女は、彼女のクライアントの感情に漬け込む",
+    "output": "She plays on her clients' emotions"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "永遠の習慣",
+    "output": "dateless customs"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼の母は非常に高齢である",
+    "output": "his mother is very old"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "高齢",
+    "output": "a ripe old age"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "あなたは何歳ですか？",
+    "output": "how old are you?"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "頭巾をかぶった僧",
+    "output": "a cowled monk"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼らは2年間生産的に一緒に働いていた",
+    "output": "they worked together productively for two years"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "月は満ちている",
+    "output": "the moon is waxing"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "あなたはこの手紙の完全な意味を理解しているか？",
+    "output": "Do you appreciate the full meaning of this letter?"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "人々が、劇場からどっと出てきていた",
+    "output": "people were pouring out of the theater"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "乞食は広場に群がった",
+    "output": "beggars pullulated in the plaza"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "あなたの地元紙の特色、色がなんであっても、それらはローカル情報のために熱心に読まれることを思い出す",
+    "output": "whatever the flavor or color of your local paper, do remember that these are read avidly for local information"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "終りのない波",
+    "output": "endless waves"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女はすべての必要な手配を請け負う",
+    "output": "She takes care of all the necessary arrangements"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "無柄の花",
+    "output": "sessile flowers"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "無柄のフジツボのシェルは直接基板に取り付けられる",
+    "output": "the shell of a sessile barnacle is attached directly to a substrate"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "調子がよくて",
+    "output": "in good trim"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "小麦はよく通気されるべきだ",
+    "output": "Wheat should be well ventilated"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "大きい仕事",
+    "output": "a man-sized job"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "私は軽食に少し食べた",
+    "output": "I picked up some food for a snack"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "これらの名前は議論の中で上がった",
+    "output": "These names came up in the discussion"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "現在、東京は3時である",
+    "output": "it's three o'clock in Tokyo now"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "神経性疾患",
+    "output": "nervous disease"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "神経性異常",
+    "output": "neural disorder"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "その装置は小さいから腕に着けられますよ",
+    "output": "the device is small enough to wear on your wrist"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "水を保存することを意図した装置",
+    "output": "a device intended to conserve water"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女は手首を切った",
+    "output": "she slashed her wrists"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "銀を液化してください",
+    "output": "liquefy the silver"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "あらゆる問題に対する彼の解決策は、酔うことだった",
+    "output": "his answer to any problem was to get drunk"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼らがだした答えは、私を告訴することだった",
+    "output": "their answer was to sue me"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "容疑または信念を誘発する",
+    "output": "sow suspicion or beliefs"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "砂糖はコーヒーの中ですばやく溶けた",
+    "output": "The sugar quickly dissolved in the coffee"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "川の屋形船",
+    "output": "pole barges on the river"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "私たちはケンブリッジで船をこいだ",
+    "output": "We went punting in Cambridge"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "王室の先祖の",
+    "output": "of royal ancestry"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "王族の王子",
+    "output": "princes of the blood royal"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼の相手に対し、全員一致の判決を取るのに少し苦労した",
+    "output": "had little trouble in taking a unanimous decision over his opponent"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "この時間は私に合っている",
+    "output": "This time suits me"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "また会いましょう、と彼はあいまいに言った",
+    "output": "we will meet again,he said cryptically"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "小麦粉でどろっとさせた肉汁",
+    "output": "flour-thickened gravy"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ほこりで痰となった唾液",
+    "output": "dust-thickened saliva"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "選挙権は白人の成人男性の特権だった",
+    "output": "suffrage was the prerogative of white adult males"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は理論について大げさに講義した",
+    "output": "he lectured bombastically about his theories"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "あまりに多くの電話がかかってきたので、彼は最終的に電話を切った",
+    "output": "there were so many callers that he finally disconnected the telephone"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼はピッチャー以外のすべてのポジションをやったことがある",
+    "output": "he has played every position except pitcher"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "マウンドにはサウスポーがいる",
+    "output": "they have a southpaw on the mound"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は以前に批評した政策のいくつかを熱心に採用した",
+    "output": "he adopted wholeheartedly some of the policies that he had previously criticized"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼はテノールのパートを歌おうとした",
+    "output": "he tried to sing the tenor part"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "相手側の議論なしに",
+    "output": "without ulterior argument"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "その後の雰囲気",
+    "output": "the mood posterior to"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "子供は彼らの母親の信頼で守られていた",
+    "output": "the children were confirmed in their mother's faith"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼の影響を過小評価しないでください",
+    "output": "Don't belittle his influence"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女は事故の後、筋道正しく話すことができなかった",
+    "output": "she could not talk coherently after the accident"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "水門水",
+    "output": "sluice water"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "ロックは若者にアピールする",
+    "output": "rock music appeals to the young"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "至るところで若者たちが反旗を翻す",
+    "output": "youth everywhere rises in revolt"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼らは彼の背中に'私を蹴ってください'というサインを貼り付けた",
+    "output": "they pinned a `kick me' sign on his back"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女は全く無関心なようだ",
+    "output": "she appeared totally uninterested"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "針金を作る",
+    "output": "draw wire"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "私たちは軒並み昇給した",
+    "output": "we got a pay raise across the board"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "サイボーグは人工頭脳生物だ",
+    "output": "a cyborg is a cybernetic organism"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "若者は、池ですっ裸で泳いでいた",
+    "output": "The young people were skinny-dipping in the pond"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "このタイプの接着表示は広告に繰返し使用される",
+    "output": "this type of border display is used repetitively in advertising"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "その国の小児科医の受賞者は、職を辞する準備をしている",
+    "output": "The nation's pediatrician laureate is preparing to lay down his black bag- James Traub"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼はいくつかの非常に説得力がある議論に対抗した",
+    "output": "He countered with some very persuasive arguments"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "才気にあふれている機知",
+    "output": "scintillating wit"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "面白い対話がたくさん使われた芝居",
+    "output": "a play full of scintillating dialogue"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "独裁者の銀行口座で持ち株を公表する",
+    "output": "release the holdings in the dictator's bank account"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "左利きの人は左手と目が優勢であることを示す",
+    "output": "sinistral individuals exhibit dominance of the left hand and eye"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "合図があるとすぐに、軍はオーバードライブを行う準備ができている",
+    "output": "Troops are ready to go into overdrive as soon as the signal is given"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "メリッサの脳は加熱状態だった",
+    "output": "Melissa's brain was in overdrive"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "本質的特徴",
+    "output": "the essential feature"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "神の摂理",
+    "output": "the agency of providence"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼女には、フリーエージェントがいる",
+    "output": "she has free agency"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼はしばしば衝動的に行動し、後でそれを後悔する",
+    "output": "he often acts impulsively and later regrets it"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "これはあなたの楽しみを高めるだろう",
+    "output": "This will enhance your enjoyment"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "緊張を高める",
+    "output": "heighten the tension"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "白衣を着て整列した教授",
+    "output": "professors arrayed in robes"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "何にも印象がない控えめな個性",
+    "output": "a neutral personality that made no impression whatever"
+  },
+  {
+    "instruction": "次の文を英語に翻訳してください。",
+    "input": "彼は通りで私を見過ごした",
+    "output": "he passed me up in the street"
+  }
+]

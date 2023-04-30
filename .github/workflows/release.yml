@@ -54,6 +54,7 @@ jobs:
         cp datasets/NOTICE.md release-${{ steps.get_version.outputs.TAG }}-mit
         cp datasets-cc-by-sa/LICENSE release-${{ steps.get_version.outputs.TAG }}-cc-by-sa
         cp datasets-cc-by-sa/NOTICE.md release-${{ steps.get_version.outputs.TAG }}-cc-by-sa
+        cp datasets/NOTICE.md release-${{ steps.get_version.outputs.TAG }}-cc-by-sa/NOTICE2.md
         zip release-${{ steps.get_version.outputs.TAG }}-mit.zip -r release-${{ steps.get_version.outputs.TAG }}-mit
         zip release-${{ steps.get_version.outputs.TAG }}-cc-by-sa.zip -r release-${{ steps.get_version.outputs.TAG }}-cc-by-sa
     - name: Push a release to GitHub. At the beginning of release, the body of pull request is shown.

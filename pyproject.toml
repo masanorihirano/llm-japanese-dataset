@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "llm-japanese-dataset"
-version = "0.1.0"
+version = "0.0.0a0"
 description = ""
 authors = ["Masanori HIRANO <masa.hirano.1996@gmail.com>"]
 readme = "README.md"
@@ -15,6 +15,7 @@ joblib = "^1.2.0"
 openpyxl = "^3.1.2"
 bs4 = "^0.0.1"
 tqdm = "^4.65.0"
+huggingface-hub = "^0.14.1"
 
 
 [build-system]

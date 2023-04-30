@@ -1,7 +1,7 @@
 # NOTICE AND INFORMATION
 
 This dataset contains materials and modified marerials from third parties.
-The modification is appied the MIT license, but the others are applied the following licenses.
+The modification is appied the license shown in the LICENSE file, but the others are applied the following licenses.
 
 ## Japanese-Alpaca-LoRA
 Source: https://github.com/masa3141/japanese-alpaca-lora

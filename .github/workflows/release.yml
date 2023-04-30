@@ -119,7 +119,7 @@ jobs:
     - name: hugging face upload_url
       run: |
         huggingface-cli login --token ${{ secrets.HUGGING_FACE_SECRET }}
-        git clone https://${{ secrets.HUGGING_FACE_SECRET }}@huggingface.co/datasets/izumi-lab/llm-japanese-dataset
+        git clone https://:${{ secrets.HUGGING_FACE_SECRET }}@huggingface.co/datasets/izumi-lab/llm-japanese-dataset
         cp data-cc-by-sa.json llm-japanese-dataset
         cp datasets-cc-by-sa/LICENSE llm-japanese-dataset
         cp datasets-cc-by-sa/NOTICE.md llm-japanese-dataset

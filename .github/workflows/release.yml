@@ -129,6 +129,8 @@ jobs:
         cd llm-japanese-dataset
         git lfs track *.json
         git add data-cc-by-sa.json LICENSE NOTICE.md NOTICE2.md version.py
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "github-actions[bot]"
         git commit -m "Release ${{ steps.get_version.outputs.TAG }}"
         git tag -a "${{ steps.get_version.outputs.TAG }}" -m " "
         git push

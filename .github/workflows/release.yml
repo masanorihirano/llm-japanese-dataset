@@ -37,6 +37,11 @@ jobs:
       env:
         BRANCH: ${{ github.event.pull_request.head.ref }}
     - uses: actions/checkout@v2
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip setuptools wheel
+        python -m pip install poetry
+        poetry install
     - name: Build
       run: |
         sudo apt install -y jq
@@ -121,8 +126,9 @@ jobs:
         cp datasets-cc-by-sa/LICENSE llm-japanese-dataset
         cp datasets-cc-by-sa/NOTICE.md llm-japanese-dataset
         cp datasets/NOTICE.md llm-japanese-dataset/NOTICE2.md
+        cp version.py llm-japanese-dataset
         cd llm-japanese-dataset
-        git add data-cc-by-sa.json LICENSE NOTICE.md NOTICE2.md
+        git add data-cc-by-sa.json LICENSE NOTICE.md NOTICE2.md version.py
         git commit -m "Release ${{ steps.get_version.outputs.TAG }}"
         git tag -a "${{ steps.get_version.outputs.TAG }}" -m " "
         git push

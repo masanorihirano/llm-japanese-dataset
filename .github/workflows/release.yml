@@ -119,13 +119,14 @@ jobs:
     - name: hugging face upload_url
       run: |
         huggingface-cli login --token ${{ secrets.HUGGING_FACE_SECRET }}
-        git clone https://:${{ secrets.HUGGING_FACE_SECRET }}@huggingface.co/datasets/izumi-lab/llm-japanese-dataset
+        git clone https://git:${{ secrets.HUGGING_FACE_SECRET }}@huggingface.co/datasets/izumi-lab/llm-japanese-dataset
         cp data-cc-by-sa.json llm-japanese-dataset
         cp datasets-cc-by-sa/LICENSE llm-japanese-dataset
         cp datasets-cc-by-sa/NOTICE.md llm-japanese-dataset
         cp datasets/NOTICE.md llm-japanese-dataset/NOTICE2.md
         cp version.py llm-japanese-dataset
         cd llm-japanese-dataset
+        git lfs track *.json
         git add data-cc-by-sa.json LICENSE NOTICE.md NOTICE2.md version.py
         git commit -m "Release ${{ steps.get_version.outputs.TAG }}"
         git tag -a "${{ steps.get_version.outputs.TAG }}" -m " "

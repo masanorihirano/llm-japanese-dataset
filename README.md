@@ -1,6 +1,19 @@
 # llm-japanese-dataset
 LLM構築用の日本語データセット
 
+DatasetはHugging Faceでも公開しています．
+
+https://huggingface.co/datasets/izumi-lab/llm-japanese-dataset
+
+## 問い合わせ等
+
+ - データセットの追加申し出
+ - 公開できないものの，CC-BY-SAで公開するモデルへのデータ組み込むが可能なデータの提供申し出
+
+などを歓迎します．もし，ご相談等がございましたら，下記メールアドレスまでお知らせください．
+
+izumi-llm@socsim.org
+
 ## フォルダー構成に関して
 datasetsフォルダー内に，データの生成形式ごとにフォルダーを作成します．
 

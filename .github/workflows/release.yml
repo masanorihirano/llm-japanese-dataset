@@ -28,6 +28,7 @@ jobs:
            git push origin `echo '${{ github.event.pull_request.head.ref }}' | sed 's/release\///'`
   build_and_release:
     name: build_and_release
+    needs: [tagging]
     runs-on: ubuntu-latest
     steps:
     - name: Determine the tag name based on the branch name

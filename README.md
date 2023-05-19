@@ -1,9 +1,17 @@
 # llm-japanese-dataset
-LLM構築用の日本語データセット
+LLM構築用の日本語チャットデータセット
 
 DatasetはHugging Faceでも公開しています．
 
 https://huggingface.co/datasets/izumi-lab/llm-japanese-dataset
+
+主に，英語で構築されたLLMモデルなどに対して，チャット(Instruction)応答タスクに関してLoRAなどでチューニングするために使用できます．
+
+## データの詳細
+
+データの詳細は，以下の論文を参照してください．
+
+[TBD]
 
 ## 問い合わせ等
 

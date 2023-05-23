@@ -20,7 +20,7 @@ https://huggingface.co/datasets/izumi-lab/llm-japanese-dataset
 ```
 @preprint{Hirano2023-llmj,
   title={{llm-japanese-dataset v0: Construction of Japanese Chat Dataset for Large Language Models and its Methodology}},
-  autor={Masanori HIRANO and Masahiro SUZUKI and Hiroki SAKAJI,},
+  autor={Masanori HIRANO and Masahiro SUZUKI and Hiroki SAKAJI},
   doi={10.48550/arXiv.2305.12720},
   archivePrefix={arXiv},
   arxivId={2305.12720},

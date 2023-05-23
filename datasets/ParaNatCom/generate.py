@@ -26,14 +26,8 @@ for article_prefix in tqdm(article_prefix_list):
         title_ja1 = title_ja1[:-1]
     abstract_ja1 = "".join([x.decode("utf-8").replace("\r", "").replace("\n", "") for x in ja1_data[1:]])
     
-    data_list.append({"instruction": "次の英語の論文のタイトルを日本語に翻訳してください。", "input": title_en, "output": title_ja1, "doi": doi, "task": "title-trans-en-ja1"})
-    data_list.append({"instruction": "次の日本語の論文のタイトルを英語に翻訳してください。", "input": title_ja1, "output": title_en, "doi": doi, "task": "title-trans-ja1-en"})
-    data_list.append({"instruction": "論文のアブストラクトからタイトルを作ってください。", "input": abstract_en, "output": title_en, "doi": doi, "task": "title-gen-en"})
     data_list.append({"instruction": "論文のアブストラクトからタイトルを作ってください。", "input": abstract_ja1, "output": title_ja1, "doi": doi, "task": "title-gen-ja1"})
-    data_list.append({"instruction": "論文のタイトルからアブストラクトを想像して書いてください。", "input": title_en, "output": abstract_en, "doi": doi, "task": "abstract-gen-en"})
     data_list.append({"instruction": "論文のタイトルからアブストラクトを想像して書いてください。", "input": title_ja1, "output": abstract_ja1, "doi": doi, "task": "abstract-gen-ja1"})
-    data_list.append({"instruction": "英語の論文のアブストラクトから日本語のタイトルを作ってください。", "input": abstract_en, "output": title_ja1, "doi": doi, "task": "title-gen-en-ja1"})
-    data_list.append({"instruction": "日本語の論文のアブストラクトから英語のタイトルを作ってください。", "input": abstract_ja1, "output": title_en, "doi": doi, "task": "title-gen-ja1-en"})
     
     if f"ParaNatCom-20201127/abstracts-ja-2/{article_prefix}" in file_list:
         ja2_data = zip_file.open(f"ParaNatCom-20201127/abstracts-ja-2/{article_prefix}").readlines()
@@ -41,12 +35,8 @@ for article_prefix in tqdm(article_prefix_list):
         if title_ja2.endswith(":"):
             title_ja2 = title_ja2[:-1]
         abstract_ja2 = "".join([x.decode("utf-8").replace("\r", "").replace("\n", "") for x in ja2_data[1:]])
-        data_list.append({"instruction": "次の英語の論文のタイトルを日本語に翻訳してください。", "input": title_en, "output": title_ja2, "doi": doi, "task": "title-trans-en-ja2"})
-        data_list.append({"instruction": "次の日本語の論文のタイトルを英語に翻訳してください。", "input": title_ja2, "output": title_en, "doi": doi, "task": "title-trans-ja2-en"})
         data_list.append({"instruction": "論文のアブストラクトからタイトルを作ってください。", "input": abstract_ja2, "output": title_ja2, "doi": doi, "task": "title-gen-ja2"})
         data_list.append({"instruction": "論文のタイトルからアブストラクトを想像して書いてください。", "input": title_ja2, "output": abstract_ja2, "doi": doi, "task": "abstract-gen-ja2"})
-        data_list.append({"instruction": "英語の論文のアブストラクトから日本語のタイトルを作ってください。", "input": abstract_en, "output": title_ja2, "doi": doi, "task": "title-gen-en-ja2"})
-        data_list.append({"instruction": "日本語の論文のアブストラクトから英語のタイトルを作ってください。", "input": abstract_ja2, "output": title_en, "doi": doi, "task": "title-gen-ja2-en"})
     
     if f"ParaNatCom-20201127/abstracts-ja-3/{article_prefix}" in file_list:
         ja3_data = zip_file.open(f"ParaNatCom-20201127/abstracts-ja-3/{article_prefix}").readlines()
@@ -54,12 +44,8 @@ for article_prefix in tqdm(article_prefix_list):
         if title_ja3.endswith(":"):
             title_ja3 = title_ja3[:-1]
         abstract_ja3 = "".join([x.decode("utf-8").replace("\r", "").replace("\n", "") for x in ja3_data[1:]])
-        data_list.append({"instruction": "次の英語の論文のタイトルを日本語に翻訳してください。", "input": title_en, "output": title_ja3, "doi": doi, "task": "title-trans-en-ja3"})
-        data_list.append({"instruction": "次の日本語の論文のタイトルを英語に翻訳してください。", "input": title_ja3, "output": title_en, "doi": doi, "task": "title-trans-ja3-en"})
         data_list.append({"instruction": "論文のアブストラクトからタイトルを作ってください。", "input": abstract_ja3, "output": title_ja3, "doi": doi, "task": "title-gen-ja3"})
         data_list.append({"instruction": "論文のタイトルからアブストラクトを想像して書いてください。", "input": title_ja3, "output": abstract_ja3, "doi": doi, "task": "abstract-gen-ja3"})
-        data_list.append({"instruction": "英語の論文のアブストラクトから日本語のタイトルを作ってください。", "input": abstract_en, "output": title_ja3, "doi": doi, "task": "title-gen-en-ja3"})
-        data_list.append({"instruction": "日本語の論文のアブストラクトから英語のタイトルを作ってください。", "input": abstract_ja3, "output": title_en, "doi": doi, "task": "title-gen-ja3-en"})
 
 forward_n = len(data_list) // 1000 + 1
 for i in range(forward_n):

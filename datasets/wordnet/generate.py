@@ -41,37 +41,6 @@ for i in range(forward_n):
 n_total += forward_n
 
 
-df_definition["instruction"] = "次の文を日本語に翻訳してください。"
-df_definition["input"] = df_definition["definition_en"]
-df_definition["output"] = df_definition["definition_ja"]
-
-data_list = df_definition[["instruction", "input", "output"]].to_dict(orient="records")
-forward_n = len(data_list) // 1000 + 1
-for i in range(forward_n):
-    file_name = os.path.join(file_dir, "data", f"{i + n_total:0>6}.json")
-    json.dump(
-        data_list[i * 1000: min((i+1)*1000, len(data_list))],
-        open(file_name, mode="w", encoding="utf-8"),
-        indent=2, ensure_ascii=False
-    )
-n_total += forward_n
-
-
-df_definition["instruction"] = "次の文を英語に翻訳してください。"
-df_definition["input"] = df_definition["definition_ja"]
-df_definition["output"] = df_definition["definition_en"]
-
-data_list = df_definition[["instruction", "input", "output"]].to_dict(orient="records")
-forward_n = len(data_list) // 1000 + 1
-for i in range(forward_n):
-    file_name = os.path.join(file_dir, "data", f"{i + n_total:0>6}.json")
-    json.dump(
-        data_list[i * 1000: min((i+1)*1000, len(data_list))],
-        open(file_name, mode="w", encoding="utf-8"),
-        indent=2, ensure_ascii=False
-    )
-n_total += forward_n
-
 
 # df_example_merged["instruction"] = "次の単語を使用した例文を作ってください。"
 # df_example_merged["input"] = df_example_merged["word"]
@@ -87,33 +56,3 @@ n_total += forward_n
 #         indent=2, ensure_ascii=False
 #     )
 # n_total += forward_n
-
-df_example["instruction"] = "次の文を日本語に翻訳してください。"
-df_example["input"] = df_example["example_en"]
-df_example["output"] = df_example["example_ja"]
-
-data_list = df_example[["instruction", "input", "output"]].to_dict(orient="records")
-forward_n = len(data_list) // 1000 + 1
-for i in range(forward_n):
-    file_name = os.path.join(file_dir, "data", f"{i + n_total:0>6}.json")
-    json.dump(
-        data_list[i * 1000: min((i+1)*1000, len(data_list))],
-        open(file_name, mode="w", encoding="utf-8"),
-        indent=2, ensure_ascii=False
-    )
-n_total += forward_n
-
-df_example["instruction"] = "次の文を英語に翻訳してください。"
-df_example["input"] = df_example["example_ja"]
-df_example["output"] = df_example["example_en"]
-
-data_list = df_example[["instruction", "input", "output"]].to_dict(orient="records")
-forward_n = len(data_list) // 1000 + 1
-for i in range(forward_n):
-    file_name = os.path.join(file_dir, "data", f"{i + n_total:0>6}.json")
-    json.dump(
-        data_list[i * 1000: min((i+1)*1000, len(data_list))],
-        open(file_name, mode="w", encoding="utf-8"),
-        indent=2, ensure_ascii=False
-    )
-n_total += forward_n

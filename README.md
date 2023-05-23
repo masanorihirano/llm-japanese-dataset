@@ -11,7 +11,22 @@ https://huggingface.co/datasets/izumi-lab/llm-japanese-dataset
 
 データの詳細は，以下の論文を参照してください．
 
-[TBD]
+- 日本語: [https://jxiv.jst.go.jp/index.php/jxiv/preprint/view/383](https://jxiv.jst.go.jp/index.php/jxiv/preprint/view/383)
+- 英語: [https://arxiv.org/abs/2305.12720](https://arxiv.org/abs/2305.12720)
+- GitHub: [https://github.com/masanorihirano/llm-japanese-dataset](https://github.com/masanorihirano/llm-japanese-dataset)
+- 最新情報: [llm.msuzuki.me](https://llm.msuzuki.me).
+
+なお，Citationには，よろしければ，以下をご利用ください．
+```
+@preprint{Hirano2023-llmj,
+  title={{llm-japanese-dataset v0: Construction of Japanese Chat Dataset for Large Language Models and its Methodology}},
+  autor={Masanori HIRANO and Masahiro SUZUKI and Hiroki SAKAJI,},
+  doi={10.48550/arXiv.2305.12720},
+  archivePrefix={arXiv},
+  arxivId={2305.12720},
+  year={2023}
+}
+```
 
 ## 問い合わせ等
 

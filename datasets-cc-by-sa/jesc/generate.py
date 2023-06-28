@@ -28,8 +28,8 @@ for i in range(forward_n):
 
 df["instruction"] = "次の英語を日本語に翻訳してください。"
 df["index"] = "R" + df.index.astype(str)
-df["input"] = df["ja"]
-df["output"] = df["en"]
+df["input"] = df["en"]
+df["output"] = df["ja"]
 
 data_list = df[["index", "instruction", "input", "output"]].to_dict(orient="records")
 reverse_n = len(data_list) // 1000 + 1

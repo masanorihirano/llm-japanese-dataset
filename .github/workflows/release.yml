@@ -136,7 +136,7 @@ jobs:
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git config --global user.name "github-actions[bot]"
         git commit -m "Release vanilla-${{ steps.get_version.outputs.TAG }}"
-        git tag -a "vanilla-${{ steps.get_version.outputs.TAG }}" -m " "
+        git tag -a "${{ steps.get_version.outputs.TAG }}" -m " "
         git push
         git push origin ${{ steps.get_version.outputs.TAG }}
 

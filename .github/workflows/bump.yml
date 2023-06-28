@@ -9,17 +9,17 @@ jobs:
   makepr:
     name: make pr
     runs-on: ubuntu-latest
-    if: ${{ contains(github.ref, 'release/') }}
+    if: ${{ contains(github.ref, 'release-vanilla/') }}
     steps:
     - uses: actions/checkout@v2
     - uses: actions/setup-python@v2
     - name: Install poetry
       run: pip install poetry
     - name: Bump version
-      run: git branch --show-current | sed 's|release/||' | xargs poetry version | { printf '::set-output name=PR_TITLE::'; cat; }
+      run: git branch --show-current | sed 's|release-vanilla/||' | xargs poetry version | { printf '::set-output name=PR_TITLE::'; cat; }
       id: bump
     - name: Bump version 2
-      run:  git branch --show-current | sed 's|release/||' | xargs -I {} echo '__version__ = "{}"' > version.py
+      run:  git branch --show-current | sed 's|release-vanilla/||' | xargs -I {} echo '__version__ = "{}"' > version.py
     - name: Create pull request
       uses: peter-evans/create-pull-request@v3
       with:

@@ -5,14 +5,14 @@ import pandas as pd
 
 file_dir = os.path.dirname(__file__)
 tar_file = tarfile.open(os.path.join(file_dir, "jqac20180625.tgz"), "r")
-file_names = [x.name for x in tar_file.getmembers() if x.isfile() and x.name.endswith(".csv") and not x.name.startswith("jqac/.")]
+file_names = [x.name for x in tar_file.getmembers() if x.isfile() and x.name.endswith(".csv") and not x.name.startswith("jqac/.") and not x.name.endswith("Syllabus.csv")]
 dfs = []
 for file_name in file_names:
     fp = tar_file.extractfile(file_name)
     df_ = pd.read_csv(fp, sep=",", header=0, encoding="utf-8").dropna(subset=["Question (What, Who, Where, Whose, How, Yes/No)", "Answer"])
     dfs.append(df_)
 df = pd.concat(dfs, ignore_index=True, axis=0)
-df["instruction"] = df["Question (What, Who, Where, Whose, How, Yes/No)"]
+df["instruction"] = df["Topic (Title)"] + "に関して、" + df["Question (What, Who, Where, Whose, How, Yes/No)"]
 df["index"] = df.index.astype(str)
 df["input"] = ""
 df["output"] = df["Answer"]

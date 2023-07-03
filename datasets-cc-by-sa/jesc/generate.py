@@ -10,7 +10,7 @@ assert len(file_names) == 1
 file_name = file_names[0]
 fp = tar_file.extractfile(file_name)
 df = pd.read_csv(fp, sep="\t", header=None)
-df = df.rename(columns={0: "ja", 1: "en"})
+df = df.rename(columns={0: "en", 1: "ja"})
 df["instruction"] = "次の日本語を英語に翻訳してください。"
 df["index"] = "F" + df.index.astype(str)
 df["input"] = df["ja"]
@@ -28,8 +28,8 @@ for i in range(forward_n):
 
 df["instruction"] = "次の英語を日本語に翻訳してください。"
 df["index"] = "R" + df.index.astype(str)
-df["input"] = df["ja"]
-df["output"] = df["en"]
+df["input"] = df["en"]
+df["output"] = df["ja"]
 
 data_list = df[["index", "instruction", "input", "output"]].to_dict(orient="records")
 reverse_n = len(data_list) // 1000 + 1

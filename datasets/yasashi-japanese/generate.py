@@ -23,33 +23,3 @@ for i in range(forward_n):
         open(file_name, mode="w", encoding="utf-8"),
         indent=2, ensure_ascii=False
     )
-
-df["instruction"] = "以下の日本語を英語に翻訳してください。"
-df["input"] = df["#日本語(原文)"]
-df["output"] = df["#英語(原文)"]
-df["index"] = "F" + df["ID"] 
-data_list = df[["instruction", "input", "output", "index"]].to_dict(orient="records")
-n_all += forward_n
-forward_n = len(data_list) // 1000 + 1
-for i in range(forward_n):
-    file_name = os.path.join(file_dir, "data", f"{i + n_all:0>6}.json")
-    json.dump(
-        data_list[i * 1000: min((i+1)*1000, len(data_list))],
-        open(file_name, mode="w", encoding="utf-8"),
-        indent=2, ensure_ascii=False
-    )
-
-df["instruction"] = "以下の英語を日本語に翻訳してください。"
-df["input"] = df["#英語(原文)"]
-df["output"] = df["#日本語(原文)"]
-df["index"] = "R" + df["ID"] 
-data_list = df[["instruction", "input", "output", "index"]].to_dict(orient="records")
-n_all += forward_n
-forward_n = len(data_list) // 1000 + 1
-for i in range(forward_n):
-    file_name = os.path.join(file_dir, "data", f"{i + n_all:0>6}.json")
-    json.dump(
-        data_list[i * 1000: min((i+1)*1000, len(data_list))],
-        open(file_name, mode="w", encoding="utf-8"),
-        indent=2, ensure_ascii=False
-    )

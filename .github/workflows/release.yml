@@ -2,13 +2,13 @@ name: Release
 on:
  pull_request:
    branches:
-     - main
+     - vanilla
    types:
      - closed
 jobs:
   tagging:
     runs-on: ubuntu-latest
-    if: github.event.pull_request.merged == true && startsWith(github.event.pull_request.head.ref, 'release/')
+    if: github.event.pull_request.merged == true && startsWith(github.event.pull_request.head.ref, 'release-vanilla/')
     steps:
        - name: Determine the tag name based on the branch name
          id: get_version
@@ -23,9 +23,9 @@ jobs:
            git config --global user.email "github-actions[bot]@users.noreply.github.com"
            git config --global user.name "github-actions[bot]"
            git fetch origin ${{ github.event.pull_request.head.ref }}
-           git checkout main
-           git tag -a `echo '${{ github.event.pull_request.head.ref }}' | sed 's/release\///'` -m " "
-           git push origin `echo '${{ github.event.pull_request.head.ref }}' | sed 's/release\///'`
+           git checkout vanilla
+           git tag -a `echo '${{ github.event.pull_request.head.ref }}' | sed 's/release-vanilla\//vanilla-/'` -m " "
+           git push origin `echo '${{ github.event.pull_request.head.ref }}' | sed 's/release-vanilla\//vanilla-/'`
   build_and_release:
     name: build_and_release
     needs: [tagging]
@@ -38,6 +38,9 @@ jobs:
       env:
         BRANCH: ${{ github.event.pull_request.head.ref }}
     - uses: actions/checkout@v2
+    - name: change branch
+      run: |
+        git checkout vanilla
     - name: Install dependencies
       run: |
         python -m pip install huggingface_hub
@@ -47,25 +50,25 @@ jobs:
         bash utils/build.sh
     - name: create zip for release
       run: |
-        mkdir release-${{ steps.get_version.outputs.TAG }}-cc-by-sa
-        mkdir release-${{ steps.get_version.outputs.TAG }}-mit
-        cp data.jsonl release-${{ steps.get_version.outputs.TAG }}-mit
-        cp data-cc-by-sa.jsonl release-${{ steps.get_version.outputs.TAG }}-cc-by-sa
-        cp datasets/LICENSE release-${{ steps.get_version.outputs.TAG }}-mit
-        cp datasets/NOTICE.md release-${{ steps.get_version.outputs.TAG }}-mit
-        cp datasets-cc-by-sa/LICENSE release-${{ steps.get_version.outputs.TAG }}-cc-by-sa
-        cp datasets-cc-by-sa/NOTICE.md release-${{ steps.get_version.outputs.TAG }}-cc-by-sa
-        cp datasets/NOTICE.md release-${{ steps.get_version.outputs.TAG }}-cc-by-sa/NOTICE2.md
-        zip release-${{ steps.get_version.outputs.TAG }}-mit.zip -r release-${{ steps.get_version.outputs.TAG }}-mit
-        zip release-${{ steps.get_version.outputs.TAG }}-cc-by-sa.zip -r release-${{ steps.get_version.outputs.TAG }}-cc-by-sa
+        mkdir release-vanilla-${{ steps.get_version.outputs.TAG }}-cc-by-sa
+        mkdir release-vanilla-${{ steps.get_version.outputs.TAG }}-mit
+        cp data.jsonl release-vanilla-${{ steps.get_version.outputs.TAG }}-mit
+        cp data-cc-by-sa.jsonl release-vanilla-${{ steps.get_version.outputs.TAG }}-cc-by-sa
+        cp datasets/LICENSE release-vanilla-${{ steps.get_version.outputs.TAG }}-mit
+        cp datasets/NOTICE.md release-vanilla-${{ steps.get_version.outputs.TAG }}-mit
+        cp datasets-cc-by-sa/LICENSE release-vanilla-${{ steps.get_version.outputs.TAG }}-cc-by-sa
+        cp datasets-cc-by-sa/NOTICE.md release-vanilla-${{ steps.get_version.outputs.TAG }}-cc-by-sa
+        cp datasets/NOTICE.md release-vanilla-${{ steps.get_version.outputs.TAG }}-cc-by-sa/NOTICE2.md
+        zip release-vanilla-${{ steps.get_version.outputs.TAG }}-mit.zip -r release-vanilla-${{ steps.get_version.outputs.TAG }}-mit
+        zip release-vanilla-${{ steps.get_version.outputs.TAG }}-cc-by-sa.zip -r release-vanilla-${{ steps.get_version.outputs.TAG }}-cc-by-sa
     - name: Push a release to GitHub. At the beginning of release, the body of pull request is shown.
       id: create_release
       uses: actions/create-release@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        tag_name: ${{ steps.get_version.outputs.TAG }}
-        release_name: ${{ steps.get_version.outputs.TAG }}
+        tag_name: vanilla-${{ steps.get_version.outputs.TAG }}
+        release_name: vanilla-${{ steps.get_version.outputs.TAG }}
         draft: false
         prerelease: false
         body: |
@@ -75,16 +78,16 @@ jobs:
           [${{ github.event.pull_request.html_url }}](${{ github.event.pull_request.html_url }})
     - name: Generate checksum for all elements in dist directory
       run: |
-        sha256sum release-${{ steps.get_version.outputs.TAG }}-mit.zip > release-${{ steps.get_version.outputs.TAG }}-mit-checksums.txt
-        sha256sum release-${{ steps.get_version.outputs.TAG }}-cc-by-sa.zip > release-${{ steps.get_version.outputs.TAG }}-cc-by-sa-checksums.txt
+        sha256sum release-vanilla-${{ steps.get_version.outputs.TAG }}-mit.zip > release-vanilla-${{ steps.get_version.outputs.TAG }}-mit-checksums.txt
+        sha256sum release-vanilla-${{ steps.get_version.outputs.TAG }}-cc-by-sa.zip > release-vanilla-${{ steps.get_version.outputs.TAG }}-cc-by-sa-checksums.txt
     - name: Attach an archive of source files to the release
       uses: actions/upload-release-asset@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: release-${{ steps.get_version.outputs.TAG }}-mit.zip
-        asset_name: release-${{ steps.get_version.outputs.TAG }}-mit.zip
+        asset_path: release-vanilla-${{ steps.get_version.outputs.TAG }}-mit.zip
+        asset_name: release-vanilla-${{ steps.get_version.outputs.TAG }}-mit.zip
         asset_content_type: application/zip
     - name: Attach an archive of source files to the release
       uses: actions/upload-release-asset@v1
@@ -92,8 +95,8 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: release-${{ steps.get_version.outputs.TAG }}-cc-by-sa.zip
-        asset_name: release-${{ steps.get_version.outputs.TAG }}-cc-by-sa.zip
+        asset_path: release-vanilla-${{ steps.get_version.outputs.TAG }}-cc-by-sa.zip
+        asset_name: release-vanilla-${{ steps.get_version.outputs.TAG }}-cc-by-sa.zip
         asset_content_type: application/zip
     - name: Attach an archive of source files to the release
       uses: actions/upload-release-asset@v1
@@ -101,8 +104,8 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: release-${{ steps.get_version.outputs.TAG }}-mit-checksums.txt
-        asset_name: release-${{ steps.get_version.outputs.TAG }}-mit-checksums.txt
+        asset_path: release-vanilla-${{ steps.get_version.outputs.TAG }}-mit-checksums.txt
+        asset_name: release-vanilla-${{ steps.get_version.outputs.TAG }}-mit-checksums.txt
         asset_content_type: text/plain
     - name: Attach an archive of source files to the release
       uses: actions/upload-release-asset@v1
@@ -110,8 +113,8 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: release-${{ steps.get_version.outputs.TAG }}-cc-by-sa-checksums.txt
-        asset_name: release-${{ steps.get_version.outputs.TAG }}-cc-by-sa-checksums.txt
+        asset_path: release-vanilla-${{ steps.get_version.outputs.TAG }}-cc-by-sa-checksums.txt
+        asset_name: release-vanilla-${{ steps.get_version.outputs.TAG }}-cc-by-sa-checksums.txt
         asset_content_type: text/plain
     - name: git lfs install
       run: |
@@ -121,18 +124,18 @@ jobs:
     - name: hugging face upload_url
       run: |
         huggingface-cli login --token ${{ secrets.HUGGING_FACE_SECRET }}
-        git clone https://git:${{ secrets.HUGGING_FACE_SECRET }}@huggingface.co/datasets/izumi-lab/llm-japanese-dataset
-        cp data-cc-by-sa.jsonl llm-japanese-dataset
-        cp datasets-cc-by-sa/LICENSE llm-japanese-dataset
-        cp datasets-cc-by-sa/NOTICE.md llm-japanese-dataset
-        cp datasets/NOTICE.md llm-japanese-dataset/NOTICE2.md
-        cp version.py llm-japanese-dataset
-        cd llm-japanese-dataset
+        git clone https://git:${{ secrets.HUGGING_FACE_SECRET }}@huggingface.co/datasets/izumi-lab/llm-japanese-dataset-vanilla
+        cp data-cc-by-sa.jsonl llm-japanese-dataset-vanilla
+        cp datasets-cc-by-sa/LICENSE llm-japanese-dataset-vanilla
+        cp datasets-cc-by-sa/NOTICE.md llm-japanese-dataset-vanilla
+        cp datasets/NOTICE.md llm-japanese-dataset-vanilla/NOTICE2.md
+        cp version.py llm-japanese-dataset-vanilla
+        cd llm-japanese-dataset-vanilla
         git lfs track *.jsonl
         git add data-cc-by-sa.jsonl LICENSE NOTICE.md NOTICE2.md version.py
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git config --global user.name "github-actions[bot]"
-        git commit -m "Release ${{ steps.get_version.outputs.TAG }}"
+        git commit -m "Release vanilla-${{ steps.get_version.outputs.TAG }}"
         git tag -a "${{ steps.get_version.outputs.TAG }}" -m " "
         git push
         git push origin ${{ steps.get_version.outputs.TAG }}

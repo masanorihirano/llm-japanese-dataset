@@ -4,9 +4,9 @@ on:
   create:
     branches:
   push:
-    branches: [ main, dev, release/*, release-vanilla/* ]
+    branches: [ main, dev, vanilla, release/*, release-vanilla/* ]
   pull_request:
-    branches: [ main, dev, release/*, release-vanilla/* ]
+    branches: [ main, dev, vanilla, release/*, release-vanilla/* ]
   workflow_dispatch:
 
 jobs:

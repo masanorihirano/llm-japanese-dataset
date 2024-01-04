@@ -21,7 +21,7 @@ jobs:
     - name: Bump version 2
       run:  git branch --show-current | sed 's|release/||' | xargs -I {} echo '__version__ = "{}"' > version.py
     - name: Create pull request
-      uses: peter-evans/create-pull-request@v3
+      uses: peter-evans/create-pull-request@v5
       with:
         author: GitHub Actions <action@github.com>
         commit-message: ${{ steps.bump.outputs.PR_TITLE }}

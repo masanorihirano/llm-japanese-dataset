@@ -3,6 +3,7 @@ from typing import List, Dict, Optional
 import joblib
 import os.path
 import json
+import re
 
 file_dir = os.path.dirname(__file__)
 
@@ -32,7 +33,7 @@ def process_file(file_name):
                             continue
                         else:
                             if line.endswith(".\n") or line == "</doc>\n":
-                                if current_description != "" and "(曖昧さ回避)" not in current_word:
+                                if current_description != "" and "(曖昧さ回避)" not in current_word and not re.fullmatch(r"\s*", current_description):
                                     if current_id is None or current_word is None or current_description == "":
                                         print(current_id)
                                         print(current_word)

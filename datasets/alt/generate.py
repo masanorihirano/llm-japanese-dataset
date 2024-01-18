@@ -11,6 +11,7 @@ df_ja = df_ja.rename(columns={0: "index", 1: "ja"})
 df_en = pd.read_csv(zip_file.open("ALT-Parallel-Corpus-20191206/data_en.txt"), sep="\t", header=None).reset_index(drop=True)
 df_en = df_en.rename(columns={0: "index", 1: "en"})
 df = pd.merge(df_ja, df_en, on="index")
+df = df[(df["ja"].notnull()) & (df["en"].notnull())]
 df["instruction"] = "次の日本語を英語に翻訳してください。"
 df["index"] = "F" + df.index.astype(str)
 df["input"] = df["ja"]
